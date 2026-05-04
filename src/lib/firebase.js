@@ -2,18 +2,19 @@ import { initializeApp } from 'firebase/app';
 import { getAuth } from 'firebase/auth';
 import { getFirestore } from 'firebase/firestore';
 
-// Firebase web API keys are intentionally public — security is enforced by Firestore Rules
 const firebaseConfig = {
-  apiKey:            'AIzaSyA-qUtqHtq_b1fcofNqZ1-ZgrcybQ_Baic',
-  authDomain:        'quiz-constitucion.firebaseapp.com',
-  projectId:         'quiz-constitucion',
-  storageBucket:     'quiz-constitucion.firebasestorage.app',
-  messagingSenderId: '559689367268',
-  appId:             '1:559689367268:web:399e6d575d2f455d2bf6f1',
+  apiKey:            import.meta.env.VITE_FIREBASE_API_KEY,
+  authDomain:        import.meta.env.VITE_FIREBASE_AUTH_DOMAIN,
+  projectId:         import.meta.env.VITE_FIREBASE_PROJECT_ID,
+  storageBucket:     import.meta.env.VITE_FIREBASE_STORAGE_BUCKET,
+  messagingSenderId: import.meta.env.VITE_FIREBASE_MESSAGING_SENDER_ID,
+  appId:             import.meta.env.VITE_FIREBASE_APP_ID,
 };
 
-export const app  = initializeApp(firebaseConfig);
-export const auth = getAuth(app);
-export const db   = getFirestore(app);
+const isConfigured = Object.values(firebaseConfig).every(Boolean);
 
-export const isFirebaseReady = true;
+export const app  = isConfigured ? initializeApp(firebaseConfig) : null;
+export const auth = isConfigured ? getAuth(app) : null;
+export const db   = isConfigured ? getFirestore(app) : null;
+
+export const isFirebaseReady = isConfigured;
