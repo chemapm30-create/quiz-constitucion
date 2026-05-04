@@ -329,7 +329,7 @@ export default function App() {
   // ─── App ─────────────────────────────────────────────────────────────────
 
   return (
-    <div className="min-h-screen bg-[#080808] text-gray-100 font-sans flex flex-col md:flex-row overflow-hidden">
+    <div className="min-h-screen bg-[#080808] text-gray-100 font-sans md:flex md:flex-row">
       <Navbar
         activeTab={activeTab}
         onTabChange={(tab) => { setActiveTab(tab); if (tab !== 'practice') setView('menu'); }}
@@ -340,7 +340,7 @@ export default function App() {
         onLogout={handleLogout}
       />
 
-      <main className="flex-1 overflow-y-auto p-4 md:p-10">
+      <main className="flex-1 overflow-y-auto px-4 pt-20 pb-24 md:p-10 md:pt-10">
         {activeTab === 'stats' && (
           <Stats
             history={history}

@@ -10,19 +10,50 @@ body {
   margin: 0;
   background: #080808;
   color: #f3f4f6;
+  -webkit-tap-highlight-color: transparent;
 }
 
 #root {
   min-height: 100vh;
+  min-height: 100dvh;
 }
 
-.custom-scrollbar::-webkit-scrollbar {
+/* Scrollbar fina */
+.custom-scrollbar::-webkit-scrollbar,
+::-webkit-scrollbar {
   width: 4px;
+  height: 4px;
 }
-.custom-scrollbar::-webkit-scrollbar-track {
+::-webkit-scrollbar-track {
   background: transparent;
 }
-.custom-scrollbar::-webkit-scrollbar-thumb {
+::-webkit-scrollbar-thumb {
   background: #374151;
   border-radius: 2px;
+}
+
+/* Hide scrollbar but keep scroll (for filter chips) */
+.no-scrollbar {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Safe area support for iPhone notch / home indicator */
+@supports (padding-bottom: env(safe-area-inset-bottom)) {
+  .pb-safe {
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+}
+
+/* Smooth scroll */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Range input */
+input[type="range"] {
+  cursor: pointer;
 }
