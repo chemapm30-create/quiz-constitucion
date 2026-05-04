@@ -3,8 +3,10 @@ import { Layout, Target, BookOpen, ChevronRight, Trophy, AlertCircle, Shuffle, L
 
 const QUICK_COUNTS = [10, 20, 30, 50];
 
-function TopicModal({ tema, count, questionCount, onSelect, onClose }) {
+function TopicModal({ tema, count, questionResults, mistakes, onSelect, onClose }) {
   const [nPreguntas, setNPreguntas] = useState(Math.min(30, count));
+
+  const getQuestionId = (q) => q.id || q.pregunta;
 
   return (
     <div className="fixed inset-0 bg-black/70 flex items-center justify-center z-50 p-4" onClick={onClose}>
@@ -62,8 +64,8 @@ function TopicModal({ tema, count, questionCount, onSelect, onClose }) {
           >
             <List className="w-5 h-5 text-indigo-400 group-hover:text-white shrink-0" />
             <div>
-              <div className="font-bold text-sm">Aleatorio del tema</div>
-              <div className="text-xs text-gray-400">{nPreguntas} preguntas</div>
+              <div className="font-bold text-sm">Todas las preguntas</div>
+              <div className="text-xs text-gray-400">{count} preguntas, sin límite</div>
             </div>
           </button>
 
@@ -75,17 +77,63 @@ function TopicModal({ tema, count, questionCount, onSelect, onClose }) {
               <EyeOff className="w-4 h-4 text-emerald-400 group-hover:text-white shrink-0" />
               <div>
                 <div className="font-bold text-xs">Menos vistas</div>
-                <div className="text-[10px] text-gray-400">{nPreguntas} preg.</div>
+                <div className="text-[10px] text-gray-400">Hasta {nPreguntas} preg.</div>
               </div>
             </button>
+
+            {(() => {
+              const topicMistakes = (mistakes || []).filter(id =>
+                Object.values(questionResults).length > 0 || true
+              );
+              const hasMistakesInTopic = (mistakes || []).length > 0;
+              return (
+                <button
+                  onClick={() => onSelect('topic_mistakes', tema, nPreguntas)}
+                  disabled={!hasMistakesInTopic}
+                  className={`flex items-center gap-2 p-3 bg-gray-800 border border-gray-700 rounded-xl transition-all text-left group
+                    ${!hasMistakesInTopic ? 'opacity-40 grayscale cursor-not-allowed' : 'hover:bg-red-600 hover:border-red-500'}`}
+                >
+                  <Target className="w-4 h-4 text-red-400 group-hover:text-white shrink-0" />
+                  <div>
+                    <div className="font-bold text-xs">Mis fallos</div>
+                    <div className="text-[10px] text-gray-400">
+                      {!hasMistakesInTopic ? 'Sin fallos' : 'Hasta ' + nPreguntas + ' preg.'}
+                    </div>
+                  </div>
+                </button>
+              );
+            })()}
+
+            {(() => {
+              const hardCount = Object.entries(questionResults).filter(([, res]) =>
+                res && res.failCount >= 2 && res.failCount >= res.correctCount
+              ).length;
+              return (
+                <button
+                  onClick={() => onSelect('topic_hard', tema, nPreguntas)}
+                  disabled={hardCount === 0}
+                  className={`flex items-center gap-2 p-3 bg-gray-800 border border-gray-700 rounded-xl transition-all text-left group
+                    ${hardCount === 0 ? 'opacity-40 grayscale cursor-not-allowed' : 'hover:bg-orange-600 hover:border-orange-500'}`}
+                >
+                  <Flame className="w-4 h-4 text-orange-400 group-hover:text-white shrink-0" />
+                  <div>
+                    <div className="font-bold text-xs">Críticas</div>
+                    <div className="text-[10px] text-gray-400">
+                      {hardCount === 0 ? '¡Perfecto!' : 'Hasta ' + nPreguntas + ' preg.'}
+                    </div>
+                  </div>
+                </button>
+              );
+            })()}
+
             <button
-              onClick={() => onSelect('topic_hard', tema, nPreguntas)}
-              className="flex items-center gap-2 p-3 bg-gray-800 hover:bg-orange-600 border border-gray-700 hover:border-orange-500 rounded-xl transition-all text-left group"
+              onClick={() => onSelect('topic_random', tema, nPreguntas)}
+              className="flex items-center gap-2 p-3 bg-gray-800 hover:bg-yellow-600 border border-gray-700 hover:border-yellow-500 rounded-xl transition-all text-left group"
             >
-              <Flame className="w-4 h-4 text-orange-400 group-hover:text-white shrink-0" />
+              <Shuffle className="w-4 h-4 text-yellow-400 group-hover:text-white shrink-0" />
               <div>
-                <div className="font-bold text-xs">Difíciles</div>
-                <div className="text-[10px] text-gray-400">{nPreguntas} preg.</div>
+                <div className="font-bold text-xs">Al azar</div>
+                <div className="text-[10px] text-gray-400">Hasta {nPreguntas} preg.</div>
               </div>
             </button>
           </div>
@@ -98,6 +146,18 @@ function TopicModal({ tema, count, questionCount, onSelect, onClose }) {
 export default function Menu({ allQuestions, temasDisponibles, questionResults = {}, mistakes = [], onStart, instantFeedback, setInstantFeedback }) {
   const [selectedTopic, setSelectedTopic] = useState(null);
   const [nPreguntas, setNPreguntas] = useState(30);
+
+  const getQuestionId = (q) => q.id || q.pregunta;
+
+  const hardQuestionsCount = allQuestions.filter(q => {
+    const res = questionResults[getQuestionId(q)];
+    return res && res.failCount >= 2 && res.failCount >= res.correctCount;
+  }).length;
+
+  const mostFailedPctCount = allQuestions.filter(q => {
+    const res = questionResults[getQuestionId(q)];
+    return res && res.failCount > 0;
+  }).length;
 
   if (allQuestions.length === 0) {
     return (
@@ -227,27 +287,35 @@ export default function Menu({ allQuestions, temasDisponibles, questionResults =
 
         <button
           onClick={() => onStart('hard', null, nPreguntas)}
-          className="flex items-center gap-4 p-6 bg-gray-900 border border-gray-800 rounded-2xl hover:border-orange-500 transition-all text-left group"
+          disabled={hardQuestionsCount === 0}
+          className={`flex items-center gap-4 p-6 bg-gray-900 border border-gray-800 rounded-2xl transition-all text-left group
+            ${hardQuestionsCount === 0 ? 'opacity-40 grayscale cursor-not-allowed' : 'hover:border-orange-500'}`}
         >
           <div className="bg-orange-500/10 p-4 rounded-xl text-orange-400 group-hover:bg-orange-500 group-hover:text-white transition-colors shrink-0">
             <Flame className="w-6 h-6" />
           </div>
           <div>
             <div className="font-bold text-lg">Preguntas Críticas</div>
-            <div className="text-sm text-gray-500">Las que has fallado al menos 1 vez</div>
+            <div className="text-sm text-gray-500">
+              {hardQuestionsCount === 0 ? '¡Perfecto! Todo bajo control' : `≥ 2 fallos en ${hardQuestionsCount} preguntas`}
+            </div>
           </div>
         </button>
 
         <button
           onClick={() => onStart('most_failed_pct', null, nPreguntas)}
-          className="flex items-center gap-4 p-6 bg-gray-900 border border-gray-800 rounded-2xl hover:border-pink-500 transition-all text-left group"
+          disabled={mostFailedPctCount === 0}
+          className={`flex items-center gap-4 p-6 bg-gray-900 border border-gray-800 rounded-2xl transition-all text-left group
+            ${mostFailedPctCount === 0 ? 'opacity-40 grayscale cursor-not-allowed' : 'hover:border-pink-500'}`}
         >
           <div className="bg-pink-500/10 p-4 rounded-xl text-pink-400 group-hover:bg-pink-500 group-hover:text-white transition-colors shrink-0">
             <BarChart3 className="w-6 h-6" />
           </div>
           <div>
             <div className="font-bold text-lg">Peor Porcentaje</div>
-            <div className="text-sm text-gray-500">{nPreguntas} preguntas con mayor % de fallo</div>
+            <div className="text-sm text-gray-500">
+              {mostFailedPctCount === 0 ? 'Sin preguntas falladas aún' : `${nPreguntas} preguntas con mayor % de fallo`}
+            </div>
           </div>
         </button>
       </div>
@@ -293,7 +361,8 @@ export default function Menu({ allQuestions, temasDisponibles, questionResults =
         <TopicModal
           tema={selectedTopic}
           count={allQuestions.filter(q => q.tema === selectedTopic).length}
-          questionCount={nPreguntas}
+          questionResults={questionResults}
+          mistakes={mistakes}
           onSelect={(mode, tema, n) => { setSelectedTopic(null); onStart(mode, tema, n); }}
           onClose={() => setSelectedTopic(null)}
         />

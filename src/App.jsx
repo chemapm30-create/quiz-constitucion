@@ -140,7 +140,7 @@ export default function App() {
     if (mode === 'hard') {
       pool = shuffle(allQuestions.filter(q => {
         const r = qr[getQuestionId(q)];
-        return r && r.failCount >= 1;
+        return r && r.failCount >= 2 && r.failCount >= r.correctCount;
       })).slice(0, n);
     }
     if (mode === 'most_failed_pct') {
@@ -165,8 +165,14 @@ export default function App() {
     if (mode === 'topic_hard') {
       pool = shuffle(allQuestions.filter(q => {
         const r = qr[getQuestionId(q)];
-        return q.tema === filterValue && r && r.failCount >= 1;
+        return q.tema === filterValue && r && r.failCount >= 2 && r.failCount >= r.correctCount;
       })).slice(0, n);
+    }
+    if (mode === 'topic_random') {
+      pool = shuffle(allQuestions.filter(q => q.tema === filterValue)).slice(0, n);
+    }
+    if (mode === 'topic_mistakes') {
+      pool = shuffle(allQuestions.filter(q => q.tema === filterValue && mistakes.includes(getQuestionId(q)))).slice(0, n);
     }
 
     if (pool.length === 0) { alert('No hay preguntas para este modo.'); return; }
