@@ -8,6 +8,7 @@ import Auth from './components/Auth';
 import {
   loadHistory, saveHistory,
   loadResults, saveResults,
+  loadMistakes, saveMistakes,
   recordAnswerLocal, clearLocalData,
 } from './store';
 import { auth, isFirebaseReady } from './lib/firebase';
@@ -28,6 +29,11 @@ export default function App() {
 
   const [history, setHistory] = useState(() => loadHistory());
   const [questionResults, setQuestionResults] = useState(() => loadResults());
+  const [mistakes, setMistakes] = useState(() => loadMistakes());
+
+  useEffect(() => {
+    saveMistakes(mistakes);
+  }, [mistakes]);
 
   // Estado del quiz
   const [view, setView] = useState('menu');
@@ -119,7 +125,7 @@ export default function App() {
     let pool = [];
     const qr = questionResults;
 
-    if (mode === 'all') pool = shuffle(allQuestions).slice(0, n);
+    if (mode === 'all' || mode === 'simulacro') pool = shuffle(allQuestions).slice(0, n);
     if (mode === 'topic') pool = shuffle(allQuestions.filter(q => q.tema === filterValue)).slice(0, n);
     if (mode === 'least_seen') {
       pool = shuffle(allQuestions).sort((a, b) => {
@@ -128,11 +134,26 @@ export default function App() {
         return (aR.correctCount + aR.failCount) - (bR.correctCount + bR.failCount);
       }).slice(0, n);
     }
+    if (mode === 'mistakes') {
+      pool = shuffle(allQuestions.filter(q => mistakes.includes(getQuestionId(q)))).slice(0, n);
+    }
     if (mode === 'hard') {
       pool = shuffle(allQuestions.filter(q => {
         const r = qr[getQuestionId(q)];
-        return r && r.failCount >= 2 && r.failCount >= r.correctCount;
+        return r && r.failCount >= 1;
       })).slice(0, n);
+    }
+    if (mode === 'most_failed_pct') {
+      pool = shuffle(allQuestions.filter(q => {
+        const r = qr[getQuestionId(q)];
+        return r && r.failCount > 0;
+      })).sort((a, b) => {
+        const aR = qr[getQuestionId(a)];
+        const bR = qr[getQuestionId(b)];
+        const pctA = aR.failCount / (aR.failCount + aR.correctCount);
+        const pctB = bR.failCount / (bR.failCount + bR.correctCount);
+        return pctB - pctA;
+      }).slice(0, n);
     }
     if (mode === 'topic_least_seen') {
       pool = shuffle(allQuestions.filter(q => q.tema === filterValue)).sort((a, b) => {
@@ -144,10 +165,8 @@ export default function App() {
     if (mode === 'topic_hard') {
       pool = shuffle(allQuestions.filter(q => {
         const r = qr[getQuestionId(q)];
-        return q.tema === filterValue && r && r.failCount >= 2 && r.failCount >= r.correctCount;
+        return q.tema === filterValue && r && r.failCount >= 1;
       })).slice(0, n);
-    }
-
     if (pool.length === 0) { alert('No hay preguntas para este modo.'); return; }
 
     pool = pool.map(q => ({ ...q, opciones: shuffle([...q.opciones]) }));
@@ -174,6 +193,12 @@ export default function App() {
     });
 
     if (instantFeedback) {
+      setMistakes(prev => {
+        if (isCorrect) return prev.filter(id => id !== qId);
+        if (!prev.includes(qId)) return [...prev, qId];
+        return prev;
+      });
+
       setQuestionResults(prev => {
         const updated = recordAnswerLocal(qId, isCorrect, opt, prev);
 
@@ -217,6 +242,13 @@ export default function App() {
             const q = currentQuestions[i];
             const qId = getQuestionId(q);
             const isCorrect = ans.selected === q.correcta;
+            
+            setMistakes(prev => {
+              if (isCorrect) return prev.filter(id => id !== qId);
+              if (!prev.includes(qId)) return [...prev, qId];
+              return prev;
+            });
+
             updated = recordAnswerLocal(qId, isCorrect, ans.selected, updated);
             
             if (user && isFirebaseReady) {
@@ -267,6 +299,8 @@ export default function App() {
     clearLocalData();
     setHistory([]);
     setQuestionResults({});
+    setMistakes([]);
+    saveMistakes([]);
     setView('menu');
   }, []);
 
@@ -292,6 +326,7 @@ export default function App() {
         activeTab={activeTab}
         onTabChange={(tab) => { setActiveTab(tab); if (tab !== 'practice') setView('menu'); }}
         questionCount={allQuestions.length}
+        mistakeCount={mistakes.length}
         user={user}
         syncing={syncing}
         onLogout={handleLogout}
@@ -302,11 +337,14 @@ export default function App() {
           <Stats
             history={history}
             allQuestions={allQuestions}
+            mistakes={mistakes}
             questionResults={questionResults}
             onClearHistory={() => {
               clearLocalData();
               setHistory([]);
               setQuestionResults({});
+              setMistakes([]);
+              saveMistakes([]);
             }}
           />
         )}
@@ -317,6 +355,7 @@ export default function App() {
               <Menu
                 allQuestions={allQuestions}
                 temasDisponibles={temasDisponibles}
+                mistakes={mistakes}
                 questionResults={questionResults}
                 onStart={startQuiz}
                 instantFeedback={instantFeedback}

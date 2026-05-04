@@ -34,7 +34,7 @@ function AnswerReview({ entry, index, user }) {
       >
         <span className={`shrink-0 ${statusColor}`}>{statusIcon}</span>
         <div className="flex-1 min-w-0">
-          <span className="text-sm text-gray-200 line-clamp-2">{index + 1}. {q.pregunta}</span>
+          <span className={`text-sm text-gray-200 ${!open ? 'line-clamp-2' : ''}`}>{index + 1}. {q.pregunta}</span>
         </div>
         {open ? <ChevronUp className="w-4 h-4 text-gray-600 shrink-0" /> : <ChevronDown className="w-4 h-4 text-gray-600 shrink-0" />}
       </button>

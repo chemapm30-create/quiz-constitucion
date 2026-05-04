@@ -62,9 +62,42 @@ export default function Stats({ history, allQuestions, questionResults, onClearH
               const pct = Math.round((r.failCount / total) * 100);
               return (
                 <div key={id} className="bg-gray-900 border border-gray-800 rounded-xl p-3">
-                  <div className="text-sm text-gray-300 line-clamp-2 mb-2">
+                  <div className="text-sm text-gray-200 mb-3">
                     {q?.pregunta ?? id}
                   </div>
+                  
+                  {q && (
+                    <div className="space-y-1.5 mb-3 text-sm">
+                      <div className="flex items-start gap-2 text-green-400">
+                        <span className="shrink-0 mt-0.5">✓</span>
+                        <span>{q.correcta}</span>
+                      </div>
+                      
+                      {(() => {
+                        // Buscar la respuesta incorrecta más votada
+                        if (!r.optionsCount) return null;
+                        const wrongOptions = Object.entries(r.optionsCount)
+                          .filter(([opt]) => opt !== q.correcta)
+                          .sort((a, b) => b[1] - a[1]);
+                        
+                        if (wrongOptions.length === 0) return null;
+                        const mostChosenWrong = wrongOptions[0][0];
+                        
+                        return (
+                          <div className="flex items-start gap-2 text-red-400">
+                            <span className="shrink-0 mt-0.5">✗</span>
+                            <div>
+                              <span>{mostChosenWrong}</span>
+                              <span className="text-xs opacity-60 ml-2">
+                                (Tu respuesta más frecuente)
+                              </span>
+                            </div>
+                          </div>
+                        );
+                      })()}
+                    </div>
+                  )}
+
                   <div className="flex items-center gap-3">
                     <div className="flex-1 h-1.5 bg-gray-800 rounded-full overflow-hidden">
                       <div className="h-full bg-red-500 rounded-full" style={{ width: `${pct}%` }} />

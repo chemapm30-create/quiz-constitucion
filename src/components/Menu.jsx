@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Shuffle, List, Target, EyeOff, Flame, ChevronRight, X, BookOpen, AlertCircle } from 'lucide-react';
+import { Layout, Target, BookOpen, ChevronRight, Trophy, AlertCircle, Shuffle, List, X, Flame, EyeOff, BarChart3 } from 'lucide-react';
 
 const QUICK_COUNTS = [10, 20, 30, 50];
 
@@ -95,7 +95,7 @@ function TopicModal({ tema, count, questionCount, onSelect, onClose }) {
   );
 }
 
-export default function Menu({ allQuestions, temasDisponibles, questionResults = {}, onStart, instantFeedback, setInstantFeedback }) {
+export default function Menu({ allQuestions, temasDisponibles, questionResults = {}, mistakes = [], onStart, instantFeedback, setInstantFeedback }) {
   const [selectedTopic, setSelectedTopic] = useState(null);
   const [nPreguntas, setNPreguntas] = useState(30);
 
@@ -168,43 +168,87 @@ export default function Menu({ allQuestions, temasDisponibles, questionResults =
       </div>
 
       {/* Modos globales */}
-      <div className="space-y-3">
-        <div className="text-xs text-gray-500 font-bold uppercase tracking-wider">Modos de práctica</div>
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+        <button
+          onClick={() => onStart('simulacro', null, nPreguntas)}
+          className="flex items-center gap-4 p-6 bg-gray-900 border border-gray-800 rounded-2xl hover:border-yellow-500 transition-all text-left group"
+        >
+          <div className="bg-yellow-500/10 p-4 rounded-xl text-yellow-400 group-hover:bg-yellow-500 group-hover:text-white transition-colors shrink-0">
+            <Trophy className="w-6 h-6" />
+          </div>
+          <div>
+            <div className="font-bold text-lg">Simulacro</div>
+            <div className="text-sm text-gray-500">{nPreguntas} preguntas para ponerte a prueba</div>
+          </div>
+        </button>
 
         <button
           onClick={() => onStart('all', null, nPreguntas)}
-          className="w-full flex items-center gap-4 p-5 bg-gray-900 hover:bg-indigo-600 border border-gray-800 hover:border-indigo-500 rounded-2xl transition-all text-left group"
+          className="flex items-center gap-4 p-6 bg-gray-900 border border-gray-800 rounded-2xl hover:border-indigo-500 transition-all text-left group"
         >
-          <Shuffle className="w-5 h-5 text-indigo-400 group-hover:text-white shrink-0" />
-          <div>
-            <div className="font-bold">Preguntas al azar</div>
-            <div className="text-sm text-gray-400">{nPreguntas} preguntas aleatorias de todos los temas</div>
+          <div className="bg-indigo-500/10 p-4 rounded-xl text-indigo-400 group-hover:bg-indigo-500 group-hover:text-white transition-colors shrink-0">
+            <Layout className="w-6 h-6" />
           </div>
-          <ChevronRight className="w-5 h-5 text-gray-700 group-hover:text-white ml-auto shrink-0" />
+          <div>
+            <div className="font-bold text-lg">Modo Libre</div>
+            <div className="text-sm text-gray-500">{nPreguntas} preguntas al azar</div>
+          </div>
         </button>
 
         <button
           onClick={() => onStart('least_seen', null, nPreguntas)}
-          className="w-full flex items-center gap-4 p-5 bg-gray-900 hover:bg-emerald-600 border border-gray-800 hover:border-emerald-500 rounded-2xl transition-all text-left group"
+          className="flex items-center gap-4 p-6 bg-gray-900 border border-gray-800 rounded-2xl hover:border-emerald-500 transition-all text-left group"
         >
-          <EyeOff className="w-5 h-5 text-emerald-400 group-hover:text-white shrink-0" />
-          <div>
-            <div className="font-bold">Menos practicadas</div>
-            <div className="text-sm text-gray-400">Preguntas que has visto menos veces</div>
+          <div className="bg-emerald-500/10 p-4 rounded-xl text-emerald-400 group-hover:bg-emerald-500 group-hover:text-white transition-colors shrink-0">
+            <EyeOff className="w-6 h-6" />
           </div>
-          <ChevronRight className="w-5 h-5 text-gray-700 group-hover:text-white ml-auto shrink-0" />
+          <div>
+            <div className="font-bold text-lg">Menos Vistas</div>
+            <div className="text-sm text-gray-500">{nPreguntas} preguntas menos practicadas</div>
+          </div>
+        </button>
+
+        <button
+          onClick={() => onStart('mistakes', null, nPreguntas)}
+          disabled={mistakes.length === 0}
+          className={`flex items-center gap-4 p-6 bg-gray-900 border border-gray-800 rounded-2xl transition-all text-left group
+            ${mistakes.length === 0 ? 'opacity-40 grayscale cursor-not-allowed' : 'hover:border-red-500'}`}
+        >
+          <div className="bg-red-500/10 p-4 rounded-xl text-red-400 group-hover:bg-red-500 group-hover:text-white transition-colors shrink-0">
+            <Target className="w-6 h-6" />
+          </div>
+          <div>
+            <div className="font-bold text-lg">Mis Fallos</div>
+            <div className="text-sm text-gray-500">
+              {mistakes.length === 0 ? 'Sin fallos pendientes' : `${mistakes.length} preguntas por repasar`}
+            </div>
+          </div>
         </button>
 
         <button
           onClick={() => onStart('hard', null, nPreguntas)}
-          className="w-full flex items-center gap-4 p-5 bg-gray-900 hover:bg-orange-600 border border-gray-800 hover:border-orange-500 rounded-2xl transition-all text-left group"
+          className="flex items-center gap-4 p-6 bg-gray-900 border border-gray-800 rounded-2xl hover:border-orange-500 transition-all text-left group"
         >
-          <Flame className="w-5 h-5 text-orange-400 group-hover:text-white shrink-0" />
-          <div>
-            <div className="font-bold">Preguntas difíciles</div>
-            <div className="text-sm text-gray-400">Las que más has fallado</div>
+          <div className="bg-orange-500/10 p-4 rounded-xl text-orange-400 group-hover:bg-orange-500 group-hover:text-white transition-colors shrink-0">
+            <Flame className="w-6 h-6" />
           </div>
-          <ChevronRight className="w-5 h-5 text-gray-700 group-hover:text-white ml-auto shrink-0" />
+          <div>
+            <div className="font-bold text-lg">Preguntas Críticas</div>
+            <div className="text-sm text-gray-500">Las que has fallado al menos 1 vez</div>
+          </div>
+        </button>
+
+        <button
+          onClick={() => onStart('most_failed_pct', null, nPreguntas)}
+          className="flex items-center gap-4 p-6 bg-gray-900 border border-gray-800 rounded-2xl hover:border-pink-500 transition-all text-left group"
+        >
+          <div className="bg-pink-500/10 p-4 rounded-xl text-pink-400 group-hover:bg-pink-500 group-hover:text-white transition-colors shrink-0">
+            <BarChart3 className="w-6 h-6" />
+          </div>
+          <div>
+            <div className="font-bold text-lg">Peor Porcentaje</div>
+            <div className="text-sm text-gray-500">{nPreguntas} preguntas con mayor % de fallo</div>
+          </div>
         </button>
       </div>
 
