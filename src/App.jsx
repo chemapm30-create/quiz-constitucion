@@ -167,6 +167,8 @@ export default function App() {
         const r = qr[getQuestionId(q)];
         return q.tema === filterValue && r && r.failCount >= 1;
       })).slice(0, n);
+    }
+
     if (pool.length === 0) { alert('No hay preguntas para este modo.'); return; }
 
     pool = pool.map(q => ({ ...q, opciones: shuffle([...q.opciones]) }));
