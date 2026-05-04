@@ -1,8 +1,10 @@
-import { CheckCircle2, XCircle, SkipForward, Home, RotateCcw, ChevronDown, ChevronUp } from 'lucide-react';
+import { CheckCircle2, XCircle, SkipForward, Home, RotateCcw, ChevronDown, ChevronUp, Flag } from 'lucide-react';
 import { useState } from 'react';
+import ReportModal from './ReportModal';
 
-function AnswerReview({ entry, index }) {
+function AnswerReview({ entry, index, user }) {
   const [open, setOpen] = useState(false);
+  const [showReport, setShowReport] = useState(false);
   const { question: q, selected, skipped } = entry;
 
   let statusIcon, statusLabel, statusColor;
@@ -53,13 +55,30 @@ function AnswerReview({ entry, index }) {
               </div>
             );
           })}
+          
+          <div className="pt-3 flex justify-end">
+            <button
+              onClick={() => setShowReport(true)}
+              className="text-xs text-gray-500 hover:text-red-400 flex items-center gap-1 transition-colors bg-gray-800/50 hover:bg-red-500/10 px-3 py-1.5 rounded-lg"
+            >
+              <Flag className="w-3.5 h-3.5" /> Reportar error en esta pregunta
+            </button>
+          </div>
         </div>
+      )}
+
+      {showReport && (
+        <ReportModal
+          question={q}
+          user={user}
+          onClose={() => setShowReport(false)}
+        />
       )}
     </div>
   );
 }
 
-export default function Results({ answers, questions, onMenu, onRetry }) {
+export default function Results({ answers, questions, onMenu, onRetry, user }) {
   const [filter, setFilter] = useState('all'); // 'all' | 'wrong' | 'skipped'
 
   const stats = questions.map((q, i) => {
@@ -146,6 +165,7 @@ export default function Results({ answers, questions, onMenu, onRetry }) {
               key={i}
               entry={{ question: entry.q, selected: entry.selected, skipped: entry.skipped }}
               index={stats.indexOf(entry)}
+              user={user}
             />
           ))}
         </div>

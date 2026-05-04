@@ -1,5 +1,6 @@
 import { useState, useEffect, useCallback } from 'react';
-import { CheckCircle2, XCircle, Home, ChevronLeft, ChevronRight, SkipForward, List, X } from 'lucide-react';
+import { CheckCircle2, XCircle, Home, ChevronLeft, ChevronRight, SkipForward, List, X, Flag } from 'lucide-react';
+import ReportModal from './ReportModal';
 
 // Panel lateral con todas las preguntas del test
 function QuestionPanel({ total, answers, currentIndex, onGoto, onClose }) {
@@ -70,8 +71,10 @@ export default function Quiz({
   onExit,
   onFinish,
   instantFeedback,
+  user,
 }) {
   const [showPanel, setShowPanel] = useState(false);
+  const [showReport, setShowReport] = useState(false);
 
   const q = question;
   const ans = answers[currentIndex];
@@ -133,8 +136,17 @@ export default function Quiz({
         />
       </div>
 
-      {/* Tema */}
-      <div className="text-xs text-indigo-400 font-medium">{q.tema}</div>
+      {/* Tema y Reporte */}
+      <div className="flex justify-between items-center">
+        <div className="text-xs text-indigo-400 font-medium">{q.tema}</div>
+        <button
+          onClick={() => setShowReport(true)}
+          className="text-xs text-gray-500 hover:text-red-400 flex items-center gap-1 transition-colors"
+          title="Reportar un error en esta pregunta"
+        >
+          <Flag className="w-3.5 h-3.5" /> Reportar
+        </button>
+      </div>
 
       {/* Pregunta */}
       <h2 className="text-xl md:text-2xl font-bold leading-tight text-gray-100">{q.pregunta}</h2>
@@ -232,6 +244,15 @@ export default function Quiz({
           currentIndex={currentIndex}
           onGoto={onGoto}
           onClose={() => setShowPanel(false)}
+        />
+      )}
+
+      {/* Modal de reporte */}
+      {showReport && (
+        <ReportModal
+          question={q}
+          user={user}
+          onClose={() => setShowReport(false)}
         />
       )}
     </div>

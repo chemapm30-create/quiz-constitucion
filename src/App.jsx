@@ -338,6 +338,7 @@ export default function App() {
                 onExit={() => setView('menu')}
                 onFinish={handleFinish}
                 instantFeedback={instantFeedback}
+                user={user}
               />
             )}
 
@@ -347,6 +348,7 @@ export default function App() {
                 questions={currentQuestions}
                 onMenu={() => setView('menu')}
                 onRetry={() => startQuiz(practiceMode, topicName || null, nRequested)}
+                user={user}
               />
             )}
           </>
