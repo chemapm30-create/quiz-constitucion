@@ -37,6 +37,7 @@ export default function App() {
   const [topicName, setTopicName] = useState('');
   const [nRequested, setNRequested] = useState(30);
   const [answers, setAnswers] = useState([]);
+  const [instantFeedback, setInstantFeedback] = useState(true);
 
   const sessionStartRef = useRef(null);
   const allQuestions = useMemo(() => defaultQuestions, []);
@@ -168,25 +169,27 @@ export default function App() {
 
     setAnswers(prev => {
       const next = [...prev];
-      next[currentIndex] = { selected: opt, answered: true, skipped: false };
+      next[currentIndex] = { selected: opt, answered: instantFeedback, isCorrect, skipped: false };
       return next;
     });
 
-    setQuestionResults(prev => {
-      const updated = recordAnswerLocal(qId, isCorrect, opt, prev);
+    if (instantFeedback) {
+      setQuestionResults(prev => {
+        const updated = recordAnswerLocal(qId, isCorrect, opt, prev);
 
-      // Sync remoto (fire-and-forget con cola offline)
-      if (user && isFirebaseReady) {
-        upsertQuestionResult(user.uid, qId, updated[qId]).catch(() => {
+        // Sync remoto (fire-and-forget con cola offline)
+        if (user && isFirebaseReady) {
+          upsertQuestionResult(user.uid, qId, updated[qId]).catch(() => {
+            queuePendingResult(qId, updated[qId]);
+          });
+        } else if (isFirebaseReady) {
           queuePendingResult(qId, updated[qId]);
-        });
-      } else if (isFirebaseReady) {
-        queuePendingResult(qId, updated[qId]);
-      }
+        }
 
-      return updated;
-    });
-  }, [currentIndex, currentQuestions, user]);
+        return updated;
+      });
+    }
+  }, [currentIndex, currentQuestions, user, instantFeedback]);
 
   const handleSkip = useCallback(() => {
     const newAnswers = [...answers];
@@ -206,6 +209,28 @@ export default function App() {
   }, [answers, currentIndex]);
 
   const handleFinish = useCallback(async () => {
+    if (!instantFeedback) {
+      setQuestionResults(prev => {
+        let updated = { ...prev };
+        answers.forEach((ans, i) => {
+          if (ans && !ans.skipped && ans.selected) {
+            const q = currentQuestions[i];
+            const qId = getQuestionId(q);
+            const isCorrect = ans.selected === q.correcta;
+            updated = recordAnswerLocal(qId, isCorrect, ans.selected, updated);
+            
+            if (user && isFirebaseReady) {
+              upsertQuestionResult(user.uid, qId, updated[qId]).catch(() => queuePendingResult(qId, updated[qId]));
+            } else if (isFirebaseReady) {
+              queuePendingResult(qId, updated[qId]);
+            }
+          }
+        });
+        return updated;
+      });
+      setAnswers(prev => prev.map(a => a ? { ...a, answered: true } : a));
+    }
+
     const duracion = sessionStartRef.current
       ? Math.round((Date.now() - sessionStartRef.current) / 1000)
       : 0;
@@ -235,7 +260,7 @@ export default function App() {
     }
 
     setView('results');
-  }, [answers, currentQuestions, practiceMode, topicName, user]);
+  }, [answers, currentQuestions, practiceMode, topicName, user, instantFeedback]);
 
   const handleLogout = useCallback(async () => {
     if (auth) await signOut(auth);
@@ -294,6 +319,8 @@ export default function App() {
                 temasDisponibles={temasDisponibles}
                 questionResults={questionResults}
                 onStart={startQuiz}
+                instantFeedback={instantFeedback}
+                setInstantFeedback={setInstantFeedback}
               />
             )}
 
@@ -310,6 +337,7 @@ export default function App() {
                 onGoto={setCurrentIndex}
                 onExit={() => setView('menu')}
                 onFinish={handleFinish}
+                instantFeedback={instantFeedback}
               />
             )}
 

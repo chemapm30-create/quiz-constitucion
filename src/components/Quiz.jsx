@@ -17,10 +17,10 @@ function QuestionPanel({ total, answers, currentIndex, onGoto, onClose }) {
         </div>
 
         <div className="text-xs text-gray-500">
-          <span className="text-green-400 font-bold">{answers.filter(a => a?.answered === true).length}</span> correctas ·{' '}
-          <span className="text-red-400 font-bold">{answers.filter(a => a?.answered === false).length}</span> incorrectas ·{' '}
-          <span className="text-yellow-400 font-bold">{answers.filter(a => a?.skipped).length}</span> omitidas ·{' '}
-          <span className="text-gray-400 font-bold">{answers.filter(a => !a).length}</span> sin contestar
+          <span className="text-green-400 font-bold">{answers.filter(a => a?.answered && a.isCorrect).length}</span> correctas ·{' '}
+          <span className="text-red-400 font-bold">{answers.filter(a => a?.answered && !a.isCorrect).length}</span> incorrectas ·{' '}
+          <span className="text-indigo-400 font-bold">{answers.filter(a => a && !a.answered && !a.skipped).length}</span> pdtes. de corr. ·{' '}
+          <span className="text-yellow-400 font-bold">{answers.filter(a => a?.skipped).length}</span> omitidas
         </div>
 
         <div className="grid grid-cols-5 gap-1.5">
@@ -28,8 +28,9 @@ function QuestionPanel({ total, answers, currentIndex, onGoto, onClose }) {
             const ans = answers[i];
             let cls = 'bg-gray-800 text-gray-400 border-gray-700';
             if (i === currentIndex) cls = 'bg-indigo-600 text-white border-indigo-500';
-            else if (ans?.answered === true) cls = 'bg-green-500/20 text-green-400 border-green-700';
-            else if (ans?.answered === false) cls = 'bg-red-500/20 text-red-400 border-red-700';
+            else if (ans?.answered && ans.isCorrect) cls = 'bg-green-500/20 text-green-400 border-green-700';
+            else if (ans?.answered && !ans.isCorrect) cls = 'bg-red-500/20 text-red-400 border-red-700';
+            else if (ans && !ans.answered && !ans.skipped) cls = 'bg-indigo-500/20 text-indigo-300 border-indigo-700';
             else if (ans?.skipped) cls = 'bg-yellow-500/10 text-yellow-500 border-yellow-700';
 
             return (
@@ -47,6 +48,7 @@ function QuestionPanel({ total, answers, currentIndex, onGoto, onClose }) {
         <div className="text-[10px] text-gray-700 mt-auto space-y-0.5">
           <div className="flex gap-2"><span className="w-3 h-3 rounded bg-green-500/20 border border-green-700 inline-block" /> Correcta</div>
           <div className="flex gap-2"><span className="w-3 h-3 rounded bg-red-500/20 border border-red-700 inline-block" /> Incorrecta</div>
+          <div className="flex gap-2"><span className="w-3 h-3 rounded bg-indigo-500/20 border border-indigo-700 inline-block" /> Seleccionada</div>
           <div className="flex gap-2"><span className="w-3 h-3 rounded bg-yellow-500/10 border border-yellow-700 inline-block" /> Omitida</div>
           <div className="flex gap-2"><span className="w-3 h-3 rounded bg-gray-800 border border-gray-700 inline-block" /> Sin contestar</div>
         </div>
@@ -67,13 +69,14 @@ export default function Quiz({
   onGoto,
   onExit,
   onFinish,
+  instantFeedback,
 }) {
   const [showPanel, setShowPanel] = useState(false);
 
   const q = question;
   const ans = answers[currentIndex];
   const selectedAnswer = ans?.selected ?? null;
-  const isAnswered = !!ans && !ans.skipped;
+  const isAnswered = !!ans && !ans.skipped && ans.answered; // true only if instantFeedback was true, or if evaluated
   const isSkipped = ans?.skipped ?? false;
   const isFirst = currentIndex === 0;
   const isLast = currentIndex === totalQuestions - 1;
@@ -149,6 +152,8 @@ export default function Quiz({
             else cls = 'bg-gray-900 border-gray-800 text-gray-600 opacity-40 cursor-default';
           } else if (isSkipped) {
             cls = 'bg-gray-900 border-gray-800 text-gray-500 cursor-pointer hover:border-indigo-500';
+          } else if (isSelected) {
+            cls = 'bg-indigo-600/20 border-indigo-500 text-indigo-300 cursor-pointer';
           }
 
           return (
@@ -162,6 +167,7 @@ export default function Quiz({
               {isAnswered && (isCorrect
                 ? <CheckCircle2 className="w-5 h-5 shrink-0" />
                 : isSelected ? <XCircle className="w-5 h-5 shrink-0" /> : null)}
+              {!isAnswered && isSelected && <CheckCircle2 className="w-5 h-5 shrink-0 opacity-50" />}
             </button>
           );
         })}

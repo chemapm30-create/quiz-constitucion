@@ -95,7 +95,7 @@ function TopicModal({ tema, count, questionCount, onSelect, onClose }) {
   );
 }
 
-export default function Menu({ allQuestions, temasDisponibles, questionResults = {}, onStart }) {
+export default function Menu({ allQuestions, temasDisponibles, questionResults = {}, onStart, instantFeedback, setInstantFeedback }) {
   const [selectedTopic, setSelectedTopic] = useState(null);
   const [nPreguntas, setNPreguntas] = useState(30);
 
@@ -148,7 +148,23 @@ export default function Menu({ allQuestions, temasDisponibles, questionResults =
           onChange={e => setNPreguntas(Number(e.target.value))}
           className="w-full accent-indigo-500"
         />
-        <div className="text-center text-indigo-400 font-bold mt-1">{nPreguntas} preguntas</div>
+        <div className="text-center text-indigo-400 font-bold mt-1 mb-6">{nPreguntas} preguntas</div>
+
+        {/* Toggle Modo Examen */}
+        <div className="flex items-center justify-between border-t border-gray-800 pt-5 mt-2">
+          <div>
+            <div className="font-bold text-sm text-gray-200">Corrección instantánea</div>
+            <div className="text-xs text-gray-500">Ver si has acertado nada más marcar la respuesta</div>
+          </div>
+          <button
+            onClick={() => setInstantFeedback(!instantFeedback)}
+            className={`relative inline-flex h-6 w-11 items-center rounded-full transition-colors ${instantFeedback ? 'bg-indigo-600' : 'bg-gray-700'}`}
+          >
+            <span
+              className={`inline-block h-4 w-4 transform rounded-full bg-white transition-transform ${instantFeedback ? 'translate-x-6' : 'translate-x-1'}`}
+            />
+          </button>
+        </div>
       </div>
 
       {/* Modos globales */}
