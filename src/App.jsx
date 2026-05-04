@@ -9,6 +9,7 @@ import {
   loadHistory, saveHistory,
   loadResults, saveResults,
   loadMistakes, saveMistakes,
+  loadSkipped, saveSkipped,
   recordAnswerLocal, clearLocalData,
 } from './store';
 import { auth, isFirebaseReady } from './lib/firebase';
@@ -30,10 +31,10 @@ export default function App() {
   const [history, setHistory] = useState(() => loadHistory());
   const [questionResults, setQuestionResults] = useState(() => loadResults());
   const [mistakes, setMistakes] = useState(() => loadMistakes());
+  const [skippedList, setSkippedList] = useState(() => loadSkipped());
 
-  useEffect(() => {
-    saveMistakes(mistakes);
-  }, [mistakes]);
+  useEffect(() => { saveMistakes(mistakes); }, [mistakes]);
+  useEffect(() => { saveSkipped(skippedList); }, [skippedList]);
 
   // Estado del quiz
   const [view, setView] = useState('menu');
@@ -174,6 +175,9 @@ export default function App() {
     if (mode === 'topic_mistakes') {
       pool = shuffle(allQuestions.filter(q => q.tema === filterValue && mistakes.includes(getQuestionId(q)))).slice(0, n);
     }
+    if (mode === 'skipped_qs') {
+      pool = shuffle(allQuestions.filter(q => skippedList.includes(getQuestionId(q)))).slice(0, n);
+    }
 
     if (pool.length === 0) { alert('No hay preguntas para este modo.'); return; }
 
@@ -187,7 +191,7 @@ export default function App() {
     setView('quiz');
     setActiveTab('practice');
     sessionStartRef.current = Date.now();
-  }, [allQuestions, questionResults]);
+  }, [allQuestions, questionResults, mistakes, skippedList]);
 
   const handleAnswer = useCallback((opt) => {
     const q = currentQuestions[currentIndex];
@@ -201,6 +205,8 @@ export default function App() {
     });
 
     if (instantFeedback) {
+      setSkippedList(prev => prev.filter(id => id !== qId));
+
       setMistakes(prev => {
         if (isCorrect) return prev.filter(id => id !== qId);
         if (!prev.includes(qId)) return [...prev, qId];
@@ -225,6 +231,10 @@ export default function App() {
   }, [currentIndex, currentQuestions, user, instantFeedback]);
 
   const handleSkip = useCallback(() => {
+    const q = currentQuestions[currentIndex];
+    const qId = getQuestionId(q);
+    setSkippedList(prev => prev.includes(qId) ? prev : [...prev, qId]);
+
     const newAnswers = [...answers];
     newAnswers[currentIndex] = { selected: null, answered: false, skipped: true };
     setAnswers(newAnswers);
@@ -250,7 +260,9 @@ export default function App() {
             const q = currentQuestions[i];
             const qId = getQuestionId(q);
             const isCorrect = ans.selected === q.correcta;
-            
+
+            setSkippedList(prev => prev.filter(id => id !== qId));
+
             setMistakes(prev => {
               if (isCorrect) return prev.filter(id => id !== qId);
               if (!prev.includes(qId)) return [...prev, qId];
@@ -309,6 +321,7 @@ export default function App() {
     setQuestionResults({});
     setMistakes([]);
     saveMistakes([]);
+    setSkippedList([]);
     setView('menu');
   }, []);
 
@@ -353,6 +366,7 @@ export default function App() {
               setQuestionResults({});
               setMistakes([]);
               saveMistakes([]);
+              setSkippedList([]);
             }}
           />
         )}
@@ -364,6 +378,7 @@ export default function App() {
                 allQuestions={allQuestions}
                 temasDisponibles={temasDisponibles}
                 mistakes={mistakes}
+                skippedList={skippedList}
                 questionResults={questionResults}
                 onStart={startQuiz}
                 instantFeedback={instantFeedback}

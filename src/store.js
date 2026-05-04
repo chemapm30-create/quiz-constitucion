@@ -8,6 +8,7 @@ const KEYS = {
   history: 'opo_history',
   results: 'opo_results',
   mistakes: 'opo_mistakes',
+  skipped: 'opo_skipped',
 };
 
 const parse = (key, fallback) => {
@@ -20,6 +21,9 @@ export const saveHistory = (s) => localStorage.setItem(KEYS.history, JSON.string
 
 export const loadMistakes = () => parse(KEYS.mistakes, []);
 export const saveMistakes = (m) => localStorage.setItem(KEYS.mistakes, JSON.stringify(m));
+
+export const loadSkipped = () => parse(KEYS.skipped, []);
+export const saveSkipped = (s) => localStorage.setItem(KEYS.skipped, JSON.stringify(s));
 
 export const loadResults = () => {
   const r = parse(KEYS.results, {});

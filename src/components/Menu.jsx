@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Layout, Target, BookOpen, ChevronRight, Trophy, AlertCircle, Shuffle, List, X, Flame, EyeOff, BarChart3 } from 'lucide-react';
+import { Layout, Target, BookOpen, ChevronRight, Trophy, AlertCircle, Shuffle, List, X, Flame, EyeOff, BarChart3, SkipForward } from 'lucide-react';
 
 const QUICK_COUNTS = [10, 20, 30, 50];
 
@@ -194,6 +194,14 @@ const MODE_CARDS = [
     desc: (n, _, __, mostFailedPctCount) => mostFailedPctCount === 0 ? 'Sin preguntas falladas' : `${n} con mayor % fallo`,
     enabled: (_, __, mostFailedPctCount) => mostFailedPctCount > 0,
   },
+  {
+    mode: 'skipped_qs',
+    label: 'Omitidas',
+    icon: SkipForward,
+    color: 'purple',
+    desc: (n, _, __, ___, skippedList) => skippedList.length === 0 ? 'Sin omitidas' : `${skippedList.length} sin responder`,
+    enabled: (_, __, ___, skippedList) => skippedList.length > 0,
+  },
 ];
 
 const COLOR_MAP = {
@@ -203,9 +211,10 @@ const COLOR_MAP = {
   red:     { border: 'hover:border-red-500',     icon: 'bg-red-500/10 text-red-400',        hover: 'group-hover:bg-red-500' },
   orange:  { border: 'hover:border-orange-500',  icon: 'bg-orange-500/10 text-orange-400',  hover: 'group-hover:bg-orange-500' },
   pink:    { border: 'hover:border-pink-500',    icon: 'bg-pink-500/10 text-pink-400',      hover: 'group-hover:bg-pink-500' },
+  purple:  { border: 'hover:border-purple-500',  icon: 'bg-purple-500/10 text-purple-400',  hover: 'group-hover:bg-purple-500' },
 };
 
-export default function Menu({ allQuestions, temasDisponibles, questionResults = {}, mistakes = [], onStart, instantFeedback, setInstantFeedback }) {
+export default function Menu({ allQuestions, temasDisponibles, questionResults = {}, mistakes = [], skippedList = [], onStart, instantFeedback, setInstantFeedback }) {
   const [selectedTopic, setSelectedTopic] = useState(null);
   const [nPreguntas, setNPreguntas] = useState(30);
 
@@ -309,7 +318,7 @@ export default function Menu({ allQuestions, temasDisponibles, questionResults =
       {/* Modos globales — 2 columnas siempre */}
       <div className="grid grid-cols-2 gap-3">
         {MODE_CARDS.map(({ mode, label, icon: Icon, color, desc, enabled }) => {
-          const isEnabled = enabled(hardQuestionsCount, mistakes, mostFailedPctCount);
+          const isEnabled = enabled(hardQuestionsCount, mistakes, mostFailedPctCount, skippedList);
           const c = COLOR_MAP[color];
           return (
             <button
@@ -325,7 +334,7 @@ export default function Menu({ allQuestions, temasDisponibles, questionResults =
               <div>
                 <div className="font-bold text-sm text-gray-100 leading-tight">{label}</div>
                 <div className="text-xs text-gray-500 mt-0.5 leading-snug">
-                  {desc(nPreguntas, hardQuestionsCount, mistakes, mostFailedPctCount)}
+                  {desc(nPreguntas, hardQuestionsCount, mistakes, mostFailedPctCount, skippedList)}
                 </div>
               </div>
             </button>
