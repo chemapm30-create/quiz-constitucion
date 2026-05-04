@@ -70,11 +70,11 @@ export default function App() {
       setSyncing(true);
       try {
         // Subir pendientes offline primero
-        await flushPendingResults(user.id);
+        await flushPendingResults(user.uid);
 
         // Merge resultados local + remoto
         const local = loadResults();
-        const remote = await fetchRemoteResults(user.id);
+        const remote = await fetchRemoteResults(user.uid);
         if (remote !== null) {
           const merged = mergeResults(local, remote);
           saveResults(merged);
@@ -82,11 +82,11 @@ export default function App() {
 
           // Subir al remoto lo que estaba solo en local
           const onlyLocal = Object.entries(merged).filter(([id]) => !remote[id]);
-          await Promise.all(onlyLocal.map(([id, r]) => upsertQuestionResult(user.id, id, r)));
+          await Promise.all(onlyLocal.map(([id, r]) => upsertQuestionResult(user.uid, id, r)));
         }
 
         // Merge historial: usar remoto como verdad si hay más sesiones
-        const remoteHistory = await fetchRemoteHistory(user.id);
+        const remoteHistory = await fetchRemoteHistory(user.uid);
         if (remoteHistory !== null && remoteHistory.length > history.length) {
           saveHistory(remoteHistory);
           setHistory(remoteHistory);
