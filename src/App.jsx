@@ -178,6 +178,11 @@ export default function App() {
     if (mode === 'skipped_qs') {
       pool = shuffle(allQuestions.filter(q => skippedList.includes(getQuestionId(q)))).slice(0, n);
     }
+    if (mode === 'multi_topic') {
+      // filterValue es un array de nombres de tema
+      const temas = Array.isArray(filterValue) ? filterValue : [filterValue];
+      pool = shuffle(allQuestions.filter(q => temas.includes(q.tema))).slice(0, n);
+    }
 
     if (pool.length === 0) { alert('No hay preguntas para este modo.'); return; }
 
