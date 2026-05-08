@@ -95,10 +95,6 @@
     "tema": "Tema 1",
     "pregunta": "Las Comunidades Autónomas podrán tener:",
     "opciones": [
-      "Banderas propias",
-      "Enseñas propias",
-      "Banderas y enseñas propias",
-      "Banderas, enseñas y estandartes propios",
       "Sí",
       "No",
       "Sí, y también el deber de usarla",
@@ -206,11 +202,7 @@
       "A los poderes públicos",
       "Al Gobierno",
       "A las Cortes Generales",
-      "A los ciudadanos",
-      "La Declaración Universal de Derechos Humanos",
-      "Los tratados internacionales sobre las mismas materias ratificados por España",
-      "Los acuerdos internacionales sobre las mismas materias ratificados por España",
-      "Se interpretarán de acuerdo con todos los instrumentos citados"
+      "A los ciudadanos"
     ],
     "correcta": "A los poderes públicos",
     "fuente": "PDF1"
@@ -249,11 +241,7 @@
       "Su funcionamiento",
       "Su estructura interna",
       "Su funcionamiento y estructura interna",
-      "Sus órganos asamblearios",
-      "A los poderes públicos",
-      "Al Gobierno",
-      "A las Cortes Generales",
-      "A los ciudadanos"
+      "Sus órganos asamblearios"
     ],
     "correcta": "Su funcionamiento y estructura interna",
     "fuente": "PDF1"
@@ -357,10 +345,7 @@
       "Estatal",
       "La vida",
       "La integridad física",
-      "La integridad moral",
-      "Religioso",
-      "Confesional",
-      "Obligatorio"
+      "La integridad moral"
     ],
     "correcta": "Estatal",
     "fuente": "PDF1"
@@ -526,12 +511,10 @@
     "tema": "Tema 1",
     "pregunta": "Salvo resolución judicial, se garantiza el secreto de las comunicaciones y, en especial, de las:",
     "opciones": [
-      "Postales",
       "Postales y telegráficas",
       "Postales, telegráficas y telefónicas",
       "Ninguna entrada o registro podrá hacerse en él sin consentimiento del titular, salvo en caso de flagrante delito",
-      "Ninguna entrada o registro podrá hacerse en él sin consentimiento del titular o resolución judicial, salvo en caso de flagrante delito",
-      "Ninguna entrada, registro o inspección podrá hacerse en él sin consentimiento del titular o resolución judicial"
+      "Ninguna entrada o registro podrá hacerse en él sin consentimiento del titular o resolución judicial, salvo en caso de flagrante delito"
     ],
     "correcta": "Postales, telegráficas y telefónicas",
     "fuente": "PDF1"
@@ -573,22 +556,6 @@
       "No está reconocida expresamente como derecho en la Constitución"
     ],
     "correcta": "Es un derecho",
-    "fuente": "PDF1"
-  },
-  {
-    "id": "pdf1_76",
-    "tema": "Tema 1",
-    "pregunta": "¿Podrá acordarse el secuestro de publicaciones, grabaciones y otros medios de información?: +",
-    "opciones": [
-      "No, en ningún caso",
-      "Solamente en virtud de resolución judicial",
-      "Solamente en virtud de resolución administrativa o judicial © Ed. TEMA DIGITAL Página 84",
-      "Solamente durante la vigencia de los estados de alarma, excepción y sitio",
-      "Sí, a efectos de publicidad y control",
-      "Sí, a los solos efectos de publicidad",
-      "Los jueces, magistrados, juzgados y tribunales"
-    ],
-    "correcta": "Sí, a los solos efectos de publicidad",
     "fuente": "PDF1"
   },
   {
@@ -648,10 +615,6 @@
     "tema": "Tema 1",
     "pregunta": "Los ciudadanos tienen el derecho a participar en los asuntos públicos:",
     "opciones": [
-      "Sólo directamente",
-      "Sólo por medio de representantes",
-      "Directamente o por medio de representantes",
-      "Directamente o por medio de representantes y delegados",
       "Al Juez ordinario predeterminado por la ley",
       "A la defensa",
       "A la asistencia de letrado",
@@ -691,13 +654,10 @@
     "tema": "Tema 1",
     "pregunta": "En el ejercicio de sus derechos e intereses legítimos, todas las personas tienen derecho a obtener la tutela efectiva de:",
     "opciones": [
-      "Los jueces",
       "Los tribunales",
       "Los jueces y tribunales +",
       "Por razón de parentesco",
-      "Por razón de secreto profesional",
-      "Por razón de parentesco o de secreto profesional",
-      "Por razón de parentesco, de secreto profesional o de obediencia debida"
+      "Por razón de secreto profesional"
     ],
     "correcta": "Los jueces y tribunales +",
     "fuente": "PDF1"
@@ -722,11 +682,7 @@
       "No",
       "Sí, y también la libertad de enseñanza",
       "Sí, pero no la libertad de enseñanza",
-      "Sí, y también el deber de enseñanza",
-      "No",
-      "Sí",
-      "Sí, si no exceden de un año",
-      "Sí, para casos de terrorismo"
+      "Sí, y también el deber de enseñanza"
     ],
     "correcta": "No",
     "fuente": "PDF1"
@@ -855,11 +811,7 @@
       "De los servicios esenciales de la co- + munidad",
       "Del orden público",
       "De los sistemas productivos",
-      "De la paz social +",
-      "No",
-      "Sí, y también el deber",
-      "Sí, si han cumplido o están cumpliendo el servicio militar",
-      "Sí, si son mayores de 18 años"
+      "De la paz social +"
     ],
     "correcta": "De los servicios esenciales de la co- + munidad",
     "fuente": "PDF1"
@@ -911,8 +863,7 @@
       "No, en ningún caso",
       "Individual",
       "Individual y colectiva",
-      "Individual y colectiva, por escrito",
-      "Individual y colectiva, por escrito o verbalmente"
+      "Individual y colectiva, por escrito"
     ],
     "correcta": "No, en ningún caso",
     "fuente": "PDF1"
@@ -922,10 +873,6 @@
     "tema": "Tema 1",
     "pregunta": "La programación y ejecución del gasto público responderá a los criterios de: +",
     "opciones": [
-      "Mediante la correspondiente indemnización",
-      "De conformidad con lo dispuesto por las leyes",
-      "Mediante la correspondiente contraprestación",
-      "Mediante la correspondiente indemnización y de conformidad con lo dispuesto por las leyes",
       "Eficacia y economía",
       "Eficiencia y economía",
       "Eficiencia y eficacia",
@@ -955,11 +902,7 @@
       "El deber de trabajar",
       "El derecho al trabajo",
       "El deber de trabajar y el derecho al trabajo",
-      "El derecho a la ocupación plena +",
-      "Entre los trabajadores y empresarios directamente",
-      "Entre los representantes de los trabajadores y empresarios",
-      "Entre organizaciones empresariales",
-      "Entre patrón y obrero sindicales y"
+      "El derecho a la ocupación plena +"
     ],
     "correcta": "El deber de trabajar y el derecho al trabajo",
     "fuente": "PDF1"
@@ -1024,11 +967,7 @@
       "Su publicidad",
       "Su ámbito",
       "Su fuerza vinculante",
-      "Su temporalidad",
-      "Los trabajadores exclusivamente",
-      "Los empresarios exclusivamente",
-      "Los trabajadores y empresarios",
-      "Los trabajadores, empresarios y autoridad laboral"
+      "Su temporalidad"
     ],
     "correcta": "Su fuerza vinculante",
     "fuente": "PDF1"
@@ -1085,20 +1024,6 @@
     "fuente": "PDF1"
   },
   {
-    "id": "pdf1_147",
-    "tema": "Tema 1",
-    "pregunta": "Los poderes públicos promoverán las condiciones favorables:",
-    "opciones": [
-      "Para el progreso social y económico",
-      "Para una distribución de la renta regional más equitativa",
-      "Para una distribución de la renta personal más equitativa",
-      "Todas las respuestas anteriores son correctas",
-      "Social, económica, administrativa y jurídica"
-    ],
-    "correcta": "Todas las respuestas anteriores son correctas",
-    "fuente": "PDF1"
-  },
-  {
     "id": "pdf1_142",
     "tema": "Tema 1",
     "pregunta": "Respecto de la protección de la familia, los hijos son iguales ante la ley con independencia de:",
@@ -1106,11 +1031,7 @@
       "A la disminución del desempleo",
       "Al pleno empleo",
       "A un descenso del gasto público",
-      "Al libre mercado",
-      "Su edad",
-      "Su filiación",
-      "Su nacimiento",
-      "Su raza"
+      "Al libre mercado"
     ],
     "correcta": "Al pleno empleo",
     "fuente": "PDF1"
@@ -1123,9 +1044,7 @@
       "Su estado civil",
       "Su situación económica",
       "Mediante la limitación de la jornada laboral",
-      "Mediante contratos a tiempo parcial",
-      "Mediante la promoción de centros adecuados",
-      "Mediante las vacaciones periódicas retribuidas © Ed. TEMA DIGITAL Página 88"
+      "Mediante contratos a tiempo parcial"
     ],
     "correcta": "Su estado civil",
     "fuente": "PDF1"
@@ -1174,17 +1093,10 @@
     "tema": "Tema 1",
     "pregunta": "La política del Estado respecto de los trabajadores españoles en el extranjero se orientará:",
     "opciones": [
-      "Hacia su igualdad",
       "Hacia su progreso",
       "Hacia su retorno",
       "Hacia su prosperidad",
-      "La educación sanitaria",
-      "La educación física",
-      "El deporte",
-      "Fomentarán todas las actuaciones anteriores +",
-      "Histórico y cultural de los pueblos de España",
-      "Histórico, cultural y artístico de los pueblos de España",
-      "Histórico, cultural, artístico y folclórico de los pueblos de España"
+      "La educación sanitaria"
     ],
     "correcta": "Hacia su retorno",
     "fuente": "PDF1"
@@ -1197,11 +1109,7 @@
       "Su adecuada utilización",
       "Su adecuada distribución",
       "Su adecuado disfrute",
-      "Su adecuada promoción",
-      "Multas",
-      "Una ley especial",
-      "La ley penal",
-      "Multas coercitivas"
+      "Su adecuada promoción"
     ],
     "correcta": "Su adecuada utilización",
     "fuente": "PDF1"
@@ -1211,10 +1119,6 @@
     "tema": "Tema 1",
     "pregunta": "Todos los españoles tienen derecho a disfrutar de una vivienda: +",
     "opciones": [
-      "Del progreso",
-      "Del interés general",
-      "Del desarrollo nacional",
-      "De la innovación tecnológica",
       "Digna y adecuada",
       "Suficiente y adecuada",
       "Digna y suficiente",
@@ -1224,30 +1128,10 @@
     "fuente": "PDF1"
   },
   {
-    "id": "pdf1_166",
-    "tema": "Tema 1",
-    "pregunta": "Los poderes públicos regularán la utilización del suelo de acuerdo con el interés general para impedir:",
-    "opciones": [
-      "El derecho a disfrutarlo",
-      "El deber de conservarlo",
-      "El deber de disfrutarlo",
-      "Son correctas las contestaciones A) y",
-      "+",
-      "La construcción ilegal",
-      "El urbanismo salvaje",
-      "La especulación",
-      "El enriquecimiento injusto"
-    ],
-    "correcta": "La especulación",
-    "fuente": "PDF1"
-  },
-  {
     "id": "pdf1_161",
     "tema": "Tema 1",
     "pregunta": "Los poderes públicos velarán por la utilización racional de todos los recursos naturales para:",
     "opciones": [
-      "Proteger la calidad de la vida",
-      "Defender y restaurar el medio ambiente",
       "Mejorar la calidad de la vida",
       "Económicos y sociales",
       "Todas las contestaciones anteriores",
@@ -1274,13 +1158,10 @@
     "tema": "Tema 1",
     "pregunta": "Compete a los poderes públicos organizar y tutelar la salud pública a través de:",
     "opciones": [
-      "No, en ningún caso",
-      "Sí, y también sanciones administrativas",
       "Sí, y también la obligación de reparar el daño causado",
       "Son ciertas las contestaciones B) y C)",
       "Medidas preventivas",
-      "Prestaciones necesarias",
-      "Servicios necesarios"
+      "Prestaciones necesarias"
     ],
     "correcta": "Son ciertas las contestaciones B) y C)",
     "fuente": "PDF1"
@@ -1369,11 +1250,7 @@
       "A todos los poderes públicos",
       "A todos los españoles",
       "A todos los ciudadanos",
-      "A ciudadanos y Administración la Constitución mediante un procedimiento basado en los principios de: +",
-      "Precedencia y ejecutividad",
-      "Preferencia y sumariedad",
-      "Celeridad y equidad",
-      "Juez predeterminado e imparcial"
+      "A ciudadanos y Administración la Constitución mediante un procedimiento basado en los principios de: +"
     ],
     "correcta": "A todos los poderes públicos",
     "fuente": "PDF1"
@@ -1538,15 +1415,10 @@
     "tema": "Tema 2",
     "pregunta": "Las diferencias entre los Estatutos de las distintas Comunidades Autónomas no podrán implicar en ningún caso:",
     "opciones": [
-      "Los Alcaldes, los Concejales y los Secretarios",
       "Ley",
       "Ley orgánica",
       "Decreto-Ley",
-      "Ley de bases",
-      "Diferencias",
-      "Privilegios económicos",
-      "Privilegios sociales",
-      "Privilegios económicos o sociales TÍTULO VIII.DE LA ORGANIZACIÓN TERRITORIAL DEL ESTADO"
+      "Ley de bases"
     ],
     "correcta": "Ley orgánica",
     "fuente": "PDF1"
@@ -1572,11 +1444,7 @@
       "Autodeterminación",
       "Entidad jurídica y política",
       "Autonomía para el establecimiento de sus presupuestos",
-      "Autonomía para la gestión de sus respectivos intereses",
-      "En todo momento",
-      "En su localidad de residencia",
-      "En cualquier parte del territorio del Estado",
-      "En su localidad de nacimiento"
+      "Autonomía para la gestión de sus respectivos intereses"
     ],
     "correcta": "Autonomía para la gestión de sus respectivos intereses",
     "fuente": "PDF1"
@@ -1589,11 +1457,7 @@
       "Los municipios",
       "La provincia",
       "Los partidos judiciales",
-      "Las comarcas",
-      "Solidaridad",
-      "Autonomía",
-      "Autonomía financiera",
-      "Corresponsabilidad"
+      "Las comarcas"
     ],
     "correcta": "Los municipios",
     "fuente": "PDF1"
@@ -1745,13 +1609,10 @@
     "tema": "Tema 2",
     "pregunta": "El gobierno y la administración autónoma de las provincias estarán encomendados a:",
     "opciones": [
-      "Diputaciones exclusivamente",
       "Corporaciones de carácter representativo",
       "Diputaciones u otras Corporaciones",
       "Tributos propios",
-      "Participación en los tributos del Estado",
-      "Participación en los tributos de las Comunidades Autónomas",
-      "Todas las respuestas anteriores son correctas"
+      "Participación en los tributos del Estado"
     ],
     "correcta": "Diputaciones u otras Corporaciones",
     "fuente": "PDF1"
@@ -1800,18 +1661,10 @@
     "tema": "Tema 2",
     "pregunta": "Las Haciendas locales deberán disponer de los medios suficientes para el desempeño de las funciones que la ley atribuye a:",
     "opciones": [
-      "Los Ayuntamientos",
       "Las Diputaciones",
       "Las Corporaciones respectivas",
       "Los Municipios",
-      "Con autogobierno",
-      "Con entidad regional probada",
-      "Con entidad regional histórica",
-      "Con entidad propia +",
-      "Sí, por motivos de interés nacional",
-      "En ningún caso",
-      "Sí, mediante ley orgánica",
-      "Sí, mediante referéndum"
+      "Con autogobierno"
     ],
     "correcta": "Las Corporaciones respectivas",
     "fuente": "PDF1"
@@ -1837,11 +1690,7 @@
       "Estarán prohibidos",
       "Necesitarán la autorización del Congreso",
       "Necesitarán la autorización del Senado",
-      "Necesitarán la autorización de las Cortes Generales +",
-      "La designación de la Comunidad",
-      "La denominación de la Comunidad que se elija",
-      "La denominación de la Comunidad que mejor corresponda a su identidad histórica",
-      "La denominación de la Comunidad que mejor corresponda a su identidad social"
+      "Necesitarán la autorización de las Cortes Generales +"
     ],
     "correcta": "Necesitarán la autorización de las Cortes Generales +",
     "fuente": "PDF1"
@@ -1854,11 +1703,7 @@
       "Al Congreso, para su consideración",
       "Al Senado",
       "A las Cortes Generales, para su tramitación como ley",
-      "Al Gobierno, para como proyecto de ley su tramitación",
-      "En las leyes",
-      "En la Constitución",
-      "En las bases para el traspaso de los servicios correspondientes a las mismas",
-      "Son ciertas las respuestas B) y C)"
+      "Al Gobierno, para como proyecto de ley su tramitación"
     ],
     "correcta": "A las Cortes Generales, para su tramitación como ley",
     "fuente": "PDF1"
@@ -1946,12 +1791,10 @@
     "tema": "Tema 2",
     "pregunta": "¿Podrán las Comunidades Autónomas ampliar sucesivamente sus competencias dentro del marco establecido en el artículo 149 de la Constitución?:",
     "opciones": [
-      "No, en ningún caso",
       "Sí, transcurridos tres años",
       "Sí, transcurridos cinco años",
       "Urbanismo",
-      "Ordenación del territorio",
-      "Vivienda"
+      "Ordenación del territorio"
     ],
     "correcta": "Sí, transcurridos cinco años",
     "fuente": "PDF1"
@@ -1961,15 +1804,10 @@
     "tema": "Tema 2",
     "pregunta": "El Estado tiene competencia exclusiva sobre:",
     "opciones": [
-      "Defensa",
-      "Fuerzas Armadas",
       "Estadística para fines estatales",
       "Todas las respuestas anteriores son",
       "Sí, transcurridos cuatro años correctas +",
-      "Sí, en todos sus aspectos",
-      "No, es una competencia compartida con las Comunidades Autónomas",
-      "Sí, sin perjuicio de su ejecución por los órganos de las Comunidades Autónomas",
-      "Sí, sin perjuicio de su regulación por los órganos de las Comunidades Autónomas"
+      "Sí, en todos sus aspectos"
     ],
     "correcta": "Todas las respuestas anteriores son",
     "fuente": "PDF1"
@@ -2119,13 +1957,10 @@
     "tema": "Tema 2",
     "pregunta": "¿Tienen las Comunidades Autónomas alguna competencia sobre museos, bibliotecas y archivos?:",
     "opciones": [
-      "No, es una competencia estatal",
       "Sí, es una competencia compartida con el Estado +",
       "Sí, tienen competencias de gestión",
       "No",
-      "Sí",
-      "Sí, en la forma que se establezca en los respectivos Estatutos en el marco de lo que disponga una ley orgánica",
-      "Sí, en la forma que se establezca en los respectivos Estatutos"
+      "Sí"
     ],
     "correcta": "Sí, tienen competencias de gestión",
     "fuente": "PDF1"
@@ -2161,15 +1996,10 @@
     "tema": "Tema 2",
     "pregunta": "La competencia sobre las materias que no se hayan asumido por los Estatutos de Autonomía corresponderá:",
     "opciones": [
-      "Sí, predominando sobre la competencia de los Tribunales",
-      "Sí, mediante autorización del Gobierno",
-      "Cuando así lo exija el interés estatal",
-      "Cuando así lo exija el interés autonómico",
       "Cuando así lo exija el interés social",
       "Al Estado",
       "A las propias Comunidades Autónomas",
-      "A las Cortes Generales",
-      "Al Gobierno"
+      "A las Cortes Generales"
     ],
     "correcta": "Al Estado",
     "fuente": "PDF1"
@@ -2234,9 +2064,7 @@
       "No",
       "Sí, sin perjuicio de la competencia de",
       "Sí, mediante ley orgánica",
-      "Sí, mediante ley",
-      "Sí, siempre que por su propia naturaleza sean susceptibles de transferencia o delegación +",
-      "Son ciertas las respuestas A) y C)"
+      "Sí, mediante ley"
     ],
     "correcta": "Sí, sin perjuicio de la competencia de",
     "fuente": "PDF1"
@@ -2262,11 +2090,7 @@
       "El Consejo de Gobierno",
       "La Asamblea Legislativa",
       "El Presidente de la Comunidad Autónoma",
-      "La Asamblea deliberante",
-      "En casos de extrema necesidad",
-      "Cuando éstas incumplan sus obligaciones",
-      "Aun en el caso de materias atribuidas a la competencia de éstas",
-      "Sobre materias de titularidad estatal +"
+      "La Asamblea deliberante"
     ],
     "correcta": "La Asamblea deliberante",
     "fuente": "PDF1"
@@ -2279,8 +2103,7 @@
       "Cuando así lo exija el interés general © Ed. TEMA DIGITAL Página 123",
       "Representación directa",
       "Representación proporcional",
-      "Representación libre",
-      "Representación ponderada"
+      "Representación libre"
     ],
     "correcta": "Cuando así lo exija el interés general © Ed. TEMA DIGITAL Página 123",
     "fuente": "PDF1"
@@ -2293,11 +2116,7 @@
       "De las ciudades principales",
       "De las diversas zonas del territorio",
       "De todos los pueblos",
-      "De todas las comarcas",
-      "El Tribunal Supremo",
-      "Un Tribunal Superior de Justicia, sin perjuicio de la jurisdicción que corresponde al Tribunal Supremo",
-      "Una Audiencia Territorial, sin perjuicio de la jurisdicción que corresponde al Tribunal Supremo",
-      "Un Tribunal Superior de Justicia, sin perjuicio de la jurisdicción que corresponde a la Audiencia Nacional"
+      "De todas las comarcas"
     ],
     "correcta": "De las diversas zonas del territorio",
     "fuente": "PDF1"
@@ -2362,11 +2181,7 @@
       "La dirección del Consejo de Gobierno",
       "La suprema representación de la respectiva Comunidad",
       "La representación ordinaria del Estado en la respectiva Comunidad",
-      "Todas las contestaciones anteriores son correctas +",
-      "En el gobierno del poder judicial",
-      "En el nombramiento de jueces y magistrados",
-      "En la organización de las demarcaciones judiciales del territorio",
-      "En la provisión de vacantes del poder judicial"
+      "Todas las contestaciones anteriores son correctas +"
     ],
     "correcta": "Todas las contestaciones anteriores son correctas +",
     "fuente": "PDF1"
@@ -2423,33 +2238,14 @@
     "fuente": "PDF1"
   },
   {
-    "id": "pdf1_789",
-    "tema": "Tema 2",
-    "pregunta": "¿Quién dirigirá la Administración del Estado en el territorio de la Comunidad Autónoma?:",
-    "opciones": [
-      "Para obligar a ésta al cumplimiento forzoso de sus obligaciones, exclusivamente",
-      "Para la protección del interés general, exclusivamente",
-      "Para obligar a ésta al cumplimiento forzoso de sus obligaciones, o para la protección del interés general",
-      "Ninguna de las contestaciones anteriores es correcta",
-      "El Presidente de la Comunidad Autónoma",
-      "El Gobernador Civil",
-      "Un Delegado nombrado por el Go-"
-    ],
-    "correcta": "Un Delegado nombrado por el Go-",
-    "fuente": "PDF1"
-  },
-  {
     "id": "pdf1_790",
     "tema": "Tema 2",
     "pregunta": "¿Quién coordinará, cuando proceda, la Administración del Estado en el territorio de la Comunidad Autónoma con la administración propia de la Comunidad?:",
     "opciones": [
-      "El Presidente de la Comunidad Autónoma",
       "El Gobernador Civil",
       "Un Delegado nombrado por el Go-",
       "Al Presidente de la Comunidad Autónoma",
-      "Al Presidente de la Asamblea Legislativa correspondiente",
-      "Al Presidente del Senado",
-      "Al Presidente del Congreso"
+      "Al Presidente de la Asamblea Legislativa correspondiente"
     ],
     "correcta": "Un Delegado nombrado por el Go-",
     "fuente": "PDF1"
@@ -4846,7 +4642,6 @@
     "tema": "Tema 1",
     "pregunta": "Son legales las asociaciones:",
     "opciones": [
-      "De carácter paramilitar.",
       "Que persigan fines o utilicen medios tipificados como delito.",
       "Que persigan el conocimiento de las ciencias ocultas.",
       "Secretas.",
@@ -5596,21 +5391,6 @@
     "fuente": "PDF2"
   },
   {
-    "id": "pdf2_949",
-    "tema": "Tema 2",
-    "pregunta": "¿Cuál de las siguientes afirmaciones es correcta?",
-    "opciones": [
-      "Las Comunidades Autónomas pueden aprobar leyes de transferencias",
-      "Existen 15 Comunidades Autónomas",
-      "Existen 2 ciudades autonómicas",
-      "Las Comunidades Autónomas pueden aprobar leyes marco",
-      "La legislación sobre protección de medio ambiente.",
-      "La legislación, ordenación y concesión de recursos y aprovechamientos hidráulicos."
-    ],
-    "correcta": "La legislación sobre protección de medio ambiente.",
-    "fuente": "PDF2"
-  },
-  {
     "id": "pdf2_951",
     "tema": "Tema 2",
     "pregunta": "¿A quién corresponde el Gobierno y Administración de los Municipios?",
@@ -5860,7 +5640,6 @@
     "tema": "Tema 2",
     "pregunta": "¿Cuál de las siguientes Comunidades Autónomas es uniprovincial?",
     "opciones": [
-      "Canarias.",
       "Valencia.",
       "Murcia.",
       "Aragón.",
@@ -7210,87 +6989,6 @@
     "tema": "Tema 1",
     "pregunta": "Según el artículo 7 de la Constitución Española, los sindicatos de trabajadores y las asociaciones empresariales contribuyen a la defensa y promoción de:",
     "opciones": [
-      "La cultura nacional.",
-      "Los intereses económicos y sociales que les son propios.",
-      "Los intereses exclusivamente políticos.",
-      "La seguridad ciudadan",
-      "Tema 1 . Atendiendo a lo dispuesto en el art 1 de la CE, indique la que es correcta:",
-      "La soberanía nacional reside en el pueblo español, del que emanan los poderes públicos",
-      "La forma política y social del Estado español es la Monarquía parlamentaria",
-      "España se constituye en un Estado social y democrático de derecho",
-      "Todas son correctas Tema 1 . Según se recoge en el artículo 23 de la CE:",
-      "Todos los españoles tienen derecho a acceder en condiciones de igualdad a las funciones y cargos públicos con los requisitos que señalen la CE y el resto del ordenamiento político",
-      "Todos los españoles tienen derecho a acceder en condiciones de igualdad a las funciones y cargos públicos con los requisitos que señalen las leyes",
-      "Todos los ciudadanos tienen derecho a acceder en condiciones de igualdad a las funciones y cargos públicos con los requisitos que señalen la CE y el resto del ordenamiento jurídico",
-      "Todos los ciudadanos tienen derecho a acceder en condiciones de igualdad a las funciones y cargos públicos con los requisitos que señalen las leyes Aquí tienes el texto con el formato unificado y las respuestas correctas resaltadas en negrita, eliminando las líneas de separación: Tema 1 . ¿En qué artículo de la CE se define la figura del Defensor del Pueblo?:",
-      "55",
-      "En ninguno es una Ley ordinaria la que lo define y regula",
-      "54",
-      "En ninguno, es una Ley Orgánica la que lo define y regula Tema 1 . El artículo 16 de la Constitución española de 1978, señala que la libertad ideológica y de culto, estará limitada:",
-      "en virtud de resolución judicial",
-      "en sus manifestaciones por el mantenimiento del orden público",
-      "se garantizará, pero no se limitará en ningún caso",
-      "por el derecho al honor, a la intimidad personal y familiar y la especial protección de la juventud y la infancia Tema 1 . De acuerdo con el contenido de la Constitución española de 1978 indique la correcta:",
-      "la Constitución garantiza el principio de legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos",
-      "los ciudadanos tienen derecho a elegir libremente su residencia y a circular por el territorio nacional",
-      "se reconoce y protege el derecho a comunicar o recibir libremente información por cualquier medio de difusión",
-      "todos los ciudadanos son iguales ante la ley sin que pueda prevalecer discriminación alguna por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social Tema 1 . Cuantas Disposiciones Generales tiene la Constitución española:",
-      "15",
-      "9",
-      "1",
-      "ninguna correcta Tema 1 . El 6 de diciembre de 1978 la Constitución española fue:",
-      "aprobada por las Cortes Generales",
-      "aprobada por el pueblo español en referéndum",
-      "ratificada en referéndum por el pueblo español",
-      "sancionada por el Rey Tema 1 . Indique la correcta según lo que indica el art 3 de la CE:",
-      "El castellano es el idioma oficial del Estado",
-      "todos tienen el deber de conocerlo y el derecho a usarlo",
-      "las demás lenguas españolas, serán también oficiales en sus respectivas Comunidades Autónomas, de acuerdo con sus Estatutos",
-      "Todas correctas Tema 1 . El artículo 6 de la CE indica que el ejercicio de la actividad de los partidos políticos será:",
-      "democrática",
-      "transparente",
-      "plural",
-      "ninguna correcta Tema 1 . De acuerdo con el artículo 4 de la CE indique la respuesta correcta:",
-      "la bandera española deberá estar presente en los actos públicos",
-      "las Comunidades Autónomas podrán tener banderas y enseñas propias",
-      "la bandera española es tricolor y la franja central amarilla será el doble de tamaño que las dos rojas",
-      "a y b correctas Tema 1 . Si tenemos en cuenta el contenido del artículo 10 de la CE, las normas relativas a los derechos fundamentales y a las libertades, que la propia CE reconoce, se interpretarán:",
-      "De acuerdo con el orden político y la paz social",
-      "De acuerdo con el ordenamiento jurídico",
-      "De conformidad con la Declaración Universal de los Derechos Humanos y los tratados internacionales sobre las mismas materias ratificados por España",
-      "Todas correctas Tema 1 . Es correcto afirmar con respecto a lo que dice la CE, en su artículo 27, sobre el derecho a la educación:",
-      "la educación secundaria será obligatoria y gratuita",
-      "se reconoce la libertad de enseñanza",
-      "se reconoce a las personas físicas y jurídicas la libertad de creación de centros docentes sin ninguna limitación",
-      "todas son correctas Tema 1 . La CE en su art 15 indica que:",
-      "queda abolida la pena de muerte, salvo lo que puedan disponer las leyes penales militares para tiempos de guerra",
-      "los españoles tienen derecho a la vida y a la integridad física y moral, en ningún caso, puedan ser sometidos a tortura ni a penas o tratos inhumanos o degradantes",
-      "los españoles en ningún caso, pueden ser sometidos a tortura ni a penas o tratos inhumanos o degradantes",
-      "Todas son correctas Tema 1 . Si tenemos en cuenta el contenido de la CE; ¿se podrán secuestrar publicaciones?:",
-      "no porque la CE prohíbe expresamente la censura previa",
-      "sí pero sólo en caso de flagrante delito, o en virtud de resolución judicial",
-      "sí, en virtud de resolución judicial",
-      "sí de acuerdo con una ley orgánica Tema 1 . El Título VIII de la CE se rubrica:",
-      "De la Corona",
-      "De la Organización Territorial del Estado",
-      "Del Poder Judicial",
-      "De Economía y Hacienda Tema 1 . Indique la correcta si tenemos en cuenta lo que indica la CE en su art 35:",
-      "el trabajo es un derecho y un deber de todos los españoles",
-      "una ley orgánica regulará un estatuto de los trabajadores",
-      "el derecho a un trabajo digno y a una remuneración suficiente estará tutelado por ley orgánica",
-      "A y B correctas Tema 1 . El artículo 19 de la CE indica que tendrán derecho a entrar y salir libremente de España en los términos que la ley establezca:",
-      "los ciudadanos",
-      "los españoles",
-      "todos",
-      "los ciudadanos españoles Tema 1 . Cuál de las siguientes materias no se regulará por ley Orgánica:",
-      "la figura recogida en el artículo 54 de la CE",
-      "las bases de la organización militar",
-      "el derecho de objeción de conciencia del artículo 30.2",
-      "Todas se regulan por ley orgánica Tema 1 . NO es correcto afirmar sobre las fundaciones, teniendo en cuenta lo dispuesto en el texto constitucional:",
-      "las fundaciones que persigan fines tipificados como delito son ilegales",
-      "se encuentran reguladas en el mismo capítulo que los Colegios Profesionales",
-      "podrán ser suspendidas en sus actividades por resolución judicial motivada",
-      "los fines que persigan las fundaciones han de ser de interés público Tema 1 . Cuál de los siguientes derechos que a continuación se relacionan podrán ser tutelados por un procedimiento preferente y sumario de acuerdo con lo dispuesto en el art. 53 de la CE:",
       "el derecho recogido en el artículo 30.2",
       "el principio de igualdad ante la ley recogido en el artículo 14",
       "el derecho a adoptar medidas de conflicto colectivo",
@@ -7447,132 +7145,6 @@
     "tema": "Tema 2",
     "pregunta": "Las entidades de iniciativa privada que colaboren con el sistema deben:",
     "opciones": [
-      "Tener siempre ánimo de lucro.",
-      "Estar debidamente inscritas en el Registro de Entidades, Centros y Servicios.",
-      "Ser consultadas antes de aprobar cualquier ley.",
-      "Sustituir totalmente a la administración públic",
-      "Tema 2 . ¿Podrá dictar el Estado, conforme a nuestra Constitución, leyes que establezcan los principios necesarios para armonizar las disposiciones normativas de las Comunidades Autónomas cuando se trate de materias atribuidas a la competencia de estas?",
-      "Sí, cuando así lo exija el interés general.",
-      "Sí, en todo caso.",
-      "No, ya que el principio de competencia implica que ni el Estado, ni las CCAA podrán inmiscuirse en competencias de carácter exclusiva de la otra, conforme al art. 147.3 CE.",
-      "No, ya que es contrario al principio de legalida",
-      "Tema 2 . Las CCAA podrán asumir competencias en una serie de materias recogidas en el art. 148 CE, ¿es una de ellas la coordinación de las policías locales?",
-      "No, dado que se trata de una competencia exclusiva del Estado.",
-      "Sí. En los términos que establezca mediante Ley.",
-      "Sí. En los términos que establezca el Senado mediante Ley.",
-      "Sí. En los términos que establezca una Ley orgánica. Tema 2 . Según el art. 147 CE, los Estatutos de Autonomía deberán contener:",
-      "La delimitación del territorio.",
-      "La bandera de la capital de la Comunidad Autónom",
-      "La denominación de las provincias.",
-      "Todas son correctas. Tema 2 . La federación de Comunidades Autónomas:",
-      "No se admitirá en ningún caso.",
-      "Se admite según el art. 145 CE.",
-      "Se admite siempre que lo autorice una Ley Orgánic",
-      "Es un mecanismo ordinario de colaboración entre las Comunidades Autónomas. Tema 2 . Cualquier alteración de los límites de una provincia tendrá que ser aprobada por.",
-      "Ley de la Comunidad Autónoma a la que pertenezca la provinci",
-      "Ley Ordinaria por el Congreso.",
-      "Ley Orgánica por las Cortes Generales.",
-      "No es posible modificar los límites de las provincias, sólo de los municipios. Tema 2 . Se reconoce autonomía en la Constitución española a:",
-      "A las nacionalidades y comunidades autónomas",
-      "A las regiones y a las nacionalidades",
-      "A las regiones",
-      "A las comunidades autónomas y a las regiones Tema 2 . Respecto de una de las siguientes materias, por ser exclusiva del Estado, no podrán ser asumidas competencias, en principio, por las Comunidades Autónomas:",
-      "Regulación de las condiciones de obtención, expedición y homologación de títulos académicos.",
-      "Patrimonio monumental de interés de la Comunidad Autónom",
-      "Ferias interiores.",
-      "Aguas minerales y termales. Tema 2 . La organización judicial en el ámbito de la Comunidad Autónoma, estará culminada:",
-      "Por un Tribunal Superior de Justicia, sin perjuicio de la jurisdicción que corresponde al Tribunal Supremo.",
-      "Por un Tribunal Superior de Justicia, que asumirá en el ámbito territorial de la Comunidad Autónoma la jurisdicción que sobre el mismo ostentaba el Tribunal Supremo.",
-      "Por una Audiencia Territorial, sin perjuicio de la jurisdicción que corresponde al Tribunal Supremo.",
-      "Por las respectivas Audiencias Provinciales, sin perjuicio de la jurisdicción que corresponde al Tribunal Supremo. Tema 2 . Las diferencias entre los Estatutos de las distintas Comunidades Autónomas:",
-      "No podrán implicar, en ningún caso, un distinto tratamiento de los ingresos públicos.",
-      "Podrán consagrar los privilegios que sean procedentes, cuando su origen no se sustente en cualquier clase de discriminación.",
-      "La pregunta está erróneamente formulada, en tanto en cuanto todos los Estatutos han de ser idénticos.",
-      "No podrán implicar, en ningún caso, privilegios económicos o sociales. Tema 2 . El control de la actividad de los órganos de las Comunidades autónomas, en lo relativo a la administración autónoma y sus normas reglamentarias:",
-      "Al Tribunal de Cuentas.",
-      "Al Gobierno, previo dictamen del Consejo de Estado.",
-      "Al Tribunal Constitucional.",
-      "A la jurisdicción contencioso administrativa. Tema 2 . ¿Qué requerirá, en todo caso, la reforma de los Estatutos de Autonomía según lo previsto en nuestra Constitución?",
-      "Referéndum de ratificación por parte del cuerpo censal de las provincias afectadas.",
-      "La aprobación por mayoría en una votación final sobre el conjunto del proyecto.",
-      "Ratificación en las provincias a cuyo ámbito territorial afecte.",
-      "La aprobación por las Cortes Generales mediante Ley Orgánica. Tema 2 . ¿En qué plazo deberá la Comisión Constitucional del Congreso examinar el proyecto de Estatuto en el supuesto contemplado en el artículo 151 de la Constitución?",
-      "En el de 1 mes.",
-      "En el de 2 meses.",
-      "Dentro del mismo periodo de sesiones.",
-      "En el de 3 meses. Tema 2 . ¿Quiénes no podían acceder a su autogobierno y constituirse en Comunidad Autónoma según lo previsto en el art. 143.1 CE?",
-      "Las provincias limítrofes con características históricas, culturales y sociales comunes.",
-      "Los territorios insulares.",
-      "Las provincias sin entidad regional históric",
-      "Todas las respuestas son falsas. Tema 2 . La colaboración financiera entre las Comunidades Autónomas y el Estado, según el art. 157 CE:",
-      "Será regulada mediante Ley Orgánica.",
-      "Será regulada en los Estatutos de Autonomí",
-      "No es susceptible de regulación, en tanto en cuanto tal colaboración no es posible.",
-      "Está regulada en la Constitución. Tema 2 . La iniciativa del proceso autonómico, corresponde según la Constitución:",
-      "A todos los municipios interesados.",
-      "A las dos terceras partes de los municipios cuya población represente, al menos, la mayoría absoluta del censo electoral de cada provinci",
-      "A una tercera parte de las Diputaciones interesadas.",
-      "Al órgano interinsular correspondiente. Tema 2 . El control de la actividad de los órganos de las Comunidades Autónomas, en lo relativo al ejercicio de las funciones delegadas respecto de las materias de competencia exclusiva del Estado, corresponderá:",
-      "A la jurisdicción contencioso administrativ",
-      "Al Tribunal Constitucional.",
-      "Al Gobierno, previo dictamen del Consejo de Estado.",
-      "Al Tribunal de Cuentas. Tema 2 . En principio, las competencias asumidas por las Comunidades Autónomas al amparo de lo establecido en el art. 148.1 de la Constitución, podrán ampliarse sucesivamente, dentro del marco establecido en el mismo texto constitucional, transcurridos:",
-      "Cinco años.",
-      "Cuatro años.",
-      "Tres años.",
-      "Dos años. Tema 2 . Las Comunidades Autónomas, de acuerdo con el art. 150.1 CE podrán emitir leyes marco:",
-      "Podrán dictar, por sí mismas, normas legislativas sin limitación alguna, si tal facultad les ha sido atribuida por las Cortes Generales.",
-      "Podrán dictar, por sí mismas, normas legislativas en el marco de las principios, bases y directrices fijados por una Ley Estatal, cuando las Cortes Generales les hayan atribuido tal facultad.",
-      "Podrán dictar, por sí mismas, normas legislativas en el marco de las principios, bases y directrices fijados por una Ley Orgánica, cuando el Estado les hayan atribuido tal faculta",
-      "No podrán dictar, por sí mismas, normativa algun",
-      "Tema 2 . Los acuerdos entre las Comunidades Autónomas, conforme al art. 145 CE:",
-      "Podrán celebrarse entre sí para la gestión y prestación de servicios propios de dichas Comunidades.",
-      "No será preciso que se prevean en los respectivos Estatutos los supuestos en que procedan, así como sus requisitos y términos.",
-      "Dichos acuerdos no necesitarán la autorización de las Cortes Generales, ni ser comunicados a la mism",
-      "Todas las otras respuestas son falsas. Tema 2 . Las Comunidades Autónomas no podrán en ningún caso adoptar medidas tributarias:",
-      "Que supongan un obstáculo para la libre circulación de mercancías o servicios, en los pasos fronterizos con terceros países.",
-      "Sobre bienes situados fuera de su territorio.",
-      "Sobre bienes situados en el interior de su territorio, propiedad del Estado.",
-      "Todas las otras respuestas son correctas. Tema 2 . Las Comunidades Autónomas gozarán de autonomía financiera para el desarrollo y ejecución de sus competencias con arreglo a los principios de:",
-      "Coordinación con las Haciendas Locales.",
-      "Coordinación con la Hacienda estatal y solidaridad entre todos los españoles.",
-      "Solidaridad entre todas las Comunidades Autónomas.",
-      "Progresividad, reparto equitativo de la riqueza y justicia distributiv",
-      "Tema 2 . El Presidente de una Comunidad Autónoma es nombrado por:",
-      "El Rey",
-      "El Senado",
-      "La Asamblea Autonómica",
-      "El Presidente del Gobierno Tema 2 . El gobierno y la administración autónoma de las provincias estarán encomendados:",
-      "A Diputaciones u otras Corporaciones de carácter representativo.",
-      "A Diputaciones y Subdelegaciones del Gobierno.",
-      "A Diputaciones ya Mancomunidades de Municipios.",
-      "A Diputaciones ya Mancomunidades Provinciales. Tema 2 . La mayoría necesaria para aprobar la reforma de un Estatuto de Autonomía en el Congreso es:",
-      "1/3, ya que se realiza por medio de una ley ordinari",
-      "Simple, ya que se realiza por medio de una ley ordinari",
-      "Absoluta, ya que se realiza por medio de una ley orgánica.",
-      "2/3, ya que se realiza por medio de una ley orgánic",
-      "Tema 2 . Si una Comunidad Autónoma no cumpliere las obligaciones que la Constitución u otras leyes le impongan, o actuare de forma que atente gravemente al interés general de España:",
-      "El Gobierno requerirá al efecto a la Asamblea Legislativa de la Comunidad Autónoma con la que se ha originado el incidente.",
-      "Se efectuará un requerimiento previo por parte del Congreso de los Diputados al Presidente de la Comunidad Autónom",
-      "Si el requerimiento no es atendido, por mayoría absoluta del Senado, podrá adoptar las medidas necesarias para obligar a aquélla al cumplimiento forzoso de dichas obligaciones.",
-      "Si el requerimiento no es atendido, podrá ser declarado en el territorio de la Comunidad Autónoma afectada el estado de alarma, el de excepción, o el de sitio, dependiendo de la gravedad de la causa que motive la adopción de tal medid",
-      "Tema 2 . Un Delegado nombrado por el Gobierno en el territorio de la Comunidad Autónoma:",
-      "Ostentará la representación máxima del Estado ante las autoridades y organismos autónomos.",
-      "Asumirá las funciones en la Comunidad Autónoma de los Gobernadores Civiles destinados en las distintas provincias integrantes de la mism",
-      "Dirigirá la Administración autonómica en coordinación con los responsables territoriales de la mism",
-      "Dirigirá la Administración del Estado en dicho territorio, y la coordinará, cuando proceda, con la administración propia de la Comunidad. Tema 2 . Los recursos del Fondo de Compensación serán distribuidos entre las Comunidades Autónomas y las provincias, en su caso, por:",
-      "El propio Fondo.",
-      "Las Cortes Generales.",
-      "El Tribunal de Cuentas.",
-      "El Gobierno de la Nación. Tema 2 . Las facultades correspondientes a materias de titularidad estatal, conforme al art. 150.2 CE:",
-      "Son transferibles a las Comunidades Autónomas mediante Ley Orgánica, cuando por su propia naturaleza sean susceptibles de transferencia.",
-      "Son delegables a las Comunidades Autónomas, no transferibles, mediante Ley Orgánica, cuando por su propia naturaleza sean susceptibles de delegación.",
-      "Son delegables sólo en materias de ordenación urbana, gestión de costas y política territorial.",
-      "Son intransferibles e indelegables a las Comunidades Autónomas. Tema 2 . Las leyes mediante las cuales se atribuyen a una o a varias Comunidades Autónomas, la facultad de dictar, para sí mismas, normas legislativas en el contexto de los principios, bases y directrices de una Ley estatal, se denominan:",
-      "Las leyes de principio.",
-      "Las leyes de armonización.",
-      "Las leyes de bases.",
-      "Las leyes marco. Tema 2 . Las armonización de las disposiciones normativas de las Comunidades Autónomas:",
       "Tal armonización no afectará a las normas dictadas para el desarrollo de las materias atribuidas a la competencia de las Comunidades Autónomas.",
       "Corresponderá al Estado, que dictará leyes en las que se establecerán los principios necesarios para lograr dicha armonía.",
       "Se efectuará sólo en el caso de materias atribuidas al Estado, que hayan sido transferidas o delegadas en las Comunidades Autónomas.",
@@ -8262,14 +7834,10 @@
     "tema": "Tema 29",
     "pregunta": "¿Cuántas disposiciones derogatorias tiene la Ley 12/2022, de 21 de diciembre?",
     "opciones": [
-      "6",
-      "4",
+      "1",
       "2",
-      "1 Tema 29. ¿Cuántas disposiciones finales tiene la Ley 12/2022, de 21 de diciembre?",
-      "6",
       "4",
-      "2",
-      "1"
+      "6"
     ],
     "correcta": "2",
     "fuente": "PDF3"
