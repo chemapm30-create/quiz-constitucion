@@ -7,9 +7,13 @@ service cloud.firestore {
       allow read, write: if request.auth != null && request.auth.uid == userId;
     }
 
-    // Reportes: cualquier usuario autenticado puede crear (no leer ni borrar)
+    // Reportes
     match /reports/{reportId} {
+      // Cualquier usuario autenticado puede crear un reporte
       allow create: if request.auth != null;
+      // Solo el admin puede leer y actualizar reportes
+      allow read, update: if request.auth != null
+        && request.auth.token.email == 'chemapm30@gmail.com';
     }
   }
 }

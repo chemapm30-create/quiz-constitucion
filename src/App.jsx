@@ -4,6 +4,7 @@ import Menu from './components/Menu';
 import Quiz from './components/Quiz';
 import Results from './components/Results';
 import Stats from './components/Stats';
+import Admin from './components/Admin';
 import Auth from './components/Auth';
 import {
   loadHistory, saveHistory,
@@ -359,6 +360,8 @@ export default function App() {
       />
 
       <main className="flex-1 overflow-y-auto px-4 pt-20 pb-24 md:p-10 md:pt-10">
+        {activeTab === 'admin' && <Admin />}
+
         {activeTab === 'stats' && (
           <Stats
             history={history}

@@ -1,9 +1,14 @@
-import { BookOpen, BarChart3, Home, LogOut, Loader2, User } from 'lucide-react';
+import { BookOpen, BarChart3, Home, LogOut, Loader2, User, ShieldCheck } from 'lucide-react';
+
+const ADMIN_EMAIL = 'chemapm30@gmail.com';
 
 export default function Navbar({ activeTab, onTabChange, questionCount, user, syncing, onLogout }) {
+  const isAdmin = user?.email === ADMIN_EMAIL;
+
   const tabs = [
-    { id: 'practice', label: 'Practicar', icon: Home },
-    { id: 'stats', label: 'Estadísticas', icon: BarChart3 },
+    { id: 'practice', label: 'Practicar',    icon: Home        },
+    { id: 'stats',    label: 'Estadísticas', icon: BarChart3   },
+    ...(isAdmin ? [{ id: 'admin', label: 'Admin', icon: ShieldCheck }] : []),
   ];
 
   const displayName = user?.user_metadata?.full_name
