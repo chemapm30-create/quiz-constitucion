@@ -16148,5 +16148,70 @@
     ],
     "correcta": "Las dos respuestas marcadas (*) son correctas.",
     "fuente": "WEB"
+  },
+  {
+    "id": "pdf1_76",
+    "tema": "Tema 1",
+    "pregunta": "¿Podrá acordarse el secuestro de publicaciones, grabaciones y otros medios de información?",
+    "opciones": [
+      "No, en ningún caso",
+      "Solamente en virtud de resolución judicial",
+      "Solamente en virtud de resolución administrativa o judicial",
+      "Solamente durante la vigencia de los estados de alarma, excepción y sitio"
+    ],
+    "correcta": "Solamente en virtud de resolución judicial",
+    "fuente": "PDF1"
+  },
+  {
+    "id": "pdf1_147",
+    "tema": "Tema 1",
+    "pregunta": "Los poderes públicos promoverán las condiciones favorables:",
+    "opciones": [
+      "Para el progreso social y económico",
+      "Para una distribución de la renta regional más equitativa",
+      "Para una distribución de la renta personal más equitativa",
+      "Todas las respuestas anteriores son correctas"
+    ],
+    "correcta": "Todas las respuestas anteriores son correctas",
+    "fuente": "PDF1"
+  },
+  {
+    "id": "pdf1_166",
+    "tema": "Tema 1",
+    "pregunta": "Los poderes públicos regularán la utilización del suelo de acuerdo con el interés general para impedir:",
+    "opciones": [
+      "La construcción ilegal",
+      "El urbanismo salvaje",
+      "La especulación",
+      "El enriquecimiento injusto"
+    ],
+    "correcta": "La especulación",
+    "fuente": "PDF1"
+  },
+  {
+    "id": "pdf1_789",
+    "tema": "Tema 2",
+    "pregunta": "¿Quién dirigirá la Administración del Estado en el territorio de la Comunidad Autónoma?",
+    "opciones": [
+      "El Presidente de la Comunidad Autónoma",
+      "El Gobernador Civil",
+      "Un Delegado nombrado por el Gobierno",
+      "Un Delegado nombrado por las Cortes Generales"
+    ],
+    "correcta": "Un Delegado nombrado por el Gobierno",
+    "fuente": "PDF1"
+  },
+  {
+    "id": "pdf2_949",
+    "tema": "Tema 2",
+    "pregunta": "¿Cuál de las siguientes afirmaciones es correcta?",
+    "opciones": [
+      "Las Comunidades Autónomas pueden aprobar leyes de transferencias",
+      "Existen 15 Comunidades Autónomas",
+      "Existen 2 ciudades autonómicas",
+      "Las Comunidades Autónomas pueden aprobar leyes marco"
+    ],
+    "correcta": "Existen 2 ciudades autonómicas",
+    "fuente": "PDF2"
   }
 ]
