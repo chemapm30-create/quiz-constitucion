@@ -16213,5 +16213,2358 @@
     ],
     "correcta": "Existen 2 ciudades autonómicas",
     "fuente": "PDF2"
+  },
+  {
+    "id": "ta2_t1_1",
+    "tema": "Tema 1",
+    "pregunta": "¿Qué derecho garantiza la Constitución Española de 1978?",
+    "opciones": [
+      "El derecho al honor.",
+      "A la intimidad personal y familiar.",
+      "A la propia imagen.",
+      "Todas son correctas."
+    ],
+    "correcta": "Todas son correctas.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t1_2",
+    "tema": "Tema 1",
+    "pregunta": "¿Cómo contempla la Constitución Española de 1978, el derecho al honor, a la intimidad personal y familiar y a la propia imagen?",
+    "opciones": [
+      "La garantiza.",
+      "La reconoce.",
+      "La reconoce y la garantiza.",
+      "La reconoce, la garantiza y la protege."
+    ],
+    "correcta": "La garantiza.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t1_3",
+    "tema": "Tema 1",
+    "pregunta": "¿Cuál de los siguientes elementos define adecuadamente el carácter normativo de la Constitución Española de 1978 según su configuración jurídica?",
+    "opciones": [
+      "Es una declaración de principios sin valor vinculante para los poderes públicos.",
+      "Establece exclusivamente los procedimientos de reforma constitucional.",
+      "Contiene normas con eficacia jurídica directa y obligatoria para los poderes públicos.",
+      "Es un texto simbólico sin capacidad de producir efectos jurídicos inmediatos."
+    ],
+    "correcta": "Contiene normas con eficacia jurídica directa y obligatoria para los poderes públicos.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t2_1",
+    "tema": "Tema 2",
+    "pregunta": "¿Qué comprende, para la Constitución Española de 1978, la organización territorial?",
+    "opciones": [
+      "Los Municipios, exclusivamente.",
+      "Los Municipios y las Comunidades Autónomas.",
+      "Los Municipios, las Provincias y las Comunidades Autónomas.",
+      "Las Comunidades Autónomas, exclusivamente."
+    ],
+    "correcta": "Los Municipios, las Provincias y las Comunidades Autónomas.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t2_2",
+    "tema": "Tema 2",
+    "pregunta": "Según la Constitución Española, ¿qué entidad tiene competencia exclusiva en materia de régimen electoral general?",
+    "opciones": [
+      "Las Comunidades Autónomas, en el ejercicio de su autonomía institucional.",
+      "Las Diputaciones Provinciales, en relación con los municipios de su provincia.",
+      "El Estado, en virtud del artículo 149.1 de la Constitución.",
+      "La Junta Electoral Central, como órgano constitucional independiente."
+    ],
+    "correcta": "El Estado, en virtud del artículo 149.1 de la Constitución.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t3_1",
+    "tema": "Tema 3",
+    "pregunta": "¿Mediante qué norma fue publicado el Estatuto de Autonomía de la Comunidad de Madrid?",
+    "opciones": [
+      "Ley 3/1983, de 25 de febrero.",
+      "Real Decreto Ley 3/1983, de 25 de febrero.",
+      "Ley Orgánica 3/1983, de 25 de febrero.",
+      "Ninguna de las anteriores es correcta."
+    ],
+    "correcta": "Ley Orgánica 3/1983, de 25 de febrero.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t3_2",
+    "tema": "Tema 3",
+    "pregunta": "El Gobierno de la Comunidad de Madrid es el órgano colegiado que dirige la política de la Comunidad de Madrid. ¿Qué funciones le corresponden?",
+    "opciones": [
+      "Ejecutivas, reglamentarias y políticas.",
+      "Administrativas, políticas y reglamentarias.",
+      "Ejecutivas y administrativas, así como el ejercicio de la potestad reglamentaria.",
+      "Ejecutivas y administrativas solamente."
+    ],
+    "correcta": "Ejecutivas y administrativas, así como el ejercicio de la potestad reglamentaria.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t3_3",
+    "tema": "Tema 3",
+    "pregunta": "En cuanto a la potestad reglamentaria de la Comunidad de Madrid, ¿cuál es el órgano competente para su ejercicio conforme al Estatuto?",
+    "opciones": [
+      "El Tribunal Superior de Justicia de Madrid, como órgano garante de la legalidad autonómica.",
+      "La Asamblea de Madrid, por ser el órgano legislativo con capacidad normativa.",
+      "El Gobierno de la Comunidad de Madrid, a través de su presidente y consejeros.",
+      "Las Juntas de Distrito, en coordinación con la Asamblea y bajo delegación directa del Estado."
+    ],
+    "correcta": "El Gobierno de la Comunidad de Madrid, a través de su presidente y consejeros.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t3_4",
+    "tema": "Tema 3",
+    "pregunta": "Según el Estatuto de Autonomía y la práctica parlamentaria autonómica, ¿cuál es el procedimiento correcto para la elección del Presidente de la Comunidad de Madrid?",
+    "opciones": [
+      "Nombrado directamente por el Rey a propuesta del Gobierno central, sin intervención de la Asamblea.",
+      "Designado por sufragio universal directo en elecciones autonómicas separadas de las legislativas.",
+      "Propuesto por el Presidente del Congreso de los Diputados y ratificado por la Asamblea de Madrid.",
+      "Elegido por la Asamblea de Madrid de entre sus miembros y nombrado por el Rey."
+    ],
+    "correcta": "Elegido por la Asamblea de Madrid de entre sus miembros y nombrado por el Rey.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t4_1",
+    "tema": "Tema 4",
+    "pregunta": "¿Cuáles son los órganos superiores de Gobierno y Administración de la Comunidad de Madrid?",
+    "opciones": [
+      "El Presidente y los Consejeros.",
+      "El Presidente y la Asamblea.",
+      "El Presidente y el Consejo de Gobierno.",
+      "El Presidente, el Consejo de Gobierno y los Consejeros."
+    ],
+    "correcta": "El Presidente y el Consejo de Gobierno.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t4_2",
+    "tema": "Tema 4",
+    "pregunta": "El Presidente de la Comunidad de Madrid es elegido de entre sus miembros por la Asamblea y nombrado por el Rey, ¿mediante qué norma?",
+    "opciones": [
+      "Ley Orgánica.",
+      "Real Decreto.",
+      "Ley de la Asamblea.",
+      "Orden Ministerial."
+    ],
+    "correcta": "Real Decreto.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t4_3",
+    "tema": "Tema 4",
+    "pregunta": "Dentro del funcionamiento interno de una Consejería, ¿cuál de los siguientes órganos ejerce funciones de dirección, coordinación y ejecución en un ámbito sectorial específico, bajo la autoridad del Consejero?",
+    "opciones": [
+      "El Secretario General del Gobierno autonómico.",
+      "El Director General.",
+      "El Delegado del Gobierno en la Comunidad de Madrid.",
+      "El Presidente de la Asamblea."
+    ],
+    "correcta": "El Director General.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_1",
+    "tema": "Tema 29",
+    "pregunta": "¿A qué se dedica el Capítulo III del Título I en la Ley de Servicios Sociales de la Comunidad de Madrid?",
+    "opciones": [
+      "Régimen sancionador.",
+      "Planificación de los servicios sociales.",
+      "Provisión de los servicios sociales.",
+      "Organización funcional."
+    ],
+    "correcta": "Organización funcional.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_2",
+    "tema": "Tema 29",
+    "pregunta": "¿Cuál es el enfoque principal del Capítulo II dentro del Título Preliminar de la Ley de Servicios Sociales de la Comunidad de Madrid?",
+    "opciones": [
+      "Establecer las competencias de las Administraciones públicas.",
+      "Definir el régimen sancionador.",
+      "Regular la financiación del sistema público.",
+      "Establecer la provisión de servicios sociales."
+    ],
+    "correcta": "Establecer las competencias de las Administraciones públicas.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_3",
+    "tema": "Tema 29",
+    "pregunta": "¿Qué aspectos clave se tratan en el Capítulo I del Título VI de la Ley de Servicios Sociales de la Comunidad de Madrid?",
+    "opciones": [
+      "Calidad, evaluación y transparencia.",
+      "Financiación y presupuestos.",
+      "Planificación y ordenación.",
+      "Infracciones y sanciones."
+    ],
+    "correcta": "Calidad, evaluación y transparencia.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_4",
+    "tema": "Tema 29",
+    "pregunta": "¿Cuál de las siguientes leyes pertenece a la Comunidad de Madrid y está relacionada con la mediación familiar?",
+    "opciones": [
+      "Ley Integral contra la Violencia de Género de la Comunidad de Madrid.",
+      "Ley del Voluntariado en la Comunidad de Madrid.",
+      "Ley de Mediación Familiar de la Comunidad de Madrid.",
+      "Ley de Identidad y Expresión de Género e Igualdad Social de la Comunidad de Madrid."
+    ],
+    "correcta": "Ley de Mediación Familiar de la Comunidad de Madrid.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_5",
+    "tema": "Tema 29",
+    "pregunta": "¿Cuál es el enfoque principal de la Ley de 14 de diciembre a nivel estatal en España?",
+    "opciones": [
+      "Modificación del sistema de protección a la infancia y a la adolescencia.",
+      "Protección integral contra la violencia de género.",
+      "Promoción de la autonomía personal y atención a las personas en situación de dependencia.",
+      "Igualdad efectiva de mujeres y hombres."
+    ],
+    "correcta": "Promoción de la autonomía personal y atención a las personas en situación de dependencia.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_6",
+    "tema": "Tema 29",
+    "pregunta": "¿Cuál es la función principal del Consejo de Servicios Sociales según la Ley de Servicios Sociales de la Comunidad de Madrid?",
+    "opciones": [
+      "Un órgano consultivo y participativo que asesora a la Comunidad de Madrid en materia de servicios sociales.",
+      "Un programa de financiación para proyectos de servicios sociales innovadores.",
+      "Un sistema de inspección para garantizar la calidad de los servicios sociales privados.",
+      "Un registro de todas las organizaciones de voluntariado en la Comunidad de Madrid."
+    ],
+    "correcta": "Un órgano consultivo y participativo que asesora a la Comunidad de Madrid en materia de servicios sociales.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_7",
+    "tema": "Tema 29",
+    "pregunta": "¿Cómo se proveen las prestaciones por el Sistema Público de Servicios Sociales de la Comunidad de Madrid?",
+    "opciones": [
+      "Solo a través de la contratación pública tradicional.",
+      "Únicamente por entidades religiosas.",
+      "Directamente por las Administraciones públicas o indirectamente a través de actores privados bajo responsabilidad pública.",
+      "Exclusivamente por organizaciones sin ánimo de lucro."
+    ],
+    "correcta": "Directamente por las Administraciones públicas o indirectamente a través de actores privados bajo responsabilidad pública.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_8",
+    "tema": "Tema 29",
+    "pregunta": "¿Qué elementos se destacan como inherentes y complementarios a la calidad de los servicios sociales?",
+    "opciones": [
+      "La centralización de todos los servicios en una única entidad.",
+      "La eliminación de la inspección de los servicios sociales.",
+      "La transparencia, la inspección y la formación.",
+      "La privatización completa de los servicios sociales."
+    ],
+    "correcta": "La transparencia, la inspección y la formación.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_9",
+    "tema": "Tema 29",
+    "pregunta": "¿Cuál es el propósito del «concierto social» introducido en la normativa de servicios sociales de la Comunidad de Madrid?",
+    "opciones": [
+      "Un instrumento para reducir la participación ciudadana en los servicios sociales.",
+      "Una forma de evitar la contratación pública tradicional.",
+      "Un sistema para financiar exclusivamente a organizaciones religiosas.",
+      "Un mecanismo de colaboración público-privada para dar mayor estabilidad y calidad a los servicios."
+    ],
+    "correcta": "Un mecanismo de colaboración público-privada para dar mayor estabilidad y calidad a los servicios.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_10",
+    "tema": "Tema 29",
+    "pregunta": "¿Cuáles de los siguientes son principios rectores del Sistema Público de Servicios Sociales según la Ley de la Comunidad de Madrid?",
+    "opciones": [
+      "Confidencialidad, gratuidad, inmediatez y especialización.",
+      "Responsabilidad pública, calidad, planificación y evaluación.",
+      "Discrecionalidad, opacidad, improvisación y caridad.",
+      "Centralización, jerarquía, burocracia y control."
+    ],
+    "correcta": "Responsabilidad pública, calidad, planificación y evaluación.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_11",
+    "tema": "Tema 29",
+    "pregunta": "¿Cuál de las siguientes es una competencia de la Administración de la Comunidad de Madrid en materia de servicios sociales?",
+    "opciones": [
+      "La regulación del mercado laboral.",
+      "La recaudación de impuestos municipales.",
+      "El diseño de criterios generales para la atención social primaria.",
+      "La gestión de residencias de ancianos privadas."
+    ],
+    "correcta": "El diseño de criterios generales para la atención social primaria.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_12",
+    "tema": "Tema 29",
+    "pregunta": "¿Cuál de los siguientes principios rige la intervención social según la Ley de Servicios Sociales de la Comunidad de Madrid?",
+    "opciones": [
+      "Centralización administrativa.",
+      "Segregación por edad.",
+      "Uniformidad cultural.",
+      "Integración familiar y social."
+    ],
+    "correcta": "Integración familiar y social.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_13",
+    "tema": "Tema 29",
+    "pregunta": "¿Qué acción compete a la Administración de la Comunidad de Madrid en relación con la planificación de servicios sociales?",
+    "opciones": [
+      "Recaudar fondos para organizaciones no gubernamentales.",
+      "Gestionar los centros de salud mental.",
+      "Aprobar el Plan Director de Servicios Sociales.",
+      "Elaborar el censo de la población vulnerable."
+    ],
+    "correcta": "Aprobar el Plan Director de Servicios Sociales.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_14",
+    "tema": "Tema 29",
+    "pregunta": "¿Cuál es el cometido principal de los equipos profesionales dentro del Sistema Público de Servicios Sociales?",
+    "opciones": [
+      "Diseñar políticas sociales a nivel nacional.",
+      "Formar a nuevos profesionales en servicios sociales.",
+      "Asegurar la integralidad y correcta aplicación de las medidas de apoyo.",
+      "Gestionar los recursos económicos del Sistema Público de Servicios Sociales."
+    ],
+    "correcta": "Asegurar la integralidad y correcta aplicación de las medidas de apoyo.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_15",
+    "tema": "Tema 29",
+    "pregunta": "¿Cómo se accede a los servicios sociales de atención especializada?",
+    "opciones": [
+      "Por orden judicial.",
+      "Directamente por el interesado sin necesidad de evaluación previa.",
+      "A través de una solicitud online.",
+      "A propuesta de los profesionales de los servicios sociales de atención primaria."
+    ],
+    "correcta": "A propuesta de los profesionales de los servicios sociales de atención primaria.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_16",
+    "tema": "Tema 29",
+    "pregunta": "¿Cuál es una de las funciones principales del nivel de Atención Social Especializada?",
+    "opciones": [
+      "Realizar actividades de ocio y tiempo libre para la comunidad.",
+      "Valorar, diagnosticar y orientar en situaciones que requieren atención especializada.",
+      "Gestionar el presupuesto de los servicios sociales a nivel local.",
+      "Supervisar el trabajo de los servicios de atención primaria."
+    ],
+    "correcta": "Valorar, diagnosticar y orientar en situaciones que requieren atención especializada.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_17",
+    "tema": "Tema 29",
+    "pregunta": "¿Qué constituye una Red Especializada de Servicios Sociales?",
+    "opciones": [
+      "Un programa de formación para profesionales de servicios sociales.",
+      "Un sistema de evaluación de la calidad de los servicios sociales.",
+      "Un conjunto de prestaciones, servicios y equipamientos destinados a un mismo sector de atención.",
+      "Un registro de todos los usuarios de los servicios sociales."
+    ],
+    "correcta": "Un conjunto de prestaciones, servicios y equipamientos destinados a un mismo sector de atención.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_18",
+    "tema": "Tema 29",
+    "pregunta": "¿Cuál es la principal obligación de las entidades locales respecto a sus catálogos de servicios sociales?",
+    "opciones": [
+      "Comunicar las prestaciones a la Comunidad Autónoma para su inclusión en la Cartera de Servicios.",
+      "Gestionar directamente la Cartera de Servicios Sociales.",
+      "Supervisar la formación de los profesionales.",
+      "Establecer los derechos de los profesionales."
+    ],
+    "correcta": "Comunicar las prestaciones a la Comunidad Autónoma para su inclusión en la Cartera de Servicios.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_19",
+    "tema": "Tema 29",
+    "pregunta": "¿Qué derecho se reconoce a los profesionales de los servicios sociales en relación con su vida personal?",
+    "opciones": [
+      "Gestionar los recursos económicos de los servicios sociales.",
+      "Representar legalmente a los usuarios.",
+      "Garantizar la conciliación de la vida laboral y personal.",
+      "Establecer las normas internas de los centros."
+    ],
+    "correcta": "Garantizar la conciliación de la vida laboral y personal.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_20",
+    "tema": "Tema 29",
+    "pregunta": "¿Qué pueden hacer los profesionales de los servicios sociales si un acto profesional entra en conflicto con sus convicciones morales?",
+    "opciones": [
+      "Discriminar a los usuarios por motivos personales.",
+      "Abstenerse de actos que contradigan sus convicciones morales.",
+      "Divulgar información confidencial de los usuarios.",
+      "Delegar funciones en personal no cualificado."
+    ],
+    "correcta": "Abstenerse de actos que contradigan sus convicciones morales.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_21",
+    "tema": "Tema 29",
+    "pregunta": "¿Quiénes se consideran profesionales de los servicios sociales según la Ley de Servicios Sociales de la Comunidad de Madrid?",
+    "opciones": [
+      "Estudiantes en prácticas de carreras sociales.",
+      "Familiares de los usuarios que participan en el cuidado.",
+      "Empleados públicos y trabajadores de entidades privadas que prestan atención social.",
+      "Voluntarios que colaboran ocasionalmente en programas sociales."
+    ],
+    "correcta": "Empleados públicos y trabajadores de entidades privadas que prestan atención social.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_22",
+    "tema": "Tema 29",
+    "pregunta": "¿Qué es la Historia Social Única?",
+    "opciones": [
+      "Un registro de las intervenciones realizadas por diferentes profesionales de la salud.",
+      "Un informe sobre el impacto de las políticas sociales en la comunidad.",
+      "Un documento que registra datos personales, familiares, sanitarios, económicos y laborales del usuario.",
+      "Un plan detallado para la construcción de viviendas sociales."
+    ],
+    "correcta": "Un documento que registra datos personales, familiares, sanitarios, económicos y laborales del usuario.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_23",
+    "tema": "Tema 29",
+    "pregunta": "¿Cuál es la finalidad principal de la Historia Social Única en la interrelación entre los servicios sociales?",
+    "opciones": [
+      "Limitar el acceso a los servicios sociales especializados.",
+      "Reducir los costos de los servicios sociales de atención primaria.",
+      "Centralizar la información en un único sistema informático.",
+      "Asegurar la continuidad y complementariedad de las intervenciones."
+    ],
+    "correcta": "Asegurar la continuidad y complementariedad de las intervenciones.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_24",
+    "tema": "Tema 29",
+    "pregunta": "¿Qué elementos debe incluir, al menos, el plan individualizado de intervención social?",
+    "opciones": [
+      "Normativa legal aplicable, organigrama del centro de servicios sociales y actas de reuniones del equipo.",
+      "Análisis global de la situación, objetivos, actuaciones, categorías profesionales, aceptación del plan y método de seguimiento.",
+      "Datos de contacto de los familiares, historial médico detallado, registro de propiedades y cuentas bancarias.",
+      "Cronograma de actividades, presupuesto asignado, listado de voluntarios y evaluación de satisfacción del usuario."
+    ],
+    "correcta": "Análisis global de la situación, objetivos, actuaciones, categorías profesionales, aceptación del plan y método de seguimiento.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_25",
+    "tema": "Tema 29",
+    "pregunta": "¿Cuál es el plazo máximo para la aprobación del plan individualizado por el equipo profesional?",
+    "opciones": [
+      "Quince días.",
+      "Cinco días.",
+      "Veinte días.",
+      "Diez días."
+    ],
+    "correcta": "Diez días.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_26",
+    "tema": "Tema 29",
+    "pregunta": "¿Cuál es el objetivo principal de someter la prestación de servicios sociales a regímenes de comunicación, autorización y acreditación?",
+    "opciones": [
+      "Reducir la inversión pública en servicios sociales.",
+      "Garantizar la ordenación territorial, accesibilidad universal y calidad de los servicios.",
+      "Limitar la participación de la iniciativa privada.",
+      "Promover la competencia entre entidades públicas y privadas."
+    ],
+    "correcta": "Garantizar la ordenación territorial, accesibilidad universal y calidad de los servicios.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_27",
+    "tema": "Tema 29",
+    "pregunta": "¿Qué se entiende por centros de atención social según el artículo 52 de la Ley de Servicios Sociales de la Comunidad de Madrid?",
+    "opciones": [
+      "Los programas de asistencia económica para personas en situación de vulnerabilidad.",
+      "Las oficinas administrativas encargadas de la gestión de los servicios sociales.",
+      "Las organizaciones no gubernamentales que colaboran con los servicios sociales.",
+      "Las unidades orgánicas y funcionales con infraestructura material donde se realizan prestaciones de servicios sociales."
+    ],
+    "correcta": "Las unidades orgánicas y funcionales con infraestructura material donde se realizan prestaciones de servicios sociales.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_28",
+    "tema": "Tema 29",
+    "pregunta": "¿Qué entidad regula las condiciones de apertura, funcionamiento y cierre de los centros y servicios de atención social en la Comunidad de Madrid?",
+    "opciones": [
+      "El Defensor del Pueblo.",
+      "La consejería competente en materia de servicios sociales.",
+      "El Consejo de Gobierno.",
+      "El Ministerio de Asuntos Sociales."
+    ],
+    "correcta": "La consejería competente en materia de servicios sociales.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_29",
+    "tema": "Tema 29",
+    "pregunta": "¿Qué son los consejos locales de servicios sociales según la Ley de la Comunidad de Madrid?",
+    "opciones": [
+      "Órganos de participación en el ámbito territorial local.",
+      "Comisiones de evaluación de la calidad del empleo público.",
+      "Organismos de control financiero de la Comunidad de Madrid.",
+      "Entidades de gestión de voluntariado internacional."
+    ],
+    "correcta": "Órganos de participación en el ámbito territorial local.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_30",
+    "tema": "Tema 29",
+    "pregunta": "¿Cuál es el papel de la acción voluntaria en relación con el Sistema Público de Servicios Sociales de la Comunidad de Madrid?",
+    "opciones": [
+      "Sustituir la labor de los profesionales del sector.",
+      "Generar una relación laboral con la administración pública.",
+      "Implicar una contraprestación económica directa al voluntario.",
+      "Actuar de forma complementaria al Sistema Público de Servicios Sociales."
+    ],
+    "correcta": "Actuar de forma complementaria al Sistema Público de Servicios Sociales.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_31",
+    "tema": "Tema 29",
+    "pregunta": "¿Cómo pueden las Administraciones públicas integradas en el Sistema Público de Servicios Sociales prestar servicios sociales?",
+    "opciones": [
+      "Exclusivamente a través de entidades privadas subcontratadas.",
+      "Únicamente mediante convenios con organizaciones no gubernamentales.",
+      "Solo a través de la gestión directa por parte del Estado central.",
+      "Directamente o mediante fórmulas de gestión indirecta legalmente establecidas."
+    ],
+    "correcta": "Directamente o mediante fórmulas de gestión indirecta legalmente establecidas.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_32",
+    "tema": "Tema 29",
+    "pregunta": "¿Qué se entiende por servicios sociales públicos de gestión directa?",
+    "opciones": [
+      "Los prestados por las Administraciones públicas con recursos propios.",
+      "Aquellos que requieren la aprobación del Consejo de Ministros.",
+      "Los prestados por entidades privadas sin ánimo de lucro.",
+      "Los gestionados a través de contratos de colaboración público-privada."
+    ],
+    "correcta": "Los prestados por las Administraciones públicas con recursos propios.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_33",
+    "tema": "Tema 29",
+    "pregunta": "¿A través de qué forma de gestión se llevan a cabo las actuaciones que supongan el ejercicio de autoridad sobre entidades prestadoras de servicios sociales?",
+    "opciones": [
+      "La subcontratación a empresas de servicios.",
+      "La gestión indirecta mediante conciertos sociales.",
+      "La gestión directa por las Administraciones públicas.",
+      "La colaboración con entidades religiosas."
+    ],
+    "correcta": "La gestión directa por las Administraciones públicas.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_34",
+    "tema": "Tema 29",
+    "pregunta": "¿Qué se considera obstrucción a la actuación inspectora de servicios sociales?",
+    "opciones": [
+      "Mejorar la coordinación entre diferentes entidades prestadoras de servicios sociales.",
+      "Solicitar información adicional a los usuarios de los servicios sociales.",
+      "Promover la participación de la comunidad en la gestión de los servicios sociales.",
+      "Dificultar o impedir el ejercicio de la inspección de servicios sociales."
+    ],
+    "correcta": "Dificultar o impedir el ejercicio de la inspección de servicios sociales.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_35",
+    "tema": "Tema 29",
+    "pregunta": "¿Qué debe constar en las actas levantadas tras una inspección de servicios sociales?",
+    "opciones": [
+      "La fecha, hora y lugar de la inspección.",
+      "Los planes de formación del personal de la entidad.",
+      "Las quejas presentadas por los usuarios en el último año.",
+      "El número de usuarios atendidos por la entidad."
+    ],
+    "correcta": "La fecha, hora y lugar de la inspección.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_36",
+    "tema": "Tema 29",
+    "pregunta": "¿Cuál es una de las obligaciones de las entidades titulares ante la inspección de servicios sociales?",
+    "opciones": [
+      "Realizar donaciones económicas a la entidad inspectora.",
+      "Promover campañas de publicidad a favor de la entidad.",
+      "Facilitar el acceso a las instalaciones y sistemas de información.",
+      "Participar en actividades de voluntariado organizadas por la entidad."
+    ],
+    "correcta": "Facilitar el acceso a las instalaciones y sistemas de información.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_37",
+    "tema": "Tema 29",
+    "pregunta": "¿Cuál es el propósito de visitar el domicilio de los beneficiarios de las prestaciones de servicios sociales?",
+    "opciones": [
+      "Para promocionar los servicios ofrecidos por la entidad.",
+      "Para verificar la calidad de la asistencia y comprobar la persistencia de los requisitos.",
+      "Para ofrecer servicios adicionales a los beneficiarios.",
+      "Para realizar encuestas de satisfacción a los usuarios."
+    ],
+    "correcta": "Para verificar la calidad de la asistencia y comprobar la persistencia de los requisitos.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_38",
+    "tema": "Tema 29",
+    "pregunta": "¿Qué constituye una infracción administrativa en materia de servicios sociales según la Ley de la Comunidad de Madrid?",
+    "opciones": [
+      "Quejas de usuarios de servicios sociales.",
+      "Acciones u omisiones tipificadas en la ley de servicios sociales.",
+      "Violaciones del código penal.",
+      "Incumplimientos de contratos mercantiles."
+    ],
+    "correcta": "Acciones u omisiones tipificadas en la ley de servicios sociales.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_39",
+    "tema": "Tema 29",
+    "pregunta": "¿Quiénes son responsables de las infracciones cometidas en el ejercicio de la actividad de centros y servicios sociales?",
+    "opciones": [
+      "Usuarios de los servicios sociales.",
+      "Familiares de los usuarios de los servicios.",
+      "Voluntarios que colaboran en los centros.",
+      "Titulares, gestores, directores y administradores con dolo o culpa."
+    ],
+    "correcta": "Titulares, gestores, directores y administradores con dolo o culpa.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_40",
+    "tema": "Tema 29",
+    "pregunta": "¿Quién se presume que ostenta la titularidad de un centro o servicio de atención social?",
+    "opciones": [
+      "El que tenga la autorización administrativa del servicio.",
+      "El que tenga más antigüedad en la gestión del centro.",
+      "El propietario del inmueble donde se ubica el centro.",
+      "La persona que figure en el Registro de Entidades, Centros y Servicios de Atención Social."
+    ],
+    "correcta": "La persona que figure en el Registro de Entidades, Centros y Servicios de Atención Social.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_41",
+    "tema": "Tema 29",
+    "pregunta": "¿Cómo se clasifican las infracciones en materia de servicios sociales según la Ley de la Comunidad de Madrid?",
+    "opciones": [
+      "Locales, autonómicas y estatales.",
+      "Leves, graves y muy graves.",
+      "Urgentes, ordinarias y extraordinarias.",
+      "Penales, civiles y administrativas."
+    ],
+    "correcta": "Leves, graves y muy graves.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_42",
+    "tema": "Tema 29",
+    "pregunta": "¿Cuál de los siguientes factores se considera al graduar las sanciones en materia de servicios sociales?",
+    "opciones": [
+      "El volumen de negocio anual del infractor.",
+      "La capacidad económica del infractor.",
+      "La existencia de denuncias previas contra el infractor.",
+      "La reparación de los daños causados antes de la finalización del procedimiento sancionador."
+    ],
+    "correcta": "La reparación de los daños causados antes de la finalización del procedimiento sancionador.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_43",
+    "tema": "Tema 29",
+    "pregunta": "¿Qué organismo realiza la actualización de las cuantías de las sanciones en materia de servicios sociales de la Comunidad de Madrid?",
+    "opciones": [
+      "El Consejo de Gobierno.",
+      "La Asamblea Legislativa.",
+      "El Ministerio de Hacienda.",
+      "El Tribunal Superior de Justicia."
+    ],
+    "correcta": "El Consejo de Gobierno.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_44",
+    "tema": "Tema 29",
+    "pregunta": "¿Cuál es el objetivo principal de dar publicidad a las sanciones impuestas en materia de servicios sociales?",
+    "opciones": [
+      "Para mejorar la imagen pública de la administración.",
+      "Para prevenir conductas infractoras similares.",
+      "Para facilitar la identificación de los infractores por parte de los ciudadanos.",
+      "Para aumentar la recaudación de multas."
+    ],
+    "correcta": "Para prevenir conductas infractoras similares.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_45",
+    "tema": "Tema 29",
+    "pregunta": "De acuerdo con la Ley de Servicios Sociales de la Comunidad de Madrid, una persona con vecindad administrativa en el municipio de Illescas (Toledo) puede acceder a las prestaciones del Sistema Público de Servicios Sociales de la Comunidad de Madrid:",
+    "opciones": [
+      "Sin limitaciones.",
+      "Si es menor de edad.",
+      "Si tiene reconocida una discapacidad, previa acreditación.",
+      "Que atiendan circunstancias de emergencia social."
+    ],
+    "correcta": "Que atiendan circunstancias de emergencia social.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t29_46",
+    "tema": "Tema 29",
+    "pregunta": "La Ley de los Servicios Sociales de la Comunidad de Madrid se aplica:",
+    "opciones": [
+      "A los servicios sociales que presten las Administraciones públicas madrileñas dentro o fuera del territorio de la Comunidad de Madrid.",
+      "A los servicios sociales prestados en la Comunidad de Madrid por todas las entidades privadas con independencia de que sean colaboradoras.",
+      "A los servicios sociales prestados por las entidades públicas vinculadas a las Administraciones públicas en el territorio de la Comunidad de Madrid.",
+      "A todos los servicios sociales, con independencia de la naturaleza del prestador, que se ofrezcan en la Comunidad de Madrid a partir de la entrada en vigor del instrumento reglamentario de desarrollo correspondiente."
+    ],
+    "correcta": "A los servicios sociales prestados por las entidades públicas vinculadas a las Administraciones públicas en el territorio de la Comunidad de Madrid.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t30_1",
+    "tema": "Tema 30",
+    "pregunta": "La red pública de atención social a personas con enfermedad mental en la Comunidad de Madrid se dirige a personas con edades comprendidas entre:",
+    "opciones": [
+      "Los 0 y los 65 años.",
+      "Los 18 y los 65 años.",
+      "Los 18 y los 99 años.",
+      "Es específica para personas con esquizofrenia y con trastorno bipolar."
+    ],
+    "correcta": "Los 18 y los 65 años.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t30_2",
+    "tema": "Tema 30",
+    "pregunta": "La red pública de atención social a personas con enfermedad mental en la Comunidad de Madrid se dirige a personas que:",
+    "opciones": [
+      "Tengan edades comprendidas entre los 18 y los 65 años.",
+      "Residan en la Comunidad de Madrid y sufran enfermedades mentales graves y duraderas (esquizofrenia, trastornos bipolares, trastorno límite de la personalidad, trastornos depresivos graves y recurrentes, trastornos paranoides y otras psicosis).",
+      "Tengan discapacidades y dificultades en su funcionamiento psicosocial y en su integración comunitaria que hagan necesario el apoyo desde alguno de los recursos de la red.",
+      "Todas son correctas."
+    ],
+    "correcta": "Todas son correctas.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t30_3",
+    "tema": "Tema 30",
+    "pregunta": "¿Cuántas unidades de hospitalización breve de psiquiatría para menores existen en la Comunidad de Madrid?",
+    "opciones": [
+      "2",
+      "3",
+      "4",
+      "4 más 1 de carácter excepcional."
+    ],
+    "correcta": "3",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t30_4",
+    "tema": "Tema 30",
+    "pregunta": "Recurso de hospitalización parcial, de tipo ambulatorio, que proporciona una atención integral e intensiva en pacientes menores con trastorno mental grave:",
+    "opciones": [
+      "Centro de Salud Mental para niños y adolescentes.",
+      "Unidad de Agudos para niños y adolescentes.",
+      "Centro de Día para niños y adolescentes.",
+      "Hospital de Día para niños y adolescentes."
+    ],
+    "correcta": "Hospital de Día para niños y adolescentes.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t30_5",
+    "tema": "Tema 30",
+    "pregunta": "Suponen la transformación de los tradicionales hospitales psiquiátricos en centros que proporcionan una alternativa residencial y una labor rehabilitadora especializada, dirigida sobre todo a la patología crónica con escasa autonomía o grandes dificultades para el cuidado personal:",
+    "opciones": [
+      "Centro de Día.",
+      "Unidad de rehabilitación de larga estancia.",
+      "Centro de Salud Mental.",
+      "Equipos de Atención Social y Comunitaria."
+    ],
+    "correcta": "Unidad de rehabilitación de larga estancia.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t30_6",
+    "tema": "Tema 30",
+    "pregunta": "¿Qué es el SESM-DI?",
+    "opciones": [
+      "Equipo de Calle de Salud Mental.",
+      "Programa de Prevención contra la Violencia de Género.",
+      "Servicio de Salud Mental para personas con Discapacidad Intelectual.",
+      "Programa de Atención Integral al Profesional Sanitario Enfermo."
+    ],
+    "correcta": "Servicio de Salud Mental para personas con Discapacidad Intelectual.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t30_7",
+    "tema": "Tema 30",
+    "pregunta": "¿Cuántos hospitales de la Comunidad de Madrid cuentan con unidades o plantas de psiquiatría de agudos?",
+    "opciones": [
+      "20",
+      "21",
+      "22",
+      "23"
+    ],
+    "correcta": "23",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t30_8",
+    "tema": "Tema 30",
+    "pregunta": "Un ingreso involuntario en psiquiatría precisa de autorización judicial que se debe solicitar desde el hospital en que ingresa el paciente en las primeras:",
+    "opciones": [
+      "24 horas, y el juzgado responsable debe valorar y decidir en las siguientes 72 horas.",
+      "24 horas, y el juzgado responsable debe valorar y decidir en esas 24 horas.",
+      "48 horas, y el juzgado responsable debe valorar y decidir en las siguientes 72 horas.",
+      "Ninguna de las anteriores."
+    ],
+    "correcta": "24 horas, y el juzgado responsable debe valorar y decidir en las siguientes 72 horas.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t30_9",
+    "tema": "Tema 30",
+    "pregunta": "Una unidad de hospitalización breve se dirige a la atención de:",
+    "opciones": [
+      "Patologías que pueden poner en peligro la salud o la vida del paciente u otras personas.",
+      "La ineficacia del tratamiento ambulatorio.",
+      "La evaluación, pruebas complementarias y proceso diagnóstico.",
+      "Todas son correctas."
+    ],
+    "correcta": "Todas son correctas.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t30_10",
+    "tema": "Tema 30",
+    "pregunta": "Respecto al tipo de recurso, el Hospital de Día-centro de rehabilitación Dionisia Plaza es:",
+    "opciones": [
+      "Un centro de Salud Mental.",
+      "Un Centro de Rehabilitación de Larga Estancia.",
+      "Un Hospital de Día para niños y adolescentes.",
+      "Un Hospital de Día para adultos."
+    ],
+    "correcta": "Un Hospital de Día para adultos.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t30_11",
+    "tema": "Tema 30",
+    "pregunta": "Forman parte del tercer nivel sanitario y su objetivo es, a partir de una estancia en régimen de ingreso de 6 a 12 meses, iniciar los planteamientos de rehabilitación del enfermo:",
+    "opciones": [
+      "Centro de Salud Mental.",
+      "Unidad de estancia breve.",
+      "Unidad de Rehabilitación de Media Estancia.",
+      "Unidad de Rehabilitación de Larga Estancia."
+    ],
+    "correcta": "Unidad de Rehabilitación de Media Estancia.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t30_12",
+    "tema": "Tema 30",
+    "pregunta": "¿Cuál de los siguientes NO es un recurso de la Consejería de Familia, Juventud y Política Social?",
+    "opciones": [
+      "Centro de Rehabilitación Psicosocial.",
+      "Hospital de Día de Salud Mental.",
+      "EASC.",
+      "Centro de Rehabilitación Laboral."
+    ],
+    "correcta": "Hospital de Día de Salud Mental.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t30_13",
+    "tema": "Tema 30",
+    "pregunta": "¿Cuál de los siguientes NO es un recurso de la Consejería de Sanidad?",
+    "opciones": [
+      "Unidad de Hospitalización Breve de Psiquiatría.",
+      "Centro de Día de Adicciones.",
+      "Residencia de Larga Estancia para personas con adicciones.",
+      "EASC."
+    ],
+    "correcta": "EASC.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t30_14",
+    "tema": "Tema 30",
+    "pregunta": "¿Cuál de los siguientes es un recurso específico para personas con adicciones en la Comunidad de Madrid?",
+    "opciones": [
+      "Centro de Orientación Sociolaboral.",
+      "Centro de Rehabilitación Laboral.",
+      "Centro de Salud Mental.",
+      "EASC."
+    ],
+    "correcta": "Centro de Salud Mental.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t30_15",
+    "tema": "Tema 30",
+    "pregunta": "Una Unidad de Salud Mental en la Comunidad de Madrid se compone como recursos propios de:",
+    "opciones": [
+      "Centros de Salud Mental con equipo de atención a adultos y equipo de atención infanto-juvenil.",
+      "Atención en Salud Mental a Adultos.",
+      "Hospital de Día de Salud Mental de adultos.",
+      "Todas son correctas."
+    ],
+    "correcta": "Todas son correctas.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t30_16",
+    "tema": "Tema 30",
+    "pregunta": "Son Unidades de atención a personas con Trastorno de la Personalidad Graves (TPG):",
+    "opciones": [
+      "Hospitales de Día de TP.",
+      "Comunidad terapéutica de adicciones.",
+      "Programa ATIENDE.",
+      "Todas son correctas."
+    ],
+    "correcta": "Todas son correctas.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t30_17",
+    "tema": "Tema 30",
+    "pregunta": "Unidades con funciones de apoyo a la salud mental y a los problemas adictivos desde la perspectiva psicosocial, dentro de la Consejería de Familia, Juventud y Política Social:",
+    "opciones": [
+      "Servicios residenciales de apoyo al tratamiento ambulatorio.",
+      "Servicios residenciales de cuidados.",
+      "Centro de Orientación Sociolaboral.",
+      "Servicio de Asistencia Psicológica para Jóvenes y el Servicio de Atención a las Adicciones Tecnológicas."
+    ],
+    "correcta": "Servicio de Asistencia Psicológica para Jóvenes y el Servicio de Atención a las Adicciones Tecnológicas.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t30_18",
+    "tema": "Tema 30",
+    "pregunta": "¿Cuál de las siguientes afirmaciones sobre los Centros de Salud Mental es correcta?",
+    "opciones": [
+      "Los centros de salud mental están descentralizados y pertenecen a cada una de las unidades de salud mental.",
+      "Los centros de salud mental están centralizados y pertenecen a la Consejería de Sanidad.",
+      "Los Centros de Salud Mental pertenecen a la Consejería de Familia, Juventud y Política Social.",
+      "Los centros de Salud Mental son recursos de hospitalización parcial, con un objetivo rehabilitador."
+    ],
+    "correcta": "Los centros de salud mental están descentralizados y pertenecen a cada una de las unidades de salud mental.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t30_19",
+    "tema": "Tema 30",
+    "pregunta": "¿Cuál de los siguientes es un recurso compartido por varias unidades asistenciales de salud mental?",
+    "opciones": [
+      "Unidades de Hospitalización Breve infantojuveniles.",
+      "Hospitales de Día de Salud Mental/Centros Educativos Terapéuticos (CET) de niños/as y de adolescentes.",
+      "Unidad de Media Estancia de Salud Mental de Adolescentes.",
+      "Todas son correctas."
+    ],
+    "correcta": "Todas son correctas.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t30_20",
+    "tema": "Tema 30",
+    "pregunta": "¿Cómo puede acceder una persona con un trastorno mental a un Centro de Salud Mental?",
+    "opciones": [
+      "Por derivación del trabajador social de referencia.",
+      "Por derivación del profesional de medicina de familia.",
+      "Por derivación del personal de enfermería de la unidad de hospitalización.",
+      "Por iniciativa personal, mediante el servicio de petición de cita."
+    ],
+    "correcta": "Por derivación del profesional de medicina de familia.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t30_21",
+    "tema": "Tema 30",
+    "pregunta": "Según el Plan Estratégico de Salud Mental y Adicciones 2022-2024 de la Comunidad de Madrid, el componente de mala salud que se define en el epígrafe de datos epidemiológicos es:",
+    "opciones": [
+      "Años vividos con dependencia.",
+      "Años vividos con discapacidad.",
+      "Años de vida perdidos por defunción.",
+      "Años de vida ajustados a la mala salud."
+    ],
+    "correcta": "Años vividos con discapacidad.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t30_22",
+    "tema": "Tema 30",
+    "pregunta": "Las personas con un problema de salud mental grave participan en un Programa cuya misión es prestarles las ayudas necesarias para lograr la recuperación a través de un proceso de tratamiento continuado y de rehabilitación psicosocial. ¿Cuál es la denominación de dicho Programa?",
+    "opciones": [
+      "Programa asistencial de salud mental.",
+      "Programa de continuidad de cuidados.",
+      "Programa de ayudas a la autonomía.",
+      "Programa asistencial de auxilio y soporte a la autonomía."
+    ],
+    "correcta": "Programa de continuidad de cuidados.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t30_23",
+    "tema": "Tema 30",
+    "pregunta": "¿Cuál de las siguientes líneas estratégicas NO está incluida en el Plan Estratégico de Salud Mental y Adicciones de la Comunidad de Madrid, 2022-2024?",
+    "opciones": [
+      "Atención a la Salud Mental en la infancia y adolescencia.",
+      "Atención a las personas con trastornos del espectro autista.",
+      "Atención a las personas con trastornos de la conducta alimentaria.",
+      "Atención a las personas con trastornos depresivos persistentes."
+    ],
+    "correcta": "Atención a las personas con trastornos depresivos persistentes.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t31_1",
+    "tema": "Tema 31",
+    "pregunta": "El Plan Estratégico de Salud Mental y Adicciones (PSMYA) del Servicio Madrileño de Salud:",
+    "opciones": [
+      "Fue aprobado el 21 de diciembre de 2022.",
+      "Se alinea con el Plan de Acción Europeo en Salud Mental de la OMS de 2013.",
+      "Se propone afrontar los retos identificados bajo el marco del Plan de Acción sobre Salud Mental de la OMS 2013/2020.",
+      "Todas son correctas."
+    ],
+    "correcta": "Todas son correctas.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t31_2",
+    "tema": "Tema 31",
+    "pregunta": "El Plan Estratégico de Salud Mental y Adicciones (PSMYA) incluye:",
+    "opciones": [
+      "Las adicciones comportamentales o sin sustancia.",
+      "Las adicciones con sustancia, pero no las comportamentales.",
+      "No incluye las adicciones comportamentales.",
+      "Las opciones b y c no son correctas."
+    ],
+    "correcta": "Las adicciones comportamentales o sin sustancia.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t31_3",
+    "tema": "Tema 31",
+    "pregunta": "Los objetivos y las actuaciones planteadas del PSMYA alcanzan a:",
+    "opciones": [
+      "El Servicio Madrileño de Salud.",
+      "La Consejería de Familia, Juventud y Política Social.",
+      "El Servicio Madrileño de Salud e incluye la colaboración estratégica y coordinación imprescindible con la Consejería de Familia, Juventud y Política Social.",
+      "El Servicio Madrileño de Salud e incluye la colaboración con la Consejería de Familia, Juventud y Política Social, abarcando también áreas como la educativa y de justicia."
+    ],
+    "correcta": "El Servicio Madrileño de Salud e incluye la colaboración con la Consejería de Familia, Juventud y Política Social, abarcando también áreas como la educativa y de justicia.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t31_4",
+    "tema": "Tema 31",
+    "pregunta": "«Garantía del ejercicio de la Autonomía de las personas con Trastorno Mental y promoción de su máximo grado posible y consecución de su proyecto vital». Este enunciado pertenece dentro del PSMYA a:",
+    "opciones": [
+      "Misión.",
+      "Visión.",
+      "Valores.",
+      "Objetivos estratégicos."
+    ],
+    "correcta": "Visión.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t31_5",
+    "tema": "Tema 31",
+    "pregunta": "«Definir, planificar, implementar y evaluar las actuaciones efectivas y coordinadas que cubran las necesidades identificadas para mejorar la atención a la salud mental y a los trastornos adictivos de la población de la Comunidad de Madrid». Este enunciado pertenece dentro del PSMYA a:",
+    "opciones": [
+      "Misión.",
+      "Visión.",
+      "Valores.",
+      "Objetivos estratégicos."
+    ],
+    "correcta": "Misión.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t31_6",
+    "tema": "Tema 31",
+    "pregunta": "El PSMYA del Servicio Madrileño de Salud plantea:",
+    "opciones": [
+      "12 líneas estratégicas con 94 objetivos específicos para cuya consecución se proponen 287 actuaciones.",
+      "11 líneas estratégicas con 94 objetivos específicos para cuya consecución se proponen 287 actuaciones.",
+      "13 líneas estratégicas con 94 objetivos específicos para cuya consecución se proponen 287 actuaciones.",
+      "14 líneas estratégicas con 94 objetivos específicos para cuya consecución se proponen 287 actuaciones."
+    ],
+    "correcta": "12 líneas estratégicas con 94 objetivos específicos para cuya consecución se proponen 287 actuaciones.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t31_7",
+    "tema": "Tema 31",
+    "pregunta": "La Línea estratégica 0 del PSMYA responde a:",
+    "opciones": [
+      "La necesidad de continuar fortaleciendo la estructura de la Oficina Regional de Coordinación de Salud Mental y Adicciones (ORCSMYA).",
+      "La comunicación y coordinación entre Salud Mental y Adicciones y Atención Primaria.",
+      "La atención y rehabilitación de las personas con trastorno mental grave.",
+      "La participación, humanización y lucha contra el estigma y la discriminación de las personas con problemas de salud mental."
+    ],
+    "correcta": "La necesidad de continuar fortaleciendo la estructura de la Oficina Regional de Coordinación de Salud Mental y Adicciones (ORCSMYA).",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t31_8",
+    "tema": "Tema 31",
+    "pregunta": "Se consideran la columna vertebral del PSMYA las líneas:",
+    "opciones": [
+      "Línea 1.",
+      "Líneas 1 y 2.",
+      "Líneas 1, 2 y 3.",
+      "Líneas 1, 2, 3 y 4."
+    ],
+    "correcta": "Líneas 1 y 2.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t31_9",
+    "tema": "Tema 31",
+    "pregunta": "¿Qué línea estratégica del PSMYA estaba dedicada en el anterior plan a la prevención del suicidio y en el nuevo plan está orientada a la atención a la salud mental de las personas mayores?",
+    "opciones": [
+      "Línea 2.",
+      "Línea 5.",
+      "Línea 7.",
+      "Línea 9."
+    ],
+    "correcta": "Línea 9.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t31_10",
+    "tema": "Tema 31",
+    "pregunta": "La atención a las personas con Trastornos Adictivos, que incluye de forma efectiva la red de adicciones en el ámbito de gestión de la ORCSMYA, pertenece a la:",
+    "opciones": [
+      "Línea 1.",
+      "Línea 2.",
+      "Línea 3.",
+      "Línea 4."
+    ],
+    "correcta": "Línea 2.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t31_11",
+    "tema": "Tema 31",
+    "pregunta": "¿Qué líneas estratégicas del PSMYA se centran en la atención a personas con trastornos específicos?",
+    "opciones": [
+      "Líneas 1, 2 y 3.",
+      "Líneas 3, 4 y 5.",
+      "Líneas 6, 7 y 8.",
+      "Líneas 9, 10 y 11."
+    ],
+    "correcta": "Líneas 6, 7 y 8.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t31_12",
+    "tema": "Tema 31",
+    "pregunta": "Respecto a las bases conceptuales del modelo de atención en salud mental, ¿cuál NO es un principio general del modelo?",
+    "opciones": [
+      "Pertenencia de la atención psiquiátrica a la atención especializada.",
+      "Gestión centralizada de los recursos.",
+      "Carácter público y universal de la asistencia.",
+      "Facilitación de las acciones en el ámbito comunitario."
+    ],
+    "correcta": "Gestión centralizada de los recursos.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t31_13",
+    "tema": "Tema 31",
+    "pregunta": "Es un objetivo general del PSMYA:",
+    "opciones": [
+      "Delimitar la organización jerárquica y funcional de los profesionales de la Red Única de Asistencia Psiquiátrica y Salud Mental.",
+      "Establecer los mecanismos que garanticen la coordinación de Servicios y Dispositivos necesaria para garantizar la Continuidad Asistencial en todo el proceso de cuidados.",
+      "Establecer la Cartera de Servicios de la Red Única de Asistencia Psiquiátrica y Salud Mental.",
+      "Consolidar la Red Única de Asistencia Psiquiátrica y Salud Mental."
+    ],
+    "correcta": "Establecer los mecanismos que garanticen la coordinación de Servicios y Dispositivos necesaria para garantizar la Continuidad Asistencial en todo el proceso de cuidados.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t31_14",
+    "tema": "Tema 31",
+    "pregunta": "Es un objetivo específico del PSMYA:",
+    "opciones": [
+      "Establecer y desarrollar el principio de separación de las funciones de compra y provisión de servicios.",
+      "Establecer la Cartera de Servicios de la Red Única de Asistencia Psiquiátrica y Salud Mental.",
+      "Promover la promoción de la salud y la prevención de los trastornos mentales en los ciudadanos de la Comunidad de Madrid.",
+      "Establecer políticas de calidad y acreditación de Proyectos, Programas, Servicios y Dispositivos."
+    ],
+    "correcta": "Promover la promoción de la salud y la prevención de los trastornos mentales en los ciudadanos de la Comunidad de Madrid.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t31_15",
+    "tema": "Tema 31",
+    "pregunta": "¿Cuál de los siguientes NO es un objetivo operativo del PSMYA?",
+    "opciones": [
+      "Desarrollar estándares de dotación de medios y de recursos humanos para cada tipo de Servicio y/o Dispositivo.",
+      "Potenciar la coordinación entre las diversas instituciones implicadas en la atención a las personas con trastornos mentales.",
+      "Adoptar las Herramientas de Gestión propias de la Atención Especializada para facilitar la integración en este nivel asistencial.",
+      "Establecer Contratos Sanitarios, de carácter anual, con cada una de las Áreas Sanitarias en el marco de la Atención Especializada."
+    ],
+    "correcta": "Establecer Contratos Sanitarios, de carácter anual, con cada una de las Áreas Sanitarias en el marco de la Atención Especializada.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t31_16",
+    "tema": "Tema 31",
+    "pregunta": "La línea 2 del PSMYA se orienta a la:",
+    "opciones": [
+      "Atención a la salud mental en niños y adolescentes.",
+      "Comunicación y coordinación entre Salud Mental y Adicciones y Atención Primaria.",
+      "Atención a las personas con trastornos adictivos.",
+      "Atención a la salud mental en las personas mayores."
+    ],
+    "correcta": "Atención a las personas con trastornos adictivos.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t31_17",
+    "tema": "Tema 31",
+    "pregunta": "La atención a las personas con trastornos del espectro autista se establece en:",
+    "opciones": [
+      "La línea estratégica 2.",
+      "La línea estratégica 3.",
+      "La línea estratégica 6.",
+      "La línea estratégica 7."
+    ],
+    "correcta": "La línea estratégica 6.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t31_18",
+    "tema": "Tema 31",
+    "pregunta": "El PSMYA recoge actuaciones en sinergia con dos importantes programas independientes en la línea:",
+    "opciones": [
+      "Línea 9.",
+      "Línea 10.",
+      "Línea 11.",
+      "Línea 12."
+    ],
+    "correcta": "Línea 10.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t31_19",
+    "tema": "Tema 31",
+    "pregunta": "El PSMYA recoge actuaciones en sinergia con dos importantes programas independientes que son:",
+    "opciones": [
+      "El Plan de prevención del COVID y el Plan de Familias de la Comunidad de Madrid.",
+      "El Plan de Salud Mental de Atención Primaria y el Plan de Salud Mental de Atención Especializada de la Comunidad de Madrid.",
+      "El Plan de prevención del suicidio 2022 de la Comunidad de Madrid y la Estrategia de Seguridad del paciente del Servicio Madrileño de Salud.",
+      "Ninguna de las anteriores."
+    ],
+    "correcta": "El Plan de prevención del suicidio 2022 de la Comunidad de Madrid y la Estrategia de Seguridad del paciente del Servicio Madrileño de Salud.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "ta2_t31_20",
+    "tema": "Tema 31",
+    "pregunta": "La línea 10 del PSMYA mantiene dos partes diferenciadas:",
+    "opciones": [
+      "Atención Primaria y Atención Especializada.",
+      "Una dedicada a la formación y la otra al cuidado de los profesionales.",
+      "Una dedicada a la prevención del estigma y otra a la lucha contra la discriminación.",
+      "Actuaciones más específicas provenientes de otras líneas enfocadas en promoción de la salud mental y prevención en diferentes grupos de edad y poblaciones de riesgo."
+    ],
+    "correcta": "Una dedicada a la formación y la otra al cuidado de los profesionales.",
+    "fuente": "Test App 2"
+  },
+  {
+    "id": "coepa_t1_1",
+    "tema": "Tema 1",
+    "fuente": "COEPA",
+    "pregunta": "La Constitución española establece:",
+    "opciones": [
+      "Un complejo normativo.",
+      "Los poderes públicos.",
+      "Las relaciones jerárquicas.",
+      "Los preceptos constitucionales."
+    ],
+    "correcta": "Las relaciones jerárquicas."
+  },
+  {
+    "id": "coepa_t1_2",
+    "tema": "Tema 1",
+    "fuente": "COEPA",
+    "pregunta": "Esta característica de la CE se debió a la necesidad de poner de acuerdo a sectores políticos e ideológicos muy diversos:",
+    "opciones": [
+      "Es una Constitución extensa, con 169 artículos.",
+      "Es una Constitución muy consensuada.",
+      "Es una constitución muy ambigua.",
+      "Es una Constitución rígida, es decir, imposible modificarla."
+    ],
+    "correcta": "Es una Constitución muy consensuada."
+  },
+  {
+    "id": "coepa_t1_3",
+    "tema": "Tema 1",
+    "fuente": "COEPA",
+    "pregunta": "Se define como aquel en el que el pueblo, depositario de la soberanía nacional, elige a sus representantes:",
+    "opciones": [
+      "Estado electoral.",
+      "Estado Social.",
+      "Estado de Derecho.",
+      "Estado Democrático."
+    ],
+    "correcta": "Estado Democrático."
+  },
+  {
+    "id": "coepa_t1_4",
+    "tema": "Tema 1",
+    "fuente": "COEPA",
+    "pregunta": "Es uno de los valores del ordenamiento jurídico:",
+    "opciones": [
+      "Pluralismo político.",
+      "Soberanía popular.",
+      "Legitimidad.",
+      "Solidaridad interterritorial."
+    ],
+    "correcta": "Pluralismo político."
+  },
+  {
+    "id": "coepa_t1_5",
+    "tema": "Tema 1",
+    "fuente": "COEPA",
+    "pregunta": "El artículo 10 CE establece como fundamento del orden político y la paz social:",
+    "opciones": [
+      "Sometimiento a la Constitución y al Ordenamiento Jurídico.",
+      "Respeto a la ley y a los derechos de los demás.",
+      "Promoción de las condiciones para hacer efectivas la igualdad y la libertad.",
+      "Incorporación de todos los ciudadanos a la vida pública."
+    ],
+    "correcta": "Respeto a la ley y a los derechos de los demás."
+  },
+  {
+    "id": "coepa_t1_6",
+    "tema": "Tema 1",
+    "fuente": "COEPA",
+    "pregunta": "El artículo 17 CE se refiere a:",
+    "opciones": [
+      "Derecho a la libertad personal y a la seguridad.",
+      "Derechos fundamentales y libertades públicas.",
+      "Libertad ideológica, religiosa y de culto.",
+      "Libertad de residencia y de circulación."
+    ],
+    "correcta": "Derecho a la libertad personal y a la seguridad."
+  },
+  {
+    "id": "coepa_t1_7",
+    "tema": "Tema 1",
+    "fuente": "COEPA",
+    "pregunta": "El derecho de reunión pacífica y sin armas, sin necesidad de autorización previa, está recogido en el artículo CE:",
+    "opciones": [
+      "24",
+      "26",
+      "23",
+      "21"
+    ],
+    "correcta": "21"
+  },
+  {
+    "id": "coepa_t1_8",
+    "tema": "Tema 1",
+    "fuente": "COEPA",
+    "pregunta": "El artículo 27 CE reconoce:",
+    "opciones": [
+      "Derecho a la tutela judicial.",
+      "Derecho de sindicación y de huelga.",
+      "Derecho-deber de defender a España.",
+      "Derecho a la educación y libertad de enseñanza."
+    ],
+    "correcta": "Derecho a la educación y libertad de enseñanza."
+  },
+  {
+    "id": "coepa_t1_9",
+    "tema": "Tema 1",
+    "fuente": "COEPA",
+    "pregunta": "Este artículo CE señala que la Ley regulará las peculiaridades propias del régimen jurídico de los Colegios Profesionales y el ejercicio de las profesiones tituladas:",
+    "opciones": [
+      "32",
+      "37",
+      "36",
+      "34"
+    ],
+    "correcta": "36"
+  },
+  {
+    "id": "coepa_t1_10",
+    "tema": "Tema 1",
+    "fuente": "COEPA",
+    "pregunta": "Se plantea directamente ante el Tribunal Constitucional por la violación de los derechos fundamentales y las libertades públicas:",
+    "opciones": [
+      "Recurso de amparo.",
+      "Protección a la familia y a la infancia.",
+      "Defensa de los consumidores.",
+      "Recurso de inconstitucionalidad."
+    ],
+    "correcta": "Recurso de amparo."
+  },
+  {
+    "id": "coepa_t2_1",
+    "tema": "Tema 2",
+    "fuente": "COEPA",
+    "pregunta": "Como capacidad de autogobierno y autoorganización, se establece para distintos niveles de organización política y administrativa:",
+    "opciones": [
+      "El Estado.",
+      "La autonomía.",
+      "El principio de unidad.",
+      "La organización territorial."
+    ],
+    "correcta": "La autonomía."
+  },
+  {
+    "id": "coepa_t2_2",
+    "tema": "Tema 2",
+    "fuente": "COEPA",
+    "pregunta": "Según este artículo CE, las Comunidades Autónomas constituyen, junto a las provincias y los municipios, las entidades en que el Estado se organiza territorialmente:",
+    "opciones": [
+      "135",
+      "137",
+      "139",
+      "131"
+    ],
+    "correcta": "137"
+  },
+  {
+    "id": "coepa_t2_3",
+    "tema": "Tema 2",
+    "fuente": "COEPA",
+    "pregunta": "Es una de las notas características del derecho a la autonomía:",
+    "opciones": [
+      "La voluntariedad de su ejercicio.",
+      "La exigencia de su armonización.",
+      "El principio de no interferencia.",
+      "El sometimiento de las Comunidades Autónomas."
+    ],
+    "correcta": "La voluntariedad de su ejercicio."
+  },
+  {
+    "id": "coepa_t2_4",
+    "tema": "Tema 2",
+    "fuente": "COEPA",
+    "pregunta": "Con el fin de corregir desequilibrios económicos interterritoriales y hacer efectivo el principio de solidaridad, se constituye:",
+    "opciones": [
+      "El régimen de funcionamiento y control.",
+      "El recurso y la cuestión de inconstitucionalidad.",
+      "La cooperación entre Comunidades Autónomas.",
+      "El Fondo de Compensación Interterritorial."
+    ],
+    "correcta": "El Fondo de Compensación Interterritorial."
+  },
+  {
+    "id": "coepa_t2_5",
+    "tema": "Tema 2",
+    "fuente": "COEPA",
+    "pregunta": "Reforma del Estatuto de Autonomía de Cantabria:",
+    "opciones": [
+      "LO 3/1997, de 3 de julio.",
+      "LO 1/1998, de 15 de junio.",
+      "LO 11/1998, de 30 de diciembre.",
+      "LO 2/1999, de 17 de enero."
+    ],
+    "correcta": "LO 11/1998, de 30 de diciembre."
+  },
+  {
+    "id": "coepa_t2_6",
+    "tema": "Tema 2",
+    "fuente": "COEPA",
+    "pregunta": "Una de las competencias que pueden asumir las Comunidades Autónomas:",
+    "opciones": [
+      "Legislación mercantil, penal y penitenciaria.",
+      "Ordenación del territorio, urbanismo y vivienda.",
+      "Régimen aduanero y arancelario.",
+      "Bases y coordinación general de la sanidad."
+    ],
+    "correcta": "Ordenación del territorio, urbanismo y vivienda."
+  },
+  {
+    "id": "coepa_t2_7",
+    "tema": "Tema 2",
+    "fuente": "COEPA",
+    "pregunta": "Elegida por sufragio universal según un sistema de representación proporcional que asegure, además, la representación de las diversas zonas del territorio:",
+    "opciones": [
+      "Consejo de Gobierno.",
+      "Tribunal Superior de Justicia.",
+      "Administración Local.",
+      "Asamblea Legislativa."
+    ],
+    "correcta": "Asamblea Legislativa."
+  },
+  {
+    "id": "coepa_t2_8",
+    "tema": "Tema 2",
+    "fuente": "COEPA",
+    "pregunta": "Instrumento por el que se aprueba el Reglamento de Población y Demarcación de las Entidades Locales:",
+    "opciones": [
+      "Real Decreto 1690/1986, de 11 de julio.",
+      "Real Decreto 1372/1986, de 13 de junio.",
+      "Ley 27/2013, de 27 de diciembre.",
+      "Ley 18/2015, de 9 de julio."
+    ],
+    "correcta": "Real Decreto 1690/1986, de 11 de julio."
+  },
+  {
+    "id": "coepa_t2_9",
+    "tema": "Tema 2",
+    "fuente": "COEPA",
+    "pregunta": "Queda reflejado en el carácter representativo que la Constitución concede a los Ayuntamientos y Diputaciones:",
+    "opciones": [
+      "Principio de organización democrática.",
+      "Principio de administración autónoma.",
+      "Principio de autosuficiencia financiera.",
+      "Principio de autogobierno."
+    ],
+    "correcta": "Principio de organización democrática."
+  },
+  {
+    "id": "coepa_t2_10",
+    "tema": "Tema 2",
+    "fuente": "COEPA",
+    "pregunta": "Es el conjunto de habitantes de la correspondiente circunscripción provincial:",
+    "opciones": [
+      "Territorio.",
+      "Comarca.",
+      "Población.",
+      "Entidad."
+    ],
+    "correcta": "Población."
+  },
+  {
+    "id": "coepa_t3_1",
+    "tema": "Tema 3",
+    "fuente": "COEPA",
+    "pregunta": "El Estatuto Autonómico de la Comunidad de Madrid señala en su artículo 5:",
+    "opciones": [
+      "La capital de la Comunidad, sede de sus instituciones, es la villa de Madrid.",
+      "La Comunidad Autónoma de Madrid se denomina Comunidad de Madrid.",
+      "La Comunidad de Madrid se organiza territorialmente en municipios.",
+      "El escudo de la Comunidad de Madrid se establece por ley de la Asamblea."
+    ],
+    "correcta": "La capital de la Comunidad, sede de sus instituciones, es la villa de Madrid."
+  },
+  {
+    "id": "coepa_t3_2",
+    "tema": "Tema 3",
+    "fuente": "COEPA",
+    "pregunta": "La Administración de la Comunidad de Madrid, como ente de derecho público, tiene personalidad jurídica y plena capacidad de obrar, según su Estatuto de Autonomía, artículo:",
+    "opciones": [
+      "38",
+      "43",
+      "45",
+      "35"
+    ],
+    "correcta": "35"
+  },
+  {
+    "id": "coepa_t3_3",
+    "tema": "Tema 3",
+    "fuente": "COEPA",
+    "pregunta": "Según el artículo 37 del Estatuto de Autonomía, corresponde a la Comunidad de Madrid:",
+    "opciones": [
+      "La presunción de legitimidad y la ejecutoriedad de sus actos.",
+      "La facultad de utilización del procedimiento de apremio.",
+      "La creación y estructuración de su propia Administración pública.",
+      "La inembargabilidad de sus bienes y derechos."
+    ],
+    "correcta": "La creación y estructuración de su propia Administración pública."
+  },
+  {
+    "id": "coepa_t3_4",
+    "tema": "Tema 3",
+    "fuente": "COEPA",
+    "pregunta": "El artículo 44 del Estatuto Autonómico de la Comunidad de Madrid se refiere a:",
+    "opciones": [
+      "El régimen jurídico de la Administración pública.",
+      "Los órganos jurisdiccionales.",
+      "La organización y funcionamiento del Ministerio Fiscal.",
+      "El control económico y presupuestario de la Comunidad."
+    ],
+    "correcta": "El control económico y presupuestario de la Comunidad."
+  },
+  {
+    "id": "coepa_t3_5",
+    "tema": "Tema 3",
+    "fuente": "COEPA",
+    "pregunta": "En relación con la Administración de Justicia, exceptuando la militar, corresponde a la Asamblea:",
+    "opciones": [
+      "Interponer recursos de inconstitucionalidad, suscitar conflictos de competencia.",
+      "Fijar los límites de las demarcaciones territoriales de los órganos jurisdiccionales.",
+      "El control de la legalidad de la actuación administrativa y el sometimiento de ésta.",
+      "Los concursos y oposiciones para cubrir plazas vacantes en Madrid."
+    ],
+    "correcta": "Fijar los límites de las demarcaciones territoriales de los órganos jurisdiccionales."
+  },
+  {
+    "id": "coepa_t3_6",
+    "tema": "Tema 3",
+    "fuente": "COEPA",
+    "pregunta": "La Hacienda de la Comunidad de Madrid se constituye con:",
+    "opciones": [
+      "Rendimientos de sus propios impuestos.",
+      "Autonomía financiera y coordinación.",
+      "Conservación y defensa del patrimonio.",
+      "Régimen fiscal y financiero."
+    ],
+    "correcta": "Rendimientos de sus propios impuestos."
+  },
+  {
+    "id": "coepa_t3_7",
+    "tema": "Tema 3",
+    "fuente": "COEPA",
+    "pregunta": "Según el artículo 63 del Estatuto Autonómico de la Comunidad de Madrid:",
+    "opciones": [
+      "La Comunidad de Madrid, mediante acuerdo de la Asamblea, podrá concertar operaciones de crédito y deuda pública.",
+      "La Comunidad de Madrid gozará del mismo tratamiento fiscal que la Ley establezca para el Estado.",
+      "La Comunidad elaborará un programa anual de actuación del sector público económico.",
+      "Corresponde al Gobierno la elaboración y ejecución del presupuesto de la Comunidad de Madrid."
+    ],
+    "correcta": "La Comunidad elaborará un programa anual de actuación del sector público económico."
+  },
+  {
+    "id": "coepa_t3_8",
+    "tema": "Tema 3",
+    "fuente": "COEPA",
+    "pregunta": "Corresponde a la Comunidad de Madrid la ejecución de la legislación del Estado en las siguientes materias:",
+    "opciones": [
+      "Gestión de la asistencia sanitaria de la Seguridad Social.",
+      "Defensa del consumidor y del usuario.",
+      "Ordenación farmacéutica y establecimientos farmacéuticos.",
+      "Bienes de dominio público y patrimoniales."
+    ],
+    "correcta": "Gestión de la asistencia sanitaria de la Seguridad Social."
+  },
+  {
+    "id": "coepa_t3_9",
+    "tema": "Tema 3",
+    "fuente": "COEPA",
+    "pregunta": "Dentro de los objetivos marcados por la política económica nacional, la Comunidad de Madrid tiene competencia exclusiva en:",
+    "opciones": [
+      "Pesca fluvial y lacustre, acuicultura y caza.",
+      "Fomento del desarrollo económico.",
+      "Ferias y mercados interiores.",
+      "Cooperativas y entidades asimilables."
+    ],
+    "correcta": "Fomento del desarrollo económico."
+  },
+  {
+    "id": "coepa_t3_10",
+    "tema": "Tema 3",
+    "fuente": "COEPA",
+    "pregunta": "De acuerdo con las bases y ordenación de la actividad económica general y la política monetaria del Estado, corresponde a la Comunidad de Madrid lo relativo a:",
+    "opciones": [
+      "Bienes de dominio público y patrimoniales.",
+      "Régimen de los montes y aprovechamientos forestales.",
+      "Corporaciones de derecho público representativas.",
+      "Defensa del consumidor y del usuario."
+    ],
+    "correcta": "Defensa del consumidor y del usuario."
+  },
+  {
+    "id": "coepa_t4_1",
+    "tema": "Tema 4",
+    "fuente": "COEPA",
+    "pregunta": "El artículo 10 de la Ley Orgánica 3/1983, de 25 de febrero, cita:",
+    "opciones": [
+      "Los Diputados percibirán una asignación.",
+      "La Asamblea se dotará de su propio Reglamento.",
+      "La circunscripción electoral es la provincia.",
+      "Los Diputados se constituirán en Grupos Parlamentarios."
+    ],
+    "correcta": "La circunscripción electoral es la provincia."
+  },
+  {
+    "id": "coepa_t4_2",
+    "tema": "Tema 4",
+    "fuente": "COEPA",
+    "pregunta": "La Asamblea ejerce la potestad legislativa en las materias de competencia exclusiva de la Comunidad de Madrid recogidas en este artículo del Estatuto:",
+    "opciones": [
+      "26",
+      "23",
+      "29",
+      "21"
+    ],
+    "correcta": "26"
+  },
+  {
+    "id": "coepa_t4_3",
+    "tema": "Tema 4",
+    "fuente": "COEPA",
+    "pregunta": "Corresponde a la Asamblea de Madrid la designación de los Senadores que han de representar a la Comunidad, según lo previsto en el artículo constitucional:",
+    "opciones": [
+      "69.5",
+      "63.2",
+      "65.1",
+      "67.4"
+    ],
+    "correcta": "69.5"
+  },
+  {
+    "id": "coepa_t4_4",
+    "tema": "Tema 4",
+    "fuente": "COEPA",
+    "pregunta": "Este artículo de la Ley 1/1983, de 13 de diciembre, dice que la Administración de la Comunidad de Madrid está constituida por órganos jerárquicamente ordenados:",
+    "opciones": [
+      "43",
+      "37",
+      "28",
+      "14"
+    ],
+    "correcta": "37"
+  },
+  {
+    "id": "coepa_t4_5",
+    "tema": "Tema 4",
+    "fuente": "COEPA",
+    "pregunta": "En su condición de representante ordinario del Estado en la Comunidad Autónoma, corresponde al Presidente:",
+    "opciones": [
+      "Ostentar la alta representación de dicha Comunidad.",
+      "Firmar los convenios y acuerdos de cooperación.",
+      "Convocar elecciones a la Asamblea de Madrid.",
+      "Mantener relaciones con la Delegación del Gobierno."
+    ],
+    "correcta": "Mantener relaciones con la Delegación del Gobierno."
+  },
+  {
+    "id": "coepa_t4_6",
+    "tema": "Tema 4",
+    "fuente": "COEPA",
+    "pregunta": "En su condición de Presidente del Consejo de Gobierno le corresponde:",
+    "opciones": [
+      "Dirigir la política de la Comunidad de Madrid.",
+      "Asegurar la coordinación entre las distintas Consejerías.",
+      "Acordar la petición de sesión extraordinaria de la Asamblea.",
+      "Aprobar el proyecto del Presupuesto anual de la Comunidad."
+    ],
+    "correcta": "Asegurar la coordinación entre las distintas Consejerías."
+  },
+  {
+    "id": "coepa_t4_7",
+    "tema": "Tema 4",
+    "fuente": "COEPA",
+    "pregunta": "Se contempla en el Capítulo IV del Título II de la Ley 1/1983, de 13 de diciembre, del Gobierno y Administración de la Comunidad de Madrid:",
+    "opciones": [
+      "Los Consejeros.",
+      "La Asamblea.",
+      "El Fondo de Compensación.",
+      "El procedimiento administrativo."
+    ],
+    "correcta": "Los Consejeros."
+  },
+  {
+    "id": "coepa_t4_8",
+    "tema": "Tema 4",
+    "fuente": "COEPA",
+    "pregunta": "Los Directores generales son Jefes del Centro directivo que les está encomendado:",
+    "opciones": [
+      "Ejercer la coordinación administrativa e inspección inmediata a todos los servicios.",
+      "Impulsar y estudiar el programa legislativo del Consejo de Gobierno.",
+      "Vigilar y fiscalizar las dependencias a su cargo, jefatura inmediata del personal.",
+      "Formular el anteproyecto de presupuesto anual de la Presidencia."
+    ],
+    "correcta": "Vigilar y fiscalizar las dependencias a su cargo, jefatura inmediata del personal."
+  },
+  {
+    "id": "coepa_t4_9",
+    "tema": "Tema 4",
+    "fuente": "COEPA",
+    "pregunta": "Los actos y acuerdos de las autoridades y órganos de la Administración de la Comunidad Autónoma de Madrid serán inmediatamente ejecutivos, con los límites señalados en la Ley de Procedimiento Administrativo, artículos:",
+    "opciones": [
+      "103 y 118.",
+      "104 y 114.",
+      "102 y 112.",
+      "101 y 116."
+    ],
+    "correcta": "101 y 116."
+  },
+  {
+    "id": "coepa_t4_10",
+    "tema": "Tema 4",
+    "fuente": "COEPA",
+    "pregunta": "El órgano económico-administrativo de la Comunidad de Madrid es:",
+    "opciones": [
+      "La Junta de Economía.",
+      "La Consejería de Trabajo, Industria y Comercio.",
+      "El Consejo de Gobierno.",
+      "La Junta Superior de Hacienda."
+    ],
+    "correcta": "La Junta Superior de Hacienda."
+  },
+  {
+    "id": "daypo_t29_1",
+    "tema": "Tema 29",
+    "fuente": "Daypo",
+    "pregunta": "Objeto de la Ley 12/2022, de 21 de diciembre, de Servicios Sociales de la Comunidad de Madrid. Señale la incorrecta:",
+    "opciones": [
+      "Promover y garantizar el ejercicio de los derechos objetivos en dicha materia.",
+      "Desarrollar instrumentos y medidas orientadas al logro de una prestación de servicios sociales en condiciones de calidad y eficiencia.",
+      "Regular y ordenar el conjunto de prestaciones del Sistema Público.",
+      "El uso de los recursos públicos, a la prevención, la detección precoz, la atención, la protección y la reparación del daño."
+    ],
+    "correcta": "El uso de los recursos públicos, a la prevención, la detección precoz, la atención, la protección y la reparación del daño."
+  },
+  {
+    "id": "daypo_t29_2",
+    "tema": "Tema 29",
+    "fuente": "Daypo",
+    "pregunta": "A los servicios sociales prestados en la Comunidad de Madrid por entidades privadas no incluidos en el Sistema Público de Servicios Sociales, les será de aplicación:",
+    "opciones": [
+      "Los derechos y deberes de los usuarios y los profesionales.",
+      "El Registro de Entidades, Centros y Servicios de Atención Social.",
+      "La función inspectora y el régimen sancionador.",
+      "Todas son correctas."
+    ],
+    "correcta": "Todas son correctas."
+  },
+  {
+    "id": "daypo_t29_3",
+    "tema": "Tema 29",
+    "fuente": "Daypo",
+    "pregunta": "La participación ciudadana en el Sistema Público de Servicios Sociales podrá realizarse a través de:",
+    "opciones": [
+      "Entidades.",
+      "Representación en órganos colegiados.",
+      "Vías legalmente establecidas, conforme a lo dispuesto en la Ley 10/2019.",
+      "Todas son correctas."
+    ],
+    "correcta": "Todas son correctas."
+  },
+  {
+    "id": "daypo_t29_4",
+    "tema": "Tema 29",
+    "fuente": "Daypo",
+    "pregunta": "La participación de los usuarios de centros y servicios del Sistema Público de Servicios Sociales:",
+    "opciones": [
+      "No podrá extenderse tanto al funcionamiento del centro como al desarrollo y organización del mismo.",
+      "Podrá extenderse tanto al funcionamiento del centro, como al desarrollo y organización del mismo.",
+      "El ejercicio de este derecho podrá alterar la tipología del recurso.",
+      "La A y C son correctas."
+    ],
+    "correcta": "Podrá extenderse tanto al funcionamiento del centro, como al desarrollo y organización del mismo."
+  },
+  {
+    "id": "daypo_t29_5",
+    "tema": "Tema 29",
+    "fuente": "Daypo",
+    "pregunta": "Son titulares de los derechos reconocidos en la Ley 12/2022 de Servicios Sociales de la Comunidad de Madrid. Señale la incorrecta:",
+    "opciones": [
+      "Las personas con vecindad administrativa en la Comunidad de Madrid.",
+      "Los españoles en el exterior cuya última vecindad administrativa haya tenido lugar en la Comunidad de Madrid.",
+      "Los menores de edad aunque se encuentren en otra comunidad, en todo caso.",
+      "Las personas establecidas en Madrid que hayan solicitado o tengan reconocida la condición de refugiadas."
+    ],
+    "correcta": "Los menores de edad aunque se encuentren en otra comunidad, en todo caso."
+  },
+  {
+    "id": "daypo_t29_6",
+    "tema": "Tema 29",
+    "fuente": "Daypo",
+    "pregunta": "Es competencia de la Comunidad de Madrid en materia de servicios sociales:",
+    "opciones": [
+      "La cooperación para el desarrollo de la atención social primaria, contribuyendo a la financiación.",
+      "La cooperación para el desarrollo de la atención social primaria, sin contribuir a la financiación.",
+      "La cooperación para el desarrollo de la atención social especializada, contribuyendo a la financiación.",
+      "Ninguna de ellas."
+    ],
+    "correcta": "La cooperación para el desarrollo de la atención social primaria, contribuyendo a la financiación."
+  },
+  {
+    "id": "daypo_t29_7",
+    "tema": "Tema 29",
+    "fuente": "Daypo",
+    "pregunta": "Son prestaciones de servicio del Sistema Público de Servicios Sociales:",
+    "opciones": [
+      "Actuaciones profesionales de carácter temporal o permanente.",
+      "Orientadas a la prevención, rehabilitación social, la habilitación funcional, el diagnóstico.",
+      "A y B son correctas.",
+      "A o B son correctas."
+    ],
+    "correcta": "A y B son correctas."
+  },
+  {
+    "id": "daypo_t29_8",
+    "tema": "Tema 29",
+    "fuente": "Daypo",
+    "pregunta": "Son prestaciones de servicio garantizadas del Sistema Público de Servicios Sociales de la Comunidad de Madrid:",
+    "opciones": [
+      "La atención residencial.",
+      "La atención diurna o ambulatoria.",
+      "El alojamiento alternativo.",
+      "Los puntos de encuentro familiar y la mediación familiar y comunitaria."
+    ],
+    "correcta": "Los puntos de encuentro familiar y la mediación familiar y comunitaria."
+  },
+  {
+    "id": "daypo_t29_9",
+    "tema": "Tema 29",
+    "fuente": "Daypo",
+    "pregunta": "Son competencias de la Comunidad de Madrid en materia de servicios sociales:",
+    "opciones": [
+      "La creación del Plan Director de Servicios Sociales.",
+      "La elaboración y aprobación de los instrumentos técnicos comunes de intervención social.",
+      "El establecimiento del Catálogo de Prestaciones y la Cartera de Servicios del Sistema Público.",
+      "La aprobación del Mapa de Servicios Sociales de la Comunidad de Madrid."
+    ],
+    "correcta": "La aprobación del Mapa de Servicios Sociales de la Comunidad de Madrid."
+  },
+  {
+    "id": "daypo_t29_10",
+    "tema": "Tema 29",
+    "fuente": "Daypo",
+    "pregunta": "Son derechos de los profesionales del Sistema Público de Servicios Sociales:",
+    "opciones": [
+      "Asistir y aprovechar diligentemente la formación y apoyo técnico programado.",
+      "Utilizar los medios técnicos puestos a su disposición para la mejor atención.",
+      "Mantener un comportamiento basado en el respeto mutuo y la no discriminación.",
+      "Abstenerse de practicar actos profesionales en contradicción con sus convicciones morales."
+    ],
+    "correcta": "Abstenerse de practicar actos profesionales en contradicción con sus convicciones morales."
+  },
+  {
+    "id": "daypo_t29_11",
+    "tema": "Tema 29",
+    "fuente": "Daypo",
+    "pregunta": "Finalidad del Sistema Público de Servicios Sociales de la Comunidad de Madrid. Señale la incorrecta:",
+    "opciones": [
+      "La igualdad de oportunidades.",
+      "La detección precoz de situaciones de vulnerabilidad.",
+      "La convivencia familiar.",
+      "El bienestar social de todas las personas, familias y grupos."
+    ],
+    "correcta": "La convivencia familiar."
+  },
+  {
+    "id": "daypo_t29_12",
+    "tema": "Tema 29",
+    "fuente": "Daypo",
+    "pregunta": "Son prestaciones económicas condicionadas en la Ley 12/2022 de Servicios Sociales de la Comunidad de Madrid:",
+    "opciones": [
+      "La compensación económica a las personas acogedoras de menores de edad.",
+      "El apoyo para la cobertura de las necesidades básicas, de manera temporal.",
+      "La rehabilitación y accesibilidad universal de viviendas.",
+      "B y C son correctas."
+    ],
+    "correcta": "B y C son correctas."
+  },
+  {
+    "id": "daypo_t29_13",
+    "tema": "Tema 29",
+    "fuente": "Daypo",
+    "pregunta": "Principios rectores del Sistema Público de Servicios Sociales de la Comunidad de Madrid. Marque la errónea:",
+    "opciones": [
+      "Igualdad.",
+      "Singularidad y solidaridad.",
+      "No discriminación.",
+      "Atención individual, integral y continuada."
+    ],
+    "correcta": "Singularidad y solidaridad."
+  },
+  {
+    "id": "daypo_t29_14",
+    "tema": "Tema 29",
+    "fuente": "Daypo",
+    "pregunta": "Sobre la Historia Social Única en la Ley 12/2022 de Servicios Sociales de la Comunidad de Madrid:",
+    "opciones": [
+      "Tendrá un soporte físico que deberá permitir su interoperabilidad.",
+      "Reúne en un único documento la demanda o demandas de los usuarios.",
+      "Se elaborará con la participación de los usuarios y será propuesta al equipo profesional para su aprobación en un plazo de diez días.",
+      "Ninguna es correcta."
+    ],
+    "correcta": "Reúne en un único documento la demanda o demandas de los usuarios."
+  },
+  {
+    "id": "daypo_t29_15",
+    "tema": "Tema 29",
+    "fuente": "Daypo",
+    "pregunta": "Son derechos de los profesionales del Sistema Público de Servicios Sociales:",
+    "opciones": [
+      "Guardar el secreto sobre la Historia Social Única de los usuarios.",
+      "Participar en el proceso de toma de decisiones relativas a la atención social.",
+      "Conocer y cumplir la normativa vigente en el ámbito de su función.",
+      "Desempeñar sus funciones de conformidad con las normas éticas y deontológicas."
+    ],
+    "correcta": "Participar en el proceso de toma de decisiones relativas a la atención social."
+  },
+  {
+    "id": "daypo_t29_16",
+    "tema": "Tema 29",
+    "fuente": "Daypo",
+    "pregunta": "Son prestaciones económicas garantizadas en la Ley 12/2022 de Servicios Sociales de la Comunidad de Madrid:",
+    "opciones": [
+      "La compensación económica a las personas acogedoras de menores de edad.",
+      "Las ayudas económicas de pago único para mujeres víctimas de violencia de género.",
+      "Las prestaciones económicas contempladas en la legislación sobre Promoción de la Autonomía Personal.",
+      "Todas son correctas."
+    ],
+    "correcta": "Todas son correctas."
+  },
+  {
+    "id": "daypo_t29_17",
+    "tema": "Tema 29",
+    "fuente": "Daypo",
+    "pregunta": "Promoverán la participación de las personas, los grupos y las entidades sociales en el Sistema Público de Servicios Sociales:",
+    "opciones": [
+      "Las administraciones públicas.",
+      "Las Administraciones públicas de la Comunidad de Madrid.",
+      "Los poderes públicos.",
+      "Los poderes públicos de la Comunidad de Madrid."
+    ],
+    "correcta": "Los poderes públicos."
+  },
+  {
+    "id": "daypo_t29_18",
+    "tema": "Tema 29",
+    "fuente": "Daypo",
+    "pregunta": "Definición de emergencia social según la Ley 12/2022 de Servicios Sociales de la Comunidad de Madrid:",
+    "opciones": [
+      "La situación de carácter excepcional o extraordinario con incidencia en condiciones de vulnerabilidad.",
+      "La situación de carácter excepcional con agravamiento de circunstancias personales, familiares o sociales de la persona.",
+      "Los accidentes, estragos, catástrofes, pandemias susceptibles de causar graves daños.",
+      "Los accidentes que puedan producir estados de vulnerabilidad y desprotección social."
+    ],
+    "correcta": "La situación de carácter excepcional con agravamiento de circunstancias personales, familiares o sociales de la persona."
+  },
+  {
+    "id": "daypo_t29_19",
+    "tema": "Tema 29",
+    "fuente": "Daypo",
+    "pregunta": "Recibir una información suficiente y veraz, en términos comprensibles, sobre los recursos y prestaciones del Sistema Público de Servicios Sociales:",
+    "opciones": [
+      "Es un derecho de los usuarios de servicios sociales.",
+      "Es un deber de los usuarios de servicios sociales.",
+      "Es un derecho y un deber de los usuarios de servicios sociales.",
+      "Ninguna es correcta."
+    ],
+    "correcta": "Es un derecho de los usuarios de servicios sociales."
+  },
+  {
+    "id": "daypo_t29_20",
+    "tema": "Tema 29",
+    "fuente": "Daypo",
+    "pregunta": "El Sistema Público de Servicios Sociales es un servicio público de carácter:",
+    "opciones": [
+      "Público.",
+      "Universal.",
+      "Transversal.",
+      "Todas son correctas."
+    ],
+    "correcta": "Todas son correctas."
+  },
+  {
+    "id": "daypo_t29_21",
+    "tema": "Tema 29",
+    "fuente": "Daypo",
+    "pregunta": "Respetar la dignidad y los derechos del resto de usuarios y profesionales de los centros y servicios, así como observar una conducta basada en el mutuo respeto, tolerancia y colaboración:",
+    "opciones": [
+      "Es un deber de los usuarios de servicios sociales.",
+      "Es un derecho de los usuarios de servicios sociales.",
+      "Es un derecho y un deber de los usuarios de servicios sociales.",
+      "Ninguna es correcta."
+    ],
+    "correcta": "Es un deber de los usuarios de servicios sociales."
+  },
+  {
+    "id": "daypo_t29_22",
+    "tema": "Tema 29",
+    "fuente": "Daypo",
+    "pregunta": "Elemento central de la intervención en el Sistema Público de Servicios Sociales:",
+    "opciones": [
+      "El profesional de referencia.",
+      "El plan director.",
+      "El mapa de los servicios sociales.",
+      "El equipo profesional."
+    ],
+    "correcta": "El profesional de referencia."
+  },
+  {
+    "id": "daypo_t29_23",
+    "tema": "Tema 29",
+    "fuente": "Daypo",
+    "pregunta": "Son funciones de la atención social primaria:",
+    "opciones": [
+      "Actuación en situaciones de urgencia y emergencia social.",
+      "Proporcionar prestaciones de servicios o económicas de forma conjunta o alternativa.",
+      "A y B son correctas.",
+      "Ninguna de ellas."
+    ],
+    "correcta": "A y B son correctas."
+  },
+  {
+    "id": "daypo_t29_24",
+    "tema": "Tema 29",
+    "fuente": "Daypo",
+    "pregunta": "En relación con la atención en los centros y los servicios del Sistema Público de Servicios Sociales, toda persona usuaria tendrá derecho a:",
+    "opciones": [
+      "Acceder a los centros o servicios en condiciones de total igualdad y no discriminación.",
+      "Preservar la intimidad personal, familiar y social.",
+      "Obtener un programa de intervención individual definido y realizado con la participación y el conocimiento del usuario.",
+      "Obtener un programa de intervención definido y realizado con la participación y el conocimiento del usuario."
+    ],
+    "correcta": "Obtener un programa de intervención individual definido y realizado con la participación y el conocimiento del usuario."
+  },
+  {
+    "id": "daypo_t29_25",
+    "tema": "Tema 29",
+    "fuente": "Daypo",
+    "pregunta": "Clasificación de las prestaciones del Sistema Público de Servicios Sociales por su naturaleza:",
+    "opciones": [
+      "Garantizadas y condicionadas.",
+      "Garantizadas y servicios.",
+      "Garantizadas y económicas.",
+      "Servicios y económicas."
+    ],
+    "correcta": "Garantizadas y condicionadas."
+  },
+  {
+    "id": "daypo_t29_26",
+    "tema": "Tema 29",
+    "fuente": "Daypo",
+    "pregunta": "Disponer de una Historia Social Única, accesible de forma universal para el usuario, el profesional de referencia y aquellos cuya intervención se requiera para prestar una atención personalizada e integral:",
+    "opciones": [
+      "Es un deber de los usuarios de servicios sociales.",
+      "Es un derecho de los usuarios de servicios sociales.",
+      "Es un derecho y un deber de los usuarios de servicios sociales.",
+      "Ninguna es correcta."
+    ],
+    "correcta": "Es un derecho de los usuarios de servicios sociales."
+  },
+  {
+    "id": "daypo_t29_27",
+    "tema": "Tema 29",
+    "fuente": "Daypo",
+    "pregunta": "Duración del Plan Director de Servicios Sociales de la Comunidad de Madrid:",
+    "opciones": [
+      "Cada 6 años.",
+      "Cada 6 años prorrogable.",
+      "Cada 4 años.",
+      "Cada 4 años prorrogable."
+    ],
+    "correcta": "Cada 4 años prorrogable."
+  },
+  {
+    "id": "daypo_t29_28",
+    "tema": "Tema 29",
+    "fuente": "Daypo",
+    "pregunta": "La elaboración y aplicación del Catálogo de Prestaciones y la Cartera de Servicios del Sistema Público de Servicios Sociales de la Comunidad de Madrid corresponde a:",
+    "opciones": [
+      "El Consejo de Gobierno.",
+      "La Consejería competente en materia de servicios sociales.",
+      "La Administración de la Comunidad de Madrid.",
+      "Ninguno de ellos."
+    ],
+    "correcta": "La Consejería competente en materia de servicios sociales."
+  },
+  {
+    "id": "daypo_t29_29",
+    "tema": "Tema 29",
+    "fuente": "Daypo",
+    "pregunta": "¿Qué instrumento básico permite la relación entre los servicios sociales y la atención primaria y especializada?",
+    "opciones": [
+      "La tarjeta social.",
+      "El plan individualizado.",
+      "La Historia Social Única.",
+      "El registro único de usuarios."
+    ],
+    "correcta": "La Historia Social Única."
+  },
+  {
+    "id": "daypo_t29_30",
+    "tema": "Tema 29",
+    "fuente": "Daypo",
+    "pregunta": "El Mapa de Servicios Sociales de la Comunidad de Madrid se actualizará:",
+    "opciones": [
+      "Permanentemente.",
+      "Anualmente.",
+      "Semestralmente.",
+      "Trimestralmente."
+    ],
+    "correcta": "Permanentemente."
+  },
+  {
+    "id": "daypo_t29_31",
+    "tema": "Tema 29",
+    "fuente": "Daypo",
+    "pregunta": "Fecha de la Ley de Servicios Sociales de la Comunidad de Madrid:",
+    "opciones": [
+      "Ley 11/2022, de 21 de diciembre.",
+      "Ley 12/2021, de 21 de diciembre.",
+      "Ley 12/2022, de 21 de diciembre.",
+      "Ley 12/2022, de 22 de diciembre."
+    ],
+    "correcta": "Ley 12/2022, de 21 de diciembre."
+  },
+  {
+    "id": "daypo_t29_32",
+    "tema": "Tema 29",
+    "fuente": "Daypo",
+    "pregunta": "El acceso a las prestaciones del Sistema Público de Servicios Sociales reconocidas en la Ley 12/2022 se configura como derecho:",
+    "opciones": [
+      "Individual.",
+      "Subjetivo.",
+      "Objetivo.",
+      "Todas son correctas."
+    ],
+    "correcta": "Subjetivo."
+  },
+  {
+    "id": "daypo_t29_33",
+    "tema": "Tema 29",
+    "fuente": "Daypo",
+    "pregunta": "Tiene como función principal el Sistema Público de Servicios Sociales de la Comunidad de Madrid:",
+    "opciones": [
+      "Asegurar el derecho a vivir dignamente en alguna etapa de la vida.",
+      "Asegurar el derecho a vivir en todas las etapas de la vida.",
+      "Asegurar el derecho a vivir dignamente durante todas las etapas de la vida.",
+      "Ninguna es correcta."
+    ],
+    "correcta": "Asegurar el derecho a vivir dignamente durante todas las etapas de la vida."
+  },
+  {
+    "id": "daypo_t29_34",
+    "tema": "Tema 29",
+    "fuente": "Daypo",
+    "pregunta": "Competencias de las entidades locales en materia de servicios sociales:",
+    "opciones": [
+      "El desarrollo de funciones de atención especializada.",
+      "La coordinación de las actuaciones de las entidades con ánimo de lucro.",
+      "El establecimiento, mantenimiento y gestión de centros y servicios de atención social primaria, incluida su dotación de personal suficiente y adecuado.",
+      "La elaboración y aprobación del Plan Director de Servicios Sociales."
+    ],
+    "correcta": "El establecimiento, mantenimiento y gestión de centros y servicios de atención social primaria, incluida su dotación de personal suficiente y adecuado."
+  },
+  {
+    "id": "daypo_t29_35",
+    "tema": "Tema 29",
+    "fuente": "Daypo",
+    "pregunta": "El profesional de referencia en el Sistema Público de Servicios Sociales de la Comunidad de Madrid:",
+    "opciones": [
+      "Será un administrativo.",
+      "Será un psicoterapeuta.",
+      "Será un trabajador social.",
+      "Ninguno de lo anterior."
+    ],
+    "correcta": "Será un trabajador social."
+  },
+  {
+    "id": "daypo_t29_36",
+    "tema": "Tema 29",
+    "fuente": "Daypo",
+    "pregunta": "La Consejería competente en materia de servicios sociales establece ______ la estructura básica de referencia de los equipos profesionales:",
+    "opciones": [
+      "Por ley.",
+      "Por orden.",
+      "Por reglamento.",
+      "Por unanimidad."
+    ],
+    "correcta": "Por reglamento."
+  },
+  {
+    "id": "daypo_t29_37",
+    "tema": "Tema 29",
+    "fuente": "Daypo",
+    "pregunta": "Funciones de la Atención Social Especializada:",
+    "opciones": [
+      "Valorar, diagnosticar y orientar a personas, familias o grupos en situaciones que, por su especificidad, requieren una atención que excede el ámbito de prescripción de los servicios de Atención Social Primaria.",
+      "Valorar, diagnosticar y orientar a personas, familias o grupos en situaciones que requieren una atención conjunta con la atención primaria.",
+      "Valorar, diagnosticar y orientar a las personas en situaciones que requieren una atención que excede al ámbito de la atención primaria.",
+      "Valorar, diagnosticar, equipar y orientar a personas, familias o grupos en situaciones que requieren una atención que excede al ámbito de la atención primaria."
+    ],
+    "correcta": "Valorar, diagnosticar y orientar a personas, familias o grupos en situaciones que, por su especificidad, requieren una atención que excede el ámbito de prescripción de los servicios de Atención Social Primaria."
+  },
+  {
+    "id": "daypo_t29_38",
+    "tema": "Tema 29",
+    "fuente": "Daypo",
+    "pregunta": "Las prestaciones de servicio pueden ser ______ en los términos establecidos en la normativa reguladora de cada prestación:",
+    "opciones": [
+      "Cofinanciadas.",
+      "Gratuitas.",
+      "Con aportación del usuario.",
+      "B y C son correctas."
+    ],
+    "correcta": "B y C son correctas."
+  },
+  {
+    "id": "daypo_t29_39",
+    "tema": "Tema 29",
+    "fuente": "Daypo",
+    "pregunta": "Las prestaciones del Sistema Público de Servicios Sociales:",
+    "opciones": [
+      "Son gratuitas y universales.",
+      "Son accesibles y gratuitas.",
+      "Son universales y accesibles.",
+      "Son accesibles y gratuitas."
+    ],
+    "correcta": "Son universales y accesibles."
+  },
+  {
+    "id": "daypo_t29_40",
+    "tema": "Tema 29",
+    "fuente": "Daypo",
+    "pregunta": "La planificación del Sistema Público de Servicios Sociales se desarrollará a través de:",
+    "opciones": [
+      "El plan director.",
+      "Los centros de atención social.",
+      "El plan operativo.",
+      "El plan director y el plan operativo."
+    ],
+    "correcta": "El plan director y el plan operativo."
   }
 ]
