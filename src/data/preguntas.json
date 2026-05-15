@@ -210,7 +210,7 @@
   {
     "id": "pdf1_22",
     "tema": "Tema 1",
-    "pregunta": "¿Quiénes concurren a la formación y manifestación de la voluntad popular?: +",
+    "pregunta": "¿Quiénes concurren a la formación y manifestación de la voluntad popular?:",
     "opciones": [
       "Los ciudadanos",
       "Los poderes públicos",
@@ -433,12 +433,12 @@
     "tema": "Tema 1",
     "pregunta": "Nadie puede ser privado de su libertad:",
     "opciones": [
-      "Nunca",
-      "Salvo en los casos y forma previstos en la ley",
-      "Salvo con la observancia de lo establecido en el artículo 17 de la Constitución",
-      "Son ciertas las respuestas B) y C)"
+      "A) Nunca",
+      "B) Salvo en los casos y forma previstos en la ley",
+      "C) Salvo con la observancia de lo establecido en el artículo 17 de la Constitución",
+      "D) Son ciertas las respuestas B) y C)"
     ],
-    "correcta": "Son ciertas las respuestas B) y C)",
+    "correcta": "D) Son ciertas las respuestas B) y C)",
     "fuente": "PDF1"
   },
   {
@@ -574,7 +574,7 @@
   {
     "id": "pdf1_79",
     "tema": "Tema 1",
-    "pregunta": "¿Se exige comunicación previa a la autoridad para celebrar reuniones y manifestaciones en lugares de tránsito público?: +",
+    "pregunta": "¿Se exige comunicación previa a la autoridad para celebrar reuniones y manifestaciones en lugares de tránsito público?:",
     "opciones": [
       "Sí",
       "No",
@@ -677,7 +677,7 @@
   {
     "id": "pdf1_95",
     "tema": "Tema 1",
-    "pregunta": "Las penas privativas de libertad y las medidas de seguridad, ¿podrán consistir en trabajos forzados?: +",
+    "pregunta": "Las penas privativas de libertad y las medidas de seguridad, ¿podrán consistir en trabajos forzados?:",
     "opciones": [
       "No",
       "Sí, y también la libertad de enseñanza",
@@ -703,7 +703,7 @@
   {
     "id": "pdf1_97",
     "tema": "Tema 1",
-    "pregunta": "El condenado a pena de prisión que estuviera cumpliendo la misma no tendrá derecho: +",
+    "pregunta": "El condenado a pena de prisión que estuviera cumpliendo la misma no tendrá derecho:",
     "opciones": [
       "A un trabajo remunerado",
       "A los beneficios correspondientes de la Seguridad Social",
@@ -793,7 +793,7 @@
   {
     "id": "pdf1_114",
     "tema": "Tema 1",
-    "pregunta": "La Constitución, ¿reconoce el derecho a la huelga de los trabajadores?: +",
+    "pregunta": "La Constitución, ¿reconoce el derecho a la huelga de los trabajadores?:",
     "opciones": [
       "No, lo encomienda a una ley",
       "Sí, para la defensa de sus salarios",
@@ -871,7 +871,7 @@
   {
     "id": "pdf1_123",
     "tema": "Tema 1",
-    "pregunta": "La programación y ejecución del gasto público responderá a los criterios de: +",
+    "pregunta": "La programación y ejecución del gasto público responderá a los criterios de:",
     "opciones": [
       "Eficacia y economía",
       "Eficiencia y economía",
@@ -910,7 +910,7 @@
   {
     "id": "pdf1_132",
     "tema": "Tema 1",
-    "pregunta": "Todos los españoles tienen el derecho: +",
+    "pregunta": "Todos los españoles tienen el derecho:",
     "opciones": [
       "A la libre elección de profesión u oficio",
       "A la promoción a través del trabajo",
@@ -962,7 +962,7 @@
   {
     "id": "pdf1_136",
     "tema": "Tema 1",
-    "pregunta": "Respecto de los convenios colectivos, la ley garantizará: +",
+    "pregunta": "Respecto de los convenios colectivos, la ley garantizará:",
     "opciones": [
       "Su publicidad",
       "Su ámbito",
@@ -1117,7 +1117,7 @@
   {
     "id": "pdf1_165",
     "tema": "Tema 1",
-    "pregunta": "Todos los españoles tienen derecho a disfrutar de una vivienda: +",
+    "pregunta": "Todos los españoles tienen derecho a disfrutar de una vivienda:",
     "opciones": [
       "Digna y adecuada",
       "Suficiente y adecuada",
@@ -1158,12 +1158,12 @@
     "tema": "Tema 1",
     "pregunta": "Compete a los poderes públicos organizar y tutelar la salud pública a través de:",
     "opciones": [
-      "Sí, y también la obligación de reparar el daño causado",
-      "Son ciertas las contestaciones B) y C)",
       "Medidas preventivas",
-      "Prestaciones necesarias"
+      "Prestaciones necesarias",
+      "Servicios necesarios",
+      "Todas las contestaciones anteriores son correctas"
     ],
-    "correcta": "Son ciertas las contestaciones B) y C)",
+    "correcta": "Todas las contestaciones anteriores son correctas",
     "fuente": "PDF1"
   },
   {
@@ -1171,10 +1171,12 @@
     "tema": "Tema 1",
     "pregunta": "Los poderes públicos garantizarán la conservación y promoverán el enriquecimiento del patrimonio:",
     "opciones": [
-      "Todas las contestaciones anteriores son correctas",
-      "Histórico de los pueblos de España"
+      "Histórico de los pueblos de España",
+      "Histórico y cultural de los pueblos de España",
+      "Histórico, cultural y artístico de los pueblos de España",
+      "Histórico, cultural, artístico y folclórico de los pueblos de España"
     ],
-    "correcta": "Todas las contestaciones anteriores son correctas",
+    "correcta": "Histórico, cultural y artístico de los pueblos de España",
     "fuente": "PDF1"
   },
   {
@@ -1258,7 +1260,7 @@
   {
     "id": "pdf1_184",
     "tema": "Tema 1",
-    "pregunta": "El reconocimiento, el respeto y la protección de los principios reconocidos en el Capítulo 3º (Título I) de la Constitución informará: y su +",
+    "pregunta": "El reconocimiento, el respeto y la protección de los principios reconocidos en el Capítulo 3º (Título I) de la Constitución informará: y su",
     "opciones": [
       "Promoverán su información educación",
       "Fomentarán sus organizaciones",
@@ -1387,7 +1389,7 @@
   {
     "id": "pdf1_192",
     "tema": "Tema 1",
-    "pregunta": "¿Qué derecho podrá ser suspendido cuando se acuerde la declaración del estado de excepción o de sitio?: +",
+    "pregunta": "¿Qué derecho podrá ser suspendido cuando se acuerde la declaración del estado de excepción o de sitio?:",
     "opciones": [
       "Derecho a la libertad",
       "Derecho a la seguridad",
@@ -1763,7 +1765,7 @@
   {
     "id": "pdf1_690",
     "tema": "Tema 2",
-    "pregunta": "Las Comunidades Autónomas podrán asumir competencias sobre: +",
+    "pregunta": "Las Comunidades Autónomas podrán asumir competencias sobre:",
     "opciones": [
       "Los puertos y aeropuertos en general",
       "Los puertos comerciales",
@@ -1856,10 +1858,12 @@
     "tema": "Tema 2",
     "pregunta": "En materia de Administración Pública, el Estado tiene competencia exclusiva sobre:",
     "opciones": [
-      "Convertibilidad",
-      "Todas las materias anteriores son competencia del Estado"
+      "Las bases del régimen jurídico de las Administraciones Públicas y del régimen estatutario de sus funcionarios",
+      "Legislación básica sobre contratos y concesiones administrativas",
+      "Sistema de responsabilidad de todas las Administraciones Públicas",
+      "Todas las contestaciones anteriores son correctas"
     ],
-    "correcta": "Todas las materias anteriores son competencia del Estado",
+    "correcta": "Todas las contestaciones anteriores son correctas",
     "fuente": "PDF1"
   },
   {
@@ -1918,18 +1922,18 @@
     "tema": "Tema 2",
     "pregunta": "¿Qué competencias tiene el Estado sobre instalaciones eléctricas?:",
     "opciones": [
-      "Ninguna",
-      "Autorización de las instalaciones eléctricas cuando su aprovechamiento afecte a otra Comunidad",
-      "Autorización de las instalaciones eléctricas cuando el transporte de energía salga del ámbito territorial de una Comunidad",
-      "Son ciertas las respuestas B) y C)"
+      "A) Ninguna",
+      "B) Autorización de las instalaciones eléctricas cuando su aprovechamiento afecte a otra Comunidad",
+      "C) Autorización de las instalaciones eléctricas cuando el transporte de energía salga del ámbito territorial de una Comunidad",
+      "D) Son ciertas las respuestas B) y C)"
     ],
-    "correcta": "Son ciertas las respuestas B) y C)",
+    "correcta": "D) Son ciertas las respuestas B) y C)",
     "fuente": "PDF1"
   },
   {
     "id": "pdf1_743",
     "tema": "Tema 2",
-    "pregunta": "¿Tiene el Estado competencia exclusiva de legislación básica sobre protección del medio ambiente?: +",
+    "pregunta": "¿Tiene el Estado competencia exclusiva de legislación básica sobre protección del medio ambiente?:",
     "opciones": [
       "Sí, sin que las Comunidades Autónomas tengan ninguna",
       "No",
@@ -1942,14 +1946,14 @@
   {
     "id": "pdf1_744",
     "tema": "Tema 2",
-    "pregunta": "¿Tiene el Estado competencia exclusiva sobre obras públicas?: +",
+    "pregunta": "¿Tiene el Estado competencia exclusiva sobre obras públicas?:",
     "opciones": [
-      "Sí, cuando sean de interés general",
-      "Sí, cuando su realización afecte a más de una Comunidad Autónoma",
-      "No",
-      "Son ciertas las respuestas A) y B)"
+      "A) Sí, cuando sean de interés general",
+      "B) Sí, cuando su realización afecte a más de una Comunidad Autónoma",
+      "C) No",
+      "D) Son ciertas las respuestas A) y B)"
     ],
-    "correcta": "Son ciertas las respuestas A) y B)",
+    "correcta": "D) Son ciertas las respuestas A) y B)",
     "fuente": "PDF1"
   },
   {
@@ -2111,7 +2115,7 @@
   {
     "id": "pdf1_772",
     "tema": "Tema 2",
-    "pregunta": "La Asamblea Legislativa de las Comunidades Autónomas es elegida con arreglo a un sistema que asegure la representación: +",
+    "pregunta": "La Asamblea Legislativa de las Comunidades Autónomas es elegida con arreglo a un sistema que asegure la representación:",
     "opciones": [
       "De las ciudades principales",
       "De las diversas zonas del territorio",
@@ -2281,18 +2285,18 @@
     "tema": "Tema 2",
     "pregunta": "Las Comunidades Autónomas gozarán de autonomía financiera para el desarrollo y ejecución de sus competencias con arreglo a los principios de:",
     "opciones": [
-      "Coordinación con la Hacienda estatal",
-      "Solidaridad entre todos los españoles",
-      "Coordinación con las Haciendas locales",
-      "Son ciertas las respuestas A) y B)"
+      "A) Coordinación con la Hacienda estatal",
+      "B) Solidaridad entre todos los españoles",
+      "C) Coordinación con las Haciendas locales",
+      "D) Son ciertas las respuestas A) y B)"
     ],
-    "correcta": "Son ciertas las respuestas A) y B)",
+    "correcta": "D) Son ciertas las respuestas A) y B)",
     "fuente": "PDF1"
   },
   {
     "id": "pdf1_798",
     "tema": "Tema 2",
-    "pregunta": "Las Comunidades Autónomas podrán actuar como delegados o colaboradores del Estado para: +",
+    "pregunta": "Las Comunidades Autónomas podrán actuar como delegados o colaboradores del Estado para:",
     "opciones": [
       "La recaudación de los recursos tributarios de aquél",
       "La gestión de los recursos tributarios de aquél",
@@ -2346,8 +2350,10 @@
     "tema": "Tema 2",
     "pregunta": "Los recursos del Fondo de Compensación previsto en el artículo 158.2 de la Constitución será distribuidos:",
     "opciones": [
+      "Entre las Comunidades Autónomas exclusivamente",
+      "Entre las provincias exclusivamente",
       "Entre las Comunidades Autónomas y provincias, en su caso",
-      "Entre las Comunidades Autónomas y provincias, en todo caso TÍTULO IX.DEL TRIBUNAL CONSTITUCIONAL"
+      "Entre las Comunidades Autónomas y provincias, en todo caso"
     ],
     "correcta": "Entre las Comunidades Autónomas y provincias, en su caso",
     "fuente": "PDF1"
@@ -2618,7 +2624,9 @@
     "pregunta": "Sólo una de los siguientes principios está garantizado constitucionalmente:",
     "opciones": [
       "La seguridad jurídica.",
-      "La seguridad mercantil. c) La seguridad del tráfico. d) La seguridad ciudadana."
+      "La seguridad mercantil.",
+      "La seguridad del tráfico.",
+      "La seguridad ciudadana."
     ],
     "correcta": "La seguridad jurídica.",
     "fuente": "PDF2"
@@ -2914,11 +2922,12 @@
     "tema": "Tema 1",
     "pregunta": "El ejercicio, por ejemplo, del derecho a expresar opiniones por escrito:",
     "opciones": [
-      "No puede restringirse mediante ningún tipo de censura previa. b) Puede restringirse mediante censura previa por parte de los organismos oficiales en los casos en los que esté en peligro la seguridad nacional.",
+      "No puede restringirse mediante ningún tipo de censura previa.",
+      "Puede restringirse mediante censura previa por parte de los organismos oficiales en los casos en los que esté en peligro la seguridad nacional.",
       "Sólo puede restringirse mediante censura previa cuando la opinión sea vertida a través de los medios de comunicación del Estado.",
       "Puede restringirse mediante censura previa cuando los destinatarios de la opinión sean menores de edad."
     ],
-    "correcta": "No puede restringirse mediante ningún tipo de censura previa. b) Puede restringirse mediante censura previa por parte de los organismos oficiales en los casos en los que esté en peligro la seguridad nacional.",
+    "correcta": "No puede restringirse mediante ningún tipo de censura previa.",
     "fuente": "PDF2"
   },
   {
@@ -4579,8 +4588,7 @@
     "opciones": [
       "En 1981.",
       "En 1980.",
-      "En 1979.",
-      "En 1980."
+      "En 1979."
     ],
     "correcta": "En 1980.",
     "fuente": "PDF2"
@@ -4826,8 +4834,7 @@
     "opciones": [
       "151",
       "150",
-      "149",
-      "151"
+      "149"
     ],
     "correcta": "149",
     "fuente": "PDF2"
@@ -5359,7 +5366,6 @@
     "opciones": [
       "151.",
       "150.",
-      "151.",
       "149."
     ],
     "correcta": "149.",
@@ -5383,11 +5389,12 @@
     "tema": "Tema 2",
     "pregunta": "Las medidas que obstaculicen la libertad de circulación y establecimiento de las personas, y la libre circulación de bienes en todo el territorio del Estado:",
     "opciones": [
-      "No se podrán adoptar tales medidas por ninguna autoridad. b) Podrán ser adoptadas por los Gobiernos de las diferentes Comunidades Autónomas en los casos previstos constitucionalmente.",
+      "No se podrán adoptar tales medidas por ninguna autoridad.",
+      "Podrán ser adoptadas por los Gobiernos de las diferentes Comunidades Autónomas en los casos previstos constitucionalmente.",
       "Sólo podrán ser adoptadas, por el Estado o por los Gobiernos Autónomos, cuando tales limitaciones se produzcan indirectamente.",
       "Solamente podrán ser adoptadas por el propio Estado."
     ],
-    "correcta": "No se podrán adoptar tales medidas por ninguna autoridad. b) Podrán ser adoptadas por los Gobiernos de las diferentes Comunidades Autónomas en los casos previstos constitucionalmente.",
+    "correcta": "No se podrán adoptar tales medidas por ninguna autoridad.",
     "fuente": "PDF2"
   },
   {
@@ -5474,7 +5481,9 @@
     "pregunta": "Será competencia exclusiva del Estado:",
     "opciones": [
       "Seguridad pública.",
-      "Emisión de las normas básicas del régimen de prensa, radio y televisión, y, en general, de todos los medios de comunicación social."
+      "Emisión de las normas básicas del régimen de prensa, radio y televisión, y, en general, de todos los medios de comunicación social.",
+      "La legislación sobre protección de medio ambiente.",
+      "La legislación, ordenación y concesión de recursos y aprovechamientos hidráulicos."
     ],
     "correcta": "Emisión de las normas básicas del régimen de prensa, radio y televisión, y, en general, de todos los medios de comunicación social.",
     "fuente": "PDF2"
@@ -6212,7 +6221,6 @@
     "opciones": [
       "1833",
       "1834",
-      "1835",
       "1835"
     ],
     "correcta": "1833",
@@ -6276,7 +6284,6 @@
     "pregunta": "¿En qué año se establecen las provincias como división territorial del Estado?",
     "opciones": [
       "1833.",
-      "1835.",
       "1835.",
       "1834."
     ],
@@ -7470,12 +7477,12 @@
     "tema": "Tema 3",
     "pregunta": "Según su Estatuto de Autonomía, la Comunidad de Madrid podrá celebrar convenios de cooperación con otras Comunidades Autónomas, en especial con las limítrofes para:",
     "opciones": [
-      "La delegación de competencias de las mismas.",
-      "La gestión y prestación de servicios propios de la competencia de las mismas.",
-      "Alterar los términos municipales.",
-      "A y B son correctas."
+      "A) La delegación de competencias de las mismas.",
+      "B) La gestión y prestación de servicios propios de la competencia de las mismas.",
+      "C) Alterar los términos municipales.",
+      "D) A y B son correctas."
     ],
-    "correcta": "La gestión y prestación de servicios propios de la competencia de las mismas.",
+    "correcta": "B) La gestión y prestación de servicios propios de la competencia de las mismas.",
     "fuente": "PDF3"
   },
   {
@@ -10577,12 +10584,12 @@
     "tema": "Tema 1",
     "pregunta": "¿En cuál de los siguientes casos la ley regulará las razones en que no se estará obligado a declarar sobre hechos presuntamente delictivos?",
     "opciones": [
-      "Por razón de parentesco.",
-      "Por razón de secreto profesional.",
-      "Por razón de afinidad o secreto profesional.",
-      "La a) y la b) son correctas."
+      "A) Por razón de parentesco.",
+      "B) Por razón de secreto profesional.",
+      "C) Por razón de afinidad o secreto profesional.",
+      "D) La a) y la b) son correctas."
     ],
-    "correcta": "La a) y la b) son correctas.",
+    "correcta": "D) La a) y la b) son correctas.",
     "fuente": "WEB"
   },
   {
@@ -12360,8 +12367,7 @@
     "opciones": [
       "Los Alcaldes, los Concejales y los Interventores.",
       "Los Alcaldes y los Concejales.",
-      "Los Alcaldes, los Concejales y la Junta de Gobierno Local.",
-      "Los Alcaldes, los Concejales y los Interventores."
+      "Los Alcaldes, los Concejales y la Junta de Gobierno Local."
     ],
     "correcta": "Los Alcaldes y los Concejales.",
     "fuente": "WEB"
@@ -13762,7 +13768,6 @@
     "tema": "Tema 3",
     "pregunta": "¿Qué apartado del Estatuto de Autonomía de la Comunidad de Madrid está dedicado a la Asamblea de Madrid?",
     "opciones": [
-      "El Capítulo Primero del Título I.",
       "El Capítulo Primero del Título I.",
       "El Título I completo.",
       "El Capítulo Segundo del Título II."
@@ -17049,7 +17054,7 @@
   {
     "id": "ta2_t30_7",
     "tema": "Tema 30",
-    "pregunta": "¿Cuántos hospitales de la Comunidad de Madrid cuentan con unidades o plantas de psiquiatría de agudos?",
+    "pregunta": "¿Cuántos hospitales de la Comunidad de Madrid cuentan con unidades o plantas de psiquiatría de agudos, en las que pueden ingresar los pacientes que se consideren lo suficientemente graves, descompensados o en situación de riesgo para justificar un ingreso hospitalario?",
     "opciones": [
       "20",
       "21",
@@ -18092,12 +18097,12 @@
     "fuente": "Daypo",
     "pregunta": "La participación de los usuarios de centros y servicios del Sistema Público de Servicios Sociales:",
     "opciones": [
-      "No podrá extenderse tanto al funcionamiento del centro como al desarrollo y organización del mismo.",
-      "Podrá extenderse tanto al funcionamiento del centro, como al desarrollo y organización del mismo.",
-      "El ejercicio de este derecho podrá alterar la tipología del recurso.",
-      "La A y C son correctas."
+      "A) No podrá extenderse tanto al funcionamiento del centro como al desarrollo y organización del mismo.",
+      "B) Podrá extenderse tanto al funcionamiento del centro, como al desarrollo y organización del mismo.",
+      "C) El ejercicio de este derecho podrá alterar la tipología del recurso.",
+      "D) La A y C son correctas."
     ],
-    "correcta": "Podrá extenderse tanto al funcionamiento del centro, como al desarrollo y organización del mismo."
+    "correcta": "B) Podrá extenderse tanto al funcionamiento del centro, como al desarrollo y organización del mismo."
   },
   {
     "id": "daypo_t29_5",
@@ -18131,12 +18136,12 @@
     "fuente": "Daypo",
     "pregunta": "Son prestaciones de servicio del Sistema Público de Servicios Sociales:",
     "opciones": [
-      "Actuaciones profesionales de carácter temporal o permanente.",
-      "Orientadas a la prevención, rehabilitación social, la habilitación funcional, el diagnóstico.",
-      "A y B son correctas.",
-      "A o B son correctas."
+      "A) Actuaciones profesionales de carácter temporal o permanente.",
+      "B) Orientadas a la prevención, rehabilitación social, la habilitación funcional, el diagnóstico.",
+      "C) A y B son correctas.",
+      "D) A o B son correctas."
     ],
-    "correcta": "A y B son correctas."
+    "correcta": "C) A y B son correctas."
   },
   {
     "id": "daypo_t29_8",
@@ -18196,12 +18201,12 @@
     "fuente": "Daypo",
     "pregunta": "Son prestaciones económicas condicionadas en la Ley 12/2022 de Servicios Sociales de la Comunidad de Madrid:",
     "opciones": [
-      "La compensación económica a las personas acogedoras de menores de edad.",
-      "El apoyo para la cobertura de las necesidades básicas, de manera temporal.",
-      "La rehabilitación y accesibilidad universal de viviendas.",
-      "B y C son correctas."
+      "A) La compensación económica a las personas acogedoras de menores de edad.",
+      "B) El apoyo para la cobertura de las necesidades básicas, de manera temporal.",
+      "C) La rehabilitación y accesibilidad universal de viviendas.",
+      "D) B y C son correctas."
     ],
-    "correcta": "B y C son correctas."
+    "correcta": "D) B y C son correctas."
   },
   {
     "id": "daypo_t29_13",
@@ -18339,12 +18344,12 @@
     "fuente": "Daypo",
     "pregunta": "Son funciones de la atención social primaria:",
     "opciones": [
-      "Actuación en situaciones de urgencia y emergencia social.",
-      "Proporcionar prestaciones de servicios o económicas de forma conjunta o alternativa.",
-      "A y B son correctas.",
-      "Ninguna de ellas."
+      "A) Actuación en situaciones de urgencia y emergencia social.",
+      "B) Proporcionar prestaciones de servicios o económicas de forma conjunta o alternativa.",
+      "C) A y B son correctas.",
+      "D) Ninguna de ellas."
     ],
-    "correcta": "A y B son correctas."
+    "correcta": "C) A y B son correctas."
   },
   {
     "id": "daypo_t29_24",
@@ -18534,12 +18539,12 @@
     "fuente": "Daypo",
     "pregunta": "Las prestaciones de servicio pueden ser ______ en los términos establecidos en la normativa reguladora de cada prestación:",
     "opciones": [
-      "Cofinanciadas.",
-      "Gratuitas.",
-      "Con aportación del usuario.",
-      "B y C son correctas."
+      "A) Cofinanciadas.",
+      "B) Gratuitas.",
+      "C) Con aportación del usuario.",
+      "D) B y C son correctas."
     ],
-    "correcta": "B y C son correctas."
+    "correcta": "D) B y C son correctas."
   },
   {
     "id": "daypo_t29_39",
@@ -18549,8 +18554,7 @@
     "opciones": [
       "Son gratuitas y universales.",
       "Son accesibles y gratuitas.",
-      "Son universales y accesibles.",
-      "Son accesibles y gratuitas."
+      "Son universales y accesibles."
     ],
     "correcta": "Son universales y accesibles."
   },
