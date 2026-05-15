@@ -1132,12 +1132,12 @@
     "tema": "Tema 1",
     "pregunta": "Los poderes públicos velarán por la utilización racional de todos los recursos naturales para:",
     "opciones": [
+      "Proteger la calidad de la vida",
+      "Defender y restaurar el medio ambiente",
       "Mejorar la calidad de la vida",
-      "Económicos y sociales",
-      "Todas las contestaciones anteriores",
-      "Políticos son correctas"
+      "Todas las contestaciones anteriores son correctas"
     ],
-    "correcta": "Económicos y sociales",
+    "correcta": "Todas las contestaciones anteriores son correctas",
     "fuente": "PDF1"
   },
   {
@@ -1674,12 +1674,12 @@
     "tema": "Tema 2",
     "pregunta": "Las Comunidades Autónomas podrán asumir competencias sobre:",
     "opciones": [
-      "Al Congreso",
-      "Al Senado",
-      "A las Cortes Generales",
-      "Al Gobierno"
+      "Relaciones internacionales",
+      "Administración de Justicia",
+      "Organización de sus instituciones de autogobierno",
+      "Defensa y Fuerzas Armadas"
     ],
-    "correcta": "A las Cortes Generales",
+    "correcta": "Organización de sus instituciones de autogobierno",
     "fuente": "PDF1"
   },
   {
@@ -7839,7 +7839,7 @@
       "4",
       "6"
     ],
-    "correcta": "2",
+    "correcta": "1",
     "fuente": "PDF3"
   },
   {
@@ -16386,7 +16386,7 @@
   {
     "id": "ta2_t29_2",
     "tema": "Tema 29",
-    "pregunta": "¿Cuál es el enfoque principal del Capítulo II dentro del Título Preliminar de la Ley de Servicios Sociales de la Comunidad de Madrid?",
+    "pregunta": "¿Cuál es el enfoque principal del Capítulo II dentro del Título I de la Ley de Servicios Sociales de la Comunidad de Madrid?",
     "opciones": [
       "Establecer las competencias de las Administraciones públicas.",
       "Definir el régimen sancionador.",
@@ -18266,7 +18266,7 @@
       "Los poderes públicos.",
       "Los poderes públicos de la Comunidad de Madrid."
     ],
-    "correcta": "Los poderes públicos."
+    "correcta": "Las Administraciones públicas de la Comunidad de Madrid."
   },
   {
     "id": "daypo_t29_18",
@@ -18279,7 +18279,7 @@
       "Los accidentes, estragos, catástrofes, pandemias susceptibles de causar graves daños.",
       "Los accidentes que puedan producir estados de vulnerabilidad y desprotección social."
     ],
-    "correcta": "La situación de carácter excepcional con agravamiento de circunstancias personales, familiares o sociales de la persona."
+    "correcta": "Los accidentes que puedan producir estados de vulnerabilidad y desprotección social."
   },
   {
     "id": "daypo_t29_19",
@@ -18331,7 +18331,7 @@
       "El mapa de los servicios sociales.",
       "El equipo profesional."
     ],
-    "correcta": "El profesional de referencia."
+    "correcta": "El equipo profesional."
   },
   {
     "id": "daypo_t29_23",
