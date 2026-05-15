@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { CheckCircle2, XCircle, Home, ChevronLeft, ChevronRight, SkipForward, List, X, Flag } from 'lucide-react';
+import { CheckCircle2, XCircle, Home, ChevronLeft, ChevronRight, SkipForward, List, X, Flag, AlertTriangle } from 'lucide-react';
 import ReportModal from './ReportModal';
 
 function QuestionPanel({ total, answers, currentIndex, onGoto, onClose }) {
@@ -56,6 +56,71 @@ function QuestionPanel({ total, answers, currentIndex, onGoto, onClose }) {
   );
 }
 
+function ConfirmFinishModal({ answers, totalQuestions, onConfirm, onCancel }) {
+  const answered = answers.filter(a => a && !a.skipped && a.selected).length;
+  const skipped = answers.filter(a => a?.skipped).length;
+  const unanswered = answers.filter(a => !a).length;
+  const pending = skipped + unanswered;
+
+  return (
+    <div className="fixed inset-0 bg-black/80 z-50 flex items-center justify-center p-4" onClick={onCancel}>
+      <div
+        className="bg-gray-950 border border-gray-800 rounded-2xl p-6 w-full max-w-sm flex flex-col gap-5 shadow-2xl"
+        onClick={e => e.stopPropagation()}
+      >
+        <div className="flex items-center gap-3">
+          <AlertTriangle className="w-5 h-5 text-yellow-400 shrink-0" />
+          <h3 className="font-bold text-white text-lg">¿Finalizar el test?</h3>
+        </div>
+
+        <div className="space-y-2 text-sm">
+          <div className="flex justify-between items-center py-2 border-b border-gray-800">
+            <span className="text-gray-400">Total preguntas</span>
+            <span className="font-bold text-white">{totalQuestions}</span>
+          </div>
+          <div className="flex justify-between items-center py-2 border-b border-gray-800">
+            <span className="text-gray-400">Respondidas</span>
+            <span className="font-bold text-green-400">{answered}</span>
+          </div>
+          {skipped > 0 && (
+            <div className="flex justify-between items-center py-2 border-b border-gray-800">
+              <span className="text-gray-400">Omitidas</span>
+              <span className="font-bold text-yellow-400">{skipped}</span>
+            </div>
+          )}
+          {unanswered > 0 && (
+            <div className="flex justify-between items-center py-2 border-b border-gray-800">
+              <span className="text-gray-400">Sin contestar</span>
+              <span className="font-bold text-red-400">{unanswered}</span>
+            </div>
+          )}
+        </div>
+
+        {pending > 0 && (
+          <p className="text-xs text-yellow-400/80 bg-yellow-900/20 border border-yellow-800/40 rounded-xl px-3 py-2">
+            Tienes {pending} pregunta{pending !== 1 ? 's' : ''} sin responder. Puedes volver atrás para contestarlas.
+          </p>
+        )}
+
+        <div className="flex gap-3">
+          <button
+            onClick={onCancel}
+            className="flex-1 py-3 rounded-2xl border border-gray-700 bg-gray-900 text-gray-300 hover:text-white hover:border-gray-500 font-medium transition-all active:scale-95"
+          >
+            Volver
+          </button>
+          <button
+            onClick={onConfirm}
+            className="flex-1 py-3 rounded-2xl font-bold transition-all active:scale-95 bg-indigo-600 hover:bg-indigo-500 text-white border border-indigo-500"
+          >
+            Finalizar
+          </button>
+        </div>
+      </div>
+    </div>
+  );
+}
+
 export default function Quiz({
   question,
   currentIndex,
@@ -73,6 +138,7 @@ export default function Quiz({
 }) {
   const [showPanel, setShowPanel] = useState(false);
   const [showReport, setShowReport] = useState(false);
+  const [showConfirmFinish, setShowConfirmFinish] = useState(false);
 
   const q = question;
   const ans = answers[currentIndex];
@@ -210,7 +276,7 @@ export default function Quiz({
 
         {isLast ? (
           <button
-            onClick={onFinish}
+            onClick={() => setShowConfirmFinish(true)}
             className={`flex-1 flex items-center justify-center gap-2 py-3 rounded-2xl font-bold transition-all active:scale-95
               ${canFinish
                 ? 'bg-indigo-600 hover:bg-indigo-500 text-white border border-indigo-500'
@@ -246,6 +312,15 @@ export default function Quiz({
           question={q}
           user={user}
           onClose={() => setShowReport(false)}
+        />
+      )}
+
+      {showConfirmFinish && (
+        <ConfirmFinishModal
+          answers={answers}
+          totalQuestions={totalQuestions}
+          onConfirm={() => { setShowConfirmFinish(false); onFinish(); }}
+          onCancel={() => setShowConfirmFinish(false)}
         />
       )}
     </div>
