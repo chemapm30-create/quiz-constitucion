@@ -1724,19 +1724,6 @@
     "fuente": "PDF1"
   },
   {
-    "id": "pdf1_676",
-    "tema": "Tema 2",
-    "pregunta": "Respecto de los Estatutos de cada Comunidad Autónoma, el Estado:",
-    "opciones": [
-      "Los mismos",
-      "La Constitución",
-      "Las leyes",
-      "El Reglamento de la Asamblea Legislativa correspondiente +"
-    ],
-    "correcta": "Los mismos",
-    "fuente": "PDF1"
-  },
-  {
     "id": "pdf1_682",
     "tema": "Tema 2",
     "pregunta": "La reforma de los Estatutos requerirá, en todo caso, la aprobación por:",
@@ -1941,19 +1928,6 @@
       "Es una competencia compartida con las Comunidades Autónomas"
     ],
     "correcta": "Sí, sin perjuicio de las facultades de las Comunidades Autónomas de establecer normas adicionales de protección",
-    "fuente": "PDF1"
-  },
-  {
-    "id": "pdf1_744",
-    "tema": "Tema 2",
-    "pregunta": "¿Tiene el Estado competencia exclusiva sobre obras públicas?:",
-    "opciones": [
-      "A) Sí, cuando sean de interés general",
-      "B) Sí, cuando su realización afecte a más de una Comunidad Autónoma",
-      "C) No",
-      "D) Son ciertas las respuestas A) y B)"
-    ],
-    "correcta": "D) Son ciertas las respuestas A) y B)",
     "fuente": "PDF1"
   },
   {
@@ -18188,12 +18162,12 @@
     "fuente": "Daypo",
     "pregunta": "Finalidad del Sistema Público de Servicios Sociales de la Comunidad de Madrid. Señale la incorrecta:",
     "opciones": [
-      "La igualdad de oportunidades.",
+      "Asegurar el pleno empleo de las personas en situación de exclusión social.",
       "La detección precoz de situaciones de vulnerabilidad.",
       "La convivencia familiar.",
       "El bienestar social de todas las personas, familias y grupos."
     ],
-    "correcta": "La convivencia familiar."
+    "correcta": "Asegurar el pleno empleo de las personas en situación de exclusión social."
   },
   {
     "id": "daypo_t29_12",
@@ -18219,7 +18193,7 @@
       "No discriminación.",
       "Atención individual, integral y continuada."
     ],
-    "correcta": "Singularidad y solidaridad."
+    "correcta": "Atención individual, integral y continuada."
   },
   {
     "id": "daypo_t29_14",
