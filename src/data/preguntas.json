@@ -18570,5 +18570,2501 @@
       "El plan director y el plan operativo."
     ],
     "correcta": "El plan director y el plan operativo."
+  },
+  {
+    "id": "ta3_t4_1",
+    "tema": "Tema 4",
+    "fuente": "Test App 3",
+    "pregunta": "Conforme al Estatuto de Autonomía de la Comunidad de Madrid, la Asamblea Legislativa representa al pueblo de Madrid y ejerce diversas competencias en el ámbito autonómico. El alcance de sus potestades comprende, entre otras funciones esenciales, las siguientes:",
+    "opciones": [
+      "La potestad legislativa exclusiva sobre todas las materias que afecten a la Comunidad de Madrid, sin perjuicio de las limitaciones establecidas por la Constitución y las leyes estatales.",
+      "La capacidad para interponer recursos de inconstitucionalidad y personarse ante el Tribunal Constitucional en los términos previstos en la Constitución y la Ley Orgánica del Tribunal Constitucional.",
+      "La facultad de ejercer el control exclusivo del Gobierno de la Nación en su relación con los órganos autonómicos de la Comunidad de Madrid.",
+      "La posibilidad de dictar disposiciones de carácter general que, en todo caso, prevalezcan sobre las normativas estatales en materias de competencia compartida."
+    ],
+    "correcta": "La capacidad para interponer recursos de inconstitucionalidad y personarse ante el Tribunal Constitucional en los términos previstos en la Constitución y la Ley Orgánica del Tribunal Constitucional."
+  },
+  {
+    "id": "ta3_t4_2",
+    "tema": "Tema 4",
+    "fuente": "Test App 3",
+    "pregunta": "La Asamblea Legislativa de la Comunidad de Madrid se compone de un número de Diputados determinado en función de la población censada. La proporción establecida en el Estatuto de Autonomía dispone que:",
+    "opciones": [
+      "La Asamblea estará compuesta por un Diputado por cada 100.000 habitantes o fracción superior a 50.000, de acuerdo con los datos actualizados del censo.",
+      "La composición de la Asamblea dependerá del resultado de las elecciones autonómicas, sin que exista un criterio fijo basado en la población censada.",
+      "Un Diputado será elegido por cada 50.000 habitantes o fracción superior a 25.000, conforme a los datos actualizados del censo poblacional.",
+      "La distribución de escaños entre las circunscripciones electorales se llevará a cabo considerando únicamente aquellas listas que superen el umbral del 10% de los sufragios válidamente emitidos."
+    ],
+    "correcta": "Un Diputado será elegido por cada 50.000 habitantes o fracción superior a 25.000, conforme a los datos actualizados del censo poblacional."
+  },
+  {
+    "id": "ta3_t4_3",
+    "tema": "Tema 4",
+    "fuente": "Test App 3",
+    "pregunta": "La determinación de las causas de inelegibilidad e incompatibilidad de los Diputados de la Asamblea de Madrid se establece:",
+    "opciones": [
+      "Mediante un acuerdo del Presidente de la Comunidad, atendiendo a criterios de idoneidad y a la normativa estatal aplicable.",
+      "A través de una norma de carácter reglamentario dictada por el Consejo de Gobierno de la Comunidad de Madrid.",
+      "Mediante una ley de la Asamblea, la cual especificará los supuestos en los que un Diputado puede incurrir en inelegibilidad o incompatibilidad.",
+      "A partir de las disposiciones contenidas en la Ley Orgánica del Régimen Electoral General, sin necesidad de una regulación autonómica específica."
+    ],
+    "correcta": "Mediante una ley de la Asamblea, la cual especificará los supuestos en los que un Diputado puede incurrir en inelegibilidad o incompatibilidad."
+  },
+  {
+    "id": "ta3_t4_4",
+    "tema": "Tema 4",
+    "fuente": "Test App 3",
+    "pregunta": "La Asamblea de Madrid elige a su Presidente de entre sus miembros, y además:",
+    "opciones": [
+      "Procede a la elección de la Mesa y la Diputación Permanente.",
+      "Designa a los Senadores que representarán a la Comunidad en la Cámara Alta del Parlamento nacional.",
+      "Interviene en la designación de los Consejeros del Gobierno de la Comunidad de Madrid.",
+      "Regula mediante acuerdo plenario la composición de los órganos de gobierno de la Comunidad Autónoma."
+    ],
+    "correcta": "Procede a la elección de la Mesa y la Diputación Permanente."
+  },
+  {
+    "id": "ta3_t4_5",
+    "tema": "Tema 4",
+    "fuente": "Test App 3",
+    "pregunta": "Los períodos ordinarios de sesiones de la Asamblea de Madrid están regulados en el Estatuto de Autonomía y se distribuyen:",
+    "opciones": [
+      "En dos sesiones anuales, la primera de enero a junio y la segunda de septiembre a diciembre.",
+      "En dos sesiones anuales, comprendiendo la primera de septiembre a diciembre y la segunda de febrero a junio.",
+      "En sesiones continuadas durante todo el año, salvo el mes de agosto, cuando la actividad parlamentaria se interrumpe por receso estival.",
+      "Según lo dispuesto en el Reglamento de la Asamblea, sin que existan períodos ordinarios prefijados."
+    ],
+    "correcta": "En dos sesiones anuales, comprendiendo la primera de septiembre a diciembre y la segunda de febrero a junio."
+  },
+  {
+    "id": "ta3_t4_6",
+    "tema": "Tema 4",
+    "fuente": "Test App 3",
+    "pregunta": "Para la deliberación y adopción de acuerdos en la Asamblea de Madrid, es requisito imprescindible que:",
+    "opciones": [
+      "Se cuente con la asistencia de al menos la mitad más uno de los Diputados de la Cámara.",
+      "Haya un quórum mínimo de un tercio de los Diputados presentes en la sesión.",
+      "Se alcancen mayorías cualificadas en todos los casos, con independencia del asunto tratado.",
+      "La Asamblea esté reunida reglamentariamente y con asistencia de la mayoría de sus miembros."
+    ],
+    "correcta": "La Asamblea esté reunida reglamentariamente y con asistencia de la mayoría de sus miembros."
+  },
+  {
+    "id": "ta3_t4_7",
+    "tema": "Tema 4",
+    "fuente": "Test App 3",
+    "pregunta": "La función de la Asamblea de Madrid en relación con los tributos de la Comunidad Autónoma consiste en:",
+    "opciones": [
+      "Aprobar los tributos propios de la Comunidad y gestionar los impuestos estatales cedidos dentro del marco normativo aplicable.",
+      "Recaudar directamente todos los impuestos de los ciudadanos madrileños, incluidos los tributos estatales.",
+      "Fijar las bases de los tributos municipales y locales de la Comunidad de Madrid.",
+      "Aprobar exclusivamente las tasas y precios públicos de la Administración autonómica."
+    ],
+    "correcta": "Aprobar los tributos propios de la Comunidad y gestionar los impuestos estatales cedidos dentro del marco normativo aplicable."
+  },
+  {
+    "id": "ta3_t4_8",
+    "tema": "Tema 4",
+    "fuente": "Test App 3",
+    "pregunta": "El Presidente de la Comunidad de Madrid es elegido por la Asamblea de entre sus miembros y posteriormente:",
+    "opciones": [
+      "Nombrado por el Rey mediante Real Decreto publicado en el Boletín Oficial del Estado y en el Boletín Oficial de la Comunidad de Madrid.",
+      "Proclamado de manera automática tras la votación en la Asamblea, sin necesidad de ratificación posterior.",
+      "Aprobado por el Pleno de la Asamblea en un proceso de doble votación sin intervención de la Jefatura del Estado.",
+      "Ratificado por el Tribunal Superior de Justicia de Madrid antes de su toma de posesión."
+    ],
+    "correcta": "Nombrado por el Rey mediante Real Decreto publicado en el Boletín Oficial del Estado y en el Boletín Oficial de la Comunidad de Madrid."
+  },
+  {
+    "id": "ta3_t4_9",
+    "tema": "Tema 4",
+    "fuente": "Test App 3",
+    "pregunta": "Entre las atribuciones del Presidente de la Comunidad de Madrid se encuentra:",
+    "opciones": [
+      "La potestad exclusiva de dictar normas con rango de ley en el ámbito autonómico sin necesidad de delegación de la Asamblea.",
+      "El nombramiento y cese de los Consejeros del Gobierno autonómico.",
+      "La facultad de modificar el Estatuto de Autonomía mediante Decreto.",
+      "La aprobación directa de los Presupuestos de la Comunidad sin intervención parlamentaria."
+    ],
+    "correcta": "El nombramiento y cese de los Consejeros del Gobierno autonómico."
+  },
+  {
+    "id": "ta3_t4_10",
+    "tema": "Tema 4",
+    "fuente": "Test App 3",
+    "pregunta": "El Consejo de Gobierno de la Comunidad de Madrid cesa en sus funciones en los siguientes casos:",
+    "opciones": [
+      "Cuando lo decida el Presidente de la Comunidad, sin necesidad de justificación.",
+      "En los supuestos de pérdida de la confianza parlamentaria, dimisión, incapacidad permanente o fallecimiento del Presidente.",
+      "Únicamente cuando se disuelve la Asamblea por expiración de su mandato.",
+      "Tras la aprobación de una moción de censura en el Congreso de los Diputados."
+    ],
+    "correcta": "En los supuestos de pérdida de la confianza parlamentaria, dimisión, incapacidad permanente o fallecimiento del Presidente."
+  },
+  {
+    "id": "ta3_t4_11",
+    "tema": "Tema 4",
+    "fuente": "Test App 3",
+    "pregunta": "De acuerdo con el Estatuto de Autonomía de la Comunidad de Madrid, el Consejo de Gobierno es el órgano colegiado encargado de dirigir la política y la Administración de la Comunidad. Entre sus competencias se encuentra:",
+    "opciones": [
+      "La dirección exclusiva de la política legislativa, sin intervención de la Asamblea de Madrid, en aquellas materias que le sean delegadas.",
+      "La potestad reglamentaria, con facultad para dictar normas con rango de ley sin necesidad de delegación expresa de la Asamblea.",
+      "La elaboración y aprobación del proyecto de Presupuesto de la Comunidad para su posterior presentación ante la Asamblea.",
+      "La ratificación directa de convenios con otras Comunidades Autónomas sin necesidad de autorización legislativa previa."
+    ],
+    "correcta": "La elaboración y aprobación del proyecto de Presupuesto de la Comunidad para su posterior presentación ante la Asamblea."
+  },
+  {
+    "id": "ta3_t4_12",
+    "tema": "Tema 4",
+    "fuente": "Test App 3",
+    "pregunta": "En relación con el proceso de elección del Presidente de la Comunidad de Madrid, el Estatuto de Autonomía establece que, en el caso de que en la primera votación no obtenga la mayoría absoluta de la Asamblea, se procederá a:",
+    "opciones": [
+      "La repetición de la votación transcurridas 24 horas, manteniendo la exigencia de mayoría absoluta.",
+      "Una nueva votación pasadas 48 horas, en la que bastará con la obtención de mayoría simple.",
+      "La disolución inmediata de la Asamblea y la convocatoria de nuevas elecciones autonómicas.",
+      "La intervención del Tribunal Superior de Justicia de Madrid para dirimir la cuestión."
+    ],
+    "correcta": "Una nueva votación pasadas 48 horas, en la que bastará con la obtención de mayoría simple."
+  },
+  {
+    "id": "ta3_t4_13",
+    "tema": "Tema 4",
+    "fuente": "Test App 3",
+    "pregunta": "La moción de censura es un mecanismo parlamentario mediante el cual la Asamblea de Madrid puede exigir la responsabilidad política del Consejo de Gobierno. Para que dicha moción prospere, se requiere:",
+    "opciones": [
+      "La mayoría simple de los Diputados presentes en la sesión plenaria en la que se vote la moción.",
+      "La presentación de un candidato alternativo a la Presidencia junto con la moción y la aprobación por mayoría absoluta.",
+      "La aprobación por parte del Presidente de la Comunidad antes de su votación en la Asamblea.",
+      "Un dictamen previo del Tribunal Constitucional que avale la legalidad de la moción presentada."
+    ],
+    "correcta": "La presentación de un candidato alternativo a la Presidencia junto con la moción y la aprobación por mayoría absoluta."
+  },
+  {
+    "id": "ta3_t4_14",
+    "tema": "Tema 4",
+    "fuente": "Test App 3",
+    "pregunta": "Según lo dispuesto en el Estatuto de Autonomía, las sesiones extraordinarias de la Asamblea de Madrid pueden ser convocadas por:",
+    "opciones": [
+      "El Presidente de la Asamblea a petición del Gobierno, de la Diputación Permanente, de una cuarta parte de los Diputados o del número de Grupos Parlamentarios que el Reglamento determine.",
+      "El Presidente de la Comunidad de Madrid, de manera unilateral, cuando considere necesario tratar cuestiones urgentes de interés autonómico.",
+      "Cualquier Grupo Parlamentario que así lo solicite, sin necesidad de cumplir ningún requisito de proporcionalidad.",
+      "Los Diputados de la Asamblea, mediante petición individual a la Presidencia, sin necesidad de una mayoría determinada."
+    ],
+    "correcta": "El Presidente de la Asamblea a petición del Gobierno, de la Diputación Permanente, de una cuarta parte de los Diputados o del número de Grupos Parlamentarios que el Reglamento determine."
+  },
+  {
+    "id": "ta3_t4_15",
+    "tema": "Tema 4",
+    "fuente": "Test App 3",
+    "pregunta": "La Asamblea de Madrid puede interponer recursos de inconstitucionalidad y personarse ante el Tribunal Constitucional. En este sentido, corresponde a la Asamblea:",
+    "opciones": [
+      "La interposición directa del recurso sin necesidad de aprobación parlamentaria, en virtud de su potestad legislativa.",
+      "La personación ante el Tribunal Constitucional sin necesidad de justificación, al considerarse un derecho inherente de la Cámara.",
+      "La iniciativa para la interposición del recurso, siempre que se ajuste a los supuestos y términos previstos en la normativa vigente.",
+      "La delegación de esta competencia en el Consejo de Gobierno, que será el encargado de decidir en última instancia si procede la interposición del recurso."
+    ],
+    "correcta": "La iniciativa para la interposición del recurso, siempre que se ajuste a los supuestos y términos previstos en la normativa vigente."
+  },
+  {
+    "id": "ta3_t5_1",
+    "tema": "Tema 5",
+    "fuente": "Test App 3",
+    "pregunta": "Dentro del funcionamiento interno de una Consejería, ¿cuál de los siguientes órganos ejerce funciones de dirección, coordinación y ejecución en un ámbito sectorial específico, bajo la autoridad del Consejero?",
+    "opciones": [
+      "El Secretario General del Gobierno autonómico.",
+      "El Director General.",
+      "El Delegado del Gobierno en la Comunidad de Madrid.",
+      "El Presidente de la Asamblea."
+    ],
+    "correcta": "El Director General."
+  },
+  {
+    "id": "ta3_t5_2",
+    "tema": "Tema 5",
+    "fuente": "Test App 3",
+    "pregunta": "Según la Ley 1/1983, de 13 de diciembre, la estructura de las Consejerías en la Comunidad de Madrid se conforma en base a principios organizativos específicos. ¿Cuál de las siguientes afirmaciones describe correctamente la distribución de competencias dentro de una Consejería?",
+    "opciones": [
+      "Se organiza por bloques de competencias de naturaleza heterogénea, lo que permite una mayor flexibilidad en la gestión interna.",
+      "Se distribuye en bloques de competencias de naturaleza homogénea, a través de Direcciones Generales cuando la entidad de las atribuciones así lo exija.",
+      "Las Direcciones Generales no dependen de la Consejería, sino que funcionan como órganos autónomos de toma de decisiones en sus respectivas materias.",
+      "La Consejería se compone exclusivamente de una Secretaría General Técnico, sin que existan otros órganos subordinados a ella."
+    ],
+    "correcta": "Se distribuye en bloques de competencias de naturaleza homogénea, a través de Direcciones Generales cuando la entidad de las atribuciones así lo exija."
+  },
+  {
+    "id": "ta3_t5_3",
+    "tema": "Tema 5",
+    "fuente": "Test App 3",
+    "pregunta": "La designación de los Directores Generales en la Comunidad de Madrid responde a un procedimiento específico establecido en la normativa vigente. Indique cuál de las siguientes afirmaciones se ajusta correctamente a dicho procedimiento.",
+    "opciones": [
+      "Son designados directamente por el Presidente de la Comunidad, sin intervención del Consejo de Gobierno.",
+      "Se nombran por Decreto del Consejo de Gobierno, a propuesta del Consejero respectivo y preferentemente de entre funcionarios de carrera.",
+      "La designación de Directores Generales es resultado de un proceso de oposición en el que pueden participar tanto funcionarios como personal laboral.",
+      "Solo pueden ser elegidos de entre funcionarios de la Administración General del Estado, quedando excluidos los de la Administración Autonómica."
+    ],
+    "correcta": "Se nombran por Decreto del Consejo de Gobierno, a propuesta del Consejero respectivo y preferentemente de entre funcionarios de carrera."
+  },
+  {
+    "id": "ta3_t5_4",
+    "tema": "Tema 5",
+    "fuente": "Test App 3",
+    "pregunta": "Entre las atribuciones del Consejero de una Consejería se encuentra la potestad reglamentaria en la esfera de sus competencias. ¿Qué otro tipo de documentos puede dictar además de los reglamentos?",
+    "opciones": [
+      "Instrucciones y circulares.",
+      "Directivas y leyes autonómicas.",
+      "Órdenes ministeriales.",
+      "Disposiciones generales con rango de ley."
+    ],
+    "correcta": "Instrucciones y circulares."
+  },
+  {
+    "id": "ta3_t5_5",
+    "tema": "Tema 5",
+    "fuente": "Test App 3",
+    "pregunta": "La estructura orgánica de cada Consejería, hasta nivel de Subdirección General, debe ser establecida por:",
+    "opciones": [
+      "Orden del Consejero respectivo, con aprobación previa del Consejo de Gobierno.",
+      "Decreto del Consejo de Gobierno, a propuesta del Consejero respectivo, previo informe preceptivo de la Consejería de Hacienda.",
+      "Resolución de la Asamblea de Madrid, con validación posterior del Consejo de Gobierno.",
+      "Acuerdo entre el Presidente de la Comunidad y el Consejero de Hacienda, sin necesidad de informe adicional."
+    ],
+    "correcta": "Decreto del Consejo de Gobierno, a propuesta del Consejero respectivo, previo informe preceptivo de la Consejería de Hacienda."
+  },
+  {
+    "id": "ta3_t5_6",
+    "tema": "Tema 5",
+    "fuente": "Test App 3",
+    "pregunta": "La normativa autonómica establece que los Viceconsejeros, en el ejercicio de sus funciones, tienen entre sus competencias:",
+    "opciones": [
+      "Resolver los recursos interpuestos contra resoluciones de los órganos directivos bajo su dependencia que no agoten la vía administrativa.",
+      "Delegar su responsabilidad en los Directores Generales sin necesidad de autorización del Consejero.",
+      "Ejercer la potestad reglamentaria en el ámbito de la Consejería sin necesidad de aprobación del Consejo de Gobierno.",
+      "Aprobar modificaciones presupuestarias dentro del área de su competencia sin someterlas al Consejero."
+    ],
+    "correcta": "Resolver los recursos interpuestos contra resoluciones de los órganos directivos bajo su dependencia que no agoten la vía administrativa."
+  },
+  {
+    "id": "ta3_t5_7",
+    "tema": "Tema 5",
+    "fuente": "Test App 3",
+    "pregunta": "El Decreto 76/2023 establece la estructura básica de las Consejerías de la Comunidad de Madrid. Indique qué afirmación refleja adecuadamente la adscripción de órganos dentro de la Consejería de Presidencia, Justicia y Administración Local.",
+    "opciones": [
+      "La Dirección General de Atención al Ciudadano y Transparencia se encuentra adscrita a la Viceconsejería de Justicia y Víctimas.",
+      "La Abogacía General de la Comunidad de Madrid está adscrita a la Viceconsejería de Asuntos Jurídicos y Secretaría General del Consejo de Gobierno.",
+      "La Viceconsejería de Justicia y Víctimas asume todas las competencias relativas a relaciones institucionales con la Asamblea de Madrid.",
+      "La Viceconsejería de Presidencia y Administración Local no cuenta con órganos directivos bajo su dependencia."
+    ],
+    "correcta": "La Abogacía General de la Comunidad de Madrid está adscrita a la Viceconsejería de Asuntos Jurídicos y Secretaría General del Consejo de Gobierno."
+  },
+  {
+    "id": "ta3_t5_8",
+    "tema": "Tema 5",
+    "fuente": "Test App 3",
+    "pregunta": "En la organización de la Administración autonómica, las Direcciones Generales pueden estructurarse en unidades administrativas inferiores. ¿Qué criterio regula la denominación de estas unidades?",
+    "opciones": [
+      "Es establecida por la Asamblea de Madrid mediante resolución específica.",
+      "Debe ser determinada mediante Decreto del Consejo de Gobierno, a propuesta de la Consejería de Presidencia.",
+      "Corresponde al titular de la Consejería de Hacienda determinar su denominación.",
+      "La elección del nombre depende exclusivamente del Director General del área correspondiente."
+    ],
+    "correcta": "Debe ser determinada mediante Decreto del Consejo de Gobierno, a propuesta de la Consejería de Presidencia."
+  },
+  {
+    "id": "ta3_t5_9",
+    "tema": "Tema 5",
+    "fuente": "Test App 3",
+    "pregunta": "El régimen jurídico de los Organismos Autónomos en la Comunidad de Madrid establece que su extinción debe realizarse conforme a criterios específicos. Indique cuál de las siguientes afirmaciones es correcta.",
+    "opciones": [
+      "Solo pueden extinguirse mediante Decreto del Consejo de Gobierno.",
+      "Su disolución solo es posible mediante Ley de la Asamblea de Madrid.",
+      "Pueden desaparecer por decisión unilateral del Presidente de la Comunidad de Madrid.",
+      "Se extinguen automáticamente si el Consejo de Administración no aprueba su presupuesto anual."
+    ],
+    "correcta": "Su disolución solo es posible mediante Ley de la Asamblea de Madrid."
+  },
+  {
+    "id": "ta3_t5_10",
+    "tema": "Tema 5",
+    "fuente": "Test App 3",
+    "pregunta": "El Consejo de Administración de un Organismo Autónomo tiene entre sus funciones la aprobación de ciertos documentos esenciales. Uno de ellos es:",
+    "opciones": [
+      "El programa de actuación anual.",
+      "El Plan Estratégico de la Comunidad de Madrid.",
+      "El decreto de estructura de la Consejería a la que está adscrito.",
+      "Los contratos de servicios públicos superiores a dos millones de euros."
+    ],
+    "correcta": "El programa de actuación anual."
+  },
+  {
+    "id": "ta3_t5_11",
+    "tema": "Tema 5",
+    "fuente": "Test App 3",
+    "pregunta": "Indique la correcta sobre la potestad de contratación de los Organismos Autónomos de la Comunidad de Madrid.",
+    "opciones": [
+      "Solo el Presidente de la Comunidad de Madrid puede autorizar contratos de cuantía indeterminada.",
+      "Los contratos de obras con pago aplazado requieren autorización previa del Consejo de Gobierno.",
+      "Los Organismos Autónomos no tienen capacidad para contratar por sí mismos.",
+      "Todos los contratos requieren el visto bueno previo de la Asamblea de Madrid."
+    ],
+    "correcta": "Los contratos de obras con pago aplazado requieren autorización previa del Consejo de Gobierno."
+  },
+  {
+    "id": "ta3_t5_12",
+    "tema": "Tema 5",
+    "fuente": "Test App 3",
+    "pregunta": "El Secretario General Técnico de una Consejería tiene una serie de funciones asignadas en la normativa autonómica. ¿Cuál de las siguientes es una atribución que le corresponde?",
+    "opciones": [
+      "Proponer la estructura orgánica de la Consejería ante el Consejo de Gobierno.",
+      "Dictar circulares e instrucciones vinculantes para todas las Direcciones Generales de la Comunidad de Madrid.",
+      "Certificar todos los actos que sean atribución específica del Consejero.",
+      "Aprobar el presupuesto anual de la Consejería sin necesidad de validación externa."
+    ],
+    "correcta": "Certificar todos los actos que sean atribución específica del Consejero."
+  },
+  {
+    "id": "ta3_t5_13",
+    "tema": "Tema 5",
+    "fuente": "Test App 3",
+    "pregunta": "En el marco de la Administración autonómica, los Directores Generales desempeñan un papel fundamental en la gestión pública. Una de sus funciones esenciales es:",
+    "opciones": [
+      "Ordenar los pagos de la Consejería sin autorización del Consejero.",
+      "Dirigir y gestionar los servicios adscritos a su Dirección General.",
+      "Aprobar por sí mismo el régimen de funcionamiento de las unidades administrativas bajo su dirección.",
+      "Modificar la denominación de las unidades inferiores a la Subdirección General sin necesidad de autorización."
+    ],
+    "correcta": "Dirigir y gestionar los servicios adscritos a su Dirección General."
+  },
+  {
+    "id": "ta3_t5_14",
+    "tema": "Tema 5",
+    "fuente": "Test App 3",
+    "pregunta": "Los Viceconsejeros son órganos superiores dentro de la estructura de la Administración autonómica. ¿Cuál de las siguientes afirmaciones describe correctamente sus funciones?",
+    "opciones": [
+      "Dirigir y coordinar las Direcciones Generales situadas bajo su dependencia, respondiendo ante el Consejero.",
+      "Elaborar el anteproyecto de Presupuestos de la Consejería y presentarlo directamente ante la Asamblea de Madrid.",
+      "Nombrar y cesar a los Secretarios Generales Técnicos sin intervención del Consejo de Gobierno.",
+      "Aprobar en última instancia los actos administrativos dictados por cualquier órgano de la Consejería."
+    ],
+    "correcta": "Dirigir y coordinar las Direcciones Generales situadas bajo su dependencia, respondiendo ante el Consejero."
+  },
+  {
+    "id": "ta3_t5_15",
+    "tema": "Tema 5",
+    "fuente": "Test App 3",
+    "pregunta": "En relación con la estructura orgánica de las Consejerías, el Decreto 76/2023 de la Comunidad de Madrid establece que:",
+    "opciones": [
+      "Cada Consejería podrá contar con un número ilimitado de Viceconsejerías, según lo determine el Consejero titular.",
+      "La Secretaría General Técnico de cada Consejería es el órgano encargado de la coordinación de todos los servicios del Departamento.",
+      "La Consejería de Economía y Hacienda no dispone de Viceconsejerías, sino que su estructura se compone exclusivamente de Direcciones Generales.",
+      "Las modificaciones estructurales dentro de una Consejería no requieren autorización del Consejo de Gobierno."
+    ],
+    "correcta": "La Secretaría General Técnico de cada Consejería es el órgano encargado de la coordinación de todos los servicios del Departamento."
+  },
+  {
+    "id": "ta3_t5_16",
+    "tema": "Tema 5",
+    "fuente": "Test App 3",
+    "pregunta": "La administración institucional de la Comunidad de Madrid está integrada por diversos organismos y entes. ¿Cuál de las siguientes afirmaciones es correcta respecto a estos?",
+    "opciones": [
+      "Los Organismos Autónomos tienen personalidad jurídica propia y pueden ser creados por Decreto del Consejo de Gobierno.",
+      "Las Empresas Públicas dependen orgánicamente de la Asamblea de Madrid y se rigen exclusivamente por derecho administrativo.",
+      "Los Órganos de Gestión sin personalidad jurídica propia pueden ser creados mediante Decreto del Consejo de Gobierno.",
+      "Los Entes Públicos deben ser creados por Decreto, sin que se requiera intervención legislativa."
+    ],
+    "correcta": "Los Órganos de Gestión sin personalidad jurídica propia pueden ser creados mediante Decreto del Consejo de Gobierno."
+  },
+  {
+    "id": "ta3_t5_17",
+    "tema": "Tema 5",
+    "fuente": "Test App 3",
+    "pregunta": "Dentro de las atribuciones de los Consejeros de la Comunidad de Madrid, se encuentra la capacidad de resolver conflictos de atribuciones entre autoridades dependientes de su Consejería. Además, también pueden:",
+    "opciones": [
+      "Resolver en última instancia dentro de la vía administrativa los recursos contra resoluciones de los órganos de la Consejería.",
+      "Autorizar cualquier gasto dentro de su Consejería sin límite de cuantía.",
+      "Aprobar la estructura básica de la Consejería sin intervención del Consejo de Gobierno.",
+      "Delegar libremente sus competencias en Directores Generales sin necesidad de autorización."
+    ],
+    "correcta": "Resolver en última instancia dentro de la vía administrativa los recursos contra resoluciones de los órganos de la Consejería."
+  },
+  {
+    "id": "ta3_t5_18",
+    "tema": "Tema 5",
+    "fuente": "Test App 3",
+    "pregunta": "Dentro de la regulación de los Organismos Autónomos, el Consejo de Administración tiene la competencia para aprobar determinados documentos esenciales. ¿Cuál de los siguientes NO es uno de ellos?",
+    "opciones": [
+      "El programa de actuación anual del Organismo Autónomo.",
+      "Las cuentas anuales del Organismo Autónomo.",
+      "El anteproyecto de Presupuesto del Organismo Autónomo.",
+      "El decreto de estructura de la Consejería a la que está adscrito el Organismo Autónomo."
+    ],
+    "correcta": "El decreto de estructura de la Consejería a la que está adscrito el Organismo Autónomo."
+  },
+  {
+    "id": "ta3_t5_19",
+    "tema": "Tema 5",
+    "fuente": "Test App 3",
+    "pregunta": "De acuerdo con la normativa de la Comunidad de Madrid, los contratos de los Organismos Autónomos están sujetos a control por parte del Consejo de Gobierno. ¿En cuál de las siguientes situaciones es preceptiva la autorización del Gobierno?",
+    "opciones": [
+      "En todos los contratos, independientemente de su cuantía o duración.",
+      "Cuando se trate de contratos de cuantía indeterminada o de contratos plurianuales que requieran la modificación de los límites presupuestarios.",
+      "Únicamente en contratos de obras y suministros superiores a un millón de euros.",
+      "Solo en contratos de servicios públicos gestionados por empresas privadas."
+    ],
+    "correcta": "Cuando se trate de contratos de cuantía indeterminada o de contratos plurianuales que requieran la modificación de los límites presupuestarios."
+  },
+  {
+    "id": "ta3_t5_20",
+    "tema": "Tema 5",
+    "fuente": "Test App 3",
+    "pregunta": "La Comunidad de Madrid cuenta con Empresas Públicas con forma de sociedad mercantil. Indique cuál de las siguientes afirmaciones es correcta en relación con ellas.",
+    "opciones": [
+      "Su creación y extinción requieren aprobación por Ley de la Asamblea de Madrid.",
+      "La Junta General de una sociedad mercantil con capital 100% de la Comunidad de Madrid está integrada por el Consejo de Gobierno o el Consejo de Administración del Organismo al que esté adscrita.",
+      "No están sujetas a control parlamentario, ya que su gestión responde exclusivamente a criterios mercantiles.",
+      "No pueden participar en contratos con la Administración Pública ni prestar servicios a la Comunidad de Madrid."
+    ],
+    "correcta": "La Junta General de una sociedad mercantil con capital 100% de la Comunidad de Madrid está integrada por el Consejo de Gobierno o el Consejo de Administración del Organismo al que esté adscrita."
+  },
+  {
+    "id": "ta3_t5_21",
+    "tema": "Tema 5",
+    "fuente": "Test App 3",
+    "pregunta": "En el ámbito del control y fiscalización de los Organismos Autónomos, la Comunidad de Madrid establece un marco regulador específico. ¿Cuál de los siguientes órganos tiene la competencia de llevar a cabo auditorías y control financiero sobre los Organismos Autónomos?",
+    "opciones": [
+      "El Presidente de la Comunidad de Madrid.",
+      "El Consejo de Gobierno de la Comunidad de Madrid.",
+      "La Intervención General de la Comunidad de Madrid.",
+      "El Consejo de Administración del propio Organismo Autónomo."
+    ],
+    "correcta": "La Intervención General de la Comunidad de Madrid."
+  },
+  {
+    "id": "ta3_t29_1",
+    "tema": "Tema 29",
+    "fuente": "Test App 3",
+    "pregunta": "La Ley 12/2022, de 21 de diciembre, de Servicios Sociales de la Comunidad de Madrid establece como competencias de las administraciones públicas en su artículo 9 'disposición general', lo siguiente:",
+    "opciones": [
+      "La competencia en materia de servicios sociales corresponderá a las entidades locales mayores de 20.000 habitantes en su ámbito territorial.",
+      "Las competencias en materia de servicios sociales corresponderán a la Comunidad de Madrid y a las entidades locales en su ámbito territorial.",
+      "La competencia en materia de servicios sociales corresponderá a la Comunidad de Madrid.",
+      "La competencia en materia de servicios sociales corresponderá a las entidades locales en su ámbito territorial."
+    ],
+    "correcta": "Las competencias en materia de servicios sociales corresponderán a la Comunidad de Madrid y a las entidades locales en su ámbito territorial."
+  },
+  {
+    "id": "ta3_t29_2",
+    "tema": "Tema 29",
+    "fuente": "Test App 3",
+    "pregunta": "El artículo 7 'sistema público de servicios sociales' de la Ley 12/2022, de 21 de diciembre, de Servicios Sociales de la Comunidad de Madrid, dice:",
+    "opciones": [
+      "El Sistema Público de Servicios Sociales es un servicio público de carácter universal que consiste en una red integrada de recursos, programas, prestaciones y equipamientos de atención social, de responsabilidad y control público, ejercidos por las Administraciones autonómica y local.",
+      "El Sistema Público de Servicios Sociales es un servicio público y privado de carácter universal que consiste en una red integrada de recursos, programas, prestaciones y equipamientos de atención social, de responsabilidad y control público, ejercidos por las Administraciones autonómica y local.",
+      "El Sistema Público de Servicios Sociales es un servicio público de carácter universal que consiste en una red integrada de recursos, programas, prestaciones y equipamientos de atención social, de responsabilidad y control privado, ejercidos por las Administraciones locales.",
+      "El Sistema Público de Servicios Sociales es un servicio público de carácter universal que consiste en una red no integrada de recursos, programas, prestaciones y equipamientos de atención social, de responsabilidad y control privado, ejercidos por las Administraciones locales."
+    ],
+    "correcta": "El Sistema Público de Servicios Sociales es un servicio público de carácter universal que consiste en una red integrada de recursos, programas, prestaciones y equipamientos de atención social, de responsabilidad y control público, ejercidos por las Administraciones autonómica y local."
+  },
+  {
+    "id": "ta3_t30_1",
+    "tema": "Tema 30",
+    "fuente": "Test App 3",
+    "pregunta": "Dentro de la estructura organizativa de la Salud Mental en la Comunidad de Madrid, ¿cuál es el órgano encargado del apoyo científico-técnico, la planificación y el seguimiento de indicadores comunes a todo el sistema?",
+    "opciones": [
+      "La Gerencia Asistencial de Atención Primaria.",
+      "La Oficina Regional de Coordinación de Salud Mental y Adicciones.",
+      "El Consejo de Salud de la Comunidad de Madrid.",
+      "La Dirección General de Salud Pública exclusivamente."
+    ],
+    "correcta": "La Oficina Regional de Coordinación de Salud Mental y Adicciones."
+  },
+  {
+    "id": "ta3_t30_2",
+    "tema": "Tema 30",
+    "fuente": "Test App 3",
+    "pregunta": "En el modelo asistencial comunitario adoptado por el Plan de Salud Mental y Adicciones 2022-2024, se establece que la atención psiquiátrica se organiza como:",
+    "opciones": [
+      "Una especialidad médica integrada plenamente en la Atención Primaria.",
+      "Una prestación dependiente exclusivamente de la Consejería de Familia y Asuntos Sociales.",
+      "Una especialidad médica que forma parte plena de la Atención Especializada, conservando sus características propias de rehabilitación psicosocial.",
+      "Un nivel asistencial independiente y separado de la red de hospitales generales."
+    ],
+    "correcta": "Una especialidad médica que forma parte plena de la Atención Especializada, conservando sus características propias de rehabilitación psicosocial."
+  },
+  {
+    "id": "ta3_t30_3",
+    "tema": "Tema 30",
+    "fuente": "Test App 3",
+    "pregunta": "Respecto a las Unidades de Hospitalización Breve (UHB) de adultos en la Comunidad de Madrid, señale la afirmación correcta:",
+    "opciones": [
+      "Existen actualmente 15 hospitales en la CAM que cuentan con estas unidades.",
+      "El ingreso involuntario no requiere autorización judicial si es por causa de riesgo vital.",
+      "Los ingresos proceden únicamente de los Centros de Salud Mental (CSM) de distrito.",
+      "Actualmente, 22 hospitales de la Comunidad de Madrid cuentan con estas unidades para adultos."
+    ],
+    "correcta": "Actualmente, 22 hospitales de la Comunidad de Madrid cuentan con estas unidades para adultos."
+  },
+  {
+    "id": "ta3_t30_4",
+    "tema": "Tema 30",
+    "fuente": "Test App 3",
+    "pregunta": "¿Cuál de los siguientes recursos NO pertenece a la Red de Atención Sanitaria (Sermas), sino que forma parte de la Red de Atención Social a personas con enfermedad mental grave y duradera?",
+    "opciones": [
+      "Hospital de Día de Salud Mental.",
+      "Unidad de Cuidados Psiquiátricos Prolongados (UCPP).",
+      "Equipo de Apoyo Social Comunitario (EASC).",
+      "Unidad de Psiquiatría de Enlace e Interconsulta."
+    ],
+    "correcta": "Equipo de Apoyo Social Comunitario (EASC)."
+  },
+  {
+    "id": "ta3_t30_5",
+    "tema": "Tema 30",
+    "fuente": "Test App 3",
+    "pregunta": "Las Unidades Hospitalarias de Tratamiento y Rehabilitación (UHTR), también conocidas como de 'media estancia', tienen como objetivo principal:",
+    "opciones": [
+      "La contención de crisis agudas en un periodo no superior a 72 horas.",
+      "Iniciar planteamientos de rehabilitación en estancias de régimen de ingreso de entre 3 a 12 meses.",
+      "Sustituir a los Centros de Salud Mental en el seguimiento ambulatorio del paciente crónico.",
+      "La atención exclusiva a pacientes con adicciones a sustancias."
+    ],
+    "correcta": "Iniciar planteamientos de rehabilitación en estancias de régimen de ingreso de entre 3 a 12 meses."
+  },
+  {
+    "id": "ta3_t30_6",
+    "tema": "Tema 30",
+    "fuente": "Test App 3",
+    "pregunta": "Un paciente de 35 años con esquizofrenia paranoide presenta un buen control sintomático pero un grave deterioro en sus habilidades sociolaborales y de autocuidado. ¿A qué recurso de la Red de Atención Social debería ser derivado prioritariamente desde su Centro de Salud Mental?",
+    "opciones": [
+      "A una Unidad de Hospitalización Breve.",
+      "A un Centro de Rehabilitación Psicosocial (CRPS).",
+      "A la Unidad de Psiquiatría de Enlace.",
+      "Directamente a un Centro de Tratamiento de Adicciones (CTA)."
+    ],
+    "correcta": "A un Centro de Rehabilitación Psicosocial (CRPS)."
+  },
+  {
+    "id": "ta3_t30_7",
+    "tema": "Tema 30",
+    "fuente": "Test App 3",
+    "pregunta": "Sobre el acceso a la Red de Atención a personas con problemas de adicción en la CAM, señale la respuesta correcta:",
+    "opciones": [
+      "El acceso a los recursos de primer nivel (CAID/CTA) requiere derivación previa obligatoria del médico de familia.",
+      "El acceso es directo y no necesita derivación previa para los centros de primer nivel.",
+      "Las mujeres embarazadas tienen la misma prioridad de acceso que el resto de la población general.",
+      "Solo se atiende a personas con adicciones a sustancias químicas (drogas)."
+    ],
+    "correcta": "El acceso es directo y no necesita derivación previa para los centros de primer nivel."
+  },
+  {
+    "id": "ta3_t30_8",
+    "tema": "Tema 30",
+    "fuente": "Test App 3",
+    "pregunta": "¿Qué recurso específico de la red sanitaria está diseñado para pacientes con Trastorno Mental Grave y persistente que han agotado las posibilidades de rehabilitación en media estancia y requieren cuidados centrados en el ocio y mantenimiento de habilidades?",
+    "opciones": [
+      "Centro de Salud Mental.",
+      "Unidad de Cuidados Psiquiátricos Prolongados (UCPP - larga estancia).",
+      "Hospital de Día de Salud Mental.",
+      "Residencia de Apoyo al Tratamiento."
+    ],
+    "correcta": "Unidad de Cuidados Psiquiátricos Prolongados (UCPP - larga estancia)."
+  },
+  {
+    "id": "ta3_t30_9",
+    "tema": "Tema 30",
+    "fuente": "Test App 3",
+    "pregunta": "El Programa de Continuidad de Cuidados (PCC) en el ámbito de los Centros de Salud Mental tiene como misión principal:",
+    "opciones": [
+      "Garantizar que el paciente sea atendido siempre por el mismo médico de familia.",
+      "Prestar las ayudas necesarias para la recuperación mediante un tratamiento continuado y rehabilitación psicosocial en personas con TMG.",
+      "Evitar que los pacientes acudan a las urgencias hospitalarias.",
+      "Gestionar únicamente las altas hospitalarias hacia centros privados."
+    ],
+    "correcta": "Prestar las ayudas necesarias para la recuperación mediante un tratamiento continuado y rehabilitación psicosocial en personas con TMG."
+  },
+  {
+    "id": "ta3_t30_10",
+    "tema": "Tema 30",
+    "fuente": "Test App 3",
+    "pregunta": "En el marco de la Red de Salud Mental de la CAM, el SESM-DI es:",
+    "opciones": [
+      "Un programa para la prevención del suicidio en adolescentes.",
+      "El Servicio de Salud Mental para personas con Discapacidad Intelectual.",
+      "Una unidad de hospitalización para trastornos de la conducta alimentaria.",
+      "El protocolo de coordinación entre Sanidad y Justicia."
+    ],
+    "correcta": "El Servicio de Salud Mental para personas con Discapacidad Intelectual."
+  },
+  {
+    "id": "ta3_t30_11",
+    "tema": "Tema 30",
+    "fuente": "Test App 3",
+    "pregunta": "Cuando un paciente requiere un ingreso de carácter involuntario en una Unidad de Hospitalización Breve, la normativa estipula que se debe solicitar la correspondiente autorización judicial en un plazo máximo de:",
+    "opciones": [
+      "Las primeras 12 horas desde el ingreso, debiendo resolver el juzgado en 24 horas.",
+      "Las primeras 24 horas desde el ingreso, y el juzgado responsable debe valorar y decidir en las siguientes 72 horas.",
+      "Las primeras 72 horas de forma improrrogable, resolviendo el juez en 48 horas.",
+      "Las primeras 48 horas, quedando a criterio del centro médico la prórroga si hay riesgo vital."
+    ],
+    "correcta": "Las primeras 24 horas desde el ingreso, y el juzgado responsable debe valorar y decidir en las siguientes 72 horas."
+  },
+  {
+    "id": "ta3_t30_12",
+    "tema": "Tema 30",
+    "fuente": "Test App 3",
+    "pregunta": "Dentro del catálogo de recursos específicos de la Red de adicciones de la Comunidad de Madrid, ¿cuál de los siguientes dispositivos tiene naturaleza de recurso residencial de apoyo al tratamiento ambulatorio para personas en situación de exclusión social?",
+    "opciones": [
+      "Centro de Rehabilitación Laboral (C.R.L.).",
+      "Centro de Orientación Sociolaboral (COS).",
+      "Centro Residencial de Cuidados (CRC).",
+      "Comunidad Terapéutica Hospitalaria de Agudos."
+    ],
+    "correcta": "Centro Residencial de Cuidados (CRC)."
+  },
+  {
+    "id": "ta3_t30_13",
+    "tema": "Tema 30",
+    "fuente": "Test App 3",
+    "pregunta": "¿Qué línea estratégica del Plan de Salud Mental y Adicciones vigente de la CAM recoge de forma expresa y directa actuaciones en sinergia con el Plan de Prevención del Suicidio y la Estrategia de Seguridad del Paciente del SERMAS?",
+    "opciones": [
+      "La línea estratégica 2.",
+      "La línea estratégica 7.",
+      "La línea estratégica 9.",
+      "La línea estratégica 11."
+    ],
+    "correcta": "La línea estratégica 11."
+  },
+  {
+    "id": "ta3_t30_14",
+    "tema": "Tema 30",
+    "fuente": "Test App 3",
+    "pregunta": "Un paciente con diagnóstico de Trastorno Límite de la Personalidad (TLP) grave y descompensación clínica requiere una intervención intensiva de hospitalización parcial en régimen ambulatorio. Dentro de las Unidades de Referencia de la red, ¿qué recurso está específicamente diseñado para este fin?",
+    "opciones": [
+      "Unidad de Cuidados Psiquiátricos Prolongados (UCPP).",
+      "Hospital de Día de Trastornos de la Personalidad (TP).",
+      "Equipo de Apoyo Social Comunitario (EASC).",
+      "Mini-residencia de estancia prolongada."
+    ],
+    "correcta": "Hospital de Día de Trastornos de la Personalidad (TP)."
+  },
+  {
+    "id": "ta3_t30_15",
+    "tema": "Tema 30",
+    "fuente": "Test App 3",
+    "pregunta": "En cuanto a las bases conceptuales que definen el Modelo de Asistencia Psiquiátrica de la Comunidad de Madrid, se establece explícitamente como un principio rector:",
+    "opciones": [
+      "La gestión centralizada y vertical de los recursos asistenciales desde la Consejería.",
+      "Considerar la atención psiquiátrica como una prestación independiente desligada de la red hospitalaria general.",
+      "La consideración de la persona con problemas de salud mental como sujeto de derecho, bajo un modelo asistencial comunitario.",
+      "El carácter residencial prioritario frente al tratamiento ambulatorio en el Trastorno Mental Grave."
+    ],
+    "correcta": "La consideración de la persona con problemas de salud mental como sujeto de derecho, bajo un modelo asistencial comunitario."
+  },
+  {
+    "id": "ta3_t30_16",
+    "tema": "Tema 30",
+    "fuente": "Test App 3",
+    "pregunta": "¿Qué dispositivo de la Red de Atención Social a personas con enfermedad mental crónica proporciona una alternativa habitacional estable, organizada en viviendas normalizadas en la comunidad y con un cupo reducido de entre 3 y 4 usuarios?",
+    "opciones": [
+      "Mini-Residencia (MR).",
+      "Piso Supervisado (PS).",
+      "Pensión concertada con la Red de Salud Mental.",
+      "Centro de Día de Soporte Social."
+    ],
+    "correcta": "Piso Supervisado (PS)."
+  },
+  {
+    "id": "ta3_t30_17",
+    "tema": "Tema 30",
+    "fuente": "Test App 3",
+    "pregunta": "Un paciente con trastorno mental grave estabilizado clínicamente, pero con nula autonomía laboral solicita acceder a un Centro de Rehabilitación Laboral (CRL). ¿Cuál es la vía formal y obligatoria de acceso para este recurso de atención social en la CAM?",
+    "opciones": [
+      "Inscripción directa del usuario a través del portal de empleo de la Comunidad de Madrid.",
+      "Derivación obligatoria efectuada desde el médico de familia de Atención Primaria.",
+      "Derivación formal desde los Servicios de Salud Mental de Distrito (Centro de Salud Mental) a través de su Programa de Continuidad de Cuidados.",
+      "Únicamente mediante orden judicial de inserción social o resolución directa del Servicio de Inspección Sanitaria."
+    ],
+    "correcta": "Derivación formal desde los Servicios de Salud Mental de Distrito (Centro de Salud Mental) a través de su Programa de Continuidad de Cuidados."
+  },
+  {
+    "id": "ta3_t30_18",
+    "tema": "Tema 30",
+    "fuente": "Test App 3",
+    "pregunta": "La Ley 1/1994, de 28 de marzo, de Salud Mental de la Comunidad de Madrid, constituye el cimiento normativo del modelo. ¿Qué principio fundamental establece esta ley respecto a la estructura de los servicios asistenciales?",
+    "opciones": [
+      "La segregación de la asistencia psiquiátrica en centros monográficos alejados de los hospitales generales.",
+      "La plena integración de las actuaciones relativas a la salud mental en el sistema sanitario general y la equiparación del enfermo mental al resto de usuarios.",
+      "La gestión independiente de la salud mental por parte de fundaciones privadas sin tutela pública.",
+      "La centralización de todos los recursos residenciales y ambulatorios bajo la única dirección de la Consejería de Justicia."
+    ],
+    "correcta": "La plena integración de las actuaciones relativas a la salud mental en el sistema sanitario general y la equiparación del enfermo mental al resto de usuarios."
+  },
+  {
+    "id": "ta3_t30_19",
+    "tema": "Tema 30",
+    "fuente": "Test App 3",
+    "pregunta": "Dentro del Modelo de Asistencia Psiquiátrica de la Comunidad de Madrid, las Unidades de Cuidados Psiquiátricos Prolongados (UCPP) se definen estructuralmente como:",
+    "opciones": [
+      "Dispositivos de urgencias hospitalarias para crisis que no superen las 72 horas de evolución.",
+      "Recursos residenciales comunitarios gestionados por los ayuntamientos para pacientes con patologías leves.",
+      "Unidades de hospitalización destinadas a la estabilización, rehabilitación y tratamiento continuado de pacientes crónicos con alto grado de dependencia que no pueden ser atendidos de forma ambulatoria.",
+      "Centros de formación laboral exclusiva para pacientes que han superado un episodio de adicciones de corta duración."
+    ],
+    "correcta": "Unidades de hospitalización destinadas a la estabilización, rehabilitación y tratamiento continuado de pacientes crónicos con alto grado de dependencia que no pueden ser atendidos de forma ambulatoria."
+  },
+  {
+    "id": "ta3_t30_20",
+    "tema": "Tema 30",
+    "fuente": "Test App 3",
+    "pregunta": "En la estructura de la Red de Adicciones integrada en el Plan, los Centros de Atención Integral a Drogodependientes (CAID) ejercen una función asistencial ambulatoria específica. ¿Cuál es?",
+    "opciones": [
+      "La realización exclusiva de desintoxicaciones hospitalarias en régimen cerrado de aislamiento.",
+      "El abordaje biopsicosocial integral de las adicciones (con y sin sustancia), desarrollando programas de reducción de daños, tratamiento sustitutivo y reinserción.",
+      "La tramitación de sanciones administrativas y de incapacidades laborales definitivas asociadas al consumo.",
+      "La custodia legal forzosa de los usuarios con problemas graves de conducta delictiva."
+    ],
+    "correcta": "El abordaje biopsicosocial integral de las adicciones (con y sin sustancia), desarrollando programas de reducción de daños, tratamiento sustitutivo y reinserción."
+  },
+  {
+    "id": "ta3_t31_1",
+    "tema": "Tema 31",
+    "fuente": "Test App 3",
+    "pregunta": "El Plan Estratégico de Salud Mental y Adicciones (PSMYAyA) 2022-2024 de la Comunidad de Madrid introduce una novedad organizativa fundamental respecto a planes anteriores. ¿Cuál es?",
+    "opciones": [
+      "La creación de la Oficina Regional de Coordinación de Salud Mental.",
+      "La convergencia por primera vez de la coordinación conjunta de las redes de salud mental y adicciones.",
+      "La integración de la atención psiquiátrica en hospitales generales.",
+      "La descentralización total de la gestión hacia los distritos municipales."
+    ],
+    "correcta": "La convergencia por primera vez de la coordinación conjunta de las redes de salud mental y adicciones."
+  },
+  {
+    "id": "ta3_t31_2",
+    "tema": "Tema 31",
+    "fuente": "Test App 3",
+    "pregunta": "Dentro de la 'Visión' del PSMYAyA, se busca reorientar la organización hacia un funcionamiento que garantice ciertos atributos de la atención. Señale la opción que NO se incluye en dicha Visión:",
+    "opciones": [
+      "Atención precoz, integral y multidisciplinar.",
+      "Reducción de la variabilidad y facilitación de la continuidad.",
+      "Gestión exclusiva a través de sistemas de colaboración público-privada.",
+      "Lograr la excelencia en la atención a la salud mental y a los trastornos adictivos."
+    ],
+    "correcta": "Gestión exclusiva a través de sistemas de colaboración público-privada."
+  },
+  {
+    "id": "ta3_t31_3",
+    "tema": "Tema 31",
+    "fuente": "Test App 3",
+    "pregunta": "En relación con las Líneas Estratégicas del Plan, ¿cuál de las siguientes afirmaciones es correcta respecto a la Línea Estratégica 5?",
+    "opciones": [
+      "Se dedica transversalmente a la formación y cuidado de los profesionales.",
+      "En el anterior plan se dedicaba a la prevención del suicidio, pero actualmente se constituye como una línea propia para Psicogeriatría.",
+      "Se centra exclusivamente en la comunicación con Atención Primaria.",
+      "Es la línea encargada de la atención a personas con trastornos del espectro autista."
+    ],
+    "correcta": "En el anterior plan se dedicaba a la prevención del suicidio, pero actualmente se constituye como una línea propia para Psicogeriatría."
+  },
+  {
+    "id": "ta3_t31_4",
+    "tema": "Tema 31",
+    "fuente": "Test App 3",
+    "pregunta": "El modelo de atención propuesto en las Bases Conceptuales se define como 'Interdisciplinar'. ¿Qué implica este principio según el documento?",
+    "opciones": [
+      "Que el paciente debe ser atendido por al menos tres especialidades diferentes.",
+      "La creación de equipos multidisciplinares donde se favorezca el intercambio de opiniones e ideas, respetando las competencias profesionales de cada miembro.",
+      "La obligatoriedad de que el responsable del caso sea siempre un psicólogo clínico.",
+      "La eliminación de las jerarquías en la toma de decisiones clínicas."
+    ],
+    "correcta": "La creación de equipos multidisciplinares donde se favorezca el intercambio de opiniones e ideas, respetando las competencias profesionales de cada miembro."
+  },
+  {
+    "id": "ta3_t31_5",
+    "tema": "Tema 31",
+    "fuente": "Test App 3",
+    "pregunta": "Sobre el Programa de Continuidad de Cuidados, señale la respuesta VERDADERA:",
+    "opciones": [
+      "Está dirigido a pacientes con cualquier trastorno mental leve o moderado.",
+      "A cada paciente se le asigna un coordinador (tutor) de continuidad de cuidados, que es un trabajador social o un enfermero del Centro.",
+      "Las decisiones de este programa son independientes de la Comisión de Recursos de Rehabilitación del Área.",
+      "Es un programa exclusivamente de atención hospitalaria para casi agudos."
+    ],
+    "correcta": "A cada paciente se le asigna un coordinador (tutor) de continuidad de cuidados, que es un trabajador social o un enfermero del Centro."
+  },
+  {
+    "id": "ta3_t31_6",
+    "tema": "Tema 31",
+    "fuente": "Test App 3",
+    "pregunta": "El PSMYAyA se alinea con diversos marcos internacionales. ¿Cuál de los siguientes NO es citado como referente directo en el documento?",
+    "opciones": [
+      "Plan de Acción sobre Salud Mental de la OMS 2013-2020.",
+      "Convención de Derechos de las personas con Discapacidad de Nueva York de 2006.",
+      "Informe del Surgeon General sobre Salud Mental de Estados Unidos.",
+      "Plan de Acción Europeo en Salud Mental de la OMS de 2013."
+    ],
+    "correcta": "Informe del Surgeon General sobre Salud Mental de Estados Unidos."
+  },
+  {
+    "id": "ta3_t31_7",
+    "tema": "Tema 31",
+    "fuente": "Test App 3",
+    "pregunta": "En la metodología de elaboración del Plan, se indica que para la valoración del cumplimiento de los objetivos se proponen un número determinado de actuaciones evaluables. ¿De qué cifras hablamos?",
+    "opciones": [
+      "12 líneas estratégicas, 98 objetivos específicos y 287 actuaciones.",
+      "11 líneas estratégicas, 94 objetivos específicos y 287 actuaciones.",
+      "15 líneas estratégicas, 100 objetivos específicos y 300 actuaciones.",
+      "10 líneas estratégicas, 85 objetivos específicos y 250 actuaciones."
+    ],
+    "correcta": "11 líneas estratégicas, 94 objetivos específicos y 287 actuaciones."
+  },
+  {
+    "id": "ta3_t31_8",
+    "tema": "Tema 31",
+    "fuente": "Test App 3",
+    "pregunta": "Dentro de los Principios Generales del Modelo, se establece la 'Ordenación de la asistencia sanitaria en dos niveles'. Estos son:",
+    "opciones": [
+      "Atención Primaria y Centros de Salud Mental de Distrito.",
+      "Atención Primaria y Atención Especializada.",
+      "Atención Ambulatoria y Hospitalización de Larga Estancia.",
+      "Red de Salud Mental y Red de Adicciones."
+    ],
+    "correcta": "Atención Primaria y Atención Especializada."
+  },
+  {
+    "id": "ta3_t31_9",
+    "tema": "Tema 31",
+    "fuente": "Test App 3",
+    "pregunta": "La Línea Estratégica 11 (Promoción de la salud mental y prevención) recoge actuaciones en sinergia con dos programas independientes específicos. ¿Cuáles son?",
+    "opciones": [
+      "El Plan de Adicciones y el Plan de Infancia.",
+      "El Plan de Prevención del Suicidio 2022-2026 y la Estrategia de Seguridad del Paciente 2027.",
+      "El Plan de Humanización y el Plan de Cuidados Paliativos.",
+      "La Ley de Autonomía del Paciente y el Plan de Calidad del SNS."
+    ],
+    "correcta": "El Plan de Prevención del Suicidio 2022-2026 y la Estrategia de Seguridad del Paciente 2027."
+  },
+  {
+    "id": "ta3_t31_10",
+    "tema": "Tema 31",
+    "fuente": "Test App 3",
+    "pregunta": "Respecto a la atención territorializada, ¿qué se define como la 'unidad básica de actuación, gestión y referencia' en el modelo de la CM?",
+    "opciones": [
+      "El Distrito Municipal.",
+      "El Área Sanitaria.",
+      "El Centro de Salud de Atención Primaria.",
+      "El Complejo Hospitalario."
+    ],
+    "correcta": "El Área Sanitaria."
+  },
+  {
+    "id": "ta3_t31_11",
+    "tema": "Tema 31",
+    "fuente": "Test App 3",
+    "pregunta": "La Línea Estratégica 4 se centra en la atención a personas con trastornos adictivos. Según el Plan, ¿qué aspecto diferencial destaca en esta edición frente a la anterior?",
+    "opciones": [
+      "Se excluyen por primera vez las adicciones sin sustancia.",
+      "Incluye de forma efectiva la red de adicciones en el ámbito de gestión de la ORCSMYA.",
+      "Centraliza el tratamiento de adicciones únicamente en hospitales de agudos.",
+      "Elimina la colaboración con las asociaciones de autoayuda."
+    ],
+    "correcta": "Incluye de forma efectiva la red de adicciones en el ámbito de gestión de la ORCSMYA."
+  },
+  {
+    "id": "ta3_t31_12",
+    "tema": "Tema 31",
+    "fuente": "Test App 3",
+    "pregunta": "En el marco de los programas de intervención, el 'Programa infanto-juvenil' atiende a la población en el rango de:",
+    "opciones": [
+      "0 a 14 años.",
+      "0 a 16 años.",
+      "0 a 17 años.",
+      "6 a 18 años."
+    ],
+    "correcta": "0 a 17 años."
+  },
+  {
+    "id": "ta3_t31_13",
+    "tema": "Tema 31",
+    "fuente": "Test App 3",
+    "pregunta": "Señale cuál de los siguientes es un 'Objetivo General' del Plan (no específico ni operativo):",
+    "opciones": [
+      "Establecer la Cartera de Servicios de la Red Única.",
+      "Potenciar la atención perinatal en la Línea 2.",
+      "Consolidar la Red Única de Asistencia Psiquiátrica y Salud Mental.",
+      "Realizar visitas domiciliarias en el programa de psicogeriatría."
+    ],
+    "correcta": "Consolidar la Red Única de Asistencia Psiquiátrica y Salud Mental."
+  },
+  {
+    "id": "ta3_t31_14",
+    "tema": "Tema 31",
+    "fuente": "Test App 3",
+    "pregunta": "El principio de 'Continuidad de la asistencia' se constituye como uno de los ejes rectores. ¿Cómo se garantiza estructuralmente según el modelo propuesto?",
+    "opciones": [
+      "Mediante la asignación de un único médico para toda la vida del paciente.",
+      "A través de la coordinación de Servicios y Dispositivos y la integración en sistemas de información únicos.",
+      "Prohibiendo el alta hospitalaria sin una cita previa en menos de 24 horas.",
+      "Derivando todos los casos graves a la red de servicios sociales de forma permanente."
+    ],
+    "correcta": "A través de la coordinación de Servicios y Dispositivos y la integración en sistemas de información únicos."
+  },
+  {
+    "id": "ta3_t31_15",
+    "tema": "Tema 31",
+    "fuente": "Test App 3",
+    "pregunta": "La Línea Estratégica 10 del Plan es transversal y se divide en dos áreas diferenciadas. ¿Cuáles son?",
+    "opciones": [
+      "Prevención primaria y prevención secundaria.",
+      "Una dedicada a la formación y la otra al cuidado de los profesionales.",
+      "Investigación básica e investigación clínica.",
+      "Ética asistencial y liderazgo clínico."
+    ],
+    "correcta": "Una dedicada a la formación y la otra al cuidado de los profesionales."
+  },
+  {
+    "id": "ta3_t31_16",
+    "tema": "Tema 31",
+    "fuente": "Test App 3",
+    "pregunta": "La Línea Estratégica dedicada a la 'Atención a las personas con Trastornos del Espectro Autista (TEA)' en el Plan de la Comunidad de Madrid enfatiza un aspecto crítico de la intervención. Señale cuál:",
+    "opciones": [
+      "La institucionalización definitiva en centros cerrados al cumplir la mayoría de edad.",
+      "El diagnóstico precoz y la continuidad asistencial en la transición de la etapa infanto-juvenil a la edad adulta, minimizando la ruptura del proceso terapéutico.",
+      "El tratamiento sintomático exclusivo basado de forma única en terapia farmacológica de espectro amplio.",
+      "La delegación de la atención médica exclusiva en los servicios de urgencias de atención primaria."
+    ],
+    "correcta": "El diagnóstico precoz y la continuidad asistencial en la transición de la etapa infanto-juvenil a la edad adulta, minimizando la ruptura del proceso terapéutico."
+  },
+  {
+    "id": "ta3_t31_17",
+    "tema": "Tema 31",
+    "fuente": "Test App 3",
+    "pregunta": "Dentro de los principios metodológicos y conceptuales de la Red Única de la Comunidad de Madrid, el concepto de 'Accesibilidad' se operacionaliza formalmente mediante:",
+    "opciones": [
+      "La libre elección de hospital de media estancia sin necesidad de derivación o informe clínico previo.",
+      "El establecimiento de tiempos máximos de demora garantizados para la primera consulta e itinerarios claros de derivación entre los distintos escalones del sistema.",
+      "La apertura de los centros de salud mental durante las 24 horas del día para consultas ordinarias de revisión.",
+      "La supresión de las historias clínicas automatizadas para agilizar los procesos de admisión verbal."
+    ],
+    "correcta": "El establecimiento de tiempos máximos de demora garantizados para la primera consulta e itinerarios claros de derivación entre los distintos escalones del sistema."
+  },
+  {
+    "id": "ta3_t31_18",
+    "tema": "Tema 31",
+    "fuente": "Test App 3",
+    "pregunta": "El Programa de Intervención en Psicogeriatría contempla la coordinación estrecha con un sector estratégico ajeno a la propia red sanitaria. ¿De qué sector se trata principalmente?",
+    "opciones": [
+      "El sector de la gestión deportiva y de ocio municipal.",
+      "La red de servicios sociales y los centros residenciales para personas mayores, con el fin de asegurar una atención integrada y evitar ingresos hospitalarios innecesarios.",
+      "Las instituciones penitenciarias del Estado radicadas en la región de Madrid.",
+      "Los servicios de salud laboral de las grandes corporaciones empresariales madrileñas."
+    ],
+    "correcta": "La red de servicios sociales y los centros residenciales para personas mayores, con el fin de asegurar una atención integrada y evitar ingresos hospitalarios innecesarios."
+  },
+  {
+    "id": "ta3_t31_19",
+    "tema": "Tema 31",
+    "fuente": "Test App 3",
+    "pregunta": "El principio del Modelo Asistencial denominado 'Orientación comunitaria' se contrapone directamente a los viejos modelos asilares. ¿Cuál es la premisa técnica que defiende este principio?",
+    "opciones": [
+      "Que el tratamiento debe realizarse manteniendo al paciente en su entorno sociofamiliar y laboral habitual, desarrollando los recursos terapéuticos en la propia comunidad.",
+      "Que la comunidad de vecinos debe ser informada obligatoriamente de los diagnósticos de los pacientes para su control social.",
+      "Que las decisiones clínicas deben ser votadas en asambleas vecinales dentro de cada distrito sanitario.",
+      "Que los pacientes deben ser trasladados a colonias agrícolas comunitarias fuera de los núcleos urbanos de Madrid."
+    ],
+    "correcta": "Que el tratamiento debe realizarse manteniendo al paciente en su entorno sociofamiliar y laboral habitual, desarrollando los recursos terapéuticos en la propia comunidad."
+  },
+  {
+    "id": "ta3_t32_1",
+    "tema": "Tema 32",
+    "fuente": "Test App 3",
+    "pregunta": "Respecto a la causalidad de los agentes biológicos:",
+    "opciones": [
+      "Intervienen dos factores: agente y huésped.",
+      "Intervienen dos factores: agente y ambiente.",
+      "Intervienen 3 factores: agente, huésped y ambiente.",
+      "Intervienen 3 factores: agente, vector y ambiente."
+    ],
+    "correcta": "Intervienen 3 factores: agente, huésped y ambiente."
+  },
+  {
+    "id": "ta3_t32_2",
+    "tema": "Tema 32",
+    "fuente": "Test App 3",
+    "pregunta": "En epidemiología, al conjunto de factores físicos, biológicos y socioculturales que intervienen en el proceso de salud-enfermedad se le conoce como:",
+    "opciones": [
+      "Agente.",
+      "Huésped.",
+      "Ambiente.",
+      "Triada ecológica."
+    ],
+    "correcta": "Ambiente."
+  },
+  {
+    "id": "ta3_t32_3",
+    "tema": "Tema 32",
+    "fuente": "Test App 3",
+    "pregunta": "¿Cuál de los siguientes NO es un factor relacionado con el huésped?",
+    "opciones": [
+      "Infectividad.",
+      "Susceptibilidad.",
+      "Exposición al riesgo.",
+      "Todos son factores relacionados con el huésped."
+    ],
+    "correcta": "Infectividad."
+  },
+  {
+    "id": "ta3_t32_4",
+    "tema": "Tema 32",
+    "fuente": "Test App 3",
+    "pregunta": "¿Cuál de los siguientes NO es un factor relacionado con el agente?",
+    "opciones": [
+      "Patogenicidad.",
+      "Virulencia.",
+      "Resistencia a fármacos.",
+      "Nivel inmunitario."
+    ],
+    "correcta": "Nivel inmunitario."
+  },
+  {
+    "id": "ta3_t32_5",
+    "tema": "Tema 32",
+    "fuente": "Test App 3",
+    "pregunta": "Forman parte de los eslabones de la cadena epidemiológica:",
+    "opciones": [
+      "Reservorio.",
+      "Fuente de infección (suele ser la misma que el reservorio).",
+      "Mecanismo de transmisión.",
+      "Todos los anteriores más Huésped susceptible."
+    ],
+    "correcta": "Todos los anteriores más Huésped susceptible."
+  },
+  {
+    "id": "ta3_t32_6",
+    "tema": "Tema 32",
+    "fuente": "Test App 3",
+    "pregunta": "Respecto a la cadena epidemiológica, el espacio físico (persona, animal, objeto o sustancia) desde el que el agente patógeno es capaz de transmitirse, de pasar a un sujeto susceptible, se denomina:",
+    "opciones": [
+      "Reservorio.",
+      "Fuente de infección.",
+      "Mecanismo de transmisión.",
+      "Sujeto susceptible."
+    ],
+    "correcta": "Fuente de infección."
+  },
+  {
+    "id": "ta3_t32_7",
+    "tema": "Tema 32",
+    "fuente": "Test App 3",
+    "pregunta": "En epidemiología, se diferencian dos tipos de mecanismos de transmisión:",
+    "opciones": [
+      "Transmisión positiva y transmisión negativa.",
+      "Transmisión directa y transmisión indirecta.",
+      "Transmisión formal y transmisión informal.",
+      "Todas son correctas."
+    ],
+    "correcta": "Transmisión directa y transmisión indirecta."
+  },
+  {
+    "id": "ta3_t32_8",
+    "tema": "Tema 32",
+    "fuente": "Test App 3",
+    "pregunta": "Respecto a la epidemiología descriptiva y analítica:",
+    "opciones": [
+      "A) Se engloba dentro de la epidemiología observacional.",
+      "B) Se engloba dentro de la epidemiología experimental.",
+      "C) Se focaliza en la segunda fase del método epidemiológico.",
+      "D) Es lo mismo que metodología cuasi-experimental."
+    ],
+    "correcta": "A) Se engloba dentro de la epidemiología observacional."
+  },
+  {
+    "id": "ta3_t32_9",
+    "tema": "Tema 32",
+    "fuente": "Test App 3",
+    "pregunta": "Respecto al estudio de casos y controles:",
+    "opciones": [
+      "Con un sentido hacia atrás, en el que se seleccionan grupos de sujetos, llamados casos y controles según tengan o no la enfermedad.",
+      "Ambos grupos se comparan con respecto a los factores de riesgo anteriores con la finalidad de establecer la etiología de la enfermedad en el estudio.",
+      "Son de menor coste que el de cohortes y sirven para establecer hipótesis etiológicas.",
+      "Todas son correctas."
+    ],
+    "correcta": "Todas son correctas."
+  },
+  {
+    "id": "ta3_t32_10",
+    "tema": "Tema 32",
+    "fuente": "Test App 3",
+    "pregunta": "Respecto a los estudios de cohortes:",
+    "opciones": [
+      "A) Dos grupos de sujetos, unos con el factor de riesgo (cohorte expuesta) y otros sin él (cohorte no expuesta), se van a observar a lo largo del tiempo.",
+      "B) Sus principales utilidades son estudiar el desarrollo de una enfermedad, su historia natural y los factores pronósticos.",
+      "C) A y B son correctas.",
+      "D) Ninguna es correcta."
+    ],
+    "correcta": "C) A y B son correctas."
+  },
+  {
+    "id": "ta3_t32_11",
+    "tema": "Tema 32",
+    "fuente": "Test App 3",
+    "pregunta": "En los estudios cuasi-experimentales:",
+    "opciones": [
+      "Se consideran estudios descriptivos.",
+      "Se consideran estudios correlacionales que pueden establecer hipótesis causales.",
+      "Se produce la manipulación de variables (VI o tratamientos), para medir sus efectos (VD o resultados) y pueden establecerse hipótesis causa-efecto.",
+      "Se produce la manipulación de variables (VI o tratamientos), para medir sus efectos (VD o resultados), pero no pueden establecerse hipótesis causa-efecto."
+    ],
+    "correcta": "Se produce la manipulación de variables (VI o tratamientos), para medir sus efectos (VD o resultados) y pueden establecerse hipótesis causa-efecto."
+  },
+  {
+    "id": "ta3_t32_12",
+    "tema": "Tema 32",
+    "fuente": "Test App 3",
+    "pregunta": "Respecto a los conceptos básicos relacionados con la epidemiología descriptiva, número de casos existentes de una enfermedad en una colectividad en un momento dado, hace referencia a:",
+    "opciones": [
+      "Tasa.",
+      "Prevalencia.",
+      "Incidencia.",
+      "Marcador de riesgo."
+    ],
+    "correcta": "Prevalencia."
+  },
+  {
+    "id": "ta3_t32_13",
+    "tema": "Tema 32",
+    "fuente": "Test App 3",
+    "pregunta": "Respecto a los conceptos básicos relacionados con la epidemiología descriptiva, toda circunstancia o situación que aumenta las probabilidades de una persona de contraer una enfermedad o cualquier otro problema de salud es:",
+    "opciones": [
+      "Riesgo.",
+      "Odds ratio.",
+      "Tasa.",
+      "Incidencia."
+    ],
+    "correcta": "Riesgo."
+  },
+  {
+    "id": "ta3_t32_14",
+    "tema": "Tema 32",
+    "fuente": "Test App 3",
+    "pregunta": "Respecto a los conceptos básicos relacionados con la epidemiología descriptiva, al número de casos nuevos de una enfermedad se le denomina:",
+    "opciones": [
+      "Tasa.",
+      "Incidencia.",
+      "Prevalencia.",
+      "Marcador de riesgo."
+    ],
+    "correcta": "Incidencia."
+  },
+  {
+    "id": "ta3_t32_15",
+    "tema": "Tema 32",
+    "fuente": "Test App 3",
+    "pregunta": "Respecto a los valores de la Odds Ratio, los valores de 1:",
+    "opciones": [
+      "Indican que la exposición no pone a riesgo de enfermar, ni protege contra la enfermedad.",
+      "Indican que la exposición pone a riesgo de enfermar.",
+      "Indican que ésta protege contra la enfermedad.",
+      "Ninguna de las anteriores es correcta."
+    ],
+    "correcta": "Indican que la exposición no pone a riesgo de enfermar, ni protege contra la enfermedad."
+  },
+  {
+    "id": "ta3_t32_16",
+    "tema": "Tema 32",
+    "fuente": "Test App 3",
+    "pregunta": "Respecto a los conceptos básicos relacionados con la epidemiología descriptiva, característica específica, observable y medible que puede ser usada para mostrar los cambios y progresos que está haciendo un programa o variable hacia el logro de un resultado específico:",
+    "opciones": [
+      "Tasa.",
+      "Marcador de riesgo.",
+      "Factor de riesgo.",
+      "Indicador."
+    ],
+    "correcta": "Indicador."
+  },
+  {
+    "id": "ta3_t32_17",
+    "tema": "Tema 32",
+    "fuente": "Test App 3",
+    "pregunta": "Se define como la probabilidad de desarrollar la enfermedad, condicionada a la probabilidad de que el sujeto no muera por otro proceso diferente durante la duración del estudio:",
+    "opciones": [
+      "Factor de riesgo.",
+      "Riesgo.",
+      "Odds Ratio.",
+      "Tasa."
+    ],
+    "correcta": "Riesgo."
+  },
+  {
+    "id": "ta3_t32_18",
+    "tema": "Tema 32",
+    "fuente": "Test App 3",
+    "pregunta": "Respecto a los conceptos básicos relacionados con la epidemiología descriptiva, el numerador forma parte del denominador en:",
+    "opciones": [
+      "El estudio correlacional.",
+      "La proporción.",
+      "La razón.",
+      "En el indicador."
+    ],
+    "correcta": "La proporción."
+  },
+  {
+    "id": "ta3_t32_19",
+    "tema": "Tema 32",
+    "fuente": "Test App 3",
+    "pregunta": "Se refiere a variables de la persona, por tanto, endógenas, no controlables y que definen a los individuos particularmente vulnerables:",
+    "opciones": [
+      "Factor de riesgo.",
+      "Riesgo.",
+      "Marcador de riesgo.",
+      "Indicador."
+    ],
+    "correcta": "Marcador de riesgo."
+  },
+  {
+    "id": "ta3_t32_20",
+    "tema": "Tema 32",
+    "fuente": "Test App 3",
+    "pregunta": "Según la Encuesta Europea de Salud en España (EESE) del año 2020 (INE, 2020), señala la respuesta incorrecta:",
+    "opciones": [
+      "Entre los problemas de salud mental más frecuentes se encuentran la ansiedad y la depresión.",
+      "El 5,8% de la población de 15 o más años declara haber sido diagnosticado de ansiedad crónica, 3,5% en los hombres y 8,1% en las mujeres.",
+      "El diagnóstico de depresión se refiere en el 5,3% de las personas.",
+      "Todas son correctas."
+    ],
+    "correcta": "Todas son correctas."
+  },
+  {
+    "id": "ta3_t32_21",
+    "tema": "Tema 32",
+    "fuente": "Test App 3",
+    "pregunta": "En 2017, según la información registrada en la Base de Datos Clínicos en Atención Primaria (BDCAP), por cada 1.000 personas asignadas/día, el grupo de psicofármacos más dispensado fue el de:",
+    "opciones": [
+      "Ansiolíticos.",
+      "Antidepresivos.",
+      "Antipsicóticos.",
+      "Estabilizadores del ánimo."
+    ],
+    "correcta": "Antidepresivos."
+  },
+  {
+    "id": "ta3_t32_22",
+    "tema": "Tema 32",
+    "fuente": "Test App 3",
+    "pregunta": "Respecto a la base de datos de Atención Primaria, el problema de salud mental más frecuentemente registrado en las historias clínicas de atención primaria en 2017 es:",
+    "opciones": [
+      "Trastornos de ansiedad.",
+      "Trastorno depresivo.",
+      "Alcoholismo.",
+      "Los trastornos psicóticos."
+    ],
+    "correcta": "Trastornos de ansiedad."
+  },
+  {
+    "id": "ta3_t32_23",
+    "tema": "Tema 32",
+    "fuente": "Test App 3",
+    "pregunta": "La carga de enfermedad por enfermedades neuropsiquiátricas (mentales y neurológicas) en la Comunidad de Madrid en 2017, tiene un peso especialmente alto en:",
+    "opciones": [
+      "Los jóvenes y adultos menores de 45 años (principalmente debido a la carga de la depresión).",
+      "En las mujeres mayores de 80 años debido a los síndromes demenciales.",
+      "Existe un predominio en mujeres para todos los grupos de edad.",
+      "Todas son correctas."
+    ],
+    "correcta": "Todas son correctas."
+  },
+  {
+    "id": "ta3_t32_24",
+    "tema": "Tema 32",
+    "fuente": "Test App 3",
+    "pregunta": "En 1974, el ministro de sanidad de Canadá Lalonde analizó la cuestión de los determinantes de la salud y constituyó un modelo clásico en epidemiología. ¿Cuál de los siguientes NO es una de las 4 variables que introduce este modelo?",
+    "opciones": [
+      "La biología humana (genética y envejecimiento).",
+      "El medio ambiente (contaminación física, química, biológica y psicosocial, y sociocultural).",
+      "El agente patógeno.",
+      "El sistema de asistencia sanitaria."
+    ],
+    "correcta": "El agente patógeno."
+  },
+  {
+    "id": "ta3_t32_25",
+    "tema": "Tema 32",
+    "fuente": "Test App 3",
+    "pregunta": "Una diferencia del concepto de tasa respecto al concepto de proporción es:",
+    "opciones": [
+      "El numerador forma parte del denominador solo en la tasa.",
+      "La tasa lleva incorporado el concepto de tiempo.",
+      "La tasa se usa en epidemiología y la proporción en otras ciencias.",
+      "No hay diferencias entre estos dos conceptos."
+    ],
+    "correcta": "La tasa lleva incorporado el concepto de tiempo."
+  },
+  {
+    "id": "ta3_t33_1",
+    "tema": "Tema 33",
+    "fuente": "Test App 3",
+    "pregunta": "La definición del trastorno mental grave (TMG) incluye tres dimensiones principales. ¿Cuál de las siguientes NO es una de ellas?",
+    "opciones": [
+      "Diagnóstico.",
+      "Duración.",
+      "Autocontrol.",
+      "Discapacidad."
+    ],
+    "correcta": "Discapacidad."
+  },
+  {
+    "id": "ta3_t33_2",
+    "tema": "Tema 33",
+    "fuente": "Test App 3",
+    "pregunta": "¿Qué enfoque fue fundamental en la transformación de la atención a la salud mental en la Comunidad de Madrid, como parte de la reforma psiquiátrica?",
+    "opciones": [
+      "El tratamiento farmacológico exclusivo.",
+      "La institucionalización prolongada de los pacientes.",
+      "El modelo de atención comunitaria.",
+      "La restricción del acceso a los recursos de atención."
+    ],
+    "correcta": "El modelo de atención comunitaria."
+  },
+  {
+    "id": "ta3_t33_3",
+    "tema": "Tema 33",
+    "fuente": "Test App 3",
+    "pregunta": "¿Cuál es uno de los objetivos clave del Programa de Continuidad de Cuidados?",
+    "opciones": [
+      "Reducir el seguimiento domiciliario de los pacientes.",
+      "Aumentar la hospitalización de pacientes con trastorno mental grave.",
+      "Mejorar la atención comunitaria desde los Centros de Salud Mental.",
+      "Eliminar el tratamiento psicosocial de la atención integral."
+    ],
+    "correcta": "Mejorar la atención comunitaria desde los Centros de Salud Mental."
+  },
+  {
+    "id": "ta3_t33_4",
+    "tema": "Tema 33",
+    "fuente": "Test App 3",
+    "pregunta": "En relación con los programas comunitarios de atención a pacientes con TMG, ¿cuál de las siguientes afirmaciones es correcta?",
+    "opciones": [
+      "La hospitalización es la principal respuesta a la cronicidad.",
+      "El seguimiento comunitario es clave para la reinserción social.",
+      "El tratamiento farmacológico sustituye al apoyo psicosocial.",
+      "El aislamiento del paciente es esencial para su recuperación."
+    ],
+    "correcta": "El seguimiento comunitario es clave para la reinserción social."
+  },
+  {
+    "id": "ta3_t33_5",
+    "tema": "Tema 33",
+    "fuente": "Test App 3",
+    "pregunta": "El 'case management' clínico enfatiza:",
+    "opciones": [
+      "La ausencia de vínculos afectivos entre el paciente y el equipo.",
+      "Un contacto ocasional y no regular con los pacientes.",
+      "La importancia de la formación clínica en el equipo de coordinación.",
+      "La eliminación del seguimiento domiciliario."
+    ],
+    "correcta": "La importancia de la formación clínica en el equipo de coordinación."
+  },
+  {
+    "id": "ta3_t33_6",
+    "tema": "Tema 33",
+    "fuente": "Test App 3",
+    "pregunta": "¿Qué modelo de gestión destaca por centrarse en las competencias y habilidades del paciente con enfermedad mental severa, en lugar de sus déficits?",
+    "opciones": [
+      "Modelo de agencia de servicios.",
+      "Modelo de competencias.",
+      "Case management intensivo.",
+      "Tratamiento asertivo comunitario."
+    ],
+    "correcta": "Modelo de competencias."
+  },
+  {
+    "id": "ta3_t33_7",
+    "tema": "Tema 33",
+    "fuente": "Test App 3",
+    "pregunta": "El tratamiento asertivo comunitario incluye varios componentes. ¿Cuál de los siguientes NO es uno de ellos?",
+    "opciones": [
+      "Proporcionar cuidados mediante un equipo multidisciplinar.",
+      "Priorizar la hospitalización del paciente para su cuidado.",
+      "Mantener una ratio pequeña de pacientes por profesional.",
+      "Realizar las intervenciones principalmente en la comunidad."
+    ],
+    "correcta": "Priorizar la hospitalización del paciente para su cuidado."
+  },
+  {
+    "id": "ta3_t33_8",
+    "tema": "Tema 33",
+    "fuente": "Test App 3",
+    "pregunta": "¿Cuál es la diferencia clave entre el modelo de 'case management' clínico y el intensivo?",
+    "opciones": [
+      "El intensivo añade énfasis en la intervención en la comunidad.",
+      "El clínico tiene una mayor ratio de pacientes por profesional.",
+      "El intensivo no realiza seguimiento domiciliario.",
+      "El clínico utiliza exclusivamente terapia farmacológica."
+    ],
+    "correcta": "El intensivo añade énfasis en la intervención en la comunidad."
+  },
+  {
+    "id": "ta3_t33_9",
+    "tema": "Tema 33",
+    "fuente": "Test App 3",
+    "pregunta": "El programa de Continuidad de Cuidados tiene tres componentes principales. ¿Cuál de los siguientes NO es uno de ellos?",
+    "opciones": [
+      "Componente clínico.",
+      "Componente social.",
+      "Componente administrativo.",
+      "Componente psicosocial."
+    ],
+    "correcta": "Componente administrativo."
+  },
+  {
+    "id": "ta3_t33_10",
+    "tema": "Tema 33",
+    "fuente": "Test App 3",
+    "pregunta": "¿Cuál es una de las características fundamentales del Tratamiento Asertivo Comunitario?",
+    "opciones": [
+      "La intervención se centra en la medicación y se realiza en despachos.",
+      "El tratamiento tiene una duración limitada y finaliza con el alta del paciente.",
+      "Los pacientes son derivados a programas externos para el seguimiento.",
+      "El equipo multidisciplinar proporciona todos los cuidados de forma integrada."
+    ],
+    "correcta": "El equipo multidisciplinar proporciona todos los cuidados de forma integrada."
+  },
+  {
+    "id": "ta3_t33_11",
+    "tema": "Tema 33",
+    "fuente": "Test App 3",
+    "pregunta": "En el marco de la atención comunitaria a pacientes con TMG, la psicoeducación se orienta principalmente a:",
+    "opciones": [
+      "Eliminar la medicación en los pacientes con evolución favorable.",
+      "Entrenar a los pacientes en habilidades de vida autónoma.",
+      "Aumentar la dependencia del paciente en su red familiar.",
+      "Reducir la intervención del equipo comunitario."
+    ],
+    "correcta": "Entrenar a los pacientes en habilidades de vida autónoma."
+  },
+  {
+    "id": "ta3_t33_12",
+    "tema": "Tema 33",
+    "fuente": "Test App 3",
+    "pregunta": "Uno de los objetivos del plan estratégico de salud mental 2022-2024 en la Comunidad de Madrid es:",
+    "opciones": [
+      "Potenciar la institucionalización de los pacientes crónicos.",
+      "Reforzar los recursos humanos y mejorar las prestaciones asistenciales de los CSM.",
+      "Limitar el acceso a servicios de atención domiciliaria.",
+      "Disminuir la intervención en crisis de pacientes con TMG."
+    ],
+    "correcta": "Reforzar los recursos humanos y mejorar las prestaciones asistenciales de los CSM."
+  },
+  {
+    "id": "ta3_t33_13",
+    "tema": "Tema 33",
+    "fuente": "Test App 3",
+    "pregunta": "¿Cuál de los siguientes problemas NO está contemplado dentro de las áreas de dificultad de los pacientes con TMG?",
+    "opciones": [
+      "Ocio y tiempo libre.",
+      "Relaciones interpersonales.",
+      "Funcionamiento cognitivo.",
+      "Dominio de idiomas extranjeros."
+    ],
+    "correcta": "Dominio de idiomas extranjeros."
+  },
+  {
+    "id": "ta3_t33_14",
+    "tema": "Tema 33",
+    "fuente": "Test App 3",
+    "pregunta": "El modelo rehabilitador destaca por su enfoque en:",
+    "opciones": [
+      "El aislamiento social como herramienta terapéutica.",
+      "El entrenamiento en habilidades instrumentales y sociales.",
+      "La hospitalización como única opción de tratamiento.",
+      "La eliminación del apoyo psicosocial a los pacientes."
+    ],
+    "correcta": "El entrenamiento en habilidades instrumentales y sociales."
+  },
+  {
+    "id": "ta3_t33_15",
+    "tema": "Tema 33",
+    "fuente": "Test App 3",
+    "pregunta": "Dentro del tratamiento psicosocial, el acompañamiento domiciliario es esencial para:",
+    "opciones": [
+      "La total dependencia del paciente en su red social.",
+      "Controlar de manera intensiva las crisis familiares.",
+      "Facilitar la autonomía del paciente en su entorno.",
+      "Aumentar la frecuencia de hospitalizaciones."
+    ],
+    "correcta": "Facilitar la autonomía del paciente en su entorno."
+  },
+  {
+    "id": "ta3_t33_16",
+    "tema": "Tema 33",
+    "fuente": "Test App 3",
+    "pregunta": "En el modelo de competencias, se hace énfasis en:",
+    "opciones": [
+      "Las discapacidades del paciente y sus limitaciones.",
+      "La relación terapéutica entre el paciente y la comunidad.",
+      "La hospitalización como parte fundamental del tratamiento.",
+      "El desarrollo de una red afectiva entre el paciente y su familia."
+    ],
+    "correcta": "La relación terapéutica entre el paciente y la comunidad."
+  },
+  {
+    "id": "ta3_t33_17",
+    "tema": "Tema 33",
+    "fuente": "Test App 3",
+    "pregunta": "¿Qué modelo de atención está dirigido a la población de pacientes con mayor autonomía?",
+    "opciones": [
+      "Case management estándar.",
+      "Case management intensivo.",
+      "Modelo rehabilitador.",
+      "Tratamiento asertivo comunitario."
+    ],
+    "correcta": "Case management estándar."
+  },
+  {
+    "id": "ta3_t33_18",
+    "tema": "Tema 33",
+    "fuente": "Test App 3",
+    "pregunta": "El enfoque de la Ley General de Sanidad de 1986 respecto a la atención de la salud mental se centra en:",
+    "opciones": [
+      "Incrementar los ingresos psiquiátricos a largo plazo.",
+      "Fomentar la atención en el entorno comunitario.",
+      "Restringir el acceso a servicios ambulatorios.",
+      "Privilegiar la atención psiquiátrica infantil sobre la de adultos."
+    ],
+    "correcta": "Fomentar la atención en el entorno comunitario."
+  },
+  {
+    "id": "ta3_t33_19",
+    "tema": "Tema 33",
+    "fuente": "Test App 3",
+    "pregunta": "El programa de Continuidad de Cuidados incluye actividades centradas en:",
+    "opciones": [
+      "Exclusivamente en el entorno del paciente.",
+      "Solo en el ámbito hospitalario.",
+      "El paciente y su entorno de manera simultánea.",
+      "La administración de tratamientos farmacológicos."
+    ],
+    "correcta": "El paciente y su entorno de manera simultánea."
+  },
+  {
+    "id": "ta3_t33_20",
+    "tema": "Tema 33",
+    "fuente": "Test App 3",
+    "pregunta": "Uno de los objetivos de los programas de tratamiento comunitario es:",
+    "opciones": [
+      "Priorizar la atención hospitalaria frente a la comunitaria.",
+      "Mantener al paciente desconectado de la red social.",
+      "Reducir la necesidad de hospitalización y promover la integración social.",
+      "Establecer la medicación como único enfoque terapéutico."
+    ],
+    "correcta": "Reducir la necesidad de hospitalización y promover la integración social."
+  },
+  {
+    "id": "ta3_t37_1",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "La ley 39/2006, de 14 de diciembre de promoción de la autonomía personal y atención a las personas en situación de dependencia, tiene por objeto:",
+    "opciones": [
+      "Acción coordinada y cooperativa de la Administración General del Estado y las CCAA con la participación de las entidades locales.",
+      "Creación de un contenido mínimo común en toda Galicia.",
+      "Acción coordinada y cooperativa entre la administración autonómica y local.",
+      "Todas son verdaderas."
+    ],
+    "correcta": "Acción coordinada y cooperativa de la Administración General del Estado y las CCAA con la participación de las entidades locales."
+  },
+  {
+    "id": "ta3_t37_2",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "El estado de carácter permanente en que se encuentran las personas que, por razones derivadas de la edad, la enfermedad o la discapacidad, y ligadas a la falta o a la pérdida de autonomía física, mental, intelectual o sensorial, precisan de la atención de otra u otras personas o ayudas importantes para realizar actividades básicas de la vida diaria o, en el caso de las personas con discapacidad intelectual o enfermedad mental, de otros apoyos para su autonomía personal, es la definición de:",
+    "opciones": [
+      "Minusvalía.",
+      "Autonomía.",
+      "Capacidad para realización actividades básicas de la vida diaria.",
+      "Dependencia."
+    ],
+    "correcta": "Dependencia."
+  },
+  {
+    "id": "ta3_t37_3",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "Dentro de los principios de la Ley 39/2006, encontramos los siguientes:",
+    "opciones": [
+      "Creación de red de servicios sociales.",
+      "Participación del dependiente en la toma de decisiones en exclusiva.",
+      "Permanencia en el entorno.",
+      "Todas son verdaderas."
+    ],
+    "correcta": "Permanencia en el entorno."
+  },
+  {
+    "id": "ta3_t37_4",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "La ley de promoción de la autonomía personal y atención a las personas en situación de dependencia, nombra una serie de obligaciones de las personas dependientes, siendo estas:",
+    "opciones": [
+      "Suministrar toda la información y datos requeridos.",
+      "Comunicar las ayudas que reciben.",
+      "Aplicar las prestaciones económicas a la finalidad otorgada.",
+      "Todas son correctas."
+    ],
+    "correcta": "Todas son correctas."
+  },
+  {
+    "id": "ta3_t37_5",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "Son titulares de derecho según la ley 39/2006:",
+    "opciones": [
+      "Los españoles que residan en territorio español cinco años de los cuales dos tienen que ser inmediatamente anteriores.",
+      "Los emigrantes retornados que teniendo esta condición hayan residido en territorio español al menos los dos años anteriores.",
+      "Los menores de edad, mayores de 5 años se regirán por la norma general.",
+      "Son correctas a) y c)."
+    ],
+    "correcta": "Los españoles que residan en territorio español cinco años de los cuales dos tienen que ser inmediatamente anteriores."
+  },
+  {
+    "id": "ta3_t37_6",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "La ley de dependencia establece niveles de protección los cuales son:",
+    "opciones": [
+      "Nivel mínimo que es común a todo el territorio nacional y un nivel de protección adicional que establece cada comunidad autónoma.",
+      "Nivel mínimo de protección que es acordado entre la administración general y las administraciones autonómicas.",
+      "Nivel de protección mínimo es exclusiva ya que el nivel de protección adicional se encuentra derogado.",
+      "Tanto el nivel de protección mínimo como el adicional es establecido por las comunidades autónomas."
+    ],
+    "correcta": "Nivel mínimo que es común a todo el territorio nacional y un nivel de protección adicional que establece cada comunidad autónoma."
+  },
+  {
+    "id": "ta3_t37_7",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "Son competencias del Consejo territorial de SS.SS y del SAAD:",
+    "opciones": [
+      "Determinar la intensidad de protección.",
+      "Acordar el baremo de valoración.",
+      "Participación del beneficiario en el coste del servicio.",
+      "Todas son correctas."
+    ],
+    "correcta": "Todas son correctas."
+  },
+  {
+    "id": "ta3_t37_8",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "Son funciones de las comunidades autónomas en la participación en el sistema de dependencia:",
+    "opciones": [
+      "Informar de la normativa estatal en materia de dependencia.",
+      "Condiciones y cuantías de las prestaciones económicas.",
+      "Elaboración de los PIAS.",
+      "Determinar la intensidad de protección."
+    ],
+    "correcta": "Elaboración de los PIAS."
+  },
+  {
+    "id": "ta3_t37_9",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "Dentro de los objetivos de las prestaciones del sistema de dependencia:",
+    "opciones": [
+      "A) Facilitar una existencia autónoma en el medio habitual.",
+      "B) Proporcionar un trato digno (a nivel personal, familiar y social) facilitando la participación activa.",
+      "C) Las dos anteriores son correctas.",
+      "D) Ninguna es verdadera."
+    ],
+    "correcta": "C) Las dos anteriores son correctas."
+  },
+  {
+    "id": "ta3_t37_10",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "La Ley 39/2006, en relación a las prestaciones, establece:",
+    "opciones": [
+      "Las prestaciones y los servicios se encuentran en el mismo nivel, siendo la persona beneficiaria quien participe en la elección del recurso más adecuado.",
+      "Los servicios tienen carácter prioritario y el acceso es a través de la red de servicios sociales de las comunidades autónomas.",
+      "Las prestaciones económicas vinculadas tienen un carácter excepcional.",
+      "El recurso de asistente personal tiene carácter excepcional y se produce el acceso siempre y cuando no se pueda acceder a ningún recurso público."
+    ],
+    "correcta": "Los servicios tienen carácter prioritario y el acceso es a través de la red de servicios sociales de las comunidades autónomas."
+  },
+  {
+    "id": "ta3_t37_11",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "Facilitar una existencia autónoma en el medio habitual (si se desea y es posible), es un objetivo de:",
+    "opciones": [
+      "Los servicios sociales en general.",
+      "De todas las prestaciones dirigidas a los colectivos de personas con discapacidad o personas mayores.",
+      "De las prestaciones recogidas en la Ley 39/2006.",
+      "Para una adecuada inclusión social."
+    ],
+    "correcta": "De las prestaciones recogidas en la Ley 39/2006."
+  },
+  {
+    "id": "ta3_t37_12",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "El acceso a las prestaciones recogidas en la Ley 39/2006 se establece:",
+    "opciones": [
+      "En primer lugar, se tiene en cuenta el grado de dependencia.",
+      "Tras tener en cuenta el grado de dependencia se toma en consideración la capacidad económica.",
+      "El acceso se produce según el grado de dependencia y la fecha de entrada de la solicitud en registro municipal.",
+      "Ninguna de las anteriores es correcta."
+    ],
+    "correcta": "Tras tener en cuenta el grado de dependencia se toma en consideración la capacidad económica."
+  },
+  {
+    "id": "ta3_t37_13",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "La capacidad económica de las personas solicitantes de dependencia se calcula teniendo en cuenta:",
+    "opciones": [
+      "La Renta y su Patrimonio.",
+      "La Renta y Patrimonio, y se descuentan los gastos de vivienda.",
+      "La Renta y su Patrimonio (según su edad y servicio).",
+      "La Renta y su Patrimonio (según su edad y servicio) y deduciendo los gastos de vivienda."
+    ],
+    "correcta": "La Renta y su Patrimonio (según su edad y servicio)."
+  },
+  {
+    "id": "ta3_t37_14",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "Dentro del catálogo de servicios de la Ley 39/2006 encontramos:",
+    "opciones": [
+      "Servicio de ayuda a domicilio, centro de día y servicio residencial.",
+      "Servicio de prevención de las situaciones de dependencia y promoción de la autonomía, ayuda a domicilio, centro de día y servicio residencial.",
+      "Servicio de prevención de las situaciones de dependencia y promoción de la autonomía, teleasistencia, ayuda a domicilio y servicio residencial.",
+      "Servicio de prevención de las situaciones de dependencia y promoción de la autonomía, teleasistencia, ayuda a domicilio, centro de día y servicio residencial."
+    ],
+    "correcta": "Servicio de prevención de las situaciones de dependencia y promoción de la autonomía, teleasistencia, ayuda a domicilio, centro de día y servicio residencial."
+  },
+  {
+    "id": "ta3_t37_15",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "Las prestaciones económicas vinculadas al servicio, son ayudas de carácter periódico, con carácter personal y vinculadas al servicio. A estas características tenemos que añadir:",
+    "opciones": [
+      "A) Se conceden cuando no es posible el acceso al servicio público.",
+      "B) Tienen en cuenta el grado y capacidad económica.",
+      "C) A las dos anteriores, tenemos que añadir que las administraciones públicas supervisarán el destino y utilización de la prestación.",
+      "D) A y B son correctas."
+    ],
+    "correcta": "C) A las dos anteriores, tenemos que añadir que las administraciones públicas supervisarán el destino y utilización de la prestación."
+  },
+  {
+    "id": "ta3_t37_16",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "La prestación de asistente personal tiene como finalidad:",
+    "opciones": [
+      "Prestar atención a la persona dependiente fuera de su domicilio.",
+      "Favorecer una vida más autónoma.",
+      "Facilitar a las personas dependientes el acceso a la educación y al trabajo.",
+      "Facilitar a las personas dependientes el acceso a la educación y al trabajo y favorecer una vida más autónoma."
+    ],
+    "correcta": "Facilitar a las personas dependientes el acceso a la educación y al trabajo y favorecer una vida más autónoma."
+  },
+  {
+    "id": "ta3_t37_17",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "El servicio de teleasistencia, es un servicio que:",
+    "opciones": [
+      "Tiene como objetivo dar respuesta inmediata a situaciones de emergencia, inseguridad, soledad y aislamiento.",
+      "Es compatible con todos los recursos.",
+      "La concesión está siempre condicionada a la concesión del servicio de ayuda a domicilio.",
+      "Todas son correctas."
+    ],
+    "correcta": "Tiene como objetivo dar respuesta inmediata a situaciones de emergencia, inseguridad, soledad y aislamiento."
+  },
+  {
+    "id": "ta3_t37_18",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "Los centros de día y noche tienen como finalidad:",
+    "opciones": [
+      "Prestar una atención integral y mejorar o mantener el nivel de autonomía.",
+      "Prestar una atención integral y apoyar a familias o personas cuidadoras.",
+      "Prestar una atención integral, mejorar o mantener el nivel de autonomía y apoyar a las familias y persona cuidadoras.",
+      "Apoyar a las familias cuidadoras y mantener el nivel de autonomía de las personas dependientes."
+    ],
+    "correcta": "Prestar una atención integral, mejorar o mantener el nivel de autonomía y apoyar a las familias y persona cuidadoras."
+  },
+  {
+    "id": "ta3_t37_19",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "El servicio de atención residencial:",
+    "opciones": [
+      "Se prestará según tipo de dependencia, grado e intensidad de cuidados.",
+      "Será prestada por la administración por centros propios en exclusiva.",
+      "Tendrá carácter permanente.",
+      "Todas son correctas."
+    ],
+    "correcta": "Se prestará según tipo de dependencia, grado e intensidad de cuidados."
+  },
+  {
+    "id": "ta3_t37_20",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "El apoyo en las ABVD al menos una vez al día o apoyo intermitente a lo largo del día, se corresponde con:",
+    "opciones": [
+      "Grado I de dependencia o dependencia severa.",
+      "Grado II de dependencia o dependencia moderada.",
+      "Grado I de dependencia o dependencia moderada.",
+      "Grado II de dependencia o dependencia severa."
+    ],
+    "correcta": "Grado I de dependencia o dependencia moderada."
+  },
+  {
+    "id": "ta3_t37_21",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "Para el reconocimiento del Grado III de dependencia o gran dependencia la atención para las actividades básicas de la vida diaria, tiene que ser prestada:",
+    "opciones": [
+      "Dos o tres veces al día y obteniendo en el baremo una puntuación entre 25 y 49 puntos.",
+      "Varias veces al día y necesita apoyo continuo, obteniendo en el baremo 75 o más puntos.",
+      "Varias veces al día y necesita apoyo continuo, obteniendo en el baremo entre 74 y 100 puntos.",
+      "Dos o tres veces al día y obteniendo en el baremo una puntuación entre 50 y 74 puntos."
+    ],
+    "correcta": "Varias veces al día y necesita apoyo continuo, obteniendo en el baremo 75 o más puntos."
+  },
+  {
+    "id": "ta3_t37_22",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "El grado de dependencia se determinará por aplicación del baremo acordado por el Consejo Territorial, establecerá:",
+    "opciones": [
+      "Criterios de valoración y capacidad para realizar las ABVD.",
+      "Intervalos de puntuación.",
+      "Protocolo de procedimiento y técnicas de valoración.",
+      "Todas son verdaderas."
+    ],
+    "correcta": "Todas son verdaderas."
+  },
+  {
+    "id": "ta3_t37_23",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "El baremo para determinar el grado de dependencia, valorará:",
+    "opciones": [
+      "A) La capacidad de la persona para realizar las ABVD.",
+      "B) Necesidad de apoyo y supervisión para personas con discapacidad intelectual o enfermedad mental.",
+      "C) Las dos anteriores son correctas.",
+      "D) Ninguna es correcta."
+    ],
+    "correcta": "C) Las dos anteriores son correctas."
+  },
+  {
+    "id": "ta3_t37_24",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "El procedimiento para el reconocimiento de dependencia se iniciará:",
+    "opciones": [
+      "A instancia de la persona.",
+      "A instancia de la persona o quien ostente su representación.",
+      "Por los servicios sociales de referencia del ayuntamiento en el que reside o por los servicios sociales de salud.",
+      "A instancia del interesado o por los servicios sociales de referencia del ayuntamiento en el que reside o por los servicios sociales de salud."
+    ],
+    "correcta": "A instancia de la persona o quien ostente su representación."
+  },
+  {
+    "id": "ta3_t37_25",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "En el procedimiento de reconocimiento de la dependencia la valoración del grado:",
+    "opciones": [
+      "Será reconocido por la administración local.",
+      "Por la administración autonómica con validez en toda la comunidad autónoma.",
+      "Por la administración general del estado teniendo validez en toda España.",
+      "Por la administración autonómica y teniendo validez en todo el territorio nacional."
+    ],
+    "correcta": "Por la administración autonómica y teniendo validez en todo el territorio nacional."
+  },
+  {
+    "id": "ta3_t37_26",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "El programa individual de atención (PIA) que será establecido por los servicios sociales:",
+    "opciones": [
+      "Determinará el servicio y/o prestación adecuada.",
+      "Tendrá en cuenta el grado de dependencia.",
+      "Tiene en consideración la preferencia de la persona y/o familia o representante.",
+      "Todas son correctas."
+    ],
+    "correcta": "Todas son correctas."
+  },
+  {
+    "id": "ta3_t37_27",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "El PIA puede ser revisado:",
+    "opciones": [
+      "Por cambio de residencia.",
+      "A instancia de la persona dependiente y/o representante.",
+      "De oficio, a instancia de la persona dependiente y/o representante y por cambio de domicilio.",
+      "Ninguna es correcta."
+    ],
+    "correcta": "De oficio, a instancia de la persona dependiente y/o representante y por cambio de domicilio."
+  },
+  {
+    "id": "ta3_t37_28",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "Las razones por las que se pueden extinguir o modificar los servicios y/o prestaciones reconocidos en el PIA:",
+    "opciones": [
+      "Mejoría o empeoramiento.",
+      "Error en el diagnóstico o aplicación del baremo.",
+      "Incumplimiento de obligaciones o variación de las circunstancias que dieron lugar a su concesión.",
+      "Todas son correctas."
+    ],
+    "correcta": "Incumplimiento de obligaciones o variación de las circunstancias que dieron lugar a su concesión."
+  },
+  {
+    "id": "ta3_t37_29",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "De las prestaciones económicas reconocidas en el PIA se deducirá:",
+    "opciones": [
+      "A) Complemento de gran invalidez, subsidio de tercera edad de la LISMI.",
+      "B) Necesidad de tercera persona en PNC y el complemento de la asignación por hijo a cargo minusválido mayor de 18 años con minusvalía igual o superior al 75%.",
+      "C) No existen deducciones en las prestaciones económicas reconocidas a través del sistema de dependencia.",
+      "D) A y B son correctas."
+    ],
+    "correcta": "D) A y B son correctas."
+  },
+  {
+    "id": "ta3_t37_30",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "La financiación del sistema de dependencia por las administraciones públicas:",
+    "opciones": [
+      "Será suficiente para garantizar el cumplimiento de obligaciones y se fijará anualmente en los Presupuestos.",
+      "Las AAPP aportarán más anualmente que la Administración autonómica.",
+      "La administración general del estado asumirá el nivel adicional de protección.",
+      "Todas son correctas."
+    ],
+    "correcta": "Será suficiente para garantizar el cumplimiento de obligaciones y se fijará anualmente en los Presupuestos."
+  },
+  {
+    "id": "ta3_t37_31",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "La Ley 39/2006 establece la participación de la persona dependiente:",
+    "opciones": [
+      "A) Según el tipo de servicio, coste del mismo y capacidad económica personal.",
+      "B) Ningún ciudadano quedará fuera de la cobertura del sistema por no disponer de recursos económicos.",
+      "C) A y B son correctas.",
+      "D) En las prestaciones económicas para su cálculo se tiene en cuenta la capacidad económica de la persona beneficiaria, pero no el grado de dependencia."
+    ],
+    "correcta": "C) A y B son correctas."
+  },
+  {
+    "id": "ta3_t37_32",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "La ley 39/2006, con la finalidad de asegurar la eficacia de las prestaciones y servicios, determinará indicadores de calidad, guía de buenas prácticas, criterios de calidad entre otros que serán establecidos por:",
+    "opciones": [
+      "Cada comunidad autónoma puesto que tiene competencias en la inspección de centros y servicios.",
+      "Por la administración general del estado.",
+      "Por el Consejo Territorial.",
+      "La calidad no es objeto de regulación de esta ley."
+    ],
+    "correcta": "Por el Consejo Territorial."
+  },
+  {
+    "id": "ta3_t37_33",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "Derivado de la necesidad de regular la calidad en la atención prestada a través del sistema de dependencia, se establece que los centros residenciales tendrán que tener un reglamento de régimen interno que regule:",
+    "opciones": [
+      "La organización.",
+      "Participación de las personas usuarias y sistema de gestión de calidad.",
+      "Sistema de gestión de calidad y organización.",
+      "Organización, participación de las personas usuarias y sistema de gestión de calidad."
+    ],
+    "correcta": "Organización, participación de las personas usuarias y sistema de gestión de calidad."
+  },
+  {
+    "id": "ta3_t37_34",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "La ley de dependencia 39/2006, establece que para hacer efectiva la participación social en el sistema, la participación institucional de las organizaciones sindicales y empresariales en el mismo, se crea:",
+    "opciones": [
+      "Consejo Territorial.",
+      "Comité Consultivo.",
+      "Consejo Consultivo.",
+      "Comité de Participación."
+    ],
+    "correcta": "Comité Consultivo."
+  },
+  {
+    "id": "ta3_t37_35",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "Según la Ley 39/2006 pueden cometer infracciones:",
+    "opciones": [
+      "Personas físicas o jurídicas.",
+      "Quienes realicen la acción por si mismos, conjuntamente o a través de persona interpuesta.",
+      "Quienes cooperen en su ejecución por acción u omisión sin la cual la infracción no hubiese podido llevarse a cabo.",
+      "Todas son correctas."
+    ],
+    "correcta": "Todas son correctas."
+  },
+  {
+    "id": "ta3_t37_36",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "Si se comete una infracción en la que hay perjuicio para las personas, o se hayan cometido con dolo o negligencia grave, se trata de una infracción:",
+    "opciones": [
+      "Leve.",
+      "Moderada.",
+      "Grave.",
+      "Muy grave."
+    ],
+    "correcta": "Grave."
+  },
+  {
+    "id": "ta3_t37_37",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "Se considera una falta muy grave:",
+    "opciones": [
+      "Negativa absoluta a facilitar información o colaborar con los servicios de inspección y falseamiento de información.",
+      "Coacciones, amenazas, represalias.",
+      "Que se genere grave perjuicio para el dependiente o la administración.",
+      "Todas son correctas."
+    ],
+    "correcta": "Que se genere grave perjuicio para el dependiente o la administración."
+  },
+  {
+    "id": "ta3_t37_38",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "Son sanciones establecidas por la Ley 39/2006:",
+    "opciones": [
+      "Pérdida de prestaciones y subvenciones.",
+      "Multa para cuidadores no profesionales.",
+      "Las empresas proveedoras: multa, pérdida de subvención, cese temporal de la actividad o cierre del establecimiento.",
+      "Todas son correctas."
+    ],
+    "correcta": "Todas son correctas."
+  },
+  {
+    "id": "ta3_t37_39",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "Una multa entre 301-3000€ cuidadores y 30.001 a 90.000€ proveedores, corresponde a una infracción:",
+    "opciones": [
+      "Leve.",
+      "Moderada.",
+      "Grave.",
+      "Muy grave."
+    ],
+    "correcta": "Grave."
+  },
+  {
+    "id": "ta3_t37_40",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "En el ámbito de la Administración General del Estado es competente en sanciones muy graves:",
+    "opciones": [
+      "El titular de la Dirección General del Instituto de Mayores y Servicios sociales.",
+      "El titular de la Secretaría de Estado de Servicios Sociales y Discapacidad.",
+      "El titular del Ministerio de Trabajo y SS.SS.",
+      "Ninguna es correcta."
+    ],
+    "correcta": "El titular del Ministerio de Trabajo y SS.SS."
+  },
+  {
+    "id": "ta3_t37_41",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "La capacidad de controlar, afrontar y tomar, por propia iniciativa, decisiones personales acerca de cómo vivir de acuerdo con las normas y preferencias propias se define en la Ley 39/2006 como:",
+    "opciones": [
+      "Asistencia.",
+      "Actividades Básicas de la Vida Diaria.",
+      "Autonomía.",
+      "Independencia."
+    ],
+    "correcta": "Autonomía."
+  },
+  {
+    "id": "ta3_t37_42",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "Las organizaciones de carácter privado surgidas de la iniciativa ciudadana o social, bajo diferentes modalidades que responden a criterios de solidaridad, con fines de interés general y ausencia de ánimo de lucro, que impulsan el reconocimiento y el ejercicio de los derechos sociales integran para la Ley 39/2006 el llamado:",
+    "opciones": [
+      "Tercer sector.",
+      "Segundo Sector.",
+      "Cuarto Sector.",
+      "Primer Sector."
+    ],
+    "correcta": "Tercer sector."
+  },
+  {
+    "id": "ta3_t37_43",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "NO aparece entre los órganos consultivos de participación institucional del Sistema para la Autonomía y Atención de la Dependencia conforme el art. 41 de la Ley 39/2006:",
+    "opciones": [
+      "Comité Consultivo del Sistema para la Autonomía y Atención a la Dependencia.",
+      "Consejo Territorial del Sistema para la Autonomía y Atención a la Dependencia.",
+      "Consejo Nacional de la Discapacidad.",
+      "Consejo Estatal de Organizaciones no Gubernamentales de Acción Social."
+    ],
+    "correcta": "Consejo Territorial del Sistema para la Autonomía y Atención a la Dependencia."
+  },
+  {
+    "id": "ta3_t37_44",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "NO forma parte de los derechos y obligaciones de las personas en situación de dependencia:",
+    "opciones": [
+      "Planificar, ordenar, coordinar y dirigir, en el ámbito de su territorio, los servicios de promoción de la autonomía personal y de atención a las personas en situación de dependencia.",
+      "Participar en la formulación y aplicación de las políticas que afecten a su bienestar, ya sea a título individual o mediante asociación.",
+      "Recibir, en términos comprensibles y accesibles, información completa y continuada relacionada con su situación de dependencia.",
+      "Disfrutar de los derechos humanos y libertades fundamentales, con pleno respeto de su dignidad e intimidad."
+    ],
+    "correcta": "Planificar, ordenar, coordinar y dirigir, en el ámbito de su territorio, los servicios de promoción de la autonomía personal y de atención a las personas en situación de dependencia."
+  },
+  {
+    "id": "ta3_t37_45",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "¿Cuál es el período mínimo de residencia que requiere el art. 5 de la Ley 39/2006 para que los españoles puedan ser titulares de los derechos reconocidos en esa Ley?",
+    "opciones": [
+      "Lógicamente, ninguno.",
+      "Tres años.",
+      "Diez años.",
+      "Cinco años."
+    ],
+    "correcta": "Cinco años."
+  },
+  {
+    "id": "ta3_t37_46",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "El Catálogo de servicios comprende los servicios sociales de promoción de la autonomía personal y de atención a la dependencia. Dentro de los mismos el Servicio de Ayuda a Domicilio comprende:",
+    "opciones": [
+      "Centro de Día para menores de 65 años.",
+      "Atención de las necesidades del hogar.",
+      "Centro de Día para mayores.",
+      "Comprende además de otros todos los que se cita en las alternativas anteriores."
+    ],
+    "correcta": "Atención de las necesidades del hogar."
+  },
+  {
+    "id": "ta3_t37_47",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "Facilita asistencia a los beneficiarios mediante el uso de tecnologías de la comunicación y de la información el Servicio de:",
+    "opciones": [
+      "Ayuda a Domicilio.",
+      "Atención Residencial.",
+      "Teleasistencia.",
+      "Centro de Día y Noche."
+    ],
+    "correcta": "Teleasistencia."
+  },
+  {
+    "id": "ta3_t37_48",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "Cuando la persona necesita ayuda para realizar varias actividades básicas de la vida diaria varias veces al día hablamos de:",
+    "opciones": [
+      "Grado I.",
+      "Grado II.",
+      "Grado III.",
+      "Grado IV."
+    ],
+    "correcta": "Grado III."
+  },
+  {
+    "id": "ta3_t37_49",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "La persona que tiene necesidades de apoyo intermitente o limitado para su autonomía personal se encuentra en la situación de:",
+    "opciones": [
+      "Dependencia leve.",
+      "Dependencia severa.",
+      "Dependencia intermitente.",
+      "Dependencia moderada."
+    ],
+    "correcta": "Dependencia moderada."
+  },
+  {
+    "id": "ta3_t37_50",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "El Sistema de información del Sistema para la Autonomía y Atención a la Dependencia corresponde a:",
+    "opciones": [
+      "Un organismo del Ministerio de Trabajo y Asuntos Sociales.",
+      "Consejo Interterritorial.",
+      "Estado y Comunidades Autónomas.",
+      "La comunicación recíproca entre las distintas Administraciones Públicas."
+    ],
+    "correcta": "Un organismo del Ministerio de Trabajo y Asuntos Sociales."
+  },
+  {
+    "id": "ta3_t37_51",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "El reconocimiento de la situación de dependencia tiene validez en:",
+    "opciones": [
+      "La Comunidad Autónoma emisora únicamente.",
+      "Todo el territorio del Estado.",
+      "Las Comunidades Autónomas colindantes con la emisora.",
+      "España y en los Estados de la Unión Europea."
+    ],
+    "correcta": "Todo el territorio del Estado."
+  },
+  {
+    "id": "ta3_t37_52",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "Según la Disposición Adicional Decimotercera de la Ley 39/2006, la protección de los menores de 3 años:",
+    "opciones": [
+      "No está contemplada en esta Ley.",
+      "Incluye medidas de atención temprana y rehabilitación de capacidades físicas e intelectuales.",
+      "Queda en manos exclusivamente de la Sanidad Exterior.",
+      "Se iniciará a partir de que cumplan dicha edad."
+    ],
+    "correcta": "Incluye medidas de atención temprana y rehabilitación de capacidades físicas e intelectuales."
+  },
+  {
+    "id": "ta3_t37_53",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "Las prestaciones económicas reguladas en el artículo 17 de la Ley 39/2006 tienen carácter:",
+    "opciones": [
+      "De subvención a fondo perdido sin justificación.",
+      "Periódico y están destinadas a la finalidad para la que se conceden.",
+      "Vitalicio e intransferible en cualquier supuesto.",
+      "De capital único de pago directo."
+    ],
+    "correcta": "Periódico y están destinadas a la finalidad para la que se conceden."
+  },
+  {
+    "id": "ta3_t37_54",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "Conforme al artículo 18 de la Ley 39/2006, la prestación económica para cuidados en el entorno familiar es:",
+    "opciones": [
+      "La modalidad prioritaria y de libre elección por el usuario.",
+      "Una asignación universal sin requisitos de convivencia.",
+      "Excepcional y se concede cuando no sea posible el acceso a un servicio público o concertado.",
+      "Incompatible con el alta del cuidador en la Seguridad Social."
+    ],
+    "correcta": "Excepcional y se concede cuando no sea posible el acceso a un servicio público o concertado."
+  },
+  {
+    "id": "ta3_t37_55",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "El Programa Individual de Atención (PIA) se revisará:",
+    "opciones": [
+      "Exclusivamente cuando lo solicite el interesado.",
+      "Únicamente cada cinco años de forma automática.",
+      "A instancia del interesado, de oficio con la periodicidad que determine la CC.AA., o por cambio de residencia.",
+      "Solamente si se modifica el Baremo de Valoración del Estado."
+    ],
+    "correcta": "A instancia del interesado, de oficio con la periodicidad que determine la CC.AA., o por cambio de residencia."
+  },
+  {
+    "id": "ta3_t37_56",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "De acuerdo con el artículo 28.6 de la Ley 39/2006, las funciones de valoración y prescripción de servicios:",
+    "opciones": [
+      "Se realizarán directamente por las Administraciones Públicas y no podrán ser objeto de delegación o concierto.",
+      "Se pueden subcontratar en su totalidad con entidades del Tercer Sector.",
+      "Corresponden en exclusiva a clínicas privadas acreditadas.",
+      "Pueden ser delegadas en las Mutuas de Accidentes de Trabajo."
+    ],
+    "correcta": "Se realizarán directamente por las Administraciones Públicas y no podrán ser objeto de delegación o concierto."
+  },
+  {
+    "id": "ta3_t37_57",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "Según el artículo 33 de la Ley 39/2006, la participación de los beneficiarios en la financiación del sistema (copago):",
+    "opciones": [
+      "Es una cuota fija idéntica para todos los usuarios del sistema.",
+      "Se realizará en función de su capacidad económica, considerando su renta y patrimonio.",
+      "Queda exenta para todos los menores de 65 años.",
+      "Se calcula únicamente teniendo en cuenta los ingresos de los familiares directos."
+    ],
+    "correcta": "Se realizará en función de su capacidad económica, considerando su renta y patrimonio."
+  },
+  {
+    "id": "ta3_t37_58",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "El artículo 33.4 de la Ley 39/2006 establece expresamente que ningún ciudadano quedará excluido del sistema por:",
+    "opciones": [
+      "No disponer de la nacionalidad española en el momento de la solicitud.",
+      "Padecer una enfermedad mental crónica o de curso irreversible.",
+      "Carecer de recursos económicos.",
+      "Residir en una Entidad Local de menos de 5.000 habitantes."
+    ],
+    "correcta": "Carecer de recursos económicos."
+  },
+  {
+    "id": "ta3_t37_59",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "Los centros residenciales destinados a personas en situación de dependencia deben disponer obligatoriamente de:",
+    "opciones": [
+      "Un Reglamento de Régimen Interior que garantice la participación de los usuarios.",
+      "Un servicio médico de urgencias con helipuerto propio.",
+      "Autorización expresa del Ministerio de Trabajo y Asuntos Sociales exclusivamente.",
+      "Un patronato compuesto por miembros del Tercer Sector obligatoriamente."
+    ],
+    "correcta": "Un Reglamento de Régimen Interior que garantice la participación de los usuarios."
+  },
+  {
+    "id": "ta3_t37_60",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "Las infracciones muy graves cometidas por las entidades prestadoras de servicios según el artículo 44 de la Ley 39/2006 se sancionan con multa de:",
+    "opciones": [
+      "Hasta 3.000 €.",
+      "Desde 3.001 € hasta 30.000 €.",
+      "Desde 30.001 € hasta 90.000 €.",
+      "Desde 90.001 € hasta 1.000.000 €."
+    ],
+    "correcta": "Desde 90.001 € hasta 1.000.000 €."
+  },
+  {
+    "id": "ta3_t37_61",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "Según la Ley 39/2006, indique la correcta respecto a los niveles establecidos para la protección de la situación de dependencia por parte del Sistema:",
+    "opciones": [
+      "El nivel intermedio de protección viene determinado por lo que se acuerde entre las Comunidades Autónomas y las Entidades Locales.",
+      "Cada Comunidad Autónoma puede establecer un nivel adicional de protección.",
+      "El nivel de protección mínimo está establecido por la Administración General del Estado y las Comunidades Autónomas.",
+      "Las Entidades Locales, pueden establecer un nivel protección específico para su territorio."
+    ],
+    "correcta": "Cada Comunidad Autónoma puede establecer un nivel adicional de protección."
+  },
+  {
+    "id": "ta3_t37_62",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "De acuerdo con el artículo 27 de la Ley 39/2006, ¿qué órgano deberá acordar unos criterios comunes de composición y actuación de los órganos de valoración de la situación de dependencia de las comunidades autónomas?",
+    "opciones": [
+      "El Consejo Territorial de Servicios Sociales y del Sistema para la Autonomía y Atención a la Dependencia.",
+      "Las Administraciones Públicas.",
+      "Las propias Comunidades Autónomas.",
+      "El Gobierno."
+    ],
+    "correcta": "El Consejo Territorial de Servicios Sociales y del Sistema para la Autonomía y Atención a la Dependencia."
+  },
+  {
+    "id": "ta3_t37_63",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "De acuerdo con la Ley 39/2006, ¿cuál de los servicios de promoción de la autonomía personal y de atención y cuidado ofrece, desde un enfoque biopsicosocial, servicios continuados de carácter personal y sanitario?",
+    "opciones": [
+      "El servicio de Centro de Día y de Noche.",
+      "El servicio de Ayuda a Domicilio.",
+      "El servicio de Teleasistencia.",
+      "El servicio de Atención Residencial."
+    ],
+    "correcta": "El servicio de Atención Residencial."
+  },
+  {
+    "id": "ta3_t37_64",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "De conformidad con lo dispuesto en la Ley 39/2006, ¿de cuántos representantes de las administraciones de las Comunidades Autónomas estará formado el Comité Consultivo del Sistema para la Autonomía y Atención a la Dependencia?",
+    "opciones": [
+      "Diez representantes.",
+      "Seis representantes.",
+      "Cuatro representantes.",
+      "Nueve representantes."
+    ],
+    "correcta": "Seis representantes."
+  },
+  {
+    "id": "ta3_t37_65",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "De conformidad con la Ley 39/2006, el instrumento de cooperación para la articulación de los servicios sociales y la promoción de la autonomía y atención a las personas en situación de dependencia recibe el nombre de:",
+    "opciones": [
+      "Consejo Nacional de la Discapacidad.",
+      "Consejo Territorial de Servicios Sociales y del Sistema para la Autonomía y Atención a la Dependencia.",
+      "Comité Consultivo del Sistema para la Autonomía y Atención a la Dependencia.",
+      "Sistema para la Autonomía y Atención a la Dependencia."
+    ],
+    "correcta": "Consejo Territorial de Servicios Sociales y del Sistema para la Autonomía y Atención a la Dependencia."
+  },
+  {
+    "id": "ta3_t37_66",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "La Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia denomina a la dependencia en grado II:",
+    "opciones": [
+      "Dependencia severa.",
+      "Dependencia moderada.",
+      "Gran dependencia.",
+      "Dependencia autónoma."
+    ],
+    "correcta": "Dependencia severa."
+  },
+  {
+    "id": "ta3_t37_67",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "¿Cuál de los siguientes servicios sociales no está incluido en el Catálogo de Servicios establecido en la Ley 39/2006?",
+    "opciones": [
+      "Servicio de atención Hospitalaria.",
+      "Servicio de teleasistencia.",
+      "Servicio de Atención Residencial.",
+      "Servicio de ayuda a domicilio."
+    ],
+    "correcta": "Servicio de atención Hospitalaria."
+  },
+  {
+    "id": "ta3_t37_68",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "Según establece la Ley 39/2006, ¿a qué órgano corresponde determinar el nivel mínimo de protección garantizado para cada uno de los beneficiarios del Sistema según el grado de su dependencia?",
+    "opciones": [
+      "Al Gobierno, oído el Consejo Territorial de Servicios Sociales y del Sistema para la Autonomía y Atención a la Dependencia.",
+      "A la Secretaría de Estado de la Seguridad Social, previo informe de los Equipos de Valoración de Incapacidades del Instituto Nacional de la Seguridad Social.",
+      "A la Secretaría de Estado de Servicios Sociales, con el dictamen del Real Patronato de Discapacidad.",
+      "A los órganos técnicos competentes de las Comunidades Autónomas a quienes hubieran sido transferidas las funciones en materia de calificación del grado de discapacidad."
+    ],
+    "correcta": "Al Gobierno, oído el Consejo Territorial de Servicios Sociales y del Sistema para la Autonomía y Atención a la Dependencia."
+  },
+  {
+    "id": "ta3_t37_69",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "Según establece la Ley 39/2006, el Sistema para la Autonomía y Atención a la Dependencia:",
+    "opciones": [
+      "Garantiza las condiciones básicas y el contenido común a que se refiere la presente Ley.",
+      "Sirve de cauce para la colaboración y participación de las Administraciones Públicas, en el ejercicio de sus respectivas competencias, en materia de promoción de la autonomía personal y la atención y protección a las personas en situación de dependencia.",
+      "Optimiza los recursos públicos y privados disponibles.",
+      "Todas las respuestas son correctas."
+    ],
+    "correcta": "Todas las respuestas son correctas."
+  },
+  {
+    "id": "ta3_t37_70",
+    "tema": "Tema 37",
+    "fuente": "Test App 3",
+    "pregunta": "El tercer nivel o nivel adicional de protección del Sistema para la Autonomía y Atención a la Dependencia (SAAD) será establecido por:",
+    "opciones": [
+      "Entidades Locales.",
+      "Administración General del Estado.",
+      "Comunidades Autónomas.",
+      "Consejo Territorial de Servicios Sociales y del Sistema para la Autonomía y Atención a la Dependencia."
+    ],
+    "correcta": "Comunidades Autónomas."
   }
 ]
