@@ -188,7 +188,24 @@ export default function Menu({ allQuestions, temasDisponibles, questionResults =
           onChange={e => setNPreguntas(Number(e.target.value))}
           className="w-full accent-indigo-500"
         />
-        <div className="text-center text-indigo-400 font-bold mt-1 mb-4 text-sm">{nPreguntas} preguntas</div>
+        <div className="flex items-center justify-center gap-2 mt-1 mb-4">
+          <input
+            type="number"
+            min={1}
+            max={maxAll}
+            value={nPreguntas}
+            onChange={e => {
+              const v = parseInt(e.target.value, 10);
+              if (!isNaN(v)) setNPreguntas(Math.min(Math.max(1, v), maxAll));
+            }}
+            onBlur={e => {
+              const v = parseInt(e.target.value, 10);
+              if (isNaN(v) || v < 1) setNPreguntas(1);
+            }}
+            className="w-20 text-center bg-gray-800 border border-gray-700 focus:border-indigo-500 text-indigo-400 font-bold text-sm rounded-xl px-2 py-1 outline-none [appearance:textfield] [&::-webkit-outer-spin-button]:appearance-none [&::-webkit-inner-spin-button]:appearance-none"
+          />
+          <span className="text-gray-500 text-sm">preguntas</span>
+        </div>
 
         <div className="flex items-center justify-between border-t border-gray-800 pt-4">
           <div>
