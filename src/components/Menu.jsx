@@ -72,7 +72,13 @@ const COLOR_MAP = {
 
 export default function Menu({ allQuestions, temasDisponibles, questionResults = {}, mistakes = [], skippedList = [], onStart, instantFeedback, setInstantFeedback }) {
   const [nPreguntas, setNPreguntas] = useState(30);
+  const [inputValue, setInputValue] = useState('30');
   const [selectedTopics, setSelectedTopics] = useState(new Set());
+
+  const setN = (n) => {
+    setNPreguntas(n);
+    setInputValue(String(n));
+  };
 
   const getQuestionId = (q) => q.id || q.pregunta;
 
@@ -168,7 +174,7 @@ export default function Menu({ allQuestions, temasDisponibles, questionResults =
           {[10, 20, 30, 50, 100].filter(n => n <= maxAll).map(n => (
             <button
               key={n}
-              onClick={() => setNPreguntas(n)}
+              onClick={() => setN(n)}
               className={`px-3.5 py-1.5 rounded-full text-sm font-bold border transition-all
                 ${nPreguntas === n ? 'bg-indigo-600 border-indigo-500 text-white' : 'bg-gray-800 border-gray-700 text-gray-400 hover:border-indigo-500'}`}
             >
@@ -176,7 +182,7 @@ export default function Menu({ allQuestions, temasDisponibles, questionResults =
             </button>
           ))}
           <button
-            onClick={() => setNPreguntas(maxAll)}
+            onClick={() => setN(maxAll)}
             className={`px-3.5 py-1.5 rounded-full text-sm font-bold border transition-all
               ${nPreguntas === maxAll ? 'bg-indigo-600 border-indigo-500 text-white' : 'bg-gray-800 border-gray-700 text-gray-400 hover:border-indigo-500'}`}
           >
@@ -185,7 +191,7 @@ export default function Menu({ allQuestions, temasDisponibles, questionResults =
         </div>
         <input
           type="range" min={5} max={maxAll} value={nPreguntas}
-          onChange={e => setNPreguntas(Number(e.target.value))}
+          onChange={e => setN(Number(e.target.value))}
           className="w-full accent-indigo-500"
         />
         <div className="flex items-center justify-center gap-2 mt-1 mb-4">
@@ -193,14 +199,16 @@ export default function Menu({ allQuestions, temasDisponibles, questionResults =
             type="number"
             min={1}
             max={maxAll}
-            value={nPreguntas}
+            value={inputValue}
             onChange={e => {
+              setInputValue(e.target.value);
               const v = parseInt(e.target.value, 10);
-              if (!isNaN(v)) setNPreguntas(Math.min(Math.max(1, v), maxAll));
+              if (!isNaN(v) && v >= 1) setNPreguntas(Math.min(v, maxAll));
             }}
-            onBlur={e => {
-              const v = parseInt(e.target.value, 10);
-              if (isNaN(v) || v < 1) setNPreguntas(1);
+            onBlur={() => {
+              const v = parseInt(inputValue, 10);
+              const clamped = isNaN(v) || v < 1 ? 1 : Math.min(v, maxAll);
+              setN(clamped);
             }}
             className="w-20 text-center bg-gray-800 border border-gray-700 focus:border-indigo-500 text-indigo-400 font-bold text-sm rounded-xl px-2 py-1 outline-none [appearance:textfield] [&::-webkit-outer-spin-button]:appearance-none [&::-webkit-inner-spin-button]:appearance-none"
           />
