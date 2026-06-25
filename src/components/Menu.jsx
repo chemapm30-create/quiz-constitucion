@@ -148,6 +148,7 @@ export default function Menu({ allQuestions, temasDisponibles, questionResults =
   }
 
   const maxAll = allQuestions.length;
+  const numFuentes = new Set(allQuestions.map(q => q.fuente).filter(Boolean)).size;
 
   return (
     <div className="max-w-2xl mx-auto space-y-6">
@@ -155,7 +156,7 @@ export default function Menu({ allQuestions, temasDisponibles, questionResults =
       <div className="flex items-start justify-between gap-4">
         <div>
           <h1 className="text-xl font-bold text-gray-100">Constitución Española</h1>
-          <p className="text-gray-500 text-sm mt-0.5">{allQuestions.length.toLocaleString()} preguntas · 3 fuentes</p>
+          <p className="text-gray-500 text-sm mt-0.5">{allQuestions.length.toLocaleString()} preguntas · {numFuentes} {numFuentes === 1 ? 'fuente' : 'fuentes'}</p>
         </div>
         {totalCorrectPct !== null && (
           <div className="text-right shrink-0">

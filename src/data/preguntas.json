@@ -21040,5 +21040,1572 @@
       "Consejo Territorial de Servicios Sociales y del Sistema para la Autonomía y Atención a la Dependencia."
     ],
     "correcta": "Comunidades Autónomas."
+  },
+  {
+    "id": "ta4_t6_1",
+    "tema": "Tema 6",
+    "pregunta": "¿Qué institución de la Unión Europea representa a los ciudadanos de la Unión Europea y es elegida por ellos?",
+    "opciones": [
+      "El Parlamento Europeo",
+      "El Consejo Europeo",
+      "La Comisión Europea",
+      "Otro órgano europeo"
+    ],
+    "correcta": "El Parlamento Europeo",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t6_2",
+    "tema": "Tema 6",
+    "pregunta": "¿Cuál de las siguientes NO es una responsabilidad básica del Consejo de la Unión Europea?",
+    "opciones": [
+      "Concluir acuerdos internacionales entre la Unión Europea y países que no pertenecen a la misma.",
+      "Asumir la iniciativa legislativa.",
+      "Aprobar el presupuesto de la U.E., junto al Parlamento.",
+      "Coordinar las políticas económicas generales de los Estados miembros."
+    ],
+    "correcta": "Asumir la iniciativa legislativa.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t6_3",
+    "tema": "Tema 6",
+    "pregunta": "Respecto al funcionamiento de la Comisión Europea, ¿cuál de las siguientes afirmaciones refleja correctamente su papel en el sistema institucional de la Unión?",
+    "opciones": [
+      "La Comisión representa a los Estados miembros en los procedimientos legislativos del Consejo.",
+      "Su función principal es interpretar el Derecho comunitario como órgano jurisdiccional de última instancia.",
+      "Ejerce la iniciativa legislativa y vela por la aplicación del Derecho de la Unión.",
+      "Está compuesta exclusivamente por representantes electos por el Parlamento Europeo."
+    ],
+    "correcta": "Ejerce la iniciativa legislativa y vela por la aplicación del Derecho de la Unión.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t34_1",
+    "tema": "Tema 34",
+    "pregunta": "¿Qué tipo de prevención en atención primaria constituirían los Programas de Planificación Familiar?",
+    "opciones": [
+      "Prevención primaria.",
+      "Prevención secundaria.",
+      "Prevención terciaria.",
+      "Promoción de hábitos saludables."
+    ],
+    "correcta": "Prevención primaria.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t34_2",
+    "tema": "Tema 34",
+    "pregunta": "¿Qué tipo de prevención constituiría una campaña dirigida a la detección precoz de la infección por COVID-19?",
+    "opciones": [
+      "Prevención primaria.",
+      "Prevención secundaria.",
+      "Prevención terciaria.",
+      "Promoción de hábitos saludables."
+    ],
+    "correcta": "Prevención secundaria.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t34_3",
+    "tema": "Tema 34",
+    "pregunta": "Según el marco legislativo aplicable, la atención temprana en la Comunidad de Madrid se fundamenta en una serie de principios rectores. Indique cuál de las siguientes afirmaciones recoge correctamente estos principios:",
+    "opciones": [
+      "La se basa en la exclusividad de los servicios sanitarios y educativos, con una intervención centralizada en hospitales y centros educativos especializados.",
+      "Se establece bajo los principios de igualdad, intervención interdisciplinar y personalización de la atención, promoviendo la descentralización del servicio.",
+      "Se orienta exclusivamente a la atención de menores con diagnóstico de discapacidad reconocida, sin incluir a aquellos con riesgo de padecerla.",
+      "Se desarrolla como un servicio opcional de la administración, sin obligatoriedad de garantizarlo como un derecho para la infancia."
+    ],
+    "correcta": "Se establece bajo los principios de igualdad, intervención interdisciplinar y personalización de la atención, promoviendo la descentralización del servicio.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t34_4",
+    "tema": "Tema 34",
+    "pregunta": "La determinación de la necesidad de atención temprana en la Comunidad de Madrid se inicia mediante:",
+    "opciones": [
+      "La evaluación de los profesionales sanitarios y su remisión automática a los centros educativos correspondientes.",
+      "Un procedimiento administrativo a solicitud de los progenitores o representantes legales del menor.",
+      "Una valoración obligatoria para todos los menores al cumplir los tres años, sin necesidad de solicitud expresa de la familia.",
+      "La detección exclusiva de los servicios sociales, sin intervención de otros sectores profesionales."
+    ],
+    "correcta": "Un procedimiento administrativo a solicitud de los progenitores o representantes legales del menor.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t34_5",
+    "tema": "Tema 34",
+    "pregunta": "¿Cuál es el órgano encargado de coordinar, planificar y evaluar la actuación integral en materia de atención temprana dentro del ámbito de la Comunidad de Madrid?",
+    "opciones": [
+      "El Consejo Territorial de Atención a la Infancia.",
+      "El Pleno del Consejo de Servicios Sociales.",
+      "El Centro Regional de Coordinación y Valoración Infantil (CRECOVI).",
+      "La Comisión Interdisciplinar de Atención Temprana y Discapacidad."
+    ],
+    "correcta": "El Centro Regional de Coordinación y Valoración Infantil (CRECOVI).",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t34_6",
+    "tema": "Tema 34",
+    "pregunta": "De acuerdo con la normativa vigente, la prestación de servicios de atención temprana en la Comunidad de Madrid se considera:",
+    "opciones": [
+      "Un recurso público de carácter opcional y sujeto a disponibilidad presupuestaria.",
+      "Un derecho subjetivo de la infancia que debe garantizarse con estándares de calidad.",
+      "Un programa social dependiente de la voluntariedad de los organismos locales.",
+      "Un servicio exclusivo para menores con dependencia reconocida mediante dictamen previo."
+    ],
+    "correcta": "Un derecho subjetivo de la infancia que debe garantizarse con estándares de calidad.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t34_7",
+    "tema": "Tema 34",
+    "pregunta": "Indique cuál de las siguientes afirmaciones describe correctamente la organización de los niveles de intervención en la atención temprana:",
+    "opciones": [
+      "Se estructuran en tres niveles: prevención primaria, secundaria y terciaria, cada uno con funciones diferenciadas y coordinadas.",
+      "La intervención se desarrolla exclusivamente en el ámbito hospitalario y educativo, sin acciones de prevención en el entorno familiar.",
+      "Solo los niños con una discapacidad reconocida pueden acceder a los servicios de prevención secundaria y terciaria.",
+      "Se considera únicamente la prevención primaria, sin evaluación de los efectos de las intervenciones sobre los menores atendidos."
+    ],
+    "correcta": "Se estructuran en tres niveles: prevención primaria, secundaria y terciaria, cada uno con funciones diferenciadas y coordinadas.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t34_8",
+    "tema": "Tema 34",
+    "pregunta": "Los menores extranjeros en la Comunidad de Madrid tienen derecho a recibir atención temprana:",
+    "opciones": [
+      "Únicamente si sus progenitores poseen la nacionalidad española.",
+      "En igualdad de condiciones que los menores españoles, sin distinción en el acceso al servicio.",
+      "Solo si han residido en España durante al menos tres años y cuentan con documentación legalizada.",
+      "Exclusivamente en casos de discapacidad reconocida por la Seguridad Social."
+    ],
+    "correcta": "En igualdad de condiciones que los menores españoles, sin distinción en el acceso al servicio.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t34_9",
+    "tema": "Tema 34",
+    "pregunta": "Dentro del ámbito competencial, la Consejería de Sanidad es responsable de:",
+    "opciones": [
+      "Emitir informes sanitarios de derivación y realizar el diagnóstico de enfermedades vinculadas con el desarrollo infantil.",
+      "Gestionar íntegramente los programas de escolarización adaptada para menores con discapacidad.",
+      "Administrar la totalidad del sistema de atención temprana sin intervención de otros organismos.",
+      "Autorizar el acceso a la educación especial para niños en situación de dependencia severa."
+    ],
+    "correcta": "Emitir informes sanitarios de derivación y realizar el diagnóstico de enfermedades vinculadas con el desarrollo infantil.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t34_10",
+    "tema": "Tema 34",
+    "pregunta": "La intervención en el proceso de escolarización en atención temprana tiene como finalidad:",
+    "opciones": [
+      "Favorecer la incorporación progresiva del menor al entorno educativo mediante coordinación entre equipos especializados.",
+      "Garantizar la enseñanza obligatoria exclusivamente en centros de educación especial.",
+      "Retrasar la escolarización del menor hasta que se determine su situación de dependencia.",
+      "Limitar el acceso a recursos educativos solo a menores con discapacidad certificada."
+    ],
+    "correcta": "Favorecer la incorporación progresiva del menor al entorno educativo mediante coordinación entre equipos especializados.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t34_11",
+    "tema": "Tema 34",
+    "pregunta": "El procedimiento de valoración de la necesidad de atención temprana concluye mediante:",
+    "opciones": [
+      "Una resolución administrativa de la Dirección General competente en materia de discapacidad.",
+      "Un dictamen emitido por los profesionales sanitarios y educativos, sin intervención administrativa.",
+      "La asignación de un recurso educativo especializado de forma automática.",
+      "Un informe elaborado exclusivamente por la familia y remitido a la Consejería de Educación."
+    ],
+    "correcta": "Una resolución administrativa de la Dirección General competente en materia de discapacidad.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t34_12",
+    "tema": "Tema 34",
+    "pregunta": "Los criterios comunes en materia de atención temprana y rehabilitación son acordados por:",
+    "opciones": [
+      "El Comité Autonómico de Discapacidad y Dependencia.",
+      "El Consejo Territorial de Servicios Sociales y del Sistema para la Autonomía y Atención a la Dependencia.",
+      "La Asamblea Legislativa de la Comunidad de Madrid.",
+      "Los centros educativos de educación especial de cada municipio."
+    ],
+    "correcta": "El Consejo Territorial de Servicios Sociales y del Sistema para la Autonomía y Atención a la Dependencia.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t34_13",
+    "tema": "Tema 34",
+    "pregunta": "La Comisión Técnica de Atención Temprana tiene como una de sus funciones principales:",
+    "opciones": [
+      "Determinar la obligatoriedad de la escolarización especial en menores con trastornos severos.",
+      "Emitir resoluciones administrativas de asignación de servicios.",
+      "Elaborar el protocolo de coordinación en atención temprana.",
+      "Gestionar el acceso a plazas en centros de educación infantil."
+    ],
+    "correcta": "Elaborar el protocolo de coordinación en atención temprana.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t34_14",
+    "tema": "Tema 34",
+    "pregunta": "Dentro de los derechos fundamentales garantizados en la atención temprana se encuentra:",
+    "opciones": [
+      "La intervención solo en casos de emergencia médica justificada.",
+      "La escolarización obligatoria a partir de los seis años sin excepciones.",
+      "La atención exclusiva a menores con discapacidad reconocida oficialmente.",
+      "La detección y tratamiento precoz de deficiencias psíquicas y físicas de los menores."
+    ],
+    "correcta": "La detección y tratamiento precoz de deficiencias psíquicas y físicas de los menores.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t34_15",
+    "tema": "Tema 34",
+    "pregunta": "Uno de los objetivos específicos de la atención temprana es:",
+    "opciones": [
+      "Minimizar los efectos de un trastorno del desarrollo y favorecer la integración familiar y social.",
+      "Restringir la intervención profesional a centros de salud especializados.",
+      "Garantizar que solo los menores con diagnóstico médico oficial accedan a estos servicios.",
+      "Regular la escolarización especial como única vía educativa posible."
+    ],
+    "correcta": "Minimizar los efectos de un trastorno del desarrollo y favorecer la integración familiar y social.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t34_16",
+    "tema": "Tema 34",
+    "pregunta": "El plazo máximo para resolver y notificar el procedimiento de valoración de la necesidad de atención temprana es:",
+    "opciones": [
+      "Tres meses desde la entrada de la solicitud en el registro electrónico de la Comunidad de Madrid.",
+      "Seis meses desde la fecha de emisión del primer informe sanitario.",
+      "Un año desde la primera valoración del menor.",
+      "No existe un plazo determinado para la resolución de este procedimiento."
+    ],
+    "correcta": "Tres meses desde la entrada de la solicitud en el registro electrónico de la Comunidad de Madrid.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t34_17",
+    "tema": "Tema 34",
+    "pregunta": "La atención temprana comprende actuaciones como:",
+    "opciones": [
+      "Prevención, diagnóstico, atención interdisciplinar y apoyo a la familia.",
+      "Exclusivamente intervenciones sanitarias en hospitales públicos.",
+      "Un servicio de orientación dirigido solo a las familias, sin intervención con el menor.",
+      "La escolarización obligatoria sin adaptación curricular."
+    ],
+    "correcta": "Prevención, diagnóstico, atención interdisciplinar y apoyo a la familia.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t35_1",
+    "tema": "Tema 35",
+    "pregunta": "El Centro Regional de Coordinación y Valoración Infantil (CRECOVI) fue creado con la finalidad de organizar, coordinar y garantizar la atención temprana en la Comunidad de Madrid. ¿Cuál de las siguientes afirmaciones describe de forma más precisa su función dentro del proceso de valoración de la necesidad de atención temprana?",
+    "opciones": [
+      "Se encarga exclusivamente de realizar las valoraciones médicas de los menores de seis años para determinar su grado de discapacidad y su acceso a la atención temprana, sin intervenir en la coordinación interinstitucional.",
+      "Es el organismo responsable de tramitar y gestionar la valoración de la necesidad de atención temprana, coordinando a los diferentes profesionales y asegurando la organización de la atención integral en colaboración con las consejerías de sanidad, educación y servicios sociales.",
+      "Su labor principal se centra en la evaluación psicopedagógica de los menores derivados por los Equipos de Orientación Educativa y Psicopedagógica (EOEP) y en la determinación de su acceso a programas educativos específicos de refuerzo.",
+      "CRECOVI tiene funciones exclusivas de asesoramiento a las familias y profesionales, pero no interviene en la tramitación ni valoración administrativa de la necesidad de atención temprana."
+    ],
+    "correcta": "Es el organismo responsable de tramitar y gestionar la valoración de la necesidad de atención temprana, coordinando a los diferentes profesionales y asegurando la organización de la atención integral en colaboración con las consejerías de sanidad, educación y servicios sociales.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t35_2",
+    "tema": "Tema 35",
+    "pregunta": "En relación con la atención temprana, ¿qué afirmación define mejor el enfoque que debe adoptar el sistema de intervención en términos de su aplicación y desarrollo en distintos espacios y niveles?",
+    "opciones": [
+      "La atención temprana debe aplicarse exclusivamente en entornos educativos especializados, donde el personal docente actúe de manera unilateral en la toma de decisiones respecto al desarrollo del niño o la niña.",
+      "La atención temprana se debe desarrollar en un marco exclusivamente clínico-terapéutico, restringiendo la participación de la familia para garantizar la objetividad de la intervención.",
+      "La atención temprana se desarrolla en un marco sistémico, multidisciplinar y ubicuo, con la implicación de distintos profesionales, en diversos espacios y con un papel esencial del entorno familiar.",
+      "La atención temprana tiene un enfoque basado en la provisión de servicios asistenciales de carácter reactivo, sin necesidad de planificación ni coordinación interinstitucional."
+    ],
+    "correcta": "La atención temprana se desarrolla en un marco sistémico, multidisciplinar y ubicuo, con la implicación de distintos profesionales, en diversos espacios y con un papel esencial del entorno familiar.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t35_3",
+    "tema": "Tema 35",
+    "pregunta": "Según la conceptualización establecida en la normativa vigente, la Atención Temprana se define como un conjunto de actuaciones dirigidas a menores de seis años que presentan alteraciones o riesgos en su desarrollo. En relación con su application, ¿cuál de las siguientes afirmaciones refleja de manera más precisa su enfoque?",
+    "opciones": [
+      "Se trata de un conjunto de intervenciones focalizadas exclusivamente en el niño y sus patologías, diseñadas para corregir déficits específicos a través de terapias individuales.",
+      "Su principal objetivo es la intervención en el ámbito educativo, proporcionando herramientas a los docentes para la integración de niños con necesidades especiales en las aulas ordinarias.",
+      "Se concibe como una intervención global y coordinada que incluye a la familia y los entornos del niño, con un enfoque interdisciplinar y preventivo, garantizando una respuesta ágil e integral.",
+      "La Atención Temprana es una disciplina que tiene su origen exclusivamente en el ámbito sanitario y cuya finalidad es reducir la mortalidad infantil mediante la prevención de enfermedades congénitas."
+    ],
+    "correcta": "Se concibe como una intervención global y coordinada que incluye a la familia y los entornos del niño, con un enfoque interdisciplinar y preventivo, garantizando una respuesta ágil e integral.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t35_4",
+    "tema": "Tema 35",
+    "pregunta": "Determinar cuál de los siguientes principios generales de actuación en la atención temprana no se encuentra recogido expresamente en la Resolución de 28 de junio de 2023 del Consejo Territorial de Servicios Sociales y del Sistema para la Autonomía y Atención a la Dependencia:",
+    "opciones": [
+      "La accesibilidad universal, la equidad y la calidad del servicio.",
+      "La especialización profesional y el trabajo en equipos interdisciplinares o transdisciplinares.",
+      "La provisión exclusiva de servicios de atención especializada en centros hospitalarios, sin participación de la comunidad.",
+      "La participación y escucha del niño o la niña en la toma de decisiones que le afecten."
+    ],
+    "correcta": "La provisión exclusiva de servicios de atención especializada en centros hospitalarios, sin participación de la comunidad.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t35_5",
+    "tema": "Tema 35",
+    "pregunta": "La evolución histórica de la Atención Temprana en España ha estado marcada por diversas etapas y transformaciones. En este sentido, ¿cuál de las siguientes afirmaciones es correcta en relación con sus antecedentes y desarrollo?",
+    "opciones": [
+      "No existen registros de medidas institucionales previas al siglo XXI, ya que la Atención Temprana se desarrolla de manera exclusiva a partir de la publicación del Libro Blanco en el año 2000.",
+      "Su origen se encuentra en la década de los 70, con un modelo inicial de carácter asistencial y rehabilitador, evolucionando posteriormente hacia una intervención de tipo preventivo e interdisciplinar.",
+      "La primera vez que se integró la Atención Temprana en el ámbito educativo fue con la creación de los Centros Base en los años 80, estableciendo un sistema educativo paralelo exclusivo para niños con alteraciones en su desarrollo.",
+      "La Atención Temprana se consolidó como un derecho fundamental en España con la Ley Orgánica 1/1990, de Ordenación General del Sistema Educativo (LOGSE), en la que se recogía por primera vez la existencia de necesidades educativas especiales."
+    ],
+    "correcta": "Su origen se encuentra en la década de los 70, con un modelo inicial de carácter asistencial y rehabilitador, evolucionando posteriormente hacia una intervención de tipo preventivo e interdisciplinar.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t35_6",
+    "tema": "Tema 35",
+    "pregunta": "Uno de los aspectos fundamentales en el procedimiento de derivación para la valoración de la necesidad de atención temprana es la intervención de distintos profesionales. Señale en qué casos NO procede la derivación al CRECOVI:",
+    "opciones": [
+      "Cuando un niño de 3 años con retraso del lenguaje está en seguimiento por un pediatra de Atención Primaria, pero su evolución sugiere la necesidad de intervención especializada complementaria a la recibida en el sistema sanitario.",
+      "Cuando un niño de 4 años escolarizado en un centro de educación especial presenta necesidades adicionales que pudieran beneficiarse de la red de atención temprana de la Comunidad de Madrid.",
+      "Cuando un niño de 2 años, sin diagnóstico establecido, presenta signos de retraso en el desarrollo psicomotor y su pediatra considera que requiere una evaluación especializada.",
+      "Cuando un niño de 5 años, sin tratamiento en el sistema público sanitario, es detectado en su centro escolar con dificultades de desarrollo y el orientador del EOEP considera que puede beneficiarse de atención temprana."
+    ],
+    "correcta": "Cuando un niño de 4 años escolarizado en un centro de educación especial presenta necesidades adicionales que pudieran beneficiarse de la red de atención temprana de la Comunidad de Madrid.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t35_7",
+    "tema": "Tema 35",
+    "pregunta": "En relación con los procedimientos administrativos del CRECOVI, se establece un plazo máximo para la resolución y notificación de la valoración de la necesidad de atención temprana. ¿Cuál es dicho plazo?",
+    "opciones": [
+      "Un mes a partir de la fecha de entrada de la solicitud en el registro.",
+      "Dos meses desde la fecha en que la familia presenta toda la documentación requerida.",
+      "Tres meses desde la fecha en que la solicitud haya tenido entrada en el registro electrónico de la Comunidad de Madrid.",
+      "Seis meses desde la primera valoración presencial realizada en el CRECOVI."
+    ],
+    "correcta": "Tres meses desde la fecha en que la solicitud haya tenido entrada en el registro electrónico de la Comunidad de Madrid.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t35_8",
+    "tema": "Tema 35",
+    "pregunta": "Indique cuál de los siguientes modelos teóricos no se encuentra entre los que fundamentan la intervención en Atención Temprana:",
+    "opciones": [
+      "Modelo clínico-rehabilitador, centrado en la intervención terapéutica y en la recuperación de funciones alteradas a través de técnicas médicas especializadas.",
+      "Modelo transaccional, basado en la interacción entre el niño y su entorno, priorizando la dinámica de relaciones dentro de la familia como factor determinante del desarrollo.",
+      "Modelo psicoanalítico, que establece la resolución de los conflictos internos del niño como principal herramienta para la mejora del desarrollo en la primera infancia.",
+      "Modelo ecológico, que enfatiza la evaluación del niño en su contexto natural y la necesidad de que las intervenciones se realicen dentro de sus entornos habituales."
+    ],
+    "correcta": "Modelo psicoanalítico, que establece la resolución de los conflictos internos del niño como principal herramienta para la mejora del desarrollo en la primera infancia.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t35_9",
+    "tema": "Tema 35",
+    "pregunta": "La identificación temprana y la valoración funcional de las necesidades del niño o la niña constituyen una fase esencial dentro del proceso de atención temprana. ¿Cuál de las siguientes afirmaciones es la más precisa en relación con esta fase?",
+    "opciones": [
+      "La detección de alteraciones en el desarrollo debe realizarse únicamente a partir de pruebas médicas, sin considerar el contexto social o educativo.",
+      "La evaluación multidisciplinaria permite establecer un diagnóstico preciso y fundamentar la planificación de la intervención individualizada.",
+      "El proceso de valoración funcional debe realizarse de manera independiente por cada sector (sanitario, educativo o social), sin necesidad de coordinación entre ellos.",
+      "La identificación de necesidades debe centrarse exclusivamente en la existencia de patologías médicas, sin considerar los factores ambientales que puedan influir en el desarrollo infantil."
+    ],
+    "correcta": "La evaluación multidisciplinaria permite establecer un diagnóstico preciso y fundamentar la planificación de la intervención individualizada.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t35_10",
+    "tema": "Tema 35",
+    "pregunta": "El Grupo de Atención Temprana (GAT) ha desempeñado un papel clave en la estructuración del sistema de intervención. ¿Cuál de las siguientes opciones representa uno de sus aportes fundamentales?",
+    "opciones": [
+      "La publicación del Libro Blanco de la Atención Temprana en el año 2000, estableciendo un modelo biopsicosocial como marco de referencia para la intervención.",
+      "La promulgación de la Ley de Autonomía Personal y Atención a la Dependencia en 2006, garantizando la gratuidad universal de la Atención Temprana en todas las comunidades autónomas.",
+      "La creación del Real Patronato sobre Discapacidad en 1987, organismo encargado de coordinar los centros de desarrollo infantil en todo el territorio nacional.",
+      "La elaboración de la Guía de Estándares de Calidad en Atención Temprana en 1996, documento que estableció por primera vez los principios de interdisciplinariedad y equidad en la prestación de servicios."
+    ],
+    "correcta": "La publicación del Libro Blanco de la Atención Temprana en el año 2000, estableciendo un modelo biopsicosocial como marco de referencia para la intervención.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t35_11",
+    "tema": "Tema 35",
+    "pregunta": "Explicar cuál es el propósito fundamental de la intervención combinada de instituciones y agentes dentro del modelo de atención temprana:",
+    "opciones": [
+      "Garantizar que los recursos sean utilizados únicamente por profesionales sanitarios, sin necesidad de colaboración con otros sectores.",
+      "Fortalecer el protagonismo del usuario del sistema, estableciendo una acción interinstitucional que ceda poder a las familias y garantice una intervención coordinada.",
+      "Centralizar todos los servicios en un único punto de atención para reducir costes administrativos, sin considerar la diversidad de necesidades de cada niño o niña.",
+      "Desarrollar un modelo de atención temprana sin intervención de los servicios sociales, ya que su participación puede generar duplicidad en los esfuerzos asistenciales."
+    ],
+    "correcta": "Fortalecer el protagonismo del usuario del sistema, estableciendo una acción interinstitucional que ceda poder a las familias y garantice una intervención coordinada.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t35_12",
+    "tema": "Tema 35",
+    "pregunta": "La Comisión de Valoración del CRECOVI emite dictámenes sobre la necesidad de atención temprana. ¿Cuál de las siguientes situaciones NO puede ser resultado de este dictamen?",
+    "opciones": [
+      "Dictamen estimatorio con indicación de recomendación de tratamientos específicos.",
+      "Dictamen estimatorio con indicación de la necesidad de apoyo y seguimiento.",
+      "Dictamen condicionado a la evolución médica futura del menor, sin resolución inmediata.",
+      "Dictamen desestimatorio indicando la no procedencia de atención temprana en el momento actual."
+    ],
+    "correcta": "Dictamen condicionado a la evolución médica futura del menor, sin resolución inmediata.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t35_13",
+    "tema": "Tema 35",
+    "pregunta": "¿Qué factor es imprescindible dentro del diseño e implementación de un plan de intervención individualizado en atención temprana?",
+    "opciones": [
+      "La incorporación de evidencias científicas en la elección de estrategias y metodologías de intervención.",
+      "La aplicación de un modelo rígido y estandarizado, sin posibilidad de adaptaciones a las necesidades específicas de cada niño o niña.",
+      "La priorización de intervenciones de carácter exclusivamente sanitario, sin considerar el entorno educativo ni social.",
+      "La limitación del acceso de la familia a la toma de decisiones, para evitar sesgos en la implementación del programa."
+    ],
+    "correcta": "La incorporación de evidencias científicas en la elección de estrategias y metodologías de intervención.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t35_14",
+    "tema": "Tema 35",
+    "pregunta": "En la Comunidad de Madrid, los procedimientos de derivación al CRECOVI desde el ámbito sanitario pueden ser iniciados por distintos profesionales. ¿Qué criterio se sigue para determinar qué profesional debe emitir el informe de derivación cuando un menor está en seguimiento en atención especializada?",
+    "opciones": [
+      "Siempre debe emitirlo el pediatra de Atención Primaria, independientemente del seguimiento en atención especializada.",
+      "La derivación debe realizarse por el médico especialista que lleva el seguimiento del menor, salvo que el pediatra disponga de los informes necesarios para justificar la derivación.",
+      "Solo los neurólogos o psiquiatras pueden emitir el informe de derivación en el caso de menores con sospecha de alteraciones del neurodesarrollo.",
+      "El trabajador social del centro sanitario puede emitir el informe de derivación si detecta una situación de vulnerabilidad social en la familia."
+    ],
+    "correcta": "La derivación debe realizarse por el médico especialista que lleva el seguimiento del menor, salvo que el pediatra disponga de los informes necesarios para justificar la derivación.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t35_15",
+    "tema": "Tema 35",
+    "pregunta": "La prevención primaria en Atención Temprana tiene el objetivo de evitar la aparición de trastornos en el desarrollo mediante medidas universales dirigidas a toda la población. Dentro de este nivel de intervención, ¿qué actuación se considera prioritaria?",
+    "opciones": [
+      "La detección y el diagnóstico precoz de posibles alteraciones en el desarrollo infantil.",
+      "La implantación de programas de seguimiento a neonatos con factores de riesgo biológico.",
+      "La promoción de políticas públicas que fomenten el bienestar infantil y familiar, como el permiso de maternidad o las ayudas para la crianza.",
+      "La aplicación de tratamientos terapéuticos específicos a niños con alteraciones en su desarrollo."
+    ],
+    "correcta": "La promoción de políticas públicas que fomenten el bienestar infantil y familiar, como el permiso de maternidad o las ayudas para la crianza.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t35_16",
+    "tema": "Tema 35",
+    "pregunta": "En Atención Temprana, los Centros de Desarrollo Infantil y Atención Temprana (CDIAT) desempeñan una función clave. ¿Cuál de las siguientes no es una de sus funciones principales?",
+    "opciones": [
+      "La evaluación del desarrollo infantil y la elaboración de planes de intervención individualizados.",
+      "La coordinación interprofesional para garantizar una atención integral y continuada.",
+      "La integración de niños con trastornos del desarrollo en centros educativos específicos mediante escolarización directa.",
+      "La orientación y apoyo a las familias en relación con el desarrollo de sus hijos."
+    ],
+    "correcta": "La integración de niños con trastornos del desarrollo en centros educativos específicos mediante escolarización directa.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t35_17",
+    "tema": "Tema 35",
+    "pregunta": "En el contexto de la normativa reguladora de la atención temprana en la Comunidad de Madrid, el Decreto 46/2015, de 7 de mayo, establece un protocolo de coordinación de atención temprana. ¿Cuál de las siguientes afirmaciones describe su finalidad principal?",
+    "opciones": [
+      "Regular la asignación de recursos económicos a las familias que requieran tratamientos de atención temprana en centros privados.",
+      "Garantizar la integración de los menores con discapacidad en la educación obligatoria mediante un plan de intervención especializado.",
+      "Favorecer el intercambio de información y la derivación dentro del sistema entre los ámbitos sanitario, educativo y de servicios sociales.",
+      "Establecer criterios uniformes para la determinación de la discapacidad en menores de 0 a 6 años."
+    ],
+    "correcta": "Favorecer el intercambio de información y la derivación dentro del sistema entre los ámbitos sanitario, educativo y de servicios sociales.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t35_18",
+    "tema": "Tema 35",
+    "pregunta": "Entre las funciones del psicólogo en el ámbito de la atención temprana, se encuentra la siguiente:",
+    "opciones": [
+      "Elaborar informes técnicos exclusivamente a solicitud de los equipos médicos, sin realizar valoración funcional.",
+      "Proporcionar apoyo exclusivamente a los cuidadores, sin intervenir directamente con el niño o la niña.",
+      "Limitar su actuación a la fase de diagnóstico sin participar en la intervención ni en la evaluación de los resultados.",
+      "Coordinar la implementación de planes de intervención biopsicosocial en grupos de riesgo y proponer actuaciones de accesibilidad y adaptación en el entorno."
+    ],
+    "correcta": "Coordinar la implementación de planes de intervención biopsicosocial en grupos de riesgo y proponer actuaciones de accesibilidad y adaptación en el entorno.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t35_19",
+    "tema": "Tema 35",
+    "pregunta": "¿Qué profesionales forman parte de los Equipos Interdisciplinares de Valoración Infantil en el CRECOVI?",
+    "opciones": [
+      "Médico, psicólogo y trabajador social.",
+      "Pediatra, logopeda y terapeuta ocupacional.",
+      "Neurólogo, psiquiatra y orientador educativo.",
+      "Enfermero, pedagogo y asistente social."
+    ],
+    "correcta": "Médico, psicólogo y trabajador social.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t35_20",
+    "tema": "Tema 35",
+    "pregunta": "Determinar cuál de los siguientes ámbitos de actuación no se encuentra entre los ejes fundamentales de la atención temprana según el documento analizado:",
+    "opciones": [
+      "Ámbito sanitario.",
+      "Ámbito económico-financiero.",
+      "Ámbito educativo.",
+      "Ámbito de los servicios sociales."
+    ],
+    "correcta": "Ámbito económico-financiero.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t35_21",
+    "tema": "Tema 35",
+    "pregunta": "La Ley de Integración Social de los Minusválidos (LISMI) de 1982 marcó un hito en la atención a la infancia con trastornos del desarrollo. ¿Cuál de las siguientes afirmaciones no corresponde con su impacto en la Atención Temprana?",
+    "opciones": [
+      "La inclusión de unidades de estimulación precoz en los Centros Base para ofrecer apoyo especializado.",
+      "La creación del concepto de \"necesidades educativas especiales\" como marco de referencia para la intervención temprana.",
+      "La consolidación de la Atención Temprana dentro del sistema de salud pública como un derecho garantizado.",
+      "La promoción de medidas para favorecer la integración de niños con discapacidad en el ámbito educativo."
+    ],
+    "correcta": "La creación del concepto de \"necesidades educativas especiales\" como marco de referencia para la intervención temprana.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t35_22",
+    "tema": "Tema 35",
+    "pregunta": "El reconocimiento del grado de discapacidad de los menores de 0 a 6 años en la Comunidad de Madrid sigue criterios técnicos basados en un baremo de carácter nacional. ¿Cuál de las siguientes afirmaciones es correcta respecto a este proceso?",
+    "opciones": [
+      "La valoración del grado de discapacidad puede realizarse sin solicitud previa por parte de los padres si así lo recomienda un profesional sanitario o educativo.",
+      "La evaluación del grado de discapacidad incluye tanto las limitaciones funcionales como los factores sociales complementarios que puedan actuar como barreras.",
+      "El reconocimiento del grado de discapacidad es competencia exclusiva del CRECOVI sin intervención de la Dirección General de Atención a Personas con Discapacidad.",
+      "Una vez obtenido el reconocimiento del grado de discapacidad, no es posible solicitar su revisión o actualización."
+    ],
+    "correcta": "La evaluación del grado de discapacidad incluye tanto las limitaciones funcionales como los factores sociales complementarios que puedan actuar como barreras.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t35_23",
+    "tema": "Tema 35",
+    "pregunta": "En relación con los modelos de intervención en Atención Temprana, ¿cuál de los siguientes enfoques tiene un carácter eminentemente preventivo y basado en la adaptación del entorno del niño?",
+    "opciones": [
+      "Modelo clínico-rehabilitador.",
+      "Modelo ecológico.",
+      "Modelo conductual.",
+      "Modelo biomédico."
+    ],
+    "correcta": "Modelo ecológico.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t35_24",
+    "tema": "Tema 35",
+    "pregunta": "Explicar en qué consiste el enfoque de atención centrado en la familia dentro del modelo de atención temprana:",
+    "opciones": [
+      "La intervención se centra exclusivamente en las necesidades del niño o la niña, sin considerar el contexto familiar ni su impacto en el desarrollo.",
+      "Se promueve la participación activa de la familia en el proceso de intervención, brindando orientación y recursos para el acompañamiento del desarrollo infantil.",
+      "Se fomenta que las familias deleguen completamente la atención del menor en los profesionales, sin involucrarse en la toma de decisiones.",
+      "Se establecen criterios de intervención que excluyen a los cuidadores principales del proceso de diagnóstico y tratamiento."
+    ],
+    "correcta": "Se promueve la participación activa de la familia en el proceso de intervención, brindando orientación y recursos para el acompañamiento del desarrollo infantil.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t35_25",
+    "tema": "Tema 35",
+    "pregunta": "¿Cuál de las siguientes afirmaciones es correcta en relación con la atención temprana y los derechos reconocidos en la Convención de las Naciones Unidas sobre los Derechos del Niño?",
+    "opciones": [
+      "La atención temprana debe garantizar el derecho a la vida, a la supervivencia y al desarrollo de los niños y niñas.",
+      "La Convención establece que la atención temprana es un derecho exclusivo de los niños con discapacidad.",
+      "La atención temprana se limita a la provisión de servicios de salud, sin incluir componentes educativos o de participación comunitaria.",
+      "Los Estados no tienen responsabilidad en garantizar el acceso a la atención temprana, ya que es un servicio de carácter privado."
+    ],
+    "correcta": "La atención temprana debe garantizar el derecho a la vida, a la supervivencia y al desarrollo de los niños y niñas.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t35_26",
+    "tema": "Tema 35",
+    "pregunta": "Dentro de los factores de riesgo considerados en Atención Temprana, se distingue el riesgo psicosocial. ¿Cuál de las siguientes situaciones es un ejemplo de este tipo de riesgo?",
+    "opciones": [
+      "Un niño que nace con bajo peso debido a una gestación complicada.",
+      "Un niño que vive en un entorno con falta de interacciones adecuadas, negligencia o maltrato.",
+      "Un niño que presenta retrasos motores debido a una alteración neurológica congénita.",
+      "Un niño prematuro que requiere hospitalización prolongada tras el nacimiento."
+    ],
+    "correcta": "Un niño que vive en un entorno con falta de interacciones adecuadas, negligencia o maltrato.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t35_27",
+    "tema": "Tema 35",
+    "pregunta": "En el proceso de derivación de un menor de 0 a 3 años para la valoración de su grado de dependencia, se establece la necesidad de coordinación entre distintos organismos. ¿Cuál de las siguientes afirmaciones refleja esta coordinación?",
+    "opciones": [
+      "La Dirección General de Atención a la Dependencia y al Mayor coordina la valoración con la Dirección General de Atención a Personas con Discapacidad para que ambas puedan realizarse en el mismo día en el CRECOVI.",
+      "La valoración del grado de dependencia debe realizarse antes de la valoración de la necesidad de atención temprana, sin posibilidad de coordinación entre ambas.",
+      "Solo la familia del menor puede solicitar la valoración de la dependencia, sin intervención de profesionales sanitarios o educativos.",
+      "La valoración de la situación de dependencia solo se realiza en los centros de atención primaria."
+    ],
+    "correcta": "La Dirección General de Atención a la Dependencia y al Mayor coordina la valoración con la Dirección General de Atención a Personas con Discapacidad para que ambas puedan realizarse en el mismo día en el CRECOVI.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t35_28",
+    "tema": "Tema 35",
+    "pregunta": "¿Qué establece el artículo 7 de la Convención Internacional sobre los Derechos de las Personas con Discapacidad respecto a la infancia?",
+    "opciones": [
+      "Se reconoce el derecho a la educación inclusiva, pero sin garantizar la participación de los niños en la toma de decisiones sobre su desarrollo.",
+      "Garantiza que los niños y niñas con discapacidad gocen plenamente de sus derechos en igualdad de condiciones con los demás.",
+      "Se limita el acceso de los niños con discapacidad a los servicios de atención temprana, priorizando a la población sin riesgo de exclusión social.",
+      "No establece ninguna mención específica sobre la infancia dentro de su articulado."
+    ],
+    "correcta": "Garantiza que los niños y niñas con discapacidad gocen plenamente de sus derechos en igualdad de condiciones con los demás.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t35_29",
+    "tema": "Tema 35",
+    "pregunta": "El acceso a la red pública de atención temprana de la Comunidad de Madrid está sujeto a un proceso de adjudicación de plazas basado en criterios de priorización. ¿Qué entidad se encarga de establecer el orden de prelación de los niños valorados?",
+    "opciones": [
+      "La Comisión Técnica de Atención Temprana del CRECOVI.",
+      "La Unidad de Valoración del CRECOVI.",
+      "El Área de Coordinación de Atención Temprana.",
+      "La Dirección General de Atención a Personas con Discapacidad."
+    ],
+    "correcta": "El Área de Coordinación de Atención Temprana.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t35_30",
+    "tema": "Tema 35",
+    "pregunta": "La interdisciplinariedad es un principio básico de la Atención Temprana. ¿Qué aspect NO se relaciona con este enfoque?",
+    "opciones": [
+      "La colaboración entre profesionales de diferentes áreas para proporcionar una intervención integral.",
+      "La evaluación del desarrollo infantil desde una perspectiva única y centrada en un solo especialista.",
+      "La inclusión de la familia en el proceso de intervención como parte del equipo de trabajo.",
+      "La coordinación entre los ámbitos educativo, sanitario y social para garantizar una atención eficaz."
+    ],
+    "correcta": "La evaluación del desarrollo infantil desde una perspectiva única y centrada en un solo especialista.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t35_31",
+    "tema": "Tema 35",
+    "pregunta": "¿Cuál de los siguientes hitos históricos no está relacionado con la evolución de la Atención Temprana en España?",
+    "opciones": [
+      "La publicación del Libro Blanco de la Atención Temprana del año 2000.",
+      "La promulgación de la Ley de Integración Social de los Minusválidos (LISMI) en 1982.",
+      "La creación del Instituto de Neurociencia Aplicada en 1995, organismo clave en la promoción de la Atención Temprana en España.",
+      "La incorporación de la Atención Temprana a la cartera de servicios del Sistema Nacional de Salud en 2008."
+    ],
+    "correcta": "La creación del Instituto de Neurociencia Aplicada en 1995, organismo clave en la promoción de la Atención Temprana en España.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t35_32",
+    "tema": "Tema 35",
+    "pregunta": "Dentro del procedimiento de valoración de la necesidad de atención temprana, se menciona la posibilidad de realizar una valoración temporal en ciertos casos. ¿En qué circunstancias puede aplicarse esta medida excepcional?",
+    "opciones": [
+      "Cuando la familia del menor no presenta la documentación completa dentro del plazo establecido, pero el pediatra de Atención Primaria certifica la necesidad urgente de intervención.",
+      "En situaciones en las que, por circunstancias excepcionales del menor, los profesionales del equipo multidisciplinar consideren viable realizar una valoración con los informes disponibles.",
+      "Cuando la solicitud de valoración de la necesidad de atención temprana ha sido presentada fuera del plazo establecido en el Decreto 46/2015, de 7 de mayo.",
+      "Si el menor ya ha recibido una valoración anterior y está a la espera de una revisión programada dentro del plazo de validez de su dictamen."
+    ],
+    "correcta": "En situaciones en las que, por circunstancias excepcionales del menor, los profesionales del equipo multidisciplinar consideren viable realizar una valoración con los informes disponibles.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t35_33",
+    "tema": "Tema 35",
+    "pregunta": "Determinar qué establece la Estrategia de la UE sobre los Derechos del Niño en relación con la exclusión social infantil:",
+    "opciones": [
+      "Se centra exclusivamente en medidas económicas sin considerar la participación comunitaria.",
+      "Propone acciones dirigidas a romper el ciclo de pobreza infantil garantizando el acceso a servicios esenciales.",
+      "Establece que solo los Estados miembros con recursos suficientes deben implementar medidas de inclusión.",
+      "Limita las estrategias de intervención a contextos educativos, sin una visión integral del desarrollo infantil."
+    ],
+    "correcta": "Propone acciones dirigidas a romper el ciclo de pobreza infantil garantizando el acceso a servicios esenciales.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t35_34",
+    "tema": "Tema 35",
+    "pregunta": "¿Cuál de las siguientes afirmaciones describe de manera correcta el proceso de revisión de la necesidad de atención temprana en la Comunidad de Madrid?",
+    "opciones": [
+      "La revisión se realiza obligatoriamente cada seis meses para todos los menores valorados, independientemente de la evolución de su desarrollo.",
+      "Solo pueden solicitar la revisión los profesionales sanitarios o educativos que realizaron la derivación inicial del menor al CRECOVI.",
+      "La necesidad de atención temprana podrá ser objeto de revisión cuando finalice el plazo de validez del dictamen o si se producen cambios sustanciales en la situación del menor.",
+      "La familia del menor debe solicitar siempre una nueva derivación a través de un profesional sanitario o educativo para poder acceder a la revisión de la valoración."
+    ],
+    "correcta": "La necesidad de atención temprana podrá ser objeto de revisión cuando finalice el plazo de validez del dictamen o si se producen cambios sustanciales en la situación del menor.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t35_35",
+    "tema": "Tema 35",
+    "pregunta": "En el marco de la Atención Temprana, los Servicios de Salud Mental Infantil tienen un papel fundamental en la detección e intervención temprana de alteraciones en el desarrollo psíquico y emocional del niño. ¿Cuál de las siguientes funciones es la más representativa dentro de su ámbito de actuación?",
+    "opciones": [
+      "La implementación de programas de estimulación motriz dirigidos a la adquisición de habilidades psicomotoras en la primera infancia.",
+      "La detección y evaluación de psicopatologías tempranas, como el autismo, la psicosis infantil o las disarmonías evolutivas, estableciendo planes de intervención terapéutica adecuados a cada caso.",
+      "La organización y gestión de programas de escolarización en centros de educación especial para niños con trastornos del desarrollo severos.",
+      "La administración de tratamientos farmacológicos sin necesidad de evaluación interdisciplinar en niños con posibles signos de alteraciones conductuales."
+    ],
+    "correcta": "La detección y evaluación de psicopatologías tempranas, como el autismo, la psicosis infantil o las disarmonías evolutivas, estableciendo planes de intervención terapéutica adecuados a cada caso.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t35_36",
+    "tema": "Tema 35",
+    "pregunta": "Según la normativa española, ¿qué real decreto regula las prestaciones del Sistema para la Autonomía y Atención a la Dependencia en relación con la atención temprana?",
+    "opciones": [
+      "Real Decreto 1051/2013, de 27 de diciembre, sin modificaciones posteriores.",
+      "Real Decreto 1373/2007, de 19 de octubre.",
+      "Ley Orgánica 8/2021, de protección integral a la infancia y la adolescencia.",
+      "Real Decreto 291/2015, de 17 de abril."
+    ],
+    "correcta": "Real Decreto 291/2015, de 17 de abril.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t35_37",
+    "tema": "Tema 35",
+    "pregunta": "La Ley de Autonomía Personal y Atención a la Dependencia de 2006 estableció un marco regulador para la provisión de servicios de apoyo a personas en situación de dependencia. En relación con la Atención Temprana, esta ley incorporó:",
+    "opciones": [
+      "La gratuidad universal de todos los programas de Atención Temprana en el sistema sanitario y educativo español.",
+      "La creación del Instituto de Atención Temprana y Apoyo a la Infancia, como organismo estatal encargado de coordinar todas las actuaciones en esta materia.",
+      "La obligación de las comunidades autónomas de proporcionar plazas de escolarización especializada a todos los niños con alteraciones en el desarrollo, sin excepciones.",
+      "La prestación de servicios de apoyo a menores con discapacidad en situación de dependencia, estableciendo mecanismos para garantizar su acceso a la intervención temprana."
+    ],
+    "correcta": "La prestación de servicios de apoyo a menores con discapacidad en situación de dependencia, estableciendo mecanismos para garantizar su acceso a la intervención temprana.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t35_38",
+    "tema": "Tema 35",
+    "pregunta": "¿Cuál de los siguientes organismos tiene competencias en la coordinación y gestión de los servicios de Atención Temprana en España, especialmente a través de sus Centros Base?",
+    "opciones": [
+      "Consejo Escolar del Estado.",
+      "Ministerio de Educación, Cultura y Deporte.",
+      "Instituto de Mayores y Servicios Sociales (IMSERSO).",
+      "Real Patronato sobre Discapacidad."
+    ],
+    "correcta": "Instituto de Mayores y Servicios Sociales (IMSERSO).",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t35_39",
+    "tema": "Tema 35",
+    "pregunta": "En el contexto de la Atención Temprana, ¿cuál de los siguientes recursos NO forma parte de los servicios diseñados para la detección e intervención en trastornos del desarrollo infantil?",
+    "opciones": [
+      "Equipos de Atención Temprana (EAT), especializados en la identificación y evaluación de necesidades educativas especiales en la primera infancia.",
+      "Unidades de seguimiento madurativo, encargadas de la detección temprana de déficits en neonatos con factores de riesgo biológico.",
+      "Programas de intervención en entornos naturales, que incluyen la participación de la familia y la comunidad en el proceso de estimulación temprana.",
+      "Centros de Educación Primaria, encargados de proporcionar intervención especializada en Atención Temprana a niños con necesidades educativas especiales."
+    ],
+    "correcta": "Centros de Educación Primaria, encargados de proporcionar intervención especializada en Atención Temprana a niños con necesidades educativas especiales.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t36_1",
+    "tema": "Tema 36",
+    "pregunta": "En relación con los requisitos para ser beneficiario de una plaza pública de atención temprana en la Comunidad de Madrid, señale la opción que se ajusta a lo dispuesto en la normativa:",
+    "opciones": [
+      "Es necesario haber solicitado la revisión del dictamen de necesidad de atención temprana antes del vencimiento de su vigencia y que dicho dictamen esté aprobado por la Consejería de Sanidad.",
+      "Podrán optar a la plaza aquellos menores de 0 a 6 años con trastornos del desarrollo, incluso si ya se encuentran escolarizados en Educación Primaria, siempre que el centro educativo lo autorice.",
+      "Uno de los requisitos incluye no estar escolarizado en un centro de educación especial ni estar recibiendo el mismo tratamiento en otros servicios similares, sean públicos o privados.",
+      "El único requisito indispensable es la residencia en la Comunidad de Madrid, con independencia de la edad del menor o del dictamen del CRECOVI."
+    ],
+    "correcta": "Uno de los requisitos incluye no estar escolarizado en un centro de educación especial ni estar recibiendo el mismo tratamiento en otros servicios similares, sean públicos o privados.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t36_2",
+    "tema": "Tema 36",
+    "pregunta": "La red pública de atención temprana articula un procedimiento de adjudicación de plazas que incluye, entre otros elementos:",
+    "opciones": [
+      "Baremo de priorización elaborado por los Equipos de Orientación Educativa y Psicopedagógica.",
+      "Evaluación cualitativa del riesgo social por parte del Área de Coordinación Educativa.",
+      "Asignación de puntos conforme a criterios como la gravedad del menor, el riesgo social, la edad y la impresión pronóstica.",
+      "Aplicación de criterios exclusivamente sanitarios basados en la derivación médica para establecer el orden de adjudicación."
+    ],
+    "correcta": "Asignación de puntos conforme a criterios como la gravedad del menor, el riesgo social, la edad y la impresión pronóstica.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t36_3",
+    "tema": "Tema 36",
+    "pregunta": "El servicio de atención temprana de la Comunidad de Madrid incluye, como modalidad específica de plaza, la intervención directa con menor y familia de frecuencia reducida",
+    "opciones": [
+      "cuando se prescriba por parte del equipo sanitario del Servicio Madrileño de Salud, previa valoración conjunta con el CRECOVI.",
+      "para menores con diagnóstico ya estabilizado, pero que requieren observación periódica en el entorno familiar.",
+      "en los casos que se encuentren en fase de retirada progresiva del tratamiento o en situación de riesgo, denominándose plaza de apoyo y seguimiento.",
+      "como opción obligatoria en todos los casos que superen los seis meses de intervención ininterrumpida, con independencia de la situación del menor."
+    ],
+    "correcta": "en los casos que se encuentren en fase de retirada progresiva del tratamiento o en situación de riesgo, denominándose plaza de apoyo y seguimiento.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t36_4",
+    "tema": "Tema 36",
+    "pregunta": "Los equipos técnicos de los Centros de Atención Temprana deben realizar dos valoraciones de seguimiento anuales con el objetivo de:",
+    "opciones": [
+      "establecer nuevos objetivos diagnósticos que sustituyan los tratamientos en curso si estos no han sido eficaces.",
+      "evaluar globalmente la evolución del niño y realizar las adaptaciones pertinentes en los tratamientos.",
+      "determinar el cumplimiento del régimen de sesiones establecido en el Decreto 46/2015, sin posibilidad de modificación.",
+      "revisar exclusivamente los aspectos relacionados con el desarrollo motor, dejando de lado la evolución conductual."
+    ],
+    "correcta": "evaluar globalmente la evolución del niño y realizar las adaptaciones pertinentes en los tratamientos.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t36_5",
+    "tema": "Tema 36",
+    "pregunta": "La atención terapéutica que se presta en los Centros Base de la Comunidad de Madrid excluye expresamente",
+    "opciones": [
+      "la fisioterapia en casos de patología neuromuscular por ser competencia del Servicio Madrileño de Salud.",
+      "la atención psicomotriz en menores con trastornos del desarrollo grave.",
+      "la psicoterapia infantil, que sólo se proporciona en Centros de Atención Temprana concertados.",
+      "el apoyo logopédico en menores con dislalias o dificultades de articulación."
+    ],
+    "correcta": "el apoyo logopédico en menores con dislalias o dificultades de articulación.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t36_6",
+    "tema": "Tema 36",
+    "pregunta": "La red pública de atención temprana está compuesta por equipos interdisciplinares cuya intervención se fundamenta",
+    "opciones": [
+      "exclusivamente en pruebas psicométricas estandarizadas, descartando la evaluación cualitativa.",
+      "en una programación general de carácter homogéneo para todos los usuarios, sin especificidad individual.",
+      "en un enfoque global, coordinación con otros servicios implicados y una programación individualizada.",
+      "en el criterio técnico de los profesionales sanitarios, con exclusión del entorno educativo y social."
+    ],
+    "correcta": "en un enfoque global, coordinación con otros servicios implicados y una programación individualizada.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t36_7",
+    "tema": "Tema 36",
+    "pregunta": "El Programa de Atención Individual (PAI) constituye el eje de la intervención terapéutica y debe ser revisado:",
+    "opciones": [
+      "al menos una vez al año, coincidiendo con la renovación del dictamen del CRECOVI.",
+      "al menos dos veces al año, por los profesionales de la Unidad de Atención Terapéutica.",
+      "cada tres meses, obligatoriamente por los profesionales del equipo educativo del centro infantil.",
+      "exclusivamente al finalizar la intervención, como parte del expediente de salida del menor."
+    ],
+    "correcta": "al menos dos veces al año, por los profesionales de la Unidad de Atención Terapéutica.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t36_8",
+    "tema": "Tema 36",
+    "pregunta": "La incompatibilidad entre la plaza pública de atención temprana y otras prestaciones se refiere concretamente a:",
+    "opciones": [
+      "cualquier ayuda económica municipal o autonómica, sin excepción.",
+      "la recepción simultánea de becas públicas para tratamientos similares o prestaciones vinculadas a la autonomía personal.",
+      "los apoyos de carácter educativo concertados por la Consejería de Educación e Investigación.",
+      "tratamientos voluntarios iniciados por las familias en centros privados."
+    ],
+    "correcta": "la recepción simultánea de becas públicas para tratamientos similares o prestaciones vinculadas a la autonomía personal.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t36_9",
+    "tema": "Tema 36",
+    "pregunta": "En caso de que un menor cumpla los seis años durante el curso académico y ya disponga de plaza pública adjudicada",
+    "opciones": [
+      "su plaza se extinguirá de forma inmediata al cumplir la edad, sin excepciones.",
+      "podrá mantener la plaza únicamente si existe informe médico favorable del pediatra de atención primaria.",
+      "podrá continuar recibiendo atención hasta el final del curso escolar o hasta la incorporación a la educación obligatoria en casos excepcionales.",
+      "la permanencia se prorrogará únicamente si la familia firma una declaración jurada de necesidad."
+    ],
+    "correcta": "podrá continuar recibiendo atención hasta el final del curso escolar o hasta la incorporación a la educación obligatoria en casos excepcionales.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t36_10",
+    "tema": "Tema 36",
+    "pregunta": "Las unidades de atención terapéutica integradas en los Centros Base y los CAT deben elaborar el PAI",
+    "opciones": [
+      "sin necesidad de informes del CRECOVI, con base en el juicio clínico de los profesionales.",
+      "en base al diagnóstico establecido por los orientadores escolares del equipo psicopedagógico.",
+      "en función de la valoración funcional inicial y conforme a las recomendaciones del dictamen de necesidad de atención temprana.",
+      "siguiendo exclusivamente las pautas terapéuticas del médico de atención primaria."
+    ],
+    "correcta": "en función de la valoración funcional inicial y conforme a las recomendaciones del dictamen de necesidad de atención temprana.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t36_11",
+    "tema": "Tema 36",
+    "pregunta": "El CRECOVI, órgano clave en el proceso de acceso a la atención temprana, tiene encomendada la función de",
+    "opciones": [
+      "dictaminar la necesidad de atención temprana y aplicar el baremo de priorización para adjudicación de plaza.",
+      "determinar la plaza concreta y asignar centro educativo según la situación sociofamiliar.",
+      "establecer los objetivos terapéuticos del PAI y remitirlos directamente al CAT correspondiente.",
+      "autorizar los horarios de intervención y supervisar los informes semestrales."
+    ],
+    "correcta": "dictaminar la necesidad de atención temprana y aplicar el baremo de priorización para adjudicación de plaza.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t36_12",
+    "tema": "Tema 36",
+    "pregunta": "En el modelo de coordinación institucional, el centro de atención temprana debe remitir información al ámbito educativo",
+    "opciones": [
+      "exclusivamente cuando el menor curse el segundo ciclo de Educación Infantil.",
+      "únicamente si el menor presenta algún tipo de adaptación curricular significativa.",
+      "a través del Servicio de la Unidad de Programas Educativos, para asegurar la coordinación con equipos de orientación y centros educativos.",
+      "a través del pediatra del centro de salud, que deriva la información al área educativa correspondiente."
+    ],
+    "correcta": "a través del Servicio de la Unidad de Programas Educativos, para asegurar la coordinación con equipos de orientación y centros educativos.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t36_13",
+    "tema": "Tema 36",
+    "pregunta": "La evaluación inicial realizada por el centro de atención temprana incluye la finalidad de",
+    "opciones": [
+      "iniciar directamente el tratamiento prescrito sin necesidad de estudio funcional.",
+      "determinar las posibles incompatibilidades familiares y derivar a servicios sociales.",
+      "estudiar la información disponible, valorar funcionalmente el desarrollo y definir los tratamientos iniciales.",
+      "validar exclusivamente las recomendaciones emitidas por el médico derivante."
+    ],
+    "correcta": "estudiar la información disponible, valorar funcionalmente el desarrollo y definir los tratamientos iniciales.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t36_14",
+    "tema": "Tema 36",
+    "pregunta": "Las sesiones de psicomotricidad podrán realizarse",
+    "opciones": [
+      "sólo de forma individual por tratarse de una técnica de intervención compleja.",
+      "en grupos de hasta seis niños, si se considera oportuno por el equipo terapéutico.",
+      "en formato exclusivamente grupal debido a su carácter de intervención integradora.",
+      "únicamente con los padres, como método de observación de relaciones familiares."
+    ],
+    "correcta": "en grupos de hasta seis niños, si se considera oportuno por el equipo terapéutico.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t36_15",
+    "tema": "Tema 36",
+    "pregunta": "El objetivo fundamental de la estimulación en atención temprana es",
+    "opciones": [
+      "mejorar la respuesta farmacológica ante trastornos neurológicos.",
+      "desarrollar capacidades sensoriales y prevenir déficits en cualquier área del desarrollo infantil.",
+      "detectar alteraciones psicopatológicas antes de los tres años.",
+      "facilitar la integración en educación primaria mediante ejercicios visuales y táctiles."
+    ],
+    "correcta": "desarrollar capacidades sensoriales y prevenir déficits en cualquier área del desarrollo infantil.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t36_16",
+    "tema": "Tema 36",
+    "pregunta": "Los criterios de prioridad para adjudicar plaza, en igualdad de puntos, consideran entre otros:",
+    "opciones": [
+      "la antigüedad en la solicitud, las ayudas económicas en curso y la renta familiar.",
+      "el cambio de tipo de plaza, el riesgo social actualizado y la nacionalidad del menor.",
+      "el traslado de centro por cambio de domicilio, la baja por enfermedad con nueva solicitud y la carencia de apoyos.",
+      "exclusivamente la fecha de presentación de solicitud y la edad del menor."
+    ],
+    "correcta": "el traslado de centro por cambio de domicilio, la baja por enfermedad con nueva solicitud y la carencia de apoyos.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t36_17",
+    "tema": "Tema 36",
+    "pregunta": "La modalidad de plaza de tratamiento implica:",
+    "opciones": [
+      "seguimiento externo por parte del equipo de orientación del centro escolar sin intervención directa.",
+      "prestación coordinada y ambulatoria de estimulación, fisioterapia, logopedia, psicoterapia o psicomotricidad.",
+      "asignación de apoyo social y escolar sin contemplar la intervención clínica directa.",
+      "elaboración de un informe general que sustituye al PAI en todos los casos."
+    ],
+    "correcta": "prestación coordinada y ambulatoria de estimulación, fisioterapia, logopedia, psicoterapia o psicomotricidad.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t36_18",
+    "tema": "Tema 36",
+    "pregunta": "El centro de atención temprana puede proponer un cambio de modalidad de plaza si",
+    "opciones": [
+      "el tutor legal del menor firma una petición en ese sentido.",
+      "la familia presenta informes privados que recomienden el cambio.",
+      "se justifica con informe remitido a la Subdirección General de Valoración de la Discapacidad.",
+      "se aprueba en asamblea conjunta de profesionales del CAT y responsables del centro escolar."
+    ],
+    "correcta": "se justifica con informe remitido a la Subdirección General de Valoración de la Discapacidad.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t36_19",
+    "tema": "Tema 36",
+    "pregunta": "Entre las funciones de la Dirección General de Atención a Personas con Discapacidad se encuentra",
+    "opciones": [
+      "la aprobación de las sesiones terapéuticas y el número de sesiones mensuales.",
+      "la adjudicación de plazas en centros y servicios, la gestión de la red pública de atención temprana y la emisión de dictámenes e informes.",
+      "la revisión directa de todos los casos atendidos en los CAT.",
+      "la autorización de las familias beneficiarias a realizar tratamientos privados complementarios."
+    ],
+    "correcta": "la adjudicación de plazas en centros y servicios, la gestión de la red pública de atención temprana y la emisión de dictámenes e informes.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t36_20",
+    "tema": "Tema 36",
+    "pregunta": "En los CAT, la atención sociofamiliar tiene como objetivo",
+    "opciones": [
+      "informar exclusivamente sobre la escolarización preferente en centros ordinarios.",
+      "acompañar a la familia en el proceso terapéutico, proporcionándole formación, apoyo y orientación en función de sus necesidades.",
+      "excluir a los miembros de la familia que no estén legalmente registrados como tutores.",
+      "evitar cualquier tipo de participación familiar en sesiones individuales del menor."
+    ],
+    "correcta": "acompañar a la familia en el proceso terapéutico, proporcionándole formación, apoyo y orientación en función de sus necesidades.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t36_21",
+    "tema": "Tema 36",
+    "pregunta": "Al conjunto de intervenciones, dirigidas a la población infantil de 0-6 años, a la familia y al entorno, que tienen por objetivo dar respuesta lo más pronto posible a las necesidades transitorias o permanentes que presentan los niños con trastornos en su desarrollo o que tienen el riesgo de padecerlos, se le denomina:",
+    "opciones": [
+      "Prevención Primaria.",
+      "Prevención Secundaria.",
+      "Atención Temprana."
+    ],
+    "correcta": "Atención Temprana.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t36_22",
+    "tema": "Tema 36",
+    "pregunta": "Cuando se implica la inserción de la Atención Temprana en las redes de atención primaria de salud y de servicios sociales, en la inmediación de las escuelas infantiles y en la vecindad de la familia, hablamos de:",
+    "opciones": [
+      "Sectorización.",
+      "Descentralización.",
+      "Coordinación."
+    ],
+    "correcta": "Sectorización.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t36_23",
+    "tema": "Tema 36",
+    "pregunta": "La presidencia del Pleno del Centro Regional de Coordinación y Valoración Infantil será ejercida,",
+    "opciones": [
+      "De forma rotatoria y por período de un año, por uno de los miembros representantes de las Consejerías con competencias en materia de sanidad, educación y servicios sociales.",
+      "De forma rotatoria y por período de dos años, por uno de los miembros representantes de las Consejerías con competencias en materia de sanidad, educación y servicios sociales.",
+      "Por el titular de la Consejería de Familia, Juventud y Asuntos Sociales."
+    ],
+    "correcta": "Por el titular de la Consejería de Familia, Juventud y Asuntos Sociales.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t36_24",
+    "tema": "Tema 36",
+    "pregunta": "La valoración de necesidad de atención temprana se realizará, por uno o varios miembros de los equipos interdisciplinares de valoración infantil, formados por:",
+    "opciones": [
+      "Médico, Terapeuta ocupacional, Psicólogo.",
+      "Trabajador Social, Psicólogo, Médico.",
+      "Psicólogo, Psicomotricista, Trabajador Social."
+    ],
+    "correcta": "Trabajador Social, Psicólogo, Médico.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t36_25",
+    "tema": "Tema 36",
+    "pregunta": "Las unidades de tratamiento de los Centros Base y los Centros de Atención Temprana constituyen una red especializada en el tratamiento integral de los niños:",
+    "opciones": [
+      "Todos los centros de la red cuentan con equipos multidisciplinares.",
+      "Intervienen desde un enfoque particular.",
+      "Admiten menores hasta los 16 años si están catalogados como ACNEE."
+    ],
+    "correcta": "Todos los centros de la red cuentan con equipos multidisciplinares.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t36_26",
+    "tema": "Tema 36",
+    "pregunta": "La intervención dirigida a niños que presentan dificultades en el movimiento con el objeto de facilitar su desarrollo motor y psíquico y que comprende actividades dirigidas a la integración de su esquema corporal, el ritmo, el equilibrio, la coordinación estática y dinámica y la estructuración espacio temporal y persigue, asimismo, el desarrollo de habilidades de autonomía personal y sociabilidad, se denomina:",
+    "opciones": [
+      "Logopedia.",
+      "Psicomotricidad.",
+      "Estimulación."
+    ],
+    "correcta": "Psicomotricidad.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t36_27",
+    "tema": "Tema 36",
+    "pregunta": "¿Qué tipo de intervención terapéutica proporcionan los centros de Atención temprana en la Comunidad de Madrid?",
+    "opciones": [
+      "Estimulación, logopedia y psicomotricidad.",
+      "Estimulación, logopedia, psicoterapia, psicomotricidad y fisioterapia.",
+      "Estimulación, psicoterapia y fisioterapia.",
+      "Logopedia, psicoterapia, psicomotricidad y fisioterapia."
+    ],
+    "correcta": "Estimulación, logopedia, psicoterapia, psicomotricidad y fisioterapia.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t36_28",
+    "tema": "Tema 36",
+    "pregunta": "La intervención en la atención temprana se desarrollará bajo las siguientes modalidades:",
+    "opciones": [
+      "Atención directa.",
+      "Atención en el proceso de escolarización.",
+      "Atención sociofamiliar.",
+      "Todas son correctas."
+    ],
+    "correcta": "Todas son correctas.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t36_29",
+    "tema": "Tema 36",
+    "pregunta": "Son destinatarios de los servicios de atención temprana:",
+    "opciones": [
+      "Los menores de cinco años de edad.",
+      "Los menores de seis años de edad, con trastornos en su desarrollo, con discapacidad o riesgo de padecerla y/o dependencia, residentes en la Comunidad de Madrid, así como su familia y su entorno.",
+      "Los menores de cinco años de edad, con trastornos en su desarrollo, con discapacidad o riesgo de padecerla y/o dependencia, residentes en la Comunidad de Madrid, así como su familia y su entorno.",
+      "Ninguna es correcta."
+    ],
+    "correcta": "Los menores de seis años de edad, con trastornos en su desarrollo, con discapacidad o riesgo de padecerla y/o dependencia, residentes en la Comunidad de Madrid, así como su familia y su entorno.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t36_30",
+    "tema": "Tema 36",
+    "pregunta": "El procedimiento para la determinación de la necesidad de atención temprana se iniciará:",
+    "opciones": [
+      "De oficio.",
+      "A instancia de los padres o del representante legal del menor.",
+      "De oficio o a instancia de los padres o del representante legal del menor.",
+      "Ninguna es correcta."
+    ],
+    "correcta": "De oficio o a instancia de los padres o del representante legal del menor.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t36_31",
+    "tema": "Tema 36",
+    "pregunta": "En el modelo normalizado de solicitud de valoración de necesidad de atención temprana de la Comunidad de Madrid y en relación con la documentación necesaria para la revisión por plazo de validez, no es necesario presentar:",
+    "opciones": [
+      "NIF/NIE del menor (en caso de tenerlo), si se autoriza la consulta por medios electrónicos a la Comunidad de Madrid.",
+      "Libro de Familia, si se han producido variaciones respecto a la situación de la valoración inicial.",
+      "Informe de seguimiento de centro de atención temprana o centro base de atención a personas con discapacidad, en caso estar recibiendo atención temprana.",
+      "Ninguna es correcta."
+    ],
+    "correcta": "NIF/NIE del menor (en caso de tenerlo), si se autoriza la consulta por medios electrónicos a la Comunidad de Madrid.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t36_32",
+    "tema": "Tema 36",
+    "pregunta": "Tipos de plazas de las que disponen los Centros de Atención Temprana de la Comunidad de Madrid:",
+    "opciones": [
+      "Plaza de tratamiento temporal, plaza de tratamiento definitiva y plaza de apoyo y seguimiento.",
+      "Plaza de tratamiento ambulatorio, plaza de seguimiento y plaza de tratamiento definitiva.",
+      "Plaza de tratamiento y plaza de apoyo y seguimiento.",
+      "Ninguna es correcta."
+    ],
+    "correcta": "Plaza de tratamiento y plaza de apoyo y seguimiento.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t36_33",
+    "tema": "Tema 36",
+    "pregunta": "En el baremo de priorización de plaza realizado por la Unidad de Valoración de CRECOVI, se valora:",
+    "opciones": [
+      "La gravedad del menor, el riesgo social, la edad y la impresión pronóstica.",
+      "Exclusivamente se tendrá en cuenta la antigüedad en la solicitud de plaza de atención temprana.",
+      "Se tendrán en cuenta únicamente, la gravedad del menor y la edad.",
+      "Ninguna es correcta."
+    ],
+    "correcta": "La gravedad del menor, el riesgo social, la edad y la impresión pronóstica.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t36_34",
+    "tema": "Tema 36",
+    "pregunta": "La prevención secundaria en Atención Temprana tiene por objetivo:",
+    "opciones": [
+      "Evitar las condiciones que pueden llevar a la aparición de deficiencias o trastornos en el desarrollo infantil.",
+      "Detección y el diagnóstico precoz de los trastornos en el desarrollo y de situaciones de riesgo.",
+      "Prevenir trastornos secundarios y modificar los factores de riesgo en el entorno inmediato del niño.",
+      "Atenuar o superar los trastornos o disfunciones en el desarrollo infantil."
+    ],
+    "correcta": "Detección y el diagnóstico precoz de los trastornos en el desarrollo y de situaciones de riesgo.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t36_35",
+    "tema": "Tema 36",
+    "pregunta": "La intervención dirigida a niños que presentan dificultades en el movimiento (coordinación, equilibrio, programación motora, etc.) con el objeto de facilitar su desarrollo motor y psíquico, comprendiendo actividades dirigidas a la integración de su esquema corporal, el ritmo, el equilibrio, la coordinación estática y dinámica y la estructuración espacio temporal. Se persigue, asimismo, el desarrollo de habilidades de autonomía personal y sociabilidad.",
+    "opciones": [
+      "Logopedia.",
+      "Estimulación.",
+      "Psicomotricidad.",
+      "Psicoterapia."
+    ],
+    "correcta": "Psicomotricidad.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t36_36",
+    "tema": "Tema 36",
+    "pregunta": "La Unidad de Valoración del Centro Regional de Coordinación y Valoración Infantiles es una unidad administrativa que realiza:",
+    "opciones": [
+      "La valoración de la Necesidad de Atención Temprana incluyendo al menos diagnóstico, tipo de tratamiento y número de sesiones que el niño deberá recibir.",
+      "La valoración de la Necesidad de atención temprana incluyendo diagnóstico y centro donde el menor será atendido.",
+      "La valoración de la Necesidad de Atención Temprana, incluyendo como mínimo el diagnóstico, el tipo de tratamiento recomendado y el plazo de validez.",
+      "La valoración de la Necesidad de Atención Temprana incluirá siempre tipo de tratamiento, profesional designado, número de sesiones y centro que le proporcionaráá tratamiento."
+    ],
+    "correcta": "La valoración de la Necesidad de Atención Temprana, incluyendo como mínimo el diagnóstico, el tipo de tratamiento recomendado y el plazo de validez.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t36_37",
+    "tema": "Tema 36",
+    "pregunta": "La atención integral en atención temprana se fundamenta en los siguientes principios:",
+    "opciones": [
+      "Igualdad, responsabilidad pública, proximidad, descentralización y territorialización.",
+      "Universalidad, coordinación, selección.",
+      "Universalidad, igualdad, responsabilidad pública, centralización.",
+      "Coordinación, atención personalizada e integral y de calidad, apoyos de PT y AL."
+    ],
+    "correcta": "Universalidad, igualdad, responsabilidad pública, centralización.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t36_38",
+    "tema": "Tema 36",
+    "pregunta": "Dentro de los tipos de plazas de atención temprana, aquella que permite dar respuesta a niños en condiciones de riesgo, o que, por sus características, requieren un seguimiento de su neurodesarrollo siendo una atención periódica que incluye orientaciones dirigidas a los ámbitos familiar, escolar y social con el objetivo de procurar las mejores condiciones de atención al niño son:",
+    "opciones": [
+      "Plazas de tratamiento.",
+      "Plazas de integración sensorial.",
+      "Plazas de pedagogía terapéutica, audición y lenguaje.",
+      "Plazas de apoyo y seguimiento."
+    ],
+    "correcta": "Plazas de apoyo y seguimiento.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t36_39",
+    "tema": "Tema 36",
+    "pregunta": "Las unidades de tratamiento de los Centros Base y los Centros de Atención Temprana, incluyen el:",
+    "opciones": [
+      "Servicio de Integración Sensorial.",
+      "Servicio de Terapia Ocupacional.",
+      "Servicio de Atención Sociofamiliar y Terapéutica.",
+      "Servicio de Pedagogía Terapéutica."
+    ],
+    "correcta": "Servicio de Atención Sociofamiliar y Terapéutica.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t36_40",
+    "tema": "Tema 36",
+    "pregunta": "De conformidad con el artículo 12 del Decreto 46/2015, de 7 de mayo, el Centro Regional de Coordinación y Valoración Infantil, estará adscrito como órgano colegiado a:",
+    "opciones": [
+      "Consejería competente en materia de Educación",
+      "Consejería competente en materia de Sanidad.",
+      "Consejería competente en materia de Servicios Sociales.",
+      "Consejería competente en materia de Justicia."
+    ],
+    "correcta": "Consejería competente en materia de Sanidad.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t36_41",
+    "tema": "Tema 36",
+    "pregunta": "De conformidad con el artículo 20 del Decreto 46/2015, de 7 de mayo, el plazo para resolver y notificar el procedimiento de la necesidad de atención temprana será de:",
+    "opciones": [
+      "6 meses desde la fecha de entrada de la solicitud en el Registro electrónico de la Comunidad de Madrid.",
+      "3 meses desde la fecha de entrada de la solicitud en el Registro electrónico de la Comunidad de Madrid.",
+      "3 meses desde la fecha en que se produce la valoración del menor en las Dependencias del Centro Regional de Coordinación y Valoración Infantil.",
+      "6 meses desde la fecha en que se produce la valoración del menor en las Dependencias del Centro Regional de Coordinación y Valoración Infantil."
+    ],
+    "correcta": "6 meses desde la fecha en que se produce la valoración del menor en las Dependencias del Centro Regional de Coordinación y Valoración Infantil.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t81_1",
+    "tema": "Tema 81",
+    "pregunta": "Según el documento, ¿cuál de las siguientes afirmaciones sobre el pronóstico vital en las enfermedades poco frecuentes es correcta?",
+    "opciones": [
+      "El 65% de los fallecimientos se produce en mayores de 65 años.",
+      "Se relacionan con el 10% de las muertes antes del primer año de vida.",
+      "El 35% de los fallecimientos se producen antes de cumplir un año.",
+      "Su impacto vital solo se manifiesta en enfermedades de carácter degenerativo."
+    ],
+    "correcta": "El 35% de los fallecimientos se producen antes de cumplir un año.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t81_2",
+    "tema": "Tema 81",
+    "pregunta": "Uno de los principios fundamentales del II Plan de Mejora de Atención Sanitaria a las Personas con Enfermedades Raras de la Comunidad de Madrid es:",
+    "opciones": [
+      "Sustituir el cribado neonatal por diagnóstico postnatal.",
+      "Excluir a las asociaciones de pacientes del diseño de actuaciones.",
+      "Unificar las líneas de investigación y formación.",
+      "Eliminar la participación de cuidadores no profesionales."
+    ],
+    "correcta": "Unificar las líneas de investigación y formación.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t81_3",
+    "tema": "Tema 81",
+    "pregunta": "El objetivo general del Consorcio Internacional de Investigación de Enfermedades Raras (IRDiRC) para el período 2017–2027 incluye:",
+    "opciones": [
+      "Garantizar acceso a un tratamiento experimental en los 3 primeros años tras el diagnóstico.",
+      "Realizar cribado poblacional universal en enfermedades raras.",
+      "Conseguir diagnóstico y tratamiento adecuado en 1 año desde la solicitud de atención médica.",
+      "Aumentar el número de enfermedades raras con registro a nivel autonómico."
+    ],
+    "correcta": "Conseguir diagnóstico y tratamiento adecuado en 1 año desde la solicitud de atención médica.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t81_4",
+    "tema": "Tema 81",
+    "pregunta": "La Estrategia de Enfermedades Raras del SNS, según su actualización de 2014, incluye:",
+    "opciones": [
+      "La creación del Protocolo DICE-APER como herramienta de diagnóstico rápido.",
+      "La coordinación con centros de atención primaria exclusivamente.",
+      "Un capítulo dedicado al desarrollo de centros de referencia.",
+      "Una reducción en la intervención sociosanitaria en fases agudas."
+    ],
+    "correcta": "Un capítulo dedicado al desarrollo de centros de referencia.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t81_5",
+    "tema": "Tema 81",
+    "pregunta": "El Real Decreto 1302/2006 establece que un Centro de Referencia debe:",
+    "opciones": [
+      "Ofrecer atención continua obligatoria a todos los pacientes diagnosticados.",
+      "Concentrar casos para confirmar diagnóstico y estrategias terapéuticas.",
+      "Sustituir al médico de atención primaria en los casos de enfermedades raras.",
+      "Atender únicamente a pacientes con enfermedades metabólicas hereditarias."
+    ],
+    "correcta": "Concentrar casos para confirmar diagnóstico y estrategias terapéuticas.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t81_6",
+    "tema": "Tema 81",
+    "pregunta": "Entre los objetivos específicos del II Plan de mejora de la CAM se encuentra:",
+    "opciones": [
+      "Excluir la telemedicina de las rutas asistenciales.",
+      "Promover la formación mediante plataformas externas no institucionales.",
+      "Mejorar el acceso a productos sanitarios.",
+      "Derivar exclusivamente a hospitales de tercer nivel."
+    ],
+    "correcta": "Mejorar el acceso a productos sanitarios.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t81_7",
+    "tema": "Tema 81",
+    "pregunta": "La definición de “medicamento huérfano”, según Orphanet, incluye:",
+    "opciones": [
+      "Todo medicamento destinado exclusivamente a enfermedades incurables.",
+      "Fármacos con alta rentabilidad comercial en patologías minoritarias.",
+      "Fármacos no desarrollados por baja rentabilidad pero con interés en salud pública.",
+      "Cualquier principio activo no aprobado por la EMA."
+    ],
+    "correcta": "Fármacos no desarrollados por baja rentabilidad pero con interés en salud pública.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t81_8",
+    "tema": "Tema 81",
+    "pregunta": "El Protocolo DICE-APER busca:",
+    "opciones": [
+      "La intervención farmacológica urgente en fases pediátricas.",
+      "Conectar al paciente con plataformas europeas de ensayo clínico.",
+      "Proporcionar información, diagnóstico y coordinación asistencial en atención primaria.",
+      "Sustituir la historia clínica digitalizada por un formulario específico."
+    ],
+    "correcta": "Proporcionar información, diagnóstico y coordinación asistencial en atención primaria.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t81_9",
+    "tema": "Tema 81",
+    "pregunta": "En relación con los medicamentos huérfanos, una afirmación correcta es:",
+    "opciones": [
+      "Sus indicaciones están limitadas exclusivamente a enfermedades genéticas.",
+      "Pueden desarrollarse para enfermedades comunes con indicaciones infrecuentes.",
+      "Están regulados por la Estrategia FEDER 2024 de tratamientos avanzados.",
+      "No existen registros oficiales de su aplicación clínica."
+    ],
+    "correcta": "Pueden desarrollarse para enfermedades comunes con indicaciones infrecuentes.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t81_10",
+    "tema": "Tema 81",
+    "pregunta": "Una de las barreras para el acceso al apoyo psicosocial en enfermedades raras es:",
+    "opciones": [
+      "La gratuidad de las terapias psicosociales en entornos urbanos.",
+      "La gestión compartida de la terapia entre paciente y asociación.",
+      "Las implicaciones económicas de los desplazamientos a centros especializados.",
+      "El sobrediagnóstico en la atención primaria."
+    ],
+    "correcta": "Las implicaciones económicas de los desplazamientos a centros especializados.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t81_11",
+    "tema": "Tema 81",
+    "pregunta": "Entre los retos psicosociales tras el diagnóstico de una ER se encuentra:",
+    "opciones": [
+      "El aislamiento es más prevalente en enfermedades diagnosticadas en menos de un año.",
+      "La sintomatología ansioso-depresiva es menor que en enfermedades prevalentes.",
+      "El diagnóstico tardío se asocia a mayor impacto emocional.",
+      "El acceso a terapia psicológica está garantizado por ley desde 2021."
+    ],
+    "correcta": "El diagnóstico tardío se asocia a mayor impacto emocional.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t81_12",
+    "tema": "Tema 81",
+    "pregunta": "El CIBERER está estructurado en:",
+    "opciones": [
+      "Cuatro programas de investigación clínica.",
+      "Siete programas de investigación distribuidos por patologías.",
+      "Nueve líneas de trabajo epidemiológicas.",
+      "Un único programa central con grupos dependientes de FEDER."
+    ],
+    "correcta": "Siete programas de investigación distribuidos por patologías.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t81_13",
+    "tema": "Tema 81",
+    "pregunta": "Una afirmación correcta sobre el Registro Estatal de Enfermedades Raras es:",
+    "opciones": [
+      "Se actualiza bianualmente con datos de FEDER y EURORDIS.",
+      "Su objetivo principal es la derivación asistencial de pacientes.",
+      "Permite conocer la distribución geográfica de las enfermedades raras en España.",
+      "Depende funcionalmente del Ministerio de Derechos Sociales."
+    ],
+    "correcta": "Permite conocer la distribución geográfica de las enfermedades raras en España.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t81_14",
+    "tema": "Tema 81",
+    "pregunta": "El CREER tiene como objetivo:",
+    "opciones": [
+      "Implantar modelos de hospitalización permanente para personas con EERR.",
+      "Ofrecer atención multidisciplinar con alojamiento si procede.",
+      "Controlar la prescripción de terapias huérfanas en red nacional.",
+      "Derivar pacientes a unidades de experiencia mediante protocolo clínico."
+    ],
+    "correcta": "Ofrecer atención multidisciplinar con alojamiento si procede.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t81_15",
+    "tema": "Tema 81",
+    "pregunta": "El concepto de “nexo entre paciente, especialistas y familia” se refiere a:",
+    "opciones": [
+      "El tutor legal que debe acompañar al paciente en todas las consultas.",
+      "Un psicólogo que define el plan terapéutico y farmacológico.",
+      "Un profesional que coordina y acompaña el proceso asistencial.",
+      "Un administrativo del centro sanitario encargado de la derivación."
+    ],
+    "correcta": "Un profesional que coordina y acompaña el proceso asistencial.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t81_16",
+    "tema": "Tema 81",
+    "pregunta": "Una característica común de las enfermedades poco frecuentes es:",
+    "opciones": [
+      "Diagnóstico fácil por la existencia de pruebas de cribado universales.",
+      "Alta rentabilidad para la industria farmacéutica.",
+      "Dificultades diagnósticas, pronóstico incierto y ausencia de terapias efectivas.",
+      "No requieren seguimiento multidisciplinar."
+    ],
+    "correcta": "Dificultades diagnósticas, pronóstico incierto y ausencia de terapias efectivas.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t81_17",
+    "tema": "Tema 81",
+    "pregunta": "En relación con la atención psicosocial, se recomienda:",
+    "opciones": [
+      "Realizar la evaluación de necesidades solo en centros de salud mental.",
+      "Delegar la coordinación asistencial en personal administrativo.",
+      "Aplicar medidas preventivas desde la aparición de síntomas.",
+      "Priorizar el aislamiento emocional para mejorar la resiliencia."
+    ],
+    "correcta": "Aplicar medidas preventivas desde la aparición de síntomas.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t81_18",
+    "tema": "Tema 81",
+    "pregunta": "El Día Mundial de las Enfermedades Raras:",
+    "opciones": [
+      "Se celebra en España desde el año 2021.",
+      "Está coordinado por CIBERER y FEDER desde 1999.",
+      "Fue impulsado por EURORDIS desde 2008 y tiene alcance global.",
+      "Tiene carácter europeo y se limita a campañas en países de la UE."
+    ],
+    "correcta": "Fue impulsado por EURORDIS desde 2008 y tiene alcance global.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t81_19",
+    "tema": "Tema 81",
+    "pregunta": "En el marco del Sistema Nacional de Salud, una Unidad de Experiencia:",
+    "opciones": [
+      "Atiende exclusivamente al diagnóstico molecular de EERR.",
+      "Es un equipo clínico que gestiona casos en su globalidad.",
+      "Tiene competencia legal para emitir dictámenes sobre dependencia.",
+      "Solo se encuentra en centros con acreditación internacional."
+    ],
+    "correcta": "Es un equipo clínico que gestiona casos en su globalidad.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t81_20",
+    "tema": "Tema 81",
+    "pregunta": "Entre los recursos ofrecidos por Orphanet no se encuentra:",
+    "opciones": [
+      "Herramienta de diagnóstico por síntomas.",
+      "Directorio de centros expertos y ensayos clínicos.",
+      "Repositorio de entrevistas a pacientes con EERR.",
+      "Informes temáticos descargables desde su portal web."
+    ],
+    "correcta": "Repositorio de entrevistas a pacientes con EERR.",
+    "fuente": "Test App 4"
+  },
+  {
+    "id": "ta4_t81_21",
+    "tema": "Tema 81",
+    "pregunta": "Las enfermedades poco frecuentes (EPOF), también conocidas como raras u huérfanas, son:",
+    "opciones": [
+      "Aquellas que afectan a un número reducido de personas en la población, con una prevalencia inferior a 5 casos por cada 10.000 habitantes en Europa.",
+      "Aquellas que afectan con una prevalencia inferior a 3 casos por cada 10.000 habitantes en Europa.",
+      "Aquellas que afectan con una prevalencia de 10 casos por cada 10.000 habitantes en Europa.",
+      "Aquellas que afectan con una prevalencia inferior a 15 casos por cada 10.000 habitantes en Europa."
+    ],
+    "correcta": "Aquellas que afectan a un número reducido de personas en la población, con una prevalencia inferior a 5 casos por cada 10.000 habitantes en Europa.",
+    "fuente": "Test App 4"
   }
 ]
