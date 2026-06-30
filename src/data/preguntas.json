@@ -19882,7 +19882,7 @@
       "Autocontrol.",
       "Discapacidad."
     ],
-    "correcta": "Discapacidad."
+    "correcta": "Autocontrol."
   },
   {
     "id": "ta3_t33_2",
@@ -19986,7 +19986,7 @@
       "Componente administrativo.",
       "Componente psicosocial."
     ],
-    "correcta": "Componente administrativo."
+    "correcta": "Componente social."
   },
   {
     "id": "ta3_t33_10",
@@ -21828,10 +21828,10 @@
     "opciones": [
       "Baremo de priorización elaborado por los Equipos de Orientación Educativa y Psicopedagógica.",
       "Evaluación cualitativa del riesgo social por parte del Área de Coordinación Educativa.",
-      "Asignación de puntos conforme a criterios como la gravedad del menor, el riesgo social, la edad y la impresión pronóstica.",
+      "Asignación de puntos conforme a criterios como la gravedad y la situación social.",
       "Aplicación de criterios exclusivamente sanitarios basados en la derivación médica para establecer el orden de adjudicación."
     ],
-    "correcta": "Asignación de puntos conforme a criterios como la gravedad del menor, el riesgo social, la edad y la impresión pronóstica.",
+    "correcta": "Asignación de puntos conforme a criterios como la gravedad y la situación social.",
     "fuente": "Test App 4"
   },
   {
@@ -21917,12 +21917,12 @@
     "tema": "Tema 36",
     "pregunta": "En caso de que un menor cumpla los seis años durante el curso académico y ya disponga de plaza pública adjudicada",
     "opciones": [
-      "su plaza se extinguirá de forma inmediata al cumplir la edad, sin excepciones.",
+      "su plaza se extinguirá de forma inmediata al cumplir la edad, salvo que esté esperando la incorporación a educación especial o haya solicitado una medida de flexibilización del segundo ciclo de educación infantil.",
       "podrá mantener la plaza únicamente si existe informe médico favorable del pediatra de atención primaria.",
       "podrá continuar recibiendo atención hasta el final del curso escolar o hasta la incorporación a la educación obligatoria en casos excepcionales.",
       "la permanencia se prorrogará únicamente si la familia firma una declaración jurada de necesidad."
     ],
-    "correcta": "podrá continuar recibiendo atención hasta el final del curso escolar o hasta la incorporación a la educación obligatoria en casos excepcionales.",
+    "correcta": "su plaza se extinguirá de forma inmediata al cumplir la edad, salvo que esté esperando la incorporación a educación especial o haya solicitado una medida de flexibilización del segundo ciclo de educación infantil.",
     "fuente": "Test App 4"
   },
   {
@@ -22010,10 +22010,10 @@
     "opciones": [
       "la antigüedad en la solicitud, las ayudas económicas en curso y la renta familiar.",
       "el cambio de tipo de plaza, el riesgo social actualizado y la nacionalidad del menor.",
-      "el traslado de centro por cambio de domicilio, la baja por enfermedad con nueva solicitud y la carencia de apoyos.",
+      "situación de guarda y/o tutela, vulnerabilidad, traslado de centro, antigüedad en la situación y carencia de apoyos.",
       "exclusivamente la fecha de presentación de solicitud y la edad del menor."
     ],
-    "correcta": "el traslado de centro por cambio de domicilio, la baja por enfermedad con nueva solicitud y la carencia de apoyos.",
+    "correcta": "situación de guarda y/o tutela, vulnerabilidad, traslado de centro, antigüedad en la situación y carencia de apoyos.",
     "fuente": "Test App 4"
   },
   {
@@ -22087,7 +22087,8 @@
     "opciones": [
       "Sectorización.",
       "Descentralización.",
-      "Coordinación."
+      "Coordinación.",
+      "Interdisciplinariedad."
     ],
     "correcta": "Sectorización.",
     "fuente": "Test App 4"
@@ -22099,7 +22100,8 @@
     "opciones": [
       "De forma rotatoria y por período de un año, por uno de los miembros representantes de las Consejerías con competencias en materia de sanidad, educación y servicios sociales.",
       "De forma rotatoria y por período de dos años, por uno de los miembros representantes de las Consejerías con competencias en materia de sanidad, educación y servicios sociales.",
-      "Por el titular de la Consejería de Familia, Juventud y Asuntos Sociales."
+      "Por el titular de la Consejería de Familia, Juventud y Asuntos Sociales.",
+      "Por el titular de la Dirección General competente en materia de atención temprana."
     ],
     "correcta": "Por el titular de la Consejería de Familia, Juventud y Asuntos Sociales.",
     "fuente": "Test App 4"
@@ -22123,7 +22125,8 @@
     "opciones": [
       "Todos los centros de la red cuentan con equipos multidisciplinares.",
       "Intervienen desde un enfoque particular.",
-      "Admiten menores hasta los 16 años si están catalogados como ACNEE."
+      "Admiten menores hasta los 16 años si están catalogados como ACNEE.",
+      "Ofrecen una intervención de carácter exclusivamente ambulatorio y desvinculada del entorno familiar."
     ],
     "correcta": "Todos los centros de la red cuentan con equipos multidisciplinares.",
     "fuente": "Test App 4"
@@ -22223,12 +22226,12 @@
     "tema": "Tema 36",
     "pregunta": "En el baremo de priorización de plaza realizado por la Unidad de Valoración de CRECOVI, se valora:",
     "opciones": [
-      "La gravedad del menor, el riesgo social, la edad y la impresión pronóstica.",
+      "La gravedad del menor y su situación social.",
       "Exclusivamente se tendrá en cuenta la antigüedad en la solicitud de plaza de atención temprana.",
       "Se tendrán en cuenta únicamente, la gravedad del menor y la edad.",
       "Ninguna es correcta."
     ],
-    "correcta": "La gravedad del menor, el riesgo social, la edad y la impresión pronóstica.",
+    "correcta": "La gravedad del menor y su situación social.",
     "fuente": "Test App 4"
   },
   {
@@ -22280,7 +22283,7 @@
       "Universalidad, igualdad, responsabilidad pública, centralización.",
       "Coordinación, atención personalizada e integral y de calidad, apoyos de PT y AL."
     ],
-    "correcta": "Universalidad, igualdad, responsabilidad pública, centralización.",
+    "correcta": "Igualdad, responsabilidad pública, proximidad, descentralización y territorialización.",
     "fuente": "Test App 4"
   },
   {
@@ -22319,7 +22322,7 @@
       "Consejería competente en materia de Servicios Sociales.",
       "Consejería competente en materia de Justicia."
     ],
-    "correcta": "Consejería competente en materia de Sanidad.",
+    "correcta": "Consejería competente en materia de Servicios Sociales.",
     "fuente": "Test App 4"
   },
   {
