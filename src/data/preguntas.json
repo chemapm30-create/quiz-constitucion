@@ -22610,5 +22610,1890 @@
     ],
     "correcta": "Aquellas que afectan a un número reducido de personas en la población, con una prevalencia inferior a 5 casos por cada 10.000 habitantes en Europa.",
     "fuente": "Test App 4"
+  },
+  {
+    "id": "ta5_t22_1",
+    "tema": "Tema 22",
+    "pregunta": "En relación con la evaluación psicológica, ¿qué característica la diferencia esencialmente de una simple recogida de datos?",
+    "opciones": [
+      "Su carácter exclusivamente cuantitativo",
+      "Su finalidad diagnóstica única",
+      "Su estructura como proceso de toma de decisiones y contraste de hipótesis",
+      "Su dependencia exclusiva de test estandarizados"
+    ],
+    "correcta": "Su estructura como proceso de toma de decisiones y contraste de hipótesis",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t22_2",
+    "tema": "Tema 22",
+    "pregunta": "¿Cuál de las siguientes afirmaciones describe mejor una prueba referida al criterio?",
+    "opciones": [
+      "Compara al sujeto con un grupo normativo",
+      "Evalúa el rendimiento en función de estándares internos previamente definidos",
+      "Requiere baremos poblacionales",
+      "Solo se aplica en contextos clínicos"
+    ],
+    "correcta": "Evalúa el rendimiento en función de estándares internos previamente definidos",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t22_3",
+    "tema": "Tema 22",
+    "pregunta": "Según Sundberg, Tyler y Taplin, el nivel IV de inferencia implica:",
+    "opciones": [
+      "Observación directa de la conducta",
+      "Asociación entre conductas observables",
+      "Inferencia de rasgos intrapsíquicos",
+      "Explicación teórica especulativa del comportamiento"
+    ],
+    "correcta": "Explicación teórica especulativa del comportamiento",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t22_4",
+    "tema": "Tema 22",
+    "pregunta": "¿Qué tipo de técnica presenta mayor susceptibilidad a la manipulación por parte del sujeto?",
+    "opciones": [
+      "Técnicas objetivas",
+      "Técnicas fisiológicas",
+      "Autoinformes",
+      "Observación estructurada"
+    ],
+    "correcta": "Autoinformes",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t22_5",
+    "tema": "Tema 22",
+    "pregunta": "En el análisis conductual, la latencia se refiere a:",
+    "opciones": [
+      "Número de veces que aparece una conducta",
+      "Tiempo que dura una conducta",
+      "Tiempo entre estímulo y respuesta",
+      "Intensidad de la respuesta"
+    ],
+    "correcta": "Tiempo entre estímulo y respuesta",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t22_6",
+    "tema": "Tema 22",
+    "pregunta": "El muestreo de intervalos se caracteriza por:",
+    "opciones": [
+      "Registrar cada aparición de la conducta",
+      "Evalué la conducta en momentos concretos",
+      "Determinar si la conducta ocurre en intervalos definidos",
+      "Analizar la intensidad de la conducta"
+    ],
+    "correcta": "Determinar si la conducta ocurre en intervalos definidos",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t22_7",
+    "tema": "Tema 22",
+    "pregunta": "¿Cuál de los siguientes elementos NO puede ser informado directamente por el sujeto en autoinformes?",
+    "opciones": [
+      "Pensamientos",
+      "Conductas motoras",
+      "Procesos automáticos",
+      "Emociones"
+    ],
+    "correcta": "Procesos automáticos",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t22_8",
+    "tema": "Tema 22",
+    "pregunta": "En los autoinformes, las respuestas ipsativas son propias de:",
+    "opciones": [
+      "Cuestionarios",
+      "Escalas Likert",
+      "Inventarios",
+      "Registros conductuales"
+    ],
+    "correcta": "Inventarios",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t22_9",
+    "tema": "Tema 22",
+    "pregunta": "¿Qué técnica subjetiva se basa en la teoría de los constructos personales de Kelly?",
+    "opciones": [
+      "Diferencial semántico",
+      "Técnica de la rejilla",
+      "ACL",
+      "Q-sort"
+    ],
+    "correcta": "Técnica de la rejilla",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t22_10",
+    "tema": "Tema 22",
+    "pregunta": "¿Cuál es una crítica fundamental a las técnicas proyectivas?",
+    "opciones": [
+      "Exceso de estructuración",
+      "Falta de variabilidad de respuestas",
+      "Baja validez científica",
+      "Elevada objetividad"
+    ],
+    "correcta": "Baja validez científica",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t22_11",
+    "tema": "Tema 22",
+    "pregunta": "¿Qué tipo de técnica proyectiva implica la construcción de historias?",
+    "opciones": [
+      "Estructural",
+      "Asociativa",
+      "Temática",
+      "Expresiva"
+    ],
+    "correcta": "Temática",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t22_12",
+    "tema": "Tema 22",
+    "pregunta": "La consistencia interna de un test se refiere a:",
+    "opciones": [
+      "Estabilidad temporal",
+      "Homogeneidad de los ítems",
+      "Concordancia entre evaluadores",
+      "Validez externa"
+    ],
+    "correcta": "Homogeneidad de los ítems",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t22_13",
+    "tema": "Tema 22",
+    "pregunta": "¿Qué coeficiente se utiliza habitualmente para medir consistencia interna?",
+    "opciones": [
+      "Kappa",
+      "Alfa de Cronbach",
+      "Correlación biserial",
+      "Coeficiente de Spearman-Brown"
+    ],
+    "correcta": "Alfa de Cronbach",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t22_14",
+    "tema": "Tema 22",
+    "pregunta": "La validez de criterio predictiva implica:",
+    "opciones": [
+      "Comparación simultánea",
+      "Evaluación del contenido",
+      "Predicción de conductas futuras",
+      "Relación interna entre ítems"
+    ],
+    "correcta": "Predicción de conductas futuras",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t22_15",
+    "tema": "Tema 22",
+    "pregunta": "¿Qué fenómeno describe la tendencia a responder “sí” sistemáticamente?",
+    "opciones": [
+      "Deseabilidad social",
+      "Aquiescencia",
+      "Simulación",
+      "Halo"
+    ],
+    "correcta": "Aquiescencia",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t22_16",
+    "tema": "Tema 22",
+    "pregunta": "La deseabilidad social implica:",
+    "opciones": [
+      "Manipulación consciente",
+      "Respuestas aleatorias",
+      "Ajuste a normas sociales deseables",
+      "Error de medición fisiológica"
+    ],
+    "correcta": "Ajuste a normas sociales deseables",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t22_17",
+    "tema": "Tema 22",
+    "pregunta": "¿Qué función de la entrevista implica ayudar al sujeto a entender su problema?",
+    "opciones": [
+      "Terapéutica",
+      "Motivadora",
+      "Clarificadora",
+      "Diagnóstica"
+    ],
+    "correcta": "Clarificadora",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t22_18",
+    "tema": "Tema 22",
+    "pregunta": "¿Qué tipo de entrevista se centra en el análisis funcional de la conducta?",
+    "opciones": [
+      "Dinámica",
+      "Fenomenológica",
+      "Conductual",
+      "Clínica"
+    ],
+    "correcta": "Conductual",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t22_19",
+    "tema": "Tema 22",
+    "pregunta": "El rapport pertenece a la fase:",
+    "opciones": [
+      "Desarrollo",
+      "Cierre",
+      "Inicial",
+      "Post-entrevista"
+    ],
+    "correcta": "Inicial",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t22_20",
+    "tema": "Tema 22",
+    "pregunta": "¿Qué tipo de entrevista permite mayor flexibilidad?",
+    "opciones": [
+      "Estructurada",
+      "Semiestructurada",
+      "Libre",
+      "Clínica"
+    ],
+    "correcta": "Libre",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t22_21",
+    "tema": "Tema 22",
+    "pregunta": "El sesgo de PROBING se produce cuando:",
+    "opciones": [
+      "El entrevistador interpreta",
+      "Se modifica la pregunta",
+      "Se induce una respuesta más completa",
+      "Se altera la secuencia"
+    ],
+    "correcta": "Se induce una respuesta más completa",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t22_22",
+    "tema": "Tema 22",
+    "pregunta": "El efecto Halo implica:",
+    "opciones": [
+      "Juicio basado en primera impresión",
+      "Generalización desde un rasgo destacado",
+      "Influencia cultural",
+      "Error en la secuencia"
+    ],
+    "correcta": "Generalización desde un rasgo destacado",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t22_23",
+    "tema": "Tema 22",
+    "pregunta": "Según Lambert, el mayor porcentaje del cambio terapéutico se debe a:",
+    "opciones": [
+      "Técnicas específicas",
+      "Relación terapéutica",
+      "Factores del paciente",
+      "Expectativas"
+    ],
+    "correcta": "Factores del paciente",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t22_24",
+    "tema": "Tema 22",
+    "pregunta": "Según Bordin, la alianza terapéutica incluye:",
+    "opciones": [
+      "Diagnóstico, tratamiento y seguimiento",
+      "Objetivos, tareas y vínculo",
+      "Empatía, congruencia y refuerzo",
+      "Evaluación, intervención y control"
+    ],
+    "correcta": "Objetivos, tareas y vínculo",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t22_25",
+    "tema": "Tema 22",
+    "pregunta": "¿Qué característica del terapeuta destacaba Carl Rogers?",
+    "opciones": [
+      "Neutralidad técnica",
+      "Interpretación constante",
+      "Empatía, congruencia y aceptación",
+      "Directividad"
+    ],
+    "correcta": "Empatía, congruencia y aceptación",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t24_1",
+    "tema": "Tema 24",
+    "pregunta": "El modelo conductual surge como alternativa al modelo médico en psicología clínica. ¿Cuál de las siguientes afirmaciones refleja mejor esta ruptura teórica?",
+    "opciones": [
+      "El modelo conductual niega la existencia de trastornos mentales como fenómeno psicológico",
+      "El modelo conductual propone que los trastornos son entidades biológicas claramente definidas",
+      "El modelo conductual entiende la conducta anormal como patrones aprendidos susceptibles de modificación",
+      "El modelo conductual se centra exclusivamente en procesos inconscientes"
+    ],
+    "correcta": "El modelo conductual entiende la conducta anormal como patrones aprendidos susceptibles de modificación",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t24_2",
+    "tema": "Tema 24",
+    "pregunta": "En el condicionamiento clásico, el papel del estímulo condicionado (EC) depende fundamentalmente de:",
+    "opciones": [
+      "Su intensidad física",
+      "Su capacidad para predecir el estímulo incondicionado",
+      "Su valor emocional previo",
+      "Su novedad absoluta"
+    ],
+    "correcta": "Su capacidad para predecir el estímulo incondicionado",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t24_3",
+    "tema": "Tema 24",
+    "pregunta": "¿Por qué el condicionamiento de demora es más eficaz que el simultáneo?",
+    "opciones": [
+      "Porque elimina la necesidad de repetición",
+      "Porque permite que el EC actúe como señal predictiva del EI",
+      "Porque reduce la intensidad del EI",
+      "Porque aumenta la respuesta incondicionada"
+    ],
+    "correcta": "Porque permite que el EC actúe como señal predictiva del EI",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t24_4",
+    "tema": "Tema 24",
+    "pregunta": "En el condicionamiento operante, una conducta se mantiene a lo largo del tiempo cuando:",
+    "opciones": [
+      "Es aprendida una sola vez correctamente",
+      "Se acompaña de consecuencias consistentes en diferentes contextos",
+      "Se presenta sin estímulos antecedentes",
+      "Depende exclusivamente de factores internos"
+    ],
+    "correcta": "Se acompaña de consecuencias consistentes en diferentes contextos",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t24_5",
+    "tema": "Tema 24",
+    "pregunta": "El concepto de contingencia en el condicionamiento operante implica:",
+    "opciones": [
+      "Una relación fija y determinista entre estímulo y respuesta",
+      "Una relación probabilística entre conducta, antecedentes y consecuencias",
+      "La eliminación de variables ambientales",
+      "La dependencia exclusiva de la motivación interna"
+    ],
+    "correcta": "Una relación probabilística entre conducta, antecedentes y consecuencias",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t24_6",
+    "tema": "Tema 24",
+    "pregunta": "Según el principio de Premack, en una situación en la que un niño prefiere jugar antes que estudiar:",
+    "opciones": [
+      "El estudio puede reforzar el juego",
+      "El juego puede reforzar el estudio",
+      "Ambas conductas se extinguen",
+      "Ninguna conducta puede actuar como reforzador"
+    ],
+    "correcta": "El juego puede reforzar el estudio",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t24_7",
+    "tema": "Tema 24",
+    "pregunta": "La extinción en condicionamiento clásico se interpreta actualmente como:",
+    "opciones": [
+      "Eliminación completa de la asociación aprendida",
+      "Sustitución de la respuesta por otra incompatible",
+      "Aprendizaje de una nueva relación entre el EC y la ausencia del EI",
+      "Proceso de castigo encubierto"
+    ],
+    "correcta": "Aprendizaje de una nueva relación entre el EC y la ausencia del EI",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t24_8",
+    "tema": "Tema 24",
+    "pregunta": "En el aprendizaje observacional, el refuerzo vicario es relevante porque:",
+    "opciones": [
+      "Sustituye completamente al refuerzo directo",
+      "Permite aprender sin ejecutar la conducta",
+      "Elimina la necesidad de atención",
+      "Reduce la retención de la conducta"
+    ],
+    "correcta": "Permite aprender sin ejecutar la conducta",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t24_9",
+    "tema": "Tema 24",
+    "pregunta": "¿Qué proceso es imprescindible para que una conducta observada llegue a ejecutarse posteriormente?",
+    "opciones": [
+      "Motivación",
+      "Atención",
+      "Retención",
+      "Todos los anteriores"
+    ],
+    "correcta": "Todos los anteriores",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t24_10",
+    "tema": "Tema 24",
+    "pregunta": "Respecto a las características del modelo en el aprendizaje observacional, ¿cuál favorece más la imitación?",
+    "opciones": [
+      "Gran distancia en estatus",
+      "Baja competencia",
+      "Alta similitud con el observador",
+      "Conducta ambigua"
+    ],
+    "correcta": "Alta similitud con el observador",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t24_11",
+    "tema": "Tema 24",
+    "pregunta": "El moldeamiento es especialmente útil cuando:",
+    "opciones": [
+      "La conducta objetivo ya existe completamente",
+      "La conducta no está presente en el repertorio del sujeto",
+      "Se desea eliminar una conducta",
+      "Se aplica castigo"
+    ],
+    "correcta": "La conducta no está presente en el repertorio del sujeto",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t24_12",
+    "tema": "Tema 24",
+    "pregunta": "En el encadenamiento hacia atrás, el aprendizaje se facilita porque:",
+    "opciones": [
+      "Se elimina el refuerzo",
+      "El último paso está directamente asociado al reforzador",
+      "Se aprende sin práctica",
+      "No requiere instrucciones"
+    ],
+    "correcta": "El último paso está directamente asociado al reforzador",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t24_13",
+    "tema": "Tema 24",
+    "pregunta": "El reforzamiento diferencial de conductas incompatibles (RDI) es eficaz porque:",
+    "opciones": [
+      "Elimina todos los reforzadores",
+      "Refuerza conductas que no pueden coexistir con la conducta problema",
+      "Aplica castigo indirecto",
+      "Reduce la motivación"
+    ],
+    "correcta": "Refuerza conductas que no pueden coexistir con la conducta problema",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t24_14",
+    "tema": "Tema 24",
+    "pregunta": "Una de las principales dificultades en la aplicación de la extinción es que:",
+    "opciones": [
+      "Es inmediata",
+      "Produce un incremento inicial de la conducta",
+      "No afecta a la conducta",
+      "No requiere análisis funcional"
+    ],
+    "correcta": "Produce un incremento inicial de la conducta",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t24_15",
+    "tema": "Tema 24",
+    "pregunta": "El estallido de extinción tiene implicaciones clínicas porque:",
+    "opciones": [
+      "Indica fracaso terapéutico",
+      "Puede provocar abandono del tratamiento si no se anticipa",
+      "Reduce la conducta inmediatamente",
+      "Sustituye al reforzamiento"
+    ],
+    "correcta": "Puede provocar abandono del tratamiento si no se anticipa",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t24_16",
+    "tema": "Tema 24",
+    "pregunta": "El castigo, desde una perspectiva operante, solo se considera tal cuando:",
+    "opciones": [
+      "Es percibido como desagradable",
+      "Reduce la probabilidad de la conducta",
+      "Es aplicado por una figura de autoridad",
+      "Es intenso"
+    ],
+    "correcta": "Reduce la probabilidad de la conducta",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t24_17",
+    "tema": "Tema 24",
+    "pregunta": "El tiempo fuera es eficaz siempre que:",
+    "opciones": [
+      "Permita acceso a reforzadores",
+      "Sea breve, contingente y sin escape",
+      "Sea prolongado indefinidamente",
+      "Se combine con castigo físico"
+    ],
+    "correcta": "Sea breve, contingente y sin escape",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t24_18",
+    "tema": "Tema 24",
+    "pregunta": "La economía de fichas es especialmente útil porque:",
+    "opciones": [
+      "Sustituye cualquier otro tratamiento",
+      "Permite administrar reforzadores de forma inmediata y flexible",
+      "Elimina la motivación",
+      "No requiere planificación"
+    ],
+    "correcta": "Permite administrar reforzadores de forma inmediata y flexible",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t24_19",
+    "tema": "Tema 24",
+    "pregunta": "Los programas de reforzamiento intermitente generan mayor resistencia a la extinción porque:",
+    "opciones": [
+      "Eliminan la conducta",
+      "Hacen impredecible la aparición del refuerzo",
+      "Reducen la motivación",
+      "Aumentan el castigo"
+    ],
+    "correcta": "Hacen impredecible la aparición del refuerzo",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t24_20",
+    "tema": "Tema 24",
+    "pregunta": "La desensibilización sistemática se fundamenta originalmente en:",
+    "opciones": [
+      "Refuerzo positivo",
+      "Inhibición recíproca",
+      "Castigo negativo",
+      "Modelado"
+    ],
+    "correcta": "Inhibición recíproca",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t26_1",
+    "tema": "Tema 26",
+    "pregunta": "En el marco de la Psicología de la Intervención Social, la superación del enfoque basado en el déficit implica que:",
+    "opciones": [
+      "Se abandona completamente la evaluación de problemas sociales.",
+      "Se prioriza exclusivamente la intervención clínica individual.",
+      "Se orienta la intervención hacia el desarrollo de capacidades, prevención y mejora de la calidad de vida.",
+      "Se reduce la intervención a contextos institucionales."
+    ],
+    "correcta": "Se orienta la intervención hacia el desarrollo de capacidades, prevención y mejora de la calidad de vida.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t26_2",
+    "tema": "Tema 26",
+    "pregunta": "La intervención social multinivel se caracteriza por:",
+    "opciones": [
+      "Actuar únicamente sobre individuos aislados.",
+      "Intervenir simultáneamente en niveles estructurales, comunitarios e individuales.",
+      "Evitar la intervención en políticas públicas.",
+      "Limitarse a la intervención grupal."
+    ],
+    "correcta": "Intervenir simultáneamente en niveles estructurales, comunitarios e individuales.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t26_3",
+    "tema": "Tema 26",
+    "pregunta": "En psicología comunitaria, el psicólogo es considerado principalmente:",
+    "opciones": [
+      "Un experto externo que impone soluciones.",
+      "Un agente de cambio que facilita procesos participativos.",
+      "Un técnico que ejecuta programas sin interacción.",
+      "Un evaluador independiente sin implicación social."
+    ],
+    "correcta": "Un agente de cambio que facilita procesos participativos.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t26_4",
+    "tema": "Tema 26",
+    "pregunta": "El cambio social participativo implica:",
+    "opciones": [
+      "Transformaciones impuestas desde instituciones sin participación ciudadana.",
+      "Modificaciones estructurales sin impacto en la vida cotidiana.",
+      "Alteraciones en estructuras sociales con participación activa de los miembros de la comunidad.",
+      "Cambios exclusivamente económicos."
+    ],
+    "correcta": "Alteraciones en estructuras sociales con participación activa de los miembros de la comunidad.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t26_5",
+    "tema": "Tema 26",
+    "pregunta": "La investigación en psicología comunitaria se orienta prioritariamente a:",
+    "opciones": [
+      "La validación de teorías sin aplicación práctica.",
+      "La resolución de problemas sociales mediante integración teoría-práctica.",
+      "La experimentación en laboratorio.",
+      "La observación pasiva."
+    ],
+    "correcta": "La resolución de problemas sociales mediante integración teoría-práctica.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t26_6",
+    "tema": "Tema 26",
+    "pregunta": "El concepto de necesidad social implica:",
+    "opciones": [
+      "Una realidad objetiva independiente del contexto.",
+      "Una construcción absoluta determinada por expertos.",
+      "Una discrepancia entre situación real y deseada influida por valores.",
+      "Un fenómeno exclusivamente individual."
+    ],
+    "correcta": "Una discrepancia entre situación real y deseada influida por valores.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t26_7",
+    "tema": "Tema 26",
+    "pregunta": "Según Bradshaw, la necesidad normativa:",
+    "opciones": [
+      "Es definida por la percepción subjetiva de los individuos.",
+      "Surge de comparaciones entre grupos.",
+      "Es establecida por expertos según estándares.",
+      "Es la que se expresa mediante demanda."
+    ],
+    "correcta": "Es establecida por expertos según estándares.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t26_8",
+    "tema": "Tema 26",
+    "pregunta": "En el proceso de intervención comunitaria, la participación ciudadana es clave porque:",
+    "opciones": [
+      "Reduce costes económicos exclusivamente.",
+      "Garantiza la adecuación de la intervención a las necesidades reales.",
+      "Sustituye la evaluación técnica.",
+      "Elimina la necesidad de planificación."
+    ],
+    "correcta": "Garantiza la adecuación de la intervención a las necesidades reales.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t26_9",
+    "tema": "Tema 26",
+    "pregunta": "La evaluación de proceso en la intervención comunitaria permite:",
+    "opciones": [
+      "Medir únicamente resultados finales.",
+      "Analizar el desarrollo y funcionamiento del programa durante su ejecución.",
+      "Sustituir la evaluación inicial.",
+      "Evitar modificaciones en la intervención."
+    ],
+    "correcta": "Analizar el desarrollo y funcionamiento del programa durante su ejecución.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t26_10",
+    "tema": "Tema 26",
+    "pregunta": "La intervención psicosocial requiere un enfoque interdisciplinar debido a:",
+    "opciones": [
+      "La simplicidad de los problemas sociales.",
+      "La complejidad de los factores implicados.",
+      "La falta de modelos teóricos.",
+      "La exclusividad del enfoque psicológico."
+    ],
+    "correcta": "La complejidad de los factores implicados.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t26_11",
+    "tema": "Tema 26",
+    "pregunta": "El dominio interpersonal en intervención psicosocial se centra en:",
+    "opciones": [
+      "Procesos cognitivos individuales.",
+      "Relaciones entre personas y su mejora.",
+      "Estructuras políticas.",
+      "Factores económicos."
+    ],
+    "correcta": "Relaciones entre personas y su mejora.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t26_12",
+    "tema": "Tema 26",
+    "pregunta": "Una de las barreras principales en intervención psicosocial es:",
+    "opciones": [
+      "La ausencia de recursos metodológicos.",
+      "La dificultad de acceso a poblaciones vulnerables.",
+      "El exceso de participación comunitaria.",
+      "La falta de teorías."
+    ],
+    "correcta": "La dificultad de acceso a poblaciones vulnerables.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t26_13",
+    "tema": "Tema 26",
+    "pregunta": "En el modelo de Dohrenwend, los mediadores situacionales incluyen:",
+    "opciones": [
+      "Rasgos de personalidad exclusivamente.",
+      "Factores biológicos.",
+      "Elementos externos como apoyo social.",
+      "Procesos cognitivos únicamente."
+    ],
+    "correcta": "Elementos externos como apoyo social.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t26_14",
+    "tema": "Tema 26",
+    "pregunta": "El modelo de bienestar de Lin y Ensel integra:",
+    "opciones": [
+      "Factores sociales, fisiológicos y psicológicos.",
+      "Solo variables económicas.",
+      "Factores individuales aislados.",
+      "Variables culturales exclusivamente."
+    ],
+    "correcta": "Factores sociales, fisiológicos y psicológicos.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t26_15",
+    "tema": "Tema 26",
+    "pregunta": "En la perspectiva ecológica, la adaptación implica:",
+    "opciones": [
+      "Cambios en el entorno únicamente.",
+      "Ajustes conductuales en función de los recursos disponibles.",
+      "Eliminación de estresores.",
+      "Reducción de interacción social."
+    ],
+    "correcta": "Ajustes conductuales en función de los recursos disponibles.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t26_16",
+    "tema": "Tema 26",
+    "pregunta": "El mesosistema en el modelo de Bronfenbrenner hace referencia a:",
+    "opciones": [
+      "Entornos inmediatos del individuo.",
+      "Interacciones entre microsistemas.",
+      "Factores culturales globales.",
+      "Cambios a lo largo del tiempo."
+    ],
+    "correcta": "Interacciones entre microsistemas.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t26_17",
+    "tema": "Tema 26",
+    "pregunta": "El cronosistema introduce:",
+    "opciones": [
+      "La influencia del espacio físico.",
+      "La dimensión temporal en el desarrollo.",
+      "Factores económicos.",
+      "Relaciones interpersonales."
+    ],
+    "correcta": "La dimensión temporal en el desarrollo.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t26_18",
+    "tema": "Tema 26",
+    "pregunta": "El empowerment como proceso implica:",
+    "opciones": [
+      "Resultados finales únicamente.",
+      "Desarrollo de habilidades y acceso a recursos.",
+      "Evaluación externa.",
+      "Intervención institucional."
+    ],
+    "correcta": "Desarrollo de habilidades y acceso a recursos.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t26_19",
+    "tema": "Tema 26",
+    "pregunta": "El componente intrapersonal del empowerment se relaciona con:",
+    "opciones": [
+      "Recursos económicos.",
+      "Percepción de control y autoeficacia.",
+      "Redes sociales.",
+      "Normas culturales."
+    ],
+    "correcta": "Percepción de control y autoeficacia.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t26_20",
+    "tema": "Tema 26",
+    "pregunta": "En el modelo de Fawcett, los facilitadores ambientales incluyen:",
+    "opciones": [
+      "Discriminación.",
+      "Falta de recursos.",
+      "Apoyo social e información.",
+      "Barreras estructurales."
+    ],
+    "correcta": "Apoyo social e información.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t26_21",
+    "tema": "Tema 26",
+    "pregunta": "La intervención comunitaria integral implica:",
+    "opciones": [
+      "Abordar un único aspecto del problema.",
+      "Integrar dimensiones sociales, psicológicas y económicas.",
+      "Evitar coordinación interdisciplinar.",
+      "Centrarse en individuos."
+    ],
+    "correcta": "Integrar dimensiones sociales, psicológicas y económicas.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t26_22",
+    "tema": "Tema 26",
+    "pregunta": "El rol del psicólogo comunitario se transforma porque:",
+    "opciones": [
+      "Pierde relevancia técnica.",
+      "Actúa como facilitador y colaborador.",
+      "Se limita a la evaluación.",
+      "Se centra en diagnóstico clínico."
+    ],
+    "correcta": "Actúa como facilitador y colaborador.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t26_23",
+    "tema": "Tema 26",
+    "pregunta": "La prevención primaria en intervención social busca:",
+    "opciones": [
+      "Tratar problemas ya existentes.",
+      "Evitar la aparición de problemas.",
+      "Reducir recaídas.",
+      "Evaluar resultados."
+    ],
+    "correcta": "Evitar la aparición de problemas.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t26_24",
+    "tema": "Tema 26",
+    "pregunta": "El análisis de necesidades en intervención comunitaria debe:",
+    "opciones": [
+      "Basarse en una única fuente.",
+      "Evitar juicios de valor.",
+      "Combinar múltiples fuentes y perspectivas.",
+      "Centrarse solo en expertos."
+    ],
+    "correcta": "Combinar múltiples fuentes y perspectivas.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t26_25",
+    "tema": "Tema 26",
+    "pregunta": "La diseminación de resultados tiene como objetivo principal:",
+    "opciones": [
+      "Finalizar el proceso sin retorno.",
+      "Compartir aprendizajes y favorecer replicabilidad.",
+      "Evitar la participación comunitaria.",
+      "Sustituir la evaluación final."
+    ],
+    "correcta": "Compartir aprendizajes y favorecer replicabilidad.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t59_1",
+    "tema": "Tema 59",
+    "pregunta": "Desde una perspectiva técnica y evolutiva, el maltrato infantil se define fundamentalmente por:",
+    "opciones": [
+      "La intencionalidad del adulto en causar daño al menor.",
+      "La presencia de conductas parentales inadecuadas independientemente de sus efectos.",
+      "Las consecuencias reales o potenciales sobre el desarrollo del menor y sus necesidades no atendidas.",
+      "La frecuencia de las conductas agresivas."
+    ],
+    "correcta": "Las consecuencias reales o potenciales sobre el desarrollo del menor y sus necesidades no atendidas.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t59_2",
+    "tema": "Tema 59",
+    "pregunta": "El criterio evolutivo en la valoración del maltrato implica que:",
+    "opciones": [
+      "Todas las conductas parentales se valoran igual en cualquier edad.",
+      "La gravedad del maltrato depende del contexto cultural únicamente.",
+      "La valoración depende de la edad del menor y sus necesidades evolutivas.",
+      "Solo se consideran las consecuencias físicas."
+    ],
+    "correcta": "La valoración depende de la edad del menor y sus necesidades evolutivas.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t59_3",
+    "tema": "Tema 59",
+    "pregunta": "La negligencia se diferencia del maltrato físico principalmente porque:",
+    "opciones": [
+      "No produce consecuencias psicológicas.",
+      "Implica una omisión en la atención de necesidades básicas del menor.",
+      "Es siempre intencional.",
+      "Solo ocurre en contextos institucionales."
+    ],
+    "correcta": "Implica una omisión en la atención de necesidades básicas del menor.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t59_4",
+    "tema": "Tema 59",
+    "pregunta": "El abandono emocional se caracteriza por:",
+    "opciones": [
+      "Conductas agresivas directas.",
+      "Uso de castigos físicos reiterados.",
+      "Ausencia persistente de respuesta a las necesidades emocionales del menor.",
+      "Falta de recursos económicos."
+    ],
+    "correcta": "Ausencia persistente de respuesta a las necesidades emocionales del menor.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t59_5",
+    "tema": "Tema 59",
+    "pregunta": "En el marco normativo español, el principio del interés superior del menor se recoge principalmente en:",
+    "opciones": [
+      "Código Penal.",
+      "Convención sobre los Derechos del Niño.",
+      "Estatuto de los Trabajadores.",
+      "Ley de Educación."
+    ],
+    "correcta": "Convención sobre los Derechos del Niño.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t59_6",
+    "tema": "Tema 59",
+    "pregunta": "Las situaciones de riesgo se caracterizan por:",
+    "opciones": [
+      "La imposibilidad de intervención administrativa.",
+      "La necesidad de separación inmediata del menor.",
+      "La existencia de circunstancias que pueden perjudicar el desarrollo del menor.",
+      "La presencia exclusiva de daño físico."
+    ],
+    "correcta": "La existencia de circunstancias que pueden perjudicar el desarrollo del menor.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t59_7",
+    "tema": "Tema 59",
+    "pregunta": "El objetivo principal de la intervención administrativa en situaciones de riesgo es:",
+    "opciones": [
+      "Judicializar todos los casos.",
+      "Sustituir a la familia.",
+      "Mejorar el entorno familiar con la colaboración de los progenitores.",
+      "Aplicar sanciones."
+    ],
+    "correcta": "Mejorar el entorno familiar con la colaboración de los progenitores.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t59_8",
+    "tema": "Tema 59",
+    "pregunta": "Según la Ley Orgánica 1/1996, una situación de riesgo se define como:",
+    "opciones": [
+      "Una situación de daño irreversible.",
+      "Circunstancias que pueden perjudicar el desarrollo del menor.",
+      "Situaciones con delito probado.",
+      "Situaciones judicializadas."
+    ],
+    "correcta": "Circunstancias que pueden perjudicar el desarrollo del menor.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t59_9",
+    "tema": "Tema 59",
+    "pregunta": "En situaciones de riesgo, la intervención administrativa tiene como objetivo principal:",
+    "opciones": [
+      "Separar al menor de su familia.",
+      "Sancionar a los padres.",
+      "Mejorar el entorno familiar con colaboración parental.",
+      "Judicializar el caso."
+    ],
+    "correcta": "Mejorar el entorno familiar con colaboración parental.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t59_10",
+    "tema": "Tema 59",
+    "pregunta": "El instrumento de intervención en situaciones de riesgo en Madrid es:",
+    "opciones": [
+      "Plan judicial.",
+      "El Plan Individual de Protección (PIP).",
+      "El Proyecto de Intervención Social y Educativo Familiar (PISEF).",
+      "Informe clínico."
+    ],
+    "correcta": "El Proyecto de Intervención Social y Educativo Familiar (PISEF).",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t59_11",
+    "tema": "Tema 59",
+    "pregunta": "El Plan Individual de Protección (PIP) se aplica en situaciones de:",
+    "opciones": [
+      "Riesgo leve.",
+      "Desamparo.",
+      "Prevención primaria.",
+      "Educación escolar."
+    ],
+    "correcta": "Desamparo.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t59_12",
+    "tema": "Tema 59",
+    "pregunta": "Cuando se trata de personas menores de 14 años en situación de conflicto con la ley, el instrumento de intervención previsto es:",
+    "opciones": [
+      "El Proyecto de Intervención Social y Educativo Familiar (PISEF).",
+      "El Plan Individual de Protección (PIP).",
+      "El Plan de seguimiento.",
+      "El Informe psicosocial de valoración."
+    ],
+    "correcta": "El Plan de seguimiento.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t59_13",
+    "tema": "Tema 59",
+    "pregunta": "En la teoría del procesamiento de la información social, el maltrato se explica por:",
+    "opciones": [
+      "Falta de recursos económicos.",
+      "Problemas biológicos.",
+      "Errores en la interpretación de la conducta del niño.",
+      "Factores culturales exclusivamente."
+    ],
+    "correcta": "Errores en la interpretación de la conducta del niño.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t59_14",
+    "tema": "Tema 59",
+    "pregunta": "¿Cuál de las siguientes afirmaciones describe con mayor precisión la función del instrumento VALORA en el sistema de protección a la infancia en la Comunidad de Madrid?",
+    "opciones": [
+      "Es una prueba psicométrica destinada exclusivamente a evaluar el desarrollo cognitivo del menor en situaciones de riesgo.",
+      "Es un instrumento estructurado utilizado para valorar la gravedad de la desprotección infantil y apoyar la toma de decisiones técnicas en el sistema de protección.",
+      "Es un cuestionario clínico dirigido únicamente a diagnosticar trastornos psicológicos en los progenitores.",
+      "Es una herramienta educativa diseñada para la formación de padres en programas de parentalidad positiva."
+    ],
+    "correcta": "Es un instrumento estructurado utilizado para valorar la gravedad de la desprotección infantil y apoyar la toma de decisiones técnicas en el sistema de protección.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t59_15",
+    "tema": "Tema 59",
+    "pregunta": "El instrumento CUIDA evalúa principalmente:",
+    "opciones": [
+      "Desarrollo cognitivo infantil.",
+      "Competencias de cuidado en adultos.",
+      "Problemas emocionales del menor.",
+      "Relaciones escolares."
+    ],
+    "correcta": "Competencias de cuidado en adultos.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t59_16",
+    "tema": "Tema 59",
+    "pregunta": "El ASEBA permite evaluar:",
+    "opciones": [
+      "Desarrollo motor exclusivamente.",
+      "Problemas emocionales y conductuales.",
+      "Inteligencia general.",
+      "Apego exclusivamente."
+    ],
+    "correcta": "Problemas emocionales y conductuales.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t59_17",
+    "tema": "Tema 59",
+    "pregunta": "En la entrevista psicológica con menores en contextos de sospecha de maltrato, una práctica adecuada desde el punto de vista técnico y legal es:",
+    "opciones": [
+      "Formular preguntas cerradas desde el inicio para obtener información precisa y reducir ambigüedades.",
+      "Utilizar un estilo directivo que permita confirmar rápidamente las hipótesis del profesional.",
+      "Favorecer el relato libre mediante preguntas abiertas, evitando la sugestión y adaptando el lenguaje al nivel evolutivo del menor.",
+      "Repetir el interrogatorio en varias ocasiones para garantizar la fiabilidad del testimonio."
+    ],
+    "correcta": "Favorecer el relato libre mediante preguntas abiertas, evitando la sugestión y adaptando el lenguaje al nivel evolutivo del menor.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t59_18",
+    "tema": "Tema 59",
+    "pregunta": "La evaluación de la interacción familiar permite analizar:",
+    "opciones": [
+      "Solo conductas del menor.",
+      "Dinámica relacional y vínculo afectivo.",
+      "Nivel económico.",
+      "Variables institucionales."
+    ],
+    "correcta": "Dinámica relacional y vínculo afectivo.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t59_19",
+    "tema": "Tema 59",
+    "pregunta": "El principio de preservación familiar implica:",
+    "opciones": [
+      "Separar siempre al menor.",
+      "Mantener al menor en su familia si es compatible con su bienestar.",
+      "Evitar intervención.",
+      "Priorizar a los padres."
+    ],
+    "correcta": "Mantener al menor en su familia si es compatible con su bienestar.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t59_20",
+    "tema": "Tema 59",
+    "pregunta": "Un indicador de buen pronóstico en capacitación parental es:",
+    "opciones": [
+      "Negación del problema.",
+      "Motivación de cambio.",
+      "Rechazo a la intervención.",
+      "Violencia elevada."
+    ],
+    "correcta": "Motivación de cambio.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t59_21",
+    "tema": "Tema 59",
+    "pregunta": "El modelo de experto en intervención familiar se caracteriza por:",
+    "opciones": [
+      "Participación activa de los padres.",
+      "Relación horizontal.",
+      "Control del profesional y escasa participación parental.",
+      "Flexibilidad total."
+    ],
+    "correcta": "Control del profesional y escasa participación parental.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t59_22",
+    "tema": "Tema 59",
+    "pregunta": "En la intervención con menores, uno de los objetivos clave es:",
+    "opciones": [
+      "Aumentar la dependencia.",
+      "Fomentar apego seguro y relaciones positivas.",
+      "Evitar relaciones sociales.",
+      "Centrarse solo en el rendimiento académico."
+    ],
+    "correcta": "Fomentar apego seguro y relaciones positivas.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t59_23",
+    "tema": "Tema 59",
+    "pregunta": "El abuso sexual infantil se define como:",
+    "opciones": [
+      "Solo contacto físico con violencia.",
+      "Cualquier interacción sexual con menor con abuso de poder.",
+      "Solo penetración.",
+      "Solo cuando hay lesiones."
+    ],
+    "correcta": "Cualquier interacción sexual con menor con abuso de poder.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t59_24",
+    "tema": "Tema 59",
+    "pregunta": "Un indicador altamente específico de abuso sexual es:",
+    "opciones": [
+      "Bajo rendimiento escolar.",
+      "Ansiedad.",
+      "Revelación directa del menor.",
+      "Problemas de sueño."
+    ],
+    "correcta": "Revelación directa del menor.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t59_25",
+    "tema": "Tema 59",
+    "pregunta": "La intervención más respaldada empíricamente en abuso sexual infantil es:",
+    "opciones": [
+      "Terapia psicoanalítica.",
+      "Terapia cognitivo-conductual focalizada en trauma (TF-CBT).",
+      "Terapia humanista.",
+      "Terapia sistémica exclusivamente."
+    ],
+    "correcta": "Terapia cognitivo-conductual focalizada en trauma (TF-CBT).",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t60_1",
+    "tema": "Tema 60",
+    "pregunta": "En el sistema de protección de menores de la Comunidad de Madrid, el acogimiento residencial se configura como una medida de carácter subsidiario respecto al acogimiento familiar. Desde una perspectiva técnico-jurídica y psicológica, ¿cuál de las siguientes afirmaciones explica mejor esta subsidiariedad?",
+    "opciones": [
+      "El acogimiento residencial es menos eficaz porque no permite intervención psicológica estructurada sobre el menor.",
+      "La prioridad del entorno familiar se fundamenta en la necesidad de garantizar vínculos estables y personalizados, limitándose la institucionalización por sus posibles efectos en el desarrollo afectivo y vincular del menor.",
+      "El acogimiento residencial se utiliza exclusivamente en situaciones judicializadas, mientras que el familiar se aplica en contextos administrativos.",
+      "La normativa prohíbe el acogimiento residencial en todos los casos salvo en adolescentes."
+    ],
+    "correcta": "La prioridad del entorno familiar se fundamenta en la necesidad de garantizar vínculos estables y personalizados, limitándose la institucionalización por sus posibles efectos en el desarrollo afectivo y vincular del menor.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t60_2",
+    "tema": "Tema 60",
+    "pregunta": "En relación con el concepto jurídico de desamparo y sus consecuencias en el sistema de protección de menores, ¿cuál de las siguientes afirmaciones refleja con mayor precisión la función de la tutela administrativa?",
+    "opciones": [
+      "Constituye una medida de intervención directa que sustituye cualquier otra actuación protectora.",
+      "Es un instrumento técnico de evaluación que permite valorar la idoneidad de las familias acogedoras.",
+      "Actúa como título jurídico que legitima la intervención de la Administración, a partir del cual se determinan las medidas concretas de protección, como el acogimiento o la adopción.",
+      "Se limita a la supervisión de los servicios sociales sin capacidad de decisión."
+    ],
+    "correcta": "Actúa como título jurídico que legitima la intervención de la Administración, a partir del cual se determinan las medidas concretas de protección, como el acogimiento o la adopción.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t60_3",
+    "tema": "Tema 60",
+    "pregunta": "Desde la perspectiva de la intervención psicológica en acogimiento residencial, ¿cuál de los siguientes planteamientos se ajusta mejor al modelo actual de protección centrado en el menor?",
+    "opciones": [
+      "La intervención debe centrarse prioritariamente en el control conductual y el cumplimiento de normas dentro del centro.",
+      "El objetivo principal es la custodia del menor hasta la mayoría de edad, evitando intervenciones que puedan generar inestabilidad emocional.",
+      "La intervención se articula como un proceso integral orientado a la reparación del daño, el desarrollo de vínculos seguros, la regulación emocional y la construcción de una identidad personal coherente.",
+      "La intervención psicológica es secundaria respecto a la educativa, limitándose a casos de trastorno mental diagnosticado."
+    ],
+    "correcta": "La intervención se articula como un proceso integral orientado a la reparación del daño, el desarrollo de vínculos seguros, la regulación emocional y la construcción de una identidad personal coherente.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t60_4",
+    "tema": "Tema 60",
+    "pregunta": "En el acogimiento familiar temporal, la intervención psicológica se caracteriza por la coexistencia de vínculos con la familia de origen y la familia acogedora. ¿Cuál de las siguientes afirmaciones refleja mejor las implicaciones de esta situación?",
+    "opciones": [
+      "El objetivo es sustituir progresivamente el vínculo con la familia biológica por el de la familia acogedora.",
+      "La intervención debe evitar el contacto con la familia biológica para reducir la confusión emocional del menor.",
+      "Es necesario trabajar los conflictos de lealtad, legitimando ambas relaciones y favoreciendo la integración emocional de los distintos vínculos significativos.",
+      "La familia acogedora debe asumir un rol exclusivamente funcional, sin implicación afectiva."
+    ],
+    "correcta": "Es necesario trabajar los conflictos de lealtad, legitimando ambas relaciones y favoreciendo la integración emocional de los distintos vínculos significativos.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t60_5",
+    "tema": "Tema 60",
+    "pregunta": "En relación con el seguimiento técnico en el acogimiento familiar, ¿cuál de las siguientes afirmaciones describe con mayor precisión su función dentro del sistema de protección?",
+    "opciones": [
+      "Se limita a verificar el cumplimiento de requisitos administrativos sin intervención directa sobre el caso.",
+      "Constituye un proceso dinámico de evaluación, acompañamiento e intervención que permite ajustar la medida a la evolución del menor y de las familias implicadas.",
+      "Tiene carácter exclusivamente inicial, desapareciendo una vez formalizado el acogimiento.",
+      "Su única finalidad es controlar a la familia acogedora para prevenir incumplimientos."
+    ],
+    "correcta": "Constituye un proceso dinámico de evaluación, acompañamiento e intervención que permite ajustar la medida a la evolución del menor y de las familias implicadas.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t60_6",
+    "tema": "Tema 60",
+    "pregunta": "En el marco del sistema de protección de menores, los principios rectores de la actuación administrativa cumplen una función esencial. ¿Cuál de las siguientes afirmaciones refleja mejor su aplicación práctica?",
+    "opciones": [
+      "Operan como orientaciones generales sin efectos directos en la toma de decisiones técnicas.",
+      "Se aplican exclusivamente en la fase judicial del procedimiento de protección.",
+      "Actúan como criterios vinculantes que guían la interpretación, la decisión y la ponderación de las medidas en función del interés superior del menor.",
+      "Se limitan a regular la organización interna de los servicios sociales."
+    ],
+    "correcta": "Actúan como criterios vinculantes que guían la interpretación, la decisión y la ponderación de las medidas en función del interés superior del menor.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t60_7",
+    "tema": "Tema 60",
+    "pregunta": "En relación con la Comisión de Tutela del Menor en la Comunidad de Madrid, ¿cuál de las siguientes afirmaciones describe con mayor precisión su función dentro del sistema de protección?",
+    "opciones": [
+      "Es un órgano meramente consultivo sin capacidad de decisión.",
+      "Centraliza las decisiones de protección mediante un funcionamiento colegiado, garantizando la motivación, coordinación y control técnico de las medidas adoptadas.",
+      "Actúa únicamente en situaciones de urgencia sin intervenir en expedientes ordinarios.",
+      "Su función principal es la ejecución directa de programas de intervención psicológica."
+    ],
+    "correcta": "Centraliza las decisiones de protección mediante un funcionamiento colegiado, garantizando la motivación, coordinación y control técnico de las medidas adoptadas.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t60_8",
+    "tema": "Tema 60",
+    "pregunta": "Desde la perspectiva psicológica, uno de los principales retos del acogimiento residencial es la gestión de los efectos de la institucionalización. ¿Cuál de las siguientes afirmaciones refleja mejor este problema?",
+    "opciones": [
+      "La institucionalización elimina completamente los efectos del maltrato previo.",
+      "El entorno residencial favorece automáticamente la creación de vínculos afectivos estables equivalentes a los familiares.",
+      "Puede dificultar la creación de relaciones afectivas profundas y la percepción de pertenencia, lo que exige una intervención específica orientada a la reparación vincular.",
+      "Solo afecta a menores con trastornos previos."
+    ],
+    "correcta": "Puede dificultar la creación de relaciones afectivas profundas y la percepción de pertenencia, lo que exige una intervención específica orientada a la reparación vincular.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t60_9",
+    "tema": "Tema 60",
+    "pregunta": "En relación con la planificación de la intervención en acogimiento residencial, la introducción del plan individualizado de protección tiene como principal finalidad:",
+    "opciones": [
+      "Sustituir la intervención educativa por una planificación administrativa.",
+      "Garantizar la permanencia del menor en el centro hasta la mayoría de edad.",
+      "Evitar la permanencia pasiva del menor en el sistema, estructurando objetivos, plazos y estrategias de intervención.",
+      "Limitar la intervención a aspectos jurídicos."
+    ],
+    "correcta": "Evitar la permanencia pasiva del menor en el sistema, estructurando objetivos, plazos y estrategias de intervención.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t60_10",
+    "tema": "Tema 60",
+    "pregunta": "En el acogimiento familiar permanente, la intervención psicológica presenta características específicas respecto a otras modalidades. ¿Cuál de las siguientes afirmaciones se ajusta mejor a este enfoque?",
+    "opciones": [
+      "Se centra exclusivamente en la adaptación inicial del menor.",
+      "Tiene como objetivo principal la reunificación familiar a corto plazo.",
+      "Se orienta a la consolidación de vínculos estables, la construcción de la identidad y el acompañamiento a largo plazo.",
+      "Se limita al seguimiento administrativo sin intervención emocional."
+    ],
+    "correcta": "Se orienta a la consolidación de vínculos estables, la construcción de la identidad y el acompañamiento a largo plazo.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t60_11",
+    "tema": "Tema 60",
+    "pregunta": "En relación con la evolución del sistema de protección de menores en la Comunidad de Madrid, ¿cuál de las siguientes afirmaciones refleja mejor el cambio de modelo producido en las últimas décadas?",
+    "opciones": [
+      "Se ha pasado de un modelo preventivo a uno exclusivamente reactivo centrado en la judicialización.",
+      "Se ha evolucionado desde un enfoque asistencial e institucional hacia un modelo centrado en los derechos del menor, su interés superior y la prioridad del entorno familiar.",
+      "Se ha sustituido la intervención social por intervención clínica especializada.",
+      "Se ha eliminado la intervención administrativa en favor de la judicial."
+    ],
+    "correcta": "Se ha evolucionado desde un enfoque asistencial e institucional hacia un modelo centrado en los derechos del menor, su interés superior y la prioridad del entorno familiar.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t60_12",
+    "tema": "Tema 60",
+    "pregunta": "En el acogimiento residencial, la limitación de su utilización en menores de corta edad responde principalmente a:",
+    "opciones": [
+      "Razones organizativas del sistema de protección.",
+      "La falta de recursos especializados para estas edades.",
+      "La evidencia psicológica sobre la importancia de la estabilidad vincular temprana para el desarrollo del apego.",
+      "La preferencia de las familias por el acogimiento familiar."
+    ],
+    "correcta": "La evidencia psicológica sobre la importancia de la estabilidad vincular temprana para el desarrollo del apego.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t60_13",
+    "tema": "Tema 60",
+    "pregunta": "Desde el punto de vista funcional, los centros de acogimiento residencial tienen como finalidad principal:",
+    "opciones": [
+      "Garantizar la custodia del menor sin intervención adicional.",
+      "Proporcionar un entorno seguro y estructurado que permita el desarrollo integral del menor y su futura integración social y familiar.",
+      "Sustituir definitivamente a la familia de origen.",
+      "Preparar exclusivamente para la vida independiente."
+    ],
+    "correcta": "Proporcionar un entorno seguro y estructurado que permita el desarrollo integral del menor y su futura integración social y familiar.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t60_14",
+    "tema": "Tema 60",
+    "pregunta": "En la intervención psicológica en acogimiento residencial, el trabajo sobre la historia de vida del menor es relevante porque:",
+    "opciones": [
+      "Permite justificar las decisiones administrativas adoptadas.",
+      "Facilita la elaboración de informes técnicos exclusivamente.",
+      "Ayuda al menor a construir una narrativa coherente de su experiencia, favoreciendo la identidad y evitando la culpabilización.",
+      "Sustituye la intervención emocional."
+    ],
+    "correcta": "Ayuda al menor a construir una narrativa coherente de su experiencia, favoreciendo la identidad y evitando la culpabilización.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t60_15",
+    "tema": "Tema 60",
+    "pregunta": "La regulación emocional en menores en acogimiento residencial se aborda principalmente mediante:",
+    "opciones": [
+      "La aplicación estricta de normas disciplinarias.",
+      "La evitación de situaciones conflictivas.",
+      "La intervención cotidiana basada en la identificación, expresión y modulación de emociones en contextos reales de interacción.",
+      "La intervención farmacológica como primera opción."
+    ],
+    "correcta": "La intervención cotidiana basada en la identificación, expresión y modulación de emociones en contextos reales de interacción.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t60_16",
+    "tema": "Tema 60",
+    "pregunta": "En relación con la preparación para la vida adulta en menores en acogimiento residencial, la normativa establece que:",
+    "opciones": [
+      "Solo se inicia al cumplir la mayoría de edad.",
+      "Es opcional y depende de la disponibilidad de recursos.",
+      "Debe iniciarse con antelación suficiente, incluyendo programas de autonomía personal, inserción social y apoyo posterior.",
+      "Se limita a formación académica."
+    ],
+    "correcta": "Debe iniciarse con antelación suficiente, incluyendo programas de autonomía personal, inserción social y apoyo posterior.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t60_17",
+    "tema": "Tema 60",
+    "pregunta": "En el acogimiento familiar de urgencia, el seguimiento técnico se caracteriza principalmente por:",
+    "opciones": [
+      "Su baja frecuencia y carácter administrativo.",
+      "Su orientación exclusiva a la reunificación familiar.",
+      "Su intensidad, inmediatez y función diagnóstica en una situación de crisis.",
+      "Su carácter estable y a largo plazo."
+    ],
+    "correcta": "Su intensidad, inmediatez y función diagnóstica en una situación de crisis.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t60_18",
+    "tema": "Tema 60",
+    "pregunta": "Desde la perspectiva del apego, la intervención en acogimiento de urgencia debe centrarse en:",
+    "opciones": [
+      "La elaboración profunda del trauma desde el inicio.",
+      "La sustitución inmediata de los vínculos anteriores.",
+      "La creación de un entorno seguro que permita la regulación emocional y el establecimiento de relaciones básicas de confianza.",
+      "La evaluación exclusivamente cognitiva del menor."
+    ],
+    "correcta": "La creación de un entorno seguro que permita la regulación emocional y el establecimiento de relaciones básicas de confianza.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t60_19",
+    "tema": "Tema 60",
+    "pregunta": "En el acogimiento familiar temporal, el régimen de visitas con la familia biológica:",
+    "opciones": [
+      "Debe eliminarse para evitar conflictos emocionales.",
+      "Carece de relevancia en el proceso de intervención.",
+      "Constituye un elemento central que permite mantener el vínculo y evaluar la evolución hacia la reunificación.",
+      "Se establece de forma fija sin necesidad de revisión."
+    ],
+    "correcta": "Constituye un elemento central que permite mantener el vínculo y evaluar la evolución hacia la reunificación.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t60_20",
+    "tema": "Tema 60",
+    "pregunta": "En los programas de acogimiento familiar sin delegación de guarda, la intervención se caracteriza por:",
+    "opciones": [
+      "Sustituir completamente a la familia de origen.",
+      "Actuar únicamente en casos de desamparo.",
+      "Ofrecer un apoyo complementario al entorno familiar del menor, con un enfoque preventivo y comunitario.",
+      "Limitarse a la evaluación inicial sin seguimiento."
+    ],
+    "correcta": "Ofrecer un apoyo complementario al entorno familiar del menor, con un enfoque preventivo y comunitario.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t60_21",
+    "tema": "Tema 60",
+    "pregunta": "En relación con la temporalidad de las medidas de protección en el sistema actual, ¿cuál de las siguientes afirmaciones refleja mejor su sentido técnico?",
+    "opciones": [
+      "Las medidas deben mantenerse hasta que el menor alcance la mayoría de edad para garantizar estabilidad.",
+      "La temporalidad implica la revisión periódica de las medidas y la evitación de situaciones prolongadas de provisionalidad que puedan afectar al desarrollo del menor.",
+      "La temporalidad solo se aplica al acogimiento residencial.",
+      "La temporalidad supone la sustitución rápida de unas medidas por otras sin evaluación."
+    ],
+    "correcta": "La temporalidad implica la revisión periódica de las medidas y la evitación de situaciones prolongadas de provisionalidad que puedan afectar al desarrollo del menor.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t60_22",
+    "tema": "Tema 60",
+    "pregunta": "En el contexto del acogimiento residencial, la convivencia cotidiana se considera un espacio de intervención psicológica porque:",
+    "opciones": [
+      "Permite aplicar programas terapéuticos estructurados en horario limitado.",
+      "Sustituye la intervención clínica individual.",
+      "Ofrece situaciones reales de interacción donde trabajar habilidades emocionales, sociales y conductuales de forma continua.",
+      "Reduce la necesidad de intervención profesional."
+    ],
+    "correcta": "Ofrece situaciones reales de interacción donde trabajar habilidades emocionales, sociales y conductuales de forma continua.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t60_23",
+    "tema": "Tema 60",
+    "pregunta": "En relación con el mantenimiento de vínculos entre hermanos en el sistema de protección, la normativa y la práctica técnica establecen que:",
+    "opciones": [
+      "Deben separarse para facilitar la adaptación individual.",
+      "No tienen relevancia en la intervención psicológica.",
+      "Deben mantenerse siempre que sea beneficioso para el menor, evitando rupturas adicionales en su entorno afectivo.",
+      "Solo se consideran en acogimiento familiar."
+    ],
+    "correcta": "Deben mantenerse siempre que sea beneficioso para el menor, evitando rupturas adicionales en su entorno afectivo.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t60_24",
+    "tema": "Tema 60",
+    "pregunta": "En el proceso de reunificación familiar, la intervención psicológica con el menor debe centrarse principalmente en:",
+    "opciones": [
+      "Generar expectativas positivas sin explorar riesgos.",
+      "Evitar cualquier contacto previo con la familia de origen.",
+      "Trabajar las expectativas, temores y representaciones del menor, facilitando una transición progresiva y segura.",
+      "Priorizar la decisión administrativa sobre la experiencia emocional del menor."
+    ],
+    "correcta": "Trabajar las expectativas, temores y representaciones del menor, facilitando una transición progresiva y segura.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t60_25",
+    "tema": "Tema 60",
+    "pregunta": "En el acogimiento familiar permanente, el seguimiento técnico continuado tiene como finalidad principal:",
+    "opciones": [
+      "Controlar el cumplimiento de obligaciones administrativas.",
+      "Evaluar exclusivamente el rendimiento académico del menor.",
+      "Acompañar el proceso de desarrollo del menor, garantizar la estabilidad de la medida y prevenir posibles rupturas.",
+      "Sustituir la intervención de otros sistemas como educación o sanidad."
+    ],
+    "correcta": "Acompañar el proceso de desarrollo del menor, garantizar la estabilidad de la medida y prevenir posibles rupturas.",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t61_1",
+    "tema": "Tema 61",
+    "pregunta": "En el marco de las psicoterapias psicoanalíticas, se considera que los síntomas psicológicos no son simplemente manifestaciones aisladas, sino expresiones de conflictos intrapsíquicos no resueltos. En este contexto, ¿cuál es la función principal del trabajo terapéutico?",
+    "opciones": [
+      "Modificar directamente la conducta observable mediante refuerzo",
+      "Hacer conscientes los procesos inconscientes que influyen en la conducta",
+      "Sustituir pensamientos irracionales por otros más adaptativos",
+      "Reducir la activación fisiológica asociada a la ansiedad"
+    ],
+    "correcta": "Hacer conscientes los procesos inconscientes que influyen en la conducta",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t61_2",
+    "tema": "Tema 61",
+    "pregunta": "Durante el proceso terapéutico psicoanalítico, el paciente comienza a experimentar hacia el terapeuta emociones y patrones relacionales que originalmente pertenecen a figuras significativas de su pasado. ¿Qué concepto describe este fenómeno y cuál es su utilidad clínica?",
+    "opciones": [
+      "Resistencia; permite evitar contenidos dolorosos",
+      "Transferencia; facilita comprender patrones relacionales del paciente",
+      "Proyección; elimina conflictos internos",
+      "Contratransferencia; evalúa la conducta del terapeuta"
+    ],
+    "correcta": "Transferencia; facilita comprender patrones relacionales del paciente",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t61_3",
+    "tema": "Tema 61",
+    "pregunta": "La desensibilización sistemática fue desarrollada como una técnica eficaz para el tratamiento de fobias y trastornos de ansiedad. Considerando sus fundamentos teóricos, ¿cuál es el mecanismo clave que explica su eficacia terapéutica?",
+    "opciones": [
+      "La exposición masiva al estímulo temido sin preparación previa",
+      "La asociación entre estímulo temido y respuesta de relajación incompatible con la ansiedad",
+      "El castigo de la respuesta de evitación",
+      "La modificación de creencias irracionales"
+    ],
+    "correcta": "La asociación entre estímulo temido y respuesta de relajación incompatible con la ansiedad",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t61_4",
+    "tema": "Tema 61",
+    "pregunta": "En comparación con la desensibilización sistemática, las técnicas de exposición actuales han evolucionado en su aplicación clínica. ¿Cuál de las siguientes afirmaciones describe mejor esta evolución?",
+    "opciones": [
+      "Se centran en eliminar completamente el estímulo temido",
+      "Evitan la activación emocional durante el proceso terapéutico",
+      "Promueven la confrontación directa con el estímulo sin conductas de evitación",
+      "Sustituyen la respuesta emocional por pensamientos positivos"
+    ],
+    "correcta": "Promueven la confrontación directa con el estímulo sin conductas de evitación",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t61_5",
+    "tema": "Tema 61",
+    "pregunta": "El modelo cognitivo plantea que las emociones y conductas no dependen directamente de los acontecimientos, sino de la interpretación que el individuo hace de ellos. En este sentido, ¿qué papel desempeñan las creencias irracionales en la Terapia Racional Emotiva Conductual de Ellis?",
+    "opciones": [
+      "Son consecuencias de las emociones negativas",
+      "Actúan como mediadoras entre el acontecimiento y la respuesta emocional",
+      "Son irrelevantes en el proceso terapéutico",
+      "Se eliminan mediante técnicas de exposición"
+    ],
+    "correcta": "Actúan como mediadoras entre el acontecimiento y la respuesta emocional",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t61_6",
+    "tema": "Tema 61",
+    "pregunta": "En la Terapia Cognitiva de Beck, las distorsiones cognitivas son errores sistemáticos en el procesamiento de la información. ¿Cuál de las siguientes opciones ejemplifica correctamente una distorsión cognitiva?",
+    "opciones": [
+      "Evaluar varias alternativas antes de decidir",
+      "Interpretar un evento aislado como una tendencia general (sobregeneralización)",
+      "Responder con relajación ante el estrés",
+      "Evitar estímulos desagradables"
+    ],
+    "correcta": "Interpretar un evento aislado como una tendencia general (sobregeneralización)",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t61_7",
+    "tema": "Tema 61",
+    "pregunta": "Las terapias de tercera generación suponen un cambio de enfoque respecto a las terapias cognitivo-conductuales tradicionales. ¿Cuál de las siguientes afirmaciones refleja mejor esta diferencia?",
+    "opciones": [
+      "Se centran exclusivamente en modificar conductas observables",
+      "Buscan eliminar pensamientos negativos",
+      "Pretenden cambiar la relación del individuo con sus experiencias internas",
+      "Evitan el uso de técnicas conductuales"
+    ],
+    "correcta": "Pretenden cambiar la relación del individuo con sus experiencias internas",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t61_8",
+    "tema": "Tema 61",
+    "pregunta": "En la Terapia de Aceptación y Compromiso (ACT), el concepto de evitación experiencial es central para comprender el mantenimiento del malestar psicológico. ¿Qué implica este concepto?",
+    "opciones": [
+      "La incapacidad de experimentar emociones positivas",
+      "El intento persistente de evitar pensamientos y emociones desagradables",
+      "La exposición gradual a estímulos temidos",
+      "La sustitución de pensamientos negativos"
+    ],
+    "correcta": "El intento persistente de evitar pensamientos y emociones desagradables",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t61_9",
+    "tema": "Tema 61",
+    "pregunta": "La Psicoterapia Analítico-Funcional (FAP) plantea que muchas conductas problemáticas del paciente emergen durante la sesión terapéutica. ¿Cuál es la principal estrategia de intervención en este enfoque?",
+    "opciones": [
+      "Analizar la historia pasada del paciente",
+      "Reforzar en sesión las conductas adaptativas que aparecen",
+      "Aplicar técnicas de relajación",
+      "Evitar la implicación emocional del terapeuta"
+    ],
+    "correcta": "Reforzar en sesión las conductas adaptativas que aparecen",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t61_10",
+    "tema": "Tema 61",
+    "pregunta": "Desde la terapia conductual de pareja, los problemas relacionales se explican en términos de patrones de interacción aprendidos. ¿Qué caracteriza a las parejas con alto nivel de conflicto según este enfoque?",
+    "opciones": [
+      "Alta proporción de conductas positivas",
+      "Equilibrio entre refuerzos y castigos",
+      "Predominio de interacciones negativas y escaso refuerzo positivo",
+      "Ausencia de comunicación"
+    ],
+    "correcta": "Predominio de interacciones negativas y escaso refuerzo positivo",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t61_11",
+    "tema": "Tema 61",
+    "pregunta": "La Terapia Conductual Integrativa de Pareja (IBCT) introduce elementos que amplían el modelo conductual clásico. ¿Cuál es su principal aportación diferencial?",
+    "opciones": [
+      "El uso exclusivo de técnicas cognitivas",
+      "La incorporación de estrategias de aceptación emocional",
+      "La eliminación de conductas problemáticas",
+      "El análisis del inconsciente"
+    ],
+    "correcta": "La incorporación de estrategias de aceptación emocional",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t61_12",
+    "tema": "Tema 61",
+    "pregunta": "En la Terapia Focalizada en las Emociones (EFT), los conflictos de pareja se interpretan principalmente como resultado de:",
+    "opciones": [
+      "Falta de habilidades conductuales",
+      "Distorsiones cognitivas individuales",
+      "Necesidades de apego no satisfechas y patrones emocionales negativos",
+      "Problemas biológicos"
+    ],
+    "correcta": "Necesidades de apego no satisfechas y patrones emocionales negativos",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t61_13",
+    "tema": "Tema 61",
+    "pregunta": "La psicoterapia grupal se caracteriza por el papel central de la interacción entre los miembros. ¿Cuál es una de sus principales ventajas terapéuticas?",
+    "opciones": [
+      "El aislamiento del individuo",
+      "La eliminación de conflictos interpersonales",
+      "La posibilidad de recibir retroalimentación interpersonal directa",
+      "La reducción del contacto social"
+    ],
+    "correcta": "La posibilidad de recibir retroalimentación interpersonal directa",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t61_14",
+    "tema": "Tema 61",
+    "pregunta": "Según Bion, los grupos pueden funcionar bajo determinados supuestos básicos inconscientes que influyen en su dinámica. ¿Cuál de los siguientes corresponde a uno de estos supuestos?",
+    "opciones": [
+      "Refuerzo positivo",
+      "Dependencia del líder para resolver problemas",
+      "Reestructuración cognitiva",
+      "Evitación experiencial"
+    ],
+    "correcta": "Dependencia del líder para resolver problemas",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t61_15",
+    "tema": "Tema 61",
+    "pregunta": "Desde el enfoque sistémico, los síntomas psicológicos se interpretan dentro de un contexto relacional más amplio. ¿Qué implica esta perspectiva?",
+    "opciones": [
+      "Que el problema reside exclusivamente en el individuo",
+      "Que los síntomas cumplen una función dentro del sistema familiar",
+      "Que el tratamiento debe centrarse en la biología",
+      "Que la historia personal no es relevante"
+    ],
+    "correcta": "Que los síntomas cumplen una función dentro del sistema familiar",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t61_16",
+    "tema": "Tema 61",
+    "pregunta": "En la terapia estructural de Minuchin, el concepto de límites es fundamental para comprender la organización familiar. ¿Qué función cumplen estos límites?",
+    "opciones": [
+      "Regular la intensidad emocional",
+      "Definir quién participa y cómo en las interacciones familiares",
+      "Eliminar conflictos familiares",
+      "Sustituir creencias irracionales"
+    ],
+    "correcta": "Definir quién participa y cómo en las interacciones familiares",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t61_17",
+    "tema": "Tema 61",
+    "pregunta": "El enfoque estratégico considera que los problemas familiares se mantienen por secuencias de interacción repetitivas. ¿Cuál es uno de sus principales objetivos terapéuticos?",
+    "opciones": [
+      "Analizar el inconsciente familiar",
+      "Romper las secuencias que mantienen el problema",
+      "Aumentar la introspección individual",
+      "Reducir la activación fisiológica"
+    ],
+    "correcta": "Romper las secuencias que mantienen el problema",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t61_18",
+    "tema": "Tema 61",
+    "pregunta": "Comparando los diferentes enfoques terapéuticos (psicoanalítico, conductual, cognitivo y de tercera generación), ¿cuál de las siguientes afirmaciones refleja mejor una diferencia conceptual clave entre ellos?",
+    "opciones": [
+      "Todos comparten el mismo objetivo terapéutico",
+      "El psicoanálisis se centra en la conducta observable",
+      "Las terapias de tercera generación priorizan la relación funcional con la experiencia interna frente a su modificación directa",
+      "Las terapias conductuales se centran en el inconsciente"
+    ],
+    "correcta": "Las terapias de tercera generación priorizan la relación funcional con la experiencia interna frente a su modificación directa",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t61_19",
+    "tema": "Tema 61",
+    "pregunta": "En el contexto de las psicoterapias conductuales, las técnicas operantes se centran en la modificación de la conducta a través de sus consecuencias. ¿Cuál de las siguientes intervenciones ejemplifica mejor el uso del reforzamiento diferencial?",
+    "opciones": [
+      "Aplicar castigo tras una conducta inadecuada",
+      "Reforzar una conducta alternativa incompatible con la conducta problema",
+      "Exponer al paciente al estímulo temido",
+      "Ignorar todas las conductas del paciente"
+    ],
+    "correcta": "Reforzar una conducta alternativa incompatible con la conducta problema",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t61_20",
+    "tema": "Tema 61",
+    "pregunta": "Dentro de los modelos cognitivos constructivistas, se plantea que el individuo construye activamente significados sobre la realidad. ¿Qué implicación terapéutica se deriva de esta concepción?",
+    "opciones": [
+      "El terapeuta debe imponer interpretaciones objetivas",
+      "Se busca eliminar los pensamientos automáticos negativos",
+      "Se exploran y reconstruyen los sistemas personales de significado del paciente",
+      "Se centra exclusivamente en la conducta observable"
+    ],
+    "correcta": "Se exploran y reconstruyen los sistemas personales de significado del paciente",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t61_21",
+    "tema": "Tema 61",
+    "pregunta": "En la Terapia Metacognitiva, el foco de intervención se sitúa en un nivel diferente al de las terapias cognitivas clásicas. ¿Cuál es este nivel?",
+    "opciones": [
+      "Las conductas observables",
+      "Las emociones primarias",
+      "Las creencias sobre los propios pensamientos",
+      "Los estímulos ambientales"
+    ],
+    "correcta": "Las creencias sobre los propios pensamientos",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t61_22",
+    "tema": "Tema 61",
+    "pregunta": "En la terapia de pareja desde el modelo de Gottman, los denominados “cuatro jinetes del apocalipsis” se consideran predictores de deterioro relacional. ¿Qué característica comparten estos patrones de comunicación?",
+    "opciones": [
+      "Favorecen la resolución de conflictos",
+      "Incrementan la intimidad emocional",
+      "Generan escaladas negativas y deterioro de la relación",
+      "Promueven la empatía entre los miembros"
+    ],
+    "correcta": "Generan escaladas negativas y deterioro de la relación",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t61_23",
+    "tema": "Tema 61",
+    "pregunta": "En la psicoterapia grupal, uno de los factores terapéuticos descritos por Yalom es la cohesión grupal. ¿Cuál es su principal efecto en el proceso terapéutico?",
+    "opciones": [
+      "Reduce la interacción entre los miembros",
+      "Favorece el abandono del tratamiento",
+      "Incrementa el compromiso y la participación de los miembros",
+      "Elimina los conflictos interpersonales"
+    ],
+    "correcta": "Incrementa el compromiso y la participación de los miembros",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t61_24",
+    "tema": "Tema 61",
+    "pregunta": "En el modelo sistémico de terapia familiar, la noción de “causalidad circular” supone un cambio respecto a los modelos tradicionales. ¿Cuál es la principal implicación de este concepto?",
+    "opciones": [
+      "Los problemas tienen una única causa identificable",
+      "Las conductas se explican de forma lineal",
+      "Los miembros del sistema se influyen mutuamente en patrones de interacción",
+      "El problema reside exclusivamente en el paciente identificado"
+    ],
+    "correcta": "Los miembros del sistema se influyen mutuamente en patrones de interacción",
+    "fuente": "Test App 5"
+  },
+  {
+    "id": "ta5_t61_25",
+    "tema": "Tema 61",
+    "pregunta": "En la Terapia Dialéctica Conductual (DBT), el equilibrio entre aceptación y cambio constituye un principio fundamental del tratamiento. ¿Cuál de las siguientes afirmaciones describe mejor la función de esta dialéctica en la intervención terapéutica?",
+    "opciones": [
+      "Sustituir las emociones negativas por pensamientos racionales",
+      "Validar la experiencia del paciente mientras se promueve el desarrollo de nuevas habilidades",
+      "Eliminar conductas problemáticas mediante refuerzo negativo",
+      "Analizar los conflictos inconscientes del paciente"
+    ],
+    "correcta": "Validar la experiencia del paciente mientras se promueve el desarrollo de nuevas habilidades",
+    "fuente": "Test App 5"
   }
 ]
