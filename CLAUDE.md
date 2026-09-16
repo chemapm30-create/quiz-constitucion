@@ -23,8 +23,9 @@ ESLint da dos avisos preexistentes de `react-hooks/exhaustive-deps` en `App.jsx`
 positivos de `no-unused-vars` sobre `Icon` (el patrón `{ icon: Icon }` usado en JSX); no son
 regresiones.
 
-Los archivos fuente usan **CRLF**. Al parchearlos con scripts, normaliza a `\n` y reescribe con
-`\r\n` para no ensuciar el diff.
+En disco los archivos usan **CRLF**, pero el repositorio guarda **LF**: `.gitattributes`
+(`* text=auto`) normaliza al commitear, así que el repo se ve limpio tanto desde Windows como desde
+WSL. No hace falta preservar CRLF al parchear con scripts.
 
 ## Arquitectura
 
