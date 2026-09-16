@@ -21,7 +21,7 @@ import {
   mergeResults, flushPendingResults,
   queuePendingResult,
 } from './lib/sync';
-import { shuffle, getQuestionId } from './utils';
+import { shuffle, getQuestionId, allocateByWeights } from './utils';
 import defaultQuestions from './data/preguntas.json';
 
 export default function App() {
@@ -44,6 +44,7 @@ export default function App() {
   const [practiceMode, setPracticeMode] = useState('');
   const [topicName, setTopicName] = useState('');
   const [nRequested, setNRequested] = useState(30);
+  const [quizOptions, setQuizOptions] = useState(null);
   const [answers, setAnswers] = useState([]);
   const [instantFeedback, setInstantFeedback] = useState(true);
 
@@ -123,7 +124,7 @@ export default function App() {
 
   // ─── Quiz logic ───────────────────────────────────────────────────────────
 
-  const startQuiz = useCallback((mode, filterValue = null, n = 30) => {
+  const startQuiz = useCallback((mode, filterValue = null, n = 30, options = null) => {
     let pool = [];
     const qr = questionResults;
 
@@ -182,7 +183,25 @@ export default function App() {
     if (mode === 'multi_topic') {
       // filterValue es un array de nombres de tema
       const temas = Array.isArray(filterValue) ? filterValue : [filterValue];
-      pool = shuffle(allQuestions.filter(q => temas.includes(q.tema))).slice(0, n);
+      const distribution = options?.distribution ?? 'random';
+
+      if (distribution === 'random') {
+        // Aleatorio puro: todas las preguntas son igual de probables, así que
+        // los temas más grandes salen proporcionalmente más veces.
+        pool = shuffle(allQuestions.filter(q => temas.includes(q.tema))).slice(0, n);
+      } else {
+        // Cuota fija por tema: equitativa o definida por el usuario.
+        const byTopic = Object.fromEntries(temas.map(t => [t, []]));
+        allQuestions.forEach(q => { if (byTopic[q.tema]) byTopic[q.tema].push(q); });
+
+        const capacities = Object.fromEntries(temas.map(t => [t, byTopic[t].length]));
+        const weights = distribution === 'equal'
+          ? Object.fromEntries(temas.map(t => [t, 1]))
+          : Object.fromEntries(temas.map(t => [t, options?.weights?.[t] ?? 0]));
+
+        const alloc = allocateByWeights(capacities, n, weights);
+        pool = shuffle(temas.flatMap(t => shuffle(byTopic[t]).slice(0, alloc[t])));
+      }
     }
 
     if (pool.length === 0) { alert('No hay preguntas para este modo.'); return; }
@@ -194,6 +213,7 @@ export default function App() {
     setPracticeMode(mode);
     setTopicName(filterValue || '');
     setNRequested(n);
+    setQuizOptions(options);
     setView('quiz');
     setActiveTab('practice');
     sessionStartRef.current = Date.now();
@@ -417,7 +437,7 @@ export default function App() {
                 answers={answers}
                 questions={currentQuestions}
                 onMenu={() => setView('menu')}
-                onRetry={() => startQuiz(practiceMode, topicName || null, nRequested)}
+                onRetry={() => startQuiz(practiceMode, topicName || null, nRequested, quizOptions)}
                 user={user}
               />
             )}

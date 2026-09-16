@@ -1,5 +1,6 @@
-import { useState, useMemo } from 'react';
-import { Layout, Target, BookOpen, Trophy, AlertCircle, Flame, EyeOff, BarChart3, SkipForward, Play, CheckSquare, Square, CheckCheck } from 'lucide-react';
+import { useState, useMemo, useEffect } from 'react';
+import { Layout, Target, BookOpen, Trophy, AlertCircle, Flame, EyeOff, BarChart3, SkipForward, Play, CheckSquare, Square, CheckCheck, Shuffle, Scale, SlidersHorizontal } from 'lucide-react';
+import { allocateByWeights } from '../utils';
 
 const MODE_CARDS = [
   {
@@ -70,10 +71,42 @@ const COLOR_MAP = {
   purple:  { border: 'hover:border-purple-500',  icon: 'bg-purple-500/10 text-purple-400',  hover: 'group-hover:bg-purple-500' },
 };
 
+const DISTRIBUTIONS = [
+  {
+    id: 'random',
+    label: 'Aleatorio',
+    icon: Shuffle,
+    desc: 'Todas las preguntas son igual de probables: los temas con más preguntas saldrán más veces.',
+  },
+  {
+    id: 'equal',
+    label: 'Equitativo',
+    icon: Scale,
+    desc: 'Mismo número de preguntas de cada tema. Si un tema se queda corto, el resto se reparte entre los demás.',
+  },
+  {
+    id: 'manual',
+    label: 'Manual',
+    icon: SlidersHorizontal,
+    desc: 'Tú decides el porcentaje de cada tema. Si no suma 100 % se reparte proporcionalmente.',
+  },
+];
+
+// Reparto equitativo en porcentajes enteros que suman exactamente 100
+const evenWeights = (temas) => {
+  const n = temas.length;
+  if (n === 0) return {};
+  const base = Math.floor(100 / n);
+  const rest = 100 - base * n;
+  return Object.fromEntries(temas.map((t, i) => [t, base + (i < rest ? 1 : 0)]));
+};
+
 export default function Menu({ allQuestions, temasDisponibles, questionResults = {}, mistakes = [], skippedList = [], onStart, instantFeedback, setInstantFeedback }) {
   const [nPreguntas, setNPreguntas] = useState(30);
   const [inputValue, setInputValue] = useState('30');
   const [selectedTopics, setSelectedTopics] = useState(new Set());
+  const [distribution, setDistribution] = useState('equal');
+  const [manualWeights, setManualWeights] = useState({});
 
   const setN = (n) => {
     setNPreguntas(n);
@@ -131,11 +164,47 @@ export default function Menu({ allQuestions, temasDisponibles, questionResults =
     else setSelectedTopics(new Set(temasDisponibles));
   };
 
+  // Temas seleccionados, en el mismo orden en que se muestran
+  const selectedArr = useMemo(
+    () => temasDisponibles.filter(t => selectedTopics.has(t)),
+    [temasDisponibles, selectedTopics]
+  );
+
+  // Preguntas disponibles de cada tema seleccionado
+  const capacities = useMemo(() => {
+    const caps = Object.fromEntries(selectedArr.map(t => [t, 0]));
+    allQuestions.forEach(q => { if (q.tema in caps) caps[q.tema] += 1; });
+    return caps;
+  }, [allQuestions, selectedArr]);
+
   const availableCount = useMemo(
-    () => allQuestions.filter(q => selectedTopics.has(q.tema)).length,
-    [allQuestions, selectedTopics]
+    () => Object.values(capacities).reduce((s, v) => s + v, 0),
+    [capacities]
   );
   const questionsToRun = Math.min(nPreguntas, availableCount);
+
+  // Al cambiar la selección de temas, los pesos manuales se vuelven a repartir
+  useEffect(() => { setManualWeights(evenWeights(selectedArr)); }, [selectedArr]);
+
+  const weightSum = useMemo(
+    () => selectedArr.reduce((s, t) => s + (manualWeights[t] ?? 0), 0),
+    [selectedArr, manualWeights]
+  );
+
+  // Vista previa del reparto real (ya tiene en cuenta los temas que se quedan cortos)
+  const alloc = useMemo(() => {
+    if (selectedArr.length === 0) return {};
+    const weights =
+      distribution === 'equal'  ? Object.fromEntries(selectedArr.map(t => [t, 1]))
+    : distribution === 'manual' ? Object.fromEntries(selectedArr.map(t => [t, manualWeights[t] ?? 0]))
+    : capacities; // aleatorio: de media sale proporcional al tamaño del tema
+    return allocateByWeights(capacities, questionsToRun, weights);
+  }, [selectedArr, capacities, questionsToRun, distribution, manualWeights]);
+
+  const allocTotal = useMemo(
+    () => Object.values(alloc).reduce((s, v) => s + v, 0),
+    [alloc]
+  );
 
   if (allQuestions.length === 0) {
     return (
@@ -325,10 +394,82 @@ export default function Menu({ allQuestions, temasDisponibles, questionResults =
           })}
         </div>
 
+        {/* Distribución entre temas — solo tiene sentido con 2 o más */}
+        {selectedTopics.size >= 2 && (
+          <div className="bg-gray-900 border border-gray-800 rounded-2xl p-4 space-y-3">
+            <div className="text-xs text-gray-500 font-bold uppercase tracking-wider">Distribución entre temas</div>
+
+            <div className="grid grid-cols-3 gap-2">
+              {DISTRIBUTIONS.map(({ id, label, icon: Icon }) => (
+                <button
+                  key={id}
+                  onClick={() => setDistribution(id)}
+                  className={`flex flex-col items-center gap-1.5 px-2 py-2.5 rounded-xl border text-xs font-bold transition-all
+                    ${distribution === id
+                      ? 'bg-indigo-600/15 border-indigo-500 text-indigo-300'
+                      : 'bg-gray-800 border-gray-700 text-gray-400 hover:border-gray-600'}`}
+                >
+                  <Icon className="w-4 h-4" />
+                  {label}
+                </button>
+              ))}
+            </div>
+
+            <p className="text-xs text-gray-500 leading-snug">
+              {DISTRIBUTIONS.find(d => d.id === distribution).desc}
+            </p>
+
+            {distribution === 'manual' ? (
+              <div className="space-y-2.5 border-t border-gray-800 pt-3">
+                {selectedArr.map(tema => (
+                  <div key={tema} className="flex items-center gap-3">
+                    <div className="flex-1 min-w-0">
+                      <div className="text-sm text-gray-200 truncate">{tema}</div>
+                      <input
+                        type="range" min={0} max={100} step={1}
+                        value={manualWeights[tema] ?? 0}
+                        onChange={e => setManualWeights(prev => ({ ...prev, [tema]: Number(e.target.value) }))}
+                        className="w-full accent-indigo-500 mt-1"
+                      />
+                    </div>
+                    <div className="shrink-0 w-16 text-right">
+                      <div className="text-sm font-bold text-indigo-400">{manualWeights[tema] ?? 0}%</div>
+                      <div className="text-[10px] text-gray-600">{alloc[tema] ?? 0} pregs.</div>
+                    </div>
+                  </div>
+                ))}
+                <div className="flex items-center justify-between border-t border-gray-800 pt-2.5">
+                  <span className={`text-xs font-bold ${weightSum === 100 ? 'text-gray-500' : 'text-yellow-400'}`}>
+                    Total: {weightSum}%{weightSum !== 100 && ' · se ajusta proporcionalmente'}
+                  </span>
+                  <button
+                    onClick={() => setManualWeights(evenWeights(selectedArr))}
+                    className="text-xs text-indigo-400 hover:text-indigo-300 transition-colors"
+                  >
+                    Igualar
+                  </button>
+                </div>
+              </div>
+            ) : (
+              <div className="flex flex-wrap gap-1.5 border-t border-gray-800 pt-3">
+                {selectedArr.map(tema => (
+                  <span
+                    key={tema}
+                    className="text-[11px] bg-gray-800 border border-gray-700 rounded-full px-2.5 py-1"
+                  >
+                    <span className="text-gray-300">{tema}</span>
+                    <span className="text-indigo-400 font-bold ml-1.5">{alloc[tema] ?? 0}</span>
+                  </span>
+                ))}
+              </div>
+            )}
+          </div>
+        )}
+
         {/* Botón de inicio — aparece cuando hay temas seleccionados */}
         <div className={`transition-all duration-200 ${someSelected ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-2 pointer-events-none'}`}>
           <button
-            onClick={() => someSelected && onStart('multi_topic', Array.from(selectedTopics), nPreguntas)}
+            onClick={() => someSelected && onStart('multi_topic', selectedArr, nPreguntas, { distribution, weights: manualWeights })}
             className="w-full flex items-center justify-between gap-3 p-4 bg-indigo-600 hover:bg-indigo-500 active:scale-[0.98] rounded-2xl font-bold text-white transition-all shadow-lg shadow-indigo-900/40"
           >
             <div className="flex items-center gap-3">
@@ -341,7 +482,7 @@ export default function Menu({ allQuestions, temasDisponibles, questionResults =
               </div>
             </div>
             <div className="text-right shrink-0">
-              <div className="text-lg font-black">{questionsToRun}</div>
+              <div className="text-lg font-black">{allocTotal}</div>
               <div className="text-[10px] text-indigo-200 font-normal">pregs.</div>
             </div>
           </button>
