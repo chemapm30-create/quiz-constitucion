@@ -206,7 +206,8 @@ export default function App() {
 
     if (pool.length === 0) { alert('No hay preguntas para este modo.'); return; }
 
-    pool = pool.map(q => ({ ...q, opciones: shuffle([...q.opciones]) }));
+    // ordenFijo: preguntas cuyas opciones se citan entre sí ("A) y B) son correctas")
+    pool = pool.map(q => q.ordenFijo ? q : ({ ...q, opciones: shuffle([...q.opciones]) }));
     setCurrentQuestions(pool);
     setCurrentIndex(0);
     setAnswers(new Array(pool.length).fill(null));

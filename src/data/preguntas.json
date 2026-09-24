@@ -91,19 +91,6 @@
     "fuente": "PDF1"
   },
   {
-    "id": "pdf1_15",
-    "tema": "Tema 1",
-    "pregunta": "Las Comunidades Autónomas podrán tener:",
-    "opciones": [
-      "Sí",
-      "No",
-      "Sí, y también el deber de usarla",
-      "Sí, y también el derecho a usarla"
-    ],
-    "correcta": "Sí, y también el derecho a usarla",
-    "fuente": "PDF1"
-  },
-  {
     "id": "pdf1_11",
     "tema": "Tema 1",
     "pregunta": "La riqueza de las distintas modalidades lingüísticas de España es:",
@@ -767,7 +754,7 @@
   {
     "id": "pdf1_118",
     "tema": "Tema 1",
-    "pregunta": "Los españoles, ¿tienen el derecho de defender a España?: por necesidades de la 120.Mediante ley podrán regularse los deberes de los ciudadanos en los casos de:",
+    "pregunta": "Según el artículo 28.1 de la Constitución Española, ¿qué comprende el derecho a la libertad sindical?",
     "opciones": [
       "El de fundar sindicatos",
       "El de afiliarse al sindicato de su elección",
@@ -1026,7 +1013,7 @@
   {
     "id": "pdf1_142",
     "tema": "Tema 1",
-    "pregunta": "Respecto de la protección de la familia, los hijos son iguales ante la ley con independencia de:",
+    "pregunta": "¿Cuál de los siguientes conceptos orienta las políticas públicas según el Artículo 40.1?",
     "opciones": [
       "A la disminución del desempleo",
       "Al pleno empleo",
@@ -1190,19 +1177,6 @@
       "Político, social, económico y cultural"
     ],
     "correcta": "Político, social, económico y cultural",
-    "fuente": "PDF1"
-  },
-  {
-    "id": "pdf1_169",
-    "tema": "Tema 1",
-    "pregunta": "Respecto de los disminuidos físicos, sensoriales y psíquicos, los poderes públicos realizarán:",
-    "opciones": [
-      "Una política de previsión",
-      "Una política de previsión y tratamiento",
-      "Una política de rehabilitación e integración © Ed. TEMA DIGITAL Página 89",
-      "Una política de previsión, tratamiento, rehabilitación e integración"
-    ],
-    "correcta": "Una política de previsión, tratamiento, rehabilitación e integración",
     "fuente": "PDF1"
   },
   {
@@ -1786,19 +1760,6 @@
       "Ordenación del territorio"
     ],
     "correcta": "Sí, transcurridos cinco años",
-    "fuente": "PDF1"
-  },
-  {
-    "id": "pdf1_712",
-    "tema": "Tema 2",
-    "pregunta": "El Estado tiene competencia exclusiva sobre:",
-    "opciones": [
-      "Estadística para fines estatales",
-      "Todas las respuestas anteriores son",
-      "Sí, transcurridos cuatro años correctas +",
-      "Sí, en todos sus aspectos"
-    ],
-    "correcta": "Todas las respuestas anteriores son",
     "fuente": "PDF1"
   },
   {
@@ -3648,7 +3609,7 @@
   {
     "id": "pdf2_109",
     "tema": "Tema 1",
-    "pregunta": "Vinculan a todos los poderes públicos los derechos y libertades reconocidos:",
+    "pregunta": "¿En qué apartado de la Constitución se establece que sus derechos y libertades vinculan a todos los poderes públicos?",
     "opciones": [
       "En los Capítulos Primero y Segundo del Título Primero.",
       "En el Capítulo Segundo del Título Primero.",
@@ -4211,10 +4172,10 @@
     "opciones": [
       "Es absoluta.",
       "Puede prevalecer discriminación en base a ciertas circunstancias sociales.",
-      "Se recoge en la sección primera del capítulo segundo del Título Primero de nuestra Constitución.",
+      "Se recoge en el Capítulo 2 del Título Primero de la Constitución.",
       "Puede prevalecer discriminación en base a determinadas circunstancias personales."
     ],
-    "correcta": "Es absoluta.",
+    "correcta": "Se recoge en el Capítulo 2 del Título Primero de la Constitución.",
     "fuente": "PDF2"
   },
   {
@@ -5589,7 +5550,7 @@
       "Solamente mediante el procedimiento establecido constitucionalmente, y con referéndum entre los electores inscritos en los censos correspondientes.",
       "Solamente mediante los procedimientos establecidos en ellos."
     ],
-    "correcta": "Solamente mediante los procedimientos establecidos en ellos, y con referéndum entre los electores inscritos en los censos correspondientes.",
+    "correcta": "Solamente mediante los procedimientos establecidos en ellos.",
     "fuente": "PDF2"
   },
   {
@@ -5616,19 +5577,6 @@
       "Será devuelto nuevamente a la Asamblea de Diputados y Senadores de la circunscripción que aspire al autogobierno, para su modificación."
     ],
     "correcta": "El proyecto de Estatuto será tramitado como proyecto de Ley ante las Cortes Generales.",
-    "fuente": "PDF2"
-  },
-  {
-    "id": "pdf2_972",
-    "tema": "Tema 2",
-    "pregunta": "¿Cuál de las siguientes Comunidades Autónomas es uniprovincial?",
-    "opciones": [
-      "Valencia.",
-      "Murcia.",
-      "Aragón.",
-      "1981"
-    ],
-    "correcta": "Murcia.",
     "fuente": "PDF2"
   },
   {
@@ -7097,7 +7045,7 @@
   },
   {
     "id": "pdf3_t2_32",
-    "tema": "Tema 2",
+    "tema": "Tema 29",
     "pregunta": "El Catálogo de Prestaciones del Sistema Público de Servicios Sociales incluye:",
     "opciones": [
       "Únicamente ayudas económicas de pago único.",
@@ -8117,9 +8065,9 @@
       "Dos.",
       "Una.",
       "Tres.",
-      "Ninguna."
+      "Cuatro."
     ],
-    "correcta": "Tres.",
+    "correcta": "Cuatro.",
     "fuente": "WEB"
   },
   {
@@ -9927,19 +9875,6 @@
       "Salvo lo que puedan disponer las leyes penales militares para tiempos de guerra o en vigencia del estado de sitio."
     ],
     "correcta": "Salvo lo que puedan disponer las leyes penales militares para tiempos de guerra.",
-    "fuente": "WEB"
-  },
-  {
-    "id": "web_1_test-titulo-i-derechos-y-deberes-fundamentales_32",
-    "tema": "Tema 1",
-    "pregunta": "En España, la pena de muerte actualmente:",
-    "opciones": [
-      "Se encuentra abolida.",
-      "Se encuentra abolida, salvo en tiempos de guerra.",
-      "Está vigente conforme a las leyes penales militares y exclusivamente para tiempos de guerra.",
-      "Ninguna de las respuestas es correcta."
-    ],
-    "correcta": "Se encuentra abolida.",
     "fuente": "WEB"
   },
   {
@@ -17373,7 +17308,7 @@
       "Línea 3.",
       "Línea 4."
     ],
-    "correcta": "Línea 2.",
+    "correcta": "Línea 4.",
     "fuente": "Test App 2"
   },
   {
@@ -18253,12 +18188,13 @@
     "fuente": "Daypo",
     "pregunta": "Definición de emergencia social según la Ley 12/2022 de Servicios Sociales de la Comunidad de Madrid:",
     "opciones": [
-      "La situación de carácter excepcional o extraordinario con incidencia en condiciones de vulnerabilidad.",
-      "La situación de carácter excepcional con agravamiento de circunstancias personales, familiares o sociales de la persona.",
-      "Los accidentes, estragos, catástrofes, pandemias susceptibles de causar graves daños.",
-      "Los accidentes que puedan producir estados de vulnerabilidad y desprotección social."
+      "A) Los accidentes, estragos, catástrofes, pandemias susceptibles de causar graves daños.",
+      "B) Los accidentes que puedan producir estados de vulnerabilidad y desprotección social.",
+      "C) La situación de carácter excepcional con agravamiento de circunstancias personales, familiares o sociales de la persona.",
+      "D) A) y B) son correctas."
     ],
-    "correcta": "Los accidentes que puedan producir estados de vulnerabilidad y desprotección social."
+    "correcta": "D) A) y B) son correctas.",
+    "ordenFijo": true
   },
   {
     "id": "daypo_t29_19",

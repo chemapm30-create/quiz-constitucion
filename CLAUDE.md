@@ -70,7 +70,9 @@ partida en trozos a propósito, para que el escáner de secretos de GitHub no la
 
 `src/data/preguntas.json` — array plano de ~1.900 objetos
 `{ id, tema, pregunta, opciones[], correcta, fuente }`. `correcta` es el **texto** de la opción, no
-un índice: `Quiz.jsx` baraja las opciones en cada sesión y compara por contenido.
+un índice: `startQuiz` baraja las opciones en cada sesión y `Quiz.jsx` compara por contenido.
+Si una opción cita a otras ("A) y B) son correctas"), la pregunta lleva `ordenFijo: true` y sus
+opciones, con la letra escrita en el texto, se muestran en el orden del JSON.
 
 Las preguntas proceden de PDFs y de scraping, mediante dos scripts de un solo uso (rutas absolutas
 a `/home/user/opo-quiz` hardcodeadas, con rangos de nº de pregunta por tema):
