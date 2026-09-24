@@ -4,13 +4,47 @@ import {
   collection, getDocs, doc, updateDoc,
   orderBy, query, serverTimestamp,
 } from 'firebase/firestore';
-import { Flag, CheckCircle2, XCircle, Clock, RefreshCw, ChevronDown, ChevronUp, Loader2 } from 'lucide-react';
+import { Flag, CheckCircle2, XCircle, Clock, RefreshCw, ChevronDown, ChevronUp, Loader2, Copy, Check } from 'lucide-react';
 
 const ESTADOS = {
   pendiente: { label: 'Pendiente',  color: 'text-yellow-400', bg: 'bg-yellow-500/10 border-yellow-600/40' },
   resuelto:  { label: 'Resuelto',   color: 'text-green-400',  bg: 'bg-green-500/10 border-green-600/40'  },
   descartado:{ label: 'Descartado', color: 'text-gray-500',   bg: 'bg-gray-800 border-gray-700'          },
 };
+
+const formatearFecha = (ts) => ts?.toDate
+  ? ts.toDate().toLocaleString('es-ES', { day: '2-digit', month: '2-digit', year: '2-digit', hour: '2-digit', minute: '2-digit' })
+  : '—';
+
+// Texto plano pensado para pegarlo tal cual en una sesión de Claude y resolver los reportes
+function formatearReportes(reports, filtro) {
+  const titulo = filtro === 'todos' ? 'Todos' : ESTADOS[filtro]?.label ?? filtro;
+  const bloques = reports.map((r, i) => [
+    `#${i + 1}`,
+    `ID pregunta: ${r.questionId ?? '—'}`,
+    `Tema: ${r.tema ?? '—'}`,
+    `Pregunta: ${r.preguntaTexto}`,
+    `Correcta actual: ${r.correctaActual}`,
+    r.correctaSugerida && `Sugerida: ${r.correctaSugerida}`,
+    r.comentario && `Comentario: ${r.comentario}`,
+    `Fecha: ${formatearFecha(r.createdAt)}`,
+  ].filter(Boolean).join('\n'));
+  return `REPORTES (${titulo}): ${reports.length}\n\n${bloques.join('\n\n')}`;
+}
+
+async function copiarAlPortapapeles(texto) {
+  try {
+    await navigator.clipboard.writeText(texto);
+  } catch {
+    // Respaldo para navegadores sin API de portapapeles o sin permiso
+    const ta = document.createElement('textarea');
+    ta.value = texto;
+    document.body.appendChild(ta);
+    ta.select();
+    document.execCommand('copy');
+    ta.remove();
+  }
+}
 
 function ReportCard({ report, onUpdate }) {
   const [open, setOpen] = useState(false);
@@ -32,9 +66,7 @@ function ReportCard({ report, onUpdate }) {
     }
   };
 
-  const fecha = report.createdAt?.toDate
-    ? report.createdAt.toDate().toLocaleString('es-ES', { day: '2-digit', month: '2-digit', year: '2-digit', hour: '2-digit', minute: '2-digit' })
-    : '—';
+  const fecha = formatearFecha(report.createdAt);
 
   return (
     <div className={`border rounded-2xl overflow-hidden transition-all ${estado.bg}`}>
@@ -136,6 +168,7 @@ export default function Admin() {
   const [loading, setLoading] = useState(true);
   const [filter, setFilter] = useState('pendiente');
   const [error, setError] = useState(null);
+  const [copiado, setCopiado] = useState(false);
 
   const fetchReports = useCallback(async () => {
     setLoading(true);
@@ -169,6 +202,12 @@ export default function Admin() {
     todos:      reports.length,
   };
 
+  const handleCopiar = async () => {
+    await copiarAlPortapapeles(formatearReportes(filtered, filter));
+    setCopiado(true);
+    setTimeout(() => setCopiado(false), 2000);
+  };
+
   return (
     <div className="max-w-2xl mx-auto space-y-6">
       {/* Header */}
@@ -177,14 +216,25 @@ export default function Admin() {
           <h2 className="text-xl font-bold text-gray-100">Administración</h2>
           <p className="text-sm text-gray-500 mt-0.5">{counts.todos} reportes en total</p>
         </div>
-        <button
-          onClick={fetchReports}
-          disabled={loading}
-          className="flex items-center gap-1.5 text-xs text-gray-500 hover:text-white border border-gray-800 px-3 py-1.5 rounded-xl transition-all"
-        >
-          <RefreshCw className={`w-3.5 h-3.5 ${loading ? 'animate-spin' : ''}`} />
-          Actualizar
-        </button>
+        <div className="flex gap-2">
+          <button
+            onClick={handleCopiar}
+            disabled={loading || filtered.length === 0}
+            className={`flex items-center gap-1.5 text-xs border px-3 py-1.5 rounded-xl transition-all disabled:opacity-40 disabled:cursor-not-allowed
+              ${copiado ? 'text-green-400 border-green-600/40' : 'text-gray-500 hover:text-white border-gray-800'}`}
+          >
+            {copiado ? <Check className="w-3.5 h-3.5" /> : <Copy className="w-3.5 h-3.5" />}
+            {copiado ? '¡Copiado!' : `Copiar (${filtered.length})`}
+          </button>
+          <button
+            onClick={fetchReports}
+            disabled={loading}
+            className="flex items-center gap-1.5 text-xs text-gray-500 hover:text-white border border-gray-800 px-3 py-1.5 rounded-xl transition-all"
+          >
+            <RefreshCw className={`w-3.5 h-3.5 ${loading ? 'animate-spin' : ''}`} />
+            Actualizar
+          </button>
+        </div>
       </div>
 
       {/* Resumen de estado */}

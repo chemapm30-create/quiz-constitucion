@@ -11,6 +11,9 @@ El proyecto vive en WSL (`/home/user/opo-quiz`) pero Claude Code suele ejecutars
 con rutas UNC (`\\wsl.localhost\ubuntu\...`). **Los comandos de npm hay que lanzarlos desde una
 terminal de WSL**: `node_modules` contiene binarios nativos de Linux (rolldown/vite) que fallan
 con el Node de Windows, y `cmd.exe` no acepta rutas UNC como directorio de trabajo.
+El Node de WSL viene de nvm, que solo se carga en shells interactivas: desde Windows hay que
+lanzar `wsl.exe -e bash -c 'source ~/.nvm/nvm.sh && cd /home/user/opo-quiz && npm run build'`
+(con `bash -lc` a secas se cuela el `npm` de Windows vía `/mnt/c`).
 
 ```bash
 npm run dev      # servidor de desarrollo (Vite)
@@ -89,7 +92,10 @@ email admin: las reglas de `firestore.rules` fijan `chemapm30@gmail.com` como ú
 
 Resolver un reporte es un flujo manual recurrente: se lee el reporte, se corrige (o se elimina) la
 pregunta en `preguntas.json`, se commitea el cambio y se marca el reporte como resuelto en la
-pestaña Admin.
+pestaña Admin. Claude no puede leer `reports` (no hay credenciales admin en el entorno), así que el
+admin usa el botón **Copiar** de Admin, que vuelca los reportes del filtro activo en texto plano con
+el `questionId` de cada uno, y lo pega en la sesión. Varios reportes pueden apuntar a la misma
+pregunta, a veces con peticiones contradictorias: hay que preguntar antes de elegir.
 
 ## Despliegue
 
